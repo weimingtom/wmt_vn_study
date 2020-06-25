@@ -14,6 +14,7 @@ My visual novel game engine study projects
 * https://gitee.com/weimingtom2000/nscripter_java  
 
 ## kirikiroid2  
+* https://github.com/weimingtom/kirikiroid2lite  
 * https://gitee.com/weimingtom/kirikiroid2_fork  
 * https://github.com/weimingtom/linnea  
 
