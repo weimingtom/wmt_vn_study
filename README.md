@@ -120,7 +120,8 @@ My visual novel game engine study projects
 * https://osdn.jp/projects/charactermanaj/  
 * https://github.com/weimingtom/charj  
 
-## lanovee  
+## lanovee, らのべえ  
+* http://lanovee.e-frontier.co.jp  
 * search baidupan, lanoveeLatestBuild.zip, trial.zip    
 
 ## RealLiveMax  
