@@ -65,7 +65,7 @@ My visual novel game engine study projects
 * https://github.com/weimingtom/th2scriptengine  
 * search baidupan, sdtdump_v4.7z    
 
-## kirikiri2 java  
+## habakiri, kirikiri2 java    
 * https://github.com/weimingtom/habakiri/tree/master/kirikirij  
 
 ## system35  
@@ -136,7 +136,5 @@ My visual novel game engine study projects
 * https://github.com/hide92795/NovelEngine-FileCreator  
 * search baidupan, NovelEngine  
 
-## habakiri  
-
-## erica  
-
+## erica, csharp    
+* search baidupan, erica_v2.7z  
