@@ -10,7 +10,7 @@ My visual novel game engine study projects
 * https://onscripter.osdn.jp/onscripter.html  
 * https://github.com/weimingtom/eriri/tree/master/rubysdl  
 
-## krkrz / Kirikiriz  
+## kirikiri2 / krkrz / kirikiriz  
 * https://github.com/krkrz/krkrz  
 * https://github.com/weimingtom/krkrz110_fork  
 * https://github.com/krkrz/kag3  
