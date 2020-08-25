@@ -137,4 +137,5 @@ My visual novel game engine study projects
 * search baidupan, NovelEngine  
 
 ## erica, csharp    
+* https://github.com/weimingtom/erica  
 * search baidupan, erica_v2.7z  
