@@ -100,3 +100,12 @@ My visual novel game engine study projects
 * https://github.com/weimingtom/FastFireFrame_preview  
 * https://github.com/weimingtom/myosotis  
 * https://github.com/weimingtom/myosotis2  
+
+## MyChar, ActionScript3  
+* キャラクターなんとか機  
+* http://khmix.sakura.ne.jp/download.shtml  
+* MyChar  
+* https://github.com/weimingtom/MyChar  
+* charj    
+* https://osdn.jp/projects/charactermanaj/  
+* https://github.com/weimingtom/charj  
