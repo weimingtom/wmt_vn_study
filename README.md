@@ -39,7 +39,7 @@ My visual novel game engine study projects
 
 ## xclannad  
 * https://github.com/weimingtom/xclannad_fork  
-* search baidupan, <pre>[040428][VisualArt's][Key][Clannad].mdf</pre>    
+* search baidupan, [040428][VisualArt's][Key][Clannad].mdf    
 
 ## xkanon  
 * https://github.com/weimingtom/xkanon_fork  
