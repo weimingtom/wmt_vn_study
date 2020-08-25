@@ -56,6 +56,7 @@ My visual novel game engine study projects
 * https://gitee.com/weimingtom/TriangleSample  
 * https://gitee.com/weimingtom/angle  
 * https://gitee.com/weimingtom/sakura_ubuntu  
+* search baidupan, PSSuiteSDK_098.exe  
 
 ## qixi2016 Unity  
 * https://github.com/weimingtom/GalGame-1  
