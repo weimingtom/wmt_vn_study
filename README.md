@@ -1,7 +1,7 @@
 # wmt_vn_study
 My visual novel game engine study projects
 
-## Nscripter  
+## nscripter  
 * http://nscripter.insani.org/reference/  
 * https://github.com/weimingtom/wmthome/tree/master/nscr  
 * https://github.com/weimingtom/nscripter_study/tree/master/nscripter_manual_chinese  
@@ -24,6 +24,10 @@ My visual novel game engine study projects
 
 ## onscripter-jh sdl2  
 * https://github.com/weimingtom/onscripter_jh_sdl2_fork  
+
+## MiNE, branch of ONScripter     
+* https://github.com/natdon/ONScripter-CN  
+* (TODO) search baidupan, ONScripter-CN  
 
 ## nscripter java    
 * https://gitee.com/weimingtom2000/nscripter_java  
@@ -81,3 +85,9 @@ My visual novel game engine study projects
 ## Lua, LuaBookSupport, gocha    
 * https://github.com/weimingtom/game_gocha  
 * http://lua.mine.nu/w/LuaBookSupport  
+
+## OpenRGSS  
+* https://github.com/weimingtom/OpenRGSS-RPGMaker  
+
+## ADV-PROGRAM, cocos2d-x    
+* https://github.com/weimingtom/adv_cocos2dx  
