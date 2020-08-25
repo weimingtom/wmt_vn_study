@@ -1,7 +1,21 @@
 # wmt_vn_study
 My visual novel game engine study projects
 
-## onscripter-en    
+## Nscripter  
+* http://nscripter.insani.org/reference/  
+* https://github.com/weimingtom/wmthome/tree/master/nscr  
+
+## onscripter  
+* https://onscripter.osdn.jp/onscripter.html  
+
+## krkrz / Kirikiriz  
+* https://github.com/krkrz/krkrz  
+* https://github.com/weimingtom/krkrz110_fork  
+* https://github.com/krkrz/kag3  
+* http://www.mysteryparfait.com/kage-kirie/  
+
+
+## onscripter-en   
 * https://github.com/weimingtom/onscripter_en_fork2  
 * https://github.com/weimingtom/onscripter_en_fork2_sdlport2  
 * https://github.com/weimingtom/onscripter_en_fork
