@@ -43,8 +43,8 @@ My visual novel game engine study projects
 
 ## xkanon  
 * https://github.com/weimingtom/xkanon_fork  
-* search baidupan, <pre>[fyd09@古河渚吧][990604]Kanon_初回版.rar</pre>  
-* search baidupan, <pre>[fyd09@古河渚吧][080229]CLANNAD_フルボイス.torrent</pre>  
+* search baidupan, [fyd09@古河渚吧][990604]Kanon_初回版.rar    
+* search baidupan, [fyd09@古河渚吧][080229]CLANNAD_フルボイス.torrent  
 
 ## nokscript  
 * https://github.com/weimingtom/nokscript_java  
