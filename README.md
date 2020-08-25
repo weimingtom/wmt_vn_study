@@ -72,14 +72,18 @@ My visual novel game engine study projects
 * https://github.com/kichikuou/system3-sdl2  
 * https://github.com/kichikuou/xsystem35-sdl2  
 * https://github.com/kichikuou/web  
+* http://8ne.sakura.ne.jp:20008/chika/unitbase/xsys35/  
+* search baidupan, xsystem35-1.7.2.tar.gz  
 
 ## xnscripchan  
 (TODO) search baidupan, xnscripchan_v3_vc6.rar  
 
 ## rlvm  
+* http://www.rlvm.net  
 (TODO) nothing done      
 
-## novelpress  
+## novel-press  
+* http://houser-home.net/novel-press/top_index.html  
 (TODO) nothing done      
 
 ## PGM, Pocket Game Maker  
@@ -115,3 +119,24 @@ My visual novel game engine study projects
 * charj    
 * https://osdn.jp/projects/charactermanaj/  
 * https://github.com/weimingtom/charj  
+
+## lanovee  
+* search baidupan, lanoveeLatestBuild.zip, trial.zip    
+
+## RealLiveMax  
+* http://www.product.co.jp/reallivemax/  
+* search baidupan, RealLiveMax_SDK_20111129_006.zip, acttest.zip    
+
+## tyranoscript  
+* https://tyrano.jp  
+* https://github.com/ShikemokuMK/tyranoscript  
+* search baidupan, tyranoscript_v325.zip  
+
+## NovelEngine  
+* https://github.com/hide92795/NovelEngine-FileCreator  
+* search baidupan, NovelEngine  
+
+## habakiri  
+
+## erica  
+
