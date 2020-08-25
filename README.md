@@ -39,6 +39,7 @@ My visual novel game engine study projects
 
 ## xclannad  
 * https://github.com/weimingtom/xclannad_fork  
+* search baidupan, <pre>[040428][VisualArt's][Key][Clannad].mdf</pre>    
 
 ## xkanon  
 * https://github.com/weimingtom/xkanon_fork  
@@ -57,7 +58,7 @@ My visual novel game engine study projects
 
 ## aquaplus-sources, ToHeart 2 XRATED  
 * https://github.com/weimingtom/th2scriptengine  
-* search sdtdump  
+* search baidupan, sdtdump_v4.7z    
 
 ## kirikiri2 java  
 * https://github.com/weimingtom/habakiri/tree/master/kirikirij  
