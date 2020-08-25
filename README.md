@@ -89,5 +89,14 @@ My visual novel game engine study projects
 ## OpenRGSS  
 * https://github.com/weimingtom/OpenRGSS-RPGMaker  
 
-## ADV-PROGRAM, cocos2d-x    
+## ADV-PROGRAM, Cocos2d-x    
+* https://gitee.com/SunnyRx/ADV-PROGRAM  
 * https://github.com/weimingtom/adv_cocos2dx  
+
+## marika / FastFireFrame, Java    
+* https://github.com/weimingtom/marika_java  
+* https://github.com/weimingtom/marika_cocos2dx  
+* https://github.com/weimingtom/marika_as3  
+* https://github.com/weimingtom/FastFireFrame_preview  
+* https://github.com/weimingtom/myosotis  
+* https://github.com/weimingtom/myosotis2  
