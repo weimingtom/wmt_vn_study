@@ -40,11 +40,12 @@ My visual novel game engine study projects
 ## xclannad  
 * https://github.com/weimingtom/xclannad_fork  
 * search baidupan, [040428][VisualArt's][Key][Clannad].mdf    
+* Clannad FV (Full Voice) not support  
 
 ## xkanon  
 * https://github.com/weimingtom/xkanon_fork  
 * search baidupan, [fyd09@古河渚吧][990604]Kanon_初回版.rar    
-* search baidupan, [fyd09@古河渚吧][080229]CLANNAD_フルボイス.torrent  
+* KANON_SE (Standard Edition) not support  
 
 ## nokscript  
 * https://github.com/weimingtom/nokscript_java  
