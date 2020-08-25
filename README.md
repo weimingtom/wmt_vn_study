@@ -4,16 +4,17 @@ My visual novel game engine study projects
 ## Nscripter  
 * http://nscripter.insani.org/reference/  
 * https://github.com/weimingtom/wmthome/tree/master/nscr  
+* https://github.com/weimingtom/nscripter_study/tree/master/nscripter_manual_chinese  
 
 ## onscripter  
 * https://onscripter.osdn.jp/onscripter.html  
+* https://github.com/weimingtom/eriri/tree/master/rubysdl  
 
 ## krkrz / Kirikiriz  
 * https://github.com/krkrz/krkrz  
 * https://github.com/weimingtom/krkrz110_fork  
 * https://github.com/krkrz/kag3  
 * http://www.mysteryparfait.com/kage-kirie/  
-
 
 ## onscripter-en   
 * https://github.com/weimingtom/onscripter_en_fork2  
@@ -72,5 +73,11 @@ My visual novel game engine study projects
 (TODO) nothing done      
 
 ## PGM, Pocket Game Maker  
-https://github.com/History-exe/Pocket-Game-Maker-v0.83  
+* https://github.com/History-exe/Pocket-Game-Maker-v0.83  
 
+## Maid2  
+* https://github.com/weimingtom/maid2  
+
+## Lua, LuaBookSupport, gocha    
+* https://github.com/weimingtom/game_gocha  
+* http://lua.mine.nu/w/LuaBookSupport  
