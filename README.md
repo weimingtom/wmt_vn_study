@@ -34,6 +34,7 @@ My visual novel game engine study projects
 * search baidupan, 月姬、月姬格斗、月箱, 月箱.part1(1).rar, 月箱.part2(1).rar   
 
 ## kirikiroid2  
+* https://github.com/zeas2/Kirikiroid2  
 * https://github.com/weimingtom/kirikiroid2lite  
 * https://gitee.com/weimingtom/kirikiroid2_fork  
 * https://github.com/weimingtom/linnea  
