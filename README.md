@@ -78,7 +78,8 @@ My visual novel game engine study projects
 * search baidupan, xsystem35-1.7.2.tar.gz  
 
 ## xnscripchan  
-(TODO) search baidupan, xnscripchan_v3_vc6.rar  
+* https://github.com/nonakap/xnscripchan  
+* (TODO) search baidupan, xnscripchan_v3_vc6.rar  
 
 ## rlvm  
 * https://github.com/eglaysher/rlvm  
