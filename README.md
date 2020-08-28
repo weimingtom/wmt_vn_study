@@ -1,6 +1,11 @@
 # wmt_vn_study
 My visual novel game engine study projects
 
+```
+昨夜雨疏风骤，浓睡不消残酒。试问卷帘人，却道海棠依旧。知否，知否？应是绿肥红瘦。  
+——李清照《如梦令·昨夜雨疏风骤》  
+```
+
 ## nscripter  
 * http://nscripter.insani.org/reference/  
 * https://github.com/weimingtom/wmthome/tree/master/nscr  
