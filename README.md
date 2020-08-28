@@ -146,3 +146,6 @@ My visual novel game engine study projects
 ## erica, csharp    
 * https://github.com/weimingtom/erica  
 * search baidupan, erica_v2.7z  
+
+## NVList  
+* http://nvlist.weeaboo.nl  
