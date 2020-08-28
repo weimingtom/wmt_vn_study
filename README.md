@@ -147,6 +147,6 @@ My visual novel game engine study projects
 * https://github.com/weimingtom/erica  
 * search baidupan, erica_v2.7z  
 
-## NVList  
+## NVList, java    
 * http://nvlist.weeaboo.nl  
 * https://github.com/kennyjijet/nvlist  
