@@ -156,3 +156,11 @@ My visual novel game engine study projects
 ## NVList, java    
 * http://nvlist.weeaboo.nl  
 * https://github.com/kennyjijet/nvlist  
+
+## flash, eye animation  
+* search baidupan, lip  
+
+## flash, 恋文  
+* search baidupan, 恋文网络版旧版本以及原始文件_代码废弃.rar  
+
+
