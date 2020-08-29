@@ -20,6 +20,7 @@ My visual novel game engine study projects
 * https://github.com/weimingtom/krkrz110_fork  
 * https://github.com/krkrz/kag3  
 * http://www.mysteryparfait.com/kage-kirie/  
+* search baidupan, krkrz_20140803.zip  
 
 ## onscripter-en   
 * https://github.com/weimingtom/onscripter_en_fork2  
@@ -165,10 +166,22 @@ My visual novel game engine study projects
 * JQV  
 * (TODO, not found) flash网球  
 * (TODO, not found) flash音游, 打字达人    
+* https://github.com/weimingtom/ugame  
+* https://github.com/weimingtom/ugame/tree/master/projects/SlideShow  
+* search baidupan, LemoNovel_AS3_320x240.zip  
 
 ## 编辑器, c++    
 * search baidupan, 2D游戏地图编辑器合集可用  
 
 ## rpg2k, rpgmaker, java    
 * search baidupan, rpg2kemu.7z  
+
+## catsystem2  
+* catsystem2  
+
+## adv++  
+* adv++  
+
+## bkengine  
+* bkengine  
 
