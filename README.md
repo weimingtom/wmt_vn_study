@@ -10,7 +10,7 @@ My visual novel game engine study projects
 * http://nscripter.insani.org/reference/  
 * https://github.com/weimingtom/wmthome/tree/master/nscr  
 * https://github.com/weimingtom/nscripter_study/tree/master/nscripter_manual_chinese  
-* search baidupan, AVG引擎+工具.rar  
+* search baidupan, nscripter贴吧/资源.7z  
 
 ## onscripter  
 * https://onscripter.osdn.jp/onscripter.html  
@@ -22,6 +22,7 @@ My visual novel game engine study projects
 * https://github.com/krkrz/kag3  
 * http://www.mysteryparfait.com/kage-kirie/  
 * search baidupan, krkrz_20140803.zip  
+* search baidupan, AVG引擎+工具.rar  
 
 ## onscripter-en   
 * https://github.com/weimingtom/onscripter_en_fork2  
