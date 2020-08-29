@@ -160,11 +160,14 @@ My visual novel game engine study projects
 ## flash, eye animation  
 * search baidupan, lip  
 
-## flash, 恋文, JQV    
+## flash / as3, 恋文, JQV    
 * search baidupan, 恋文网络版旧版本以及原始文件_代码废弃.rar  
 * JQV  
 
-## 编辑器  
+## 编辑器, c++    
 * search baidupan, 2D游戏地图编辑器合集可用  
+
+## rpg2k, rpgmaker, java    
+* search baidupan, rpg2kemu.7z  
 
 
