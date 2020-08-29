@@ -10,6 +10,7 @@ My visual novel game engine study projects
 * http://nscripter.insani.org/reference/  
 * https://github.com/weimingtom/wmthome/tree/master/nscr  
 * https://github.com/weimingtom/nscripter_study/tree/master/nscripter_manual_chinese  
+* search baidupan, AVG引擎+工具.rar  
 
 ## onscripter  
 * https://onscripter.osdn.jp/onscripter.html  
