@@ -167,7 +167,7 @@ My visual novel game engine study projects
 * search baidupan, 恋文网络版旧版本以及原始文件_代码废弃.rar  
 * JQV  
 * (TODO, not found) flash网球  
-* (TODO, not found) flash音游, 打字达人    
+* flash音游, 打字达人, search email, TYPINGMANIA4.part1.rar      
 * https://github.com/weimingtom/ugame  
 * https://github.com/weimingtom/ugame/tree/master/projects/SlideShow  
 * search baidupan, LemoNovel_AS3_320x240.zip  
