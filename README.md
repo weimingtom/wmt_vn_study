@@ -186,8 +186,11 @@ My visual novel game engine study projects
 ## adv++  
 * adv++  
 
-## bkengine  
-* bkengine  
+## BKEngine  
+* https://bke.bakery.moe/download.html  
+* https://bke.bakery.moe/index_en.html  
+* http://docs.bakery.moe  
+* https://github.com/BKEngine/docs  
 
 ## galgame, android, decompile  
 * https://github.com/weimingtom/ugame/tree/master/projects/galgame  
