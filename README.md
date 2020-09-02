@@ -173,6 +173,11 @@ My visual novel game engine study projects
 * https://github.com/weimingtom/ugame  
 * https://github.com/weimingtom/ugame/tree/master/projects/SlideShow  
 * search baidupan, LemoNovel_AS3_320x240.zip  
+* search baidupan, weimingtom_reversi.rar  
+
+## almight, html  
+* search baidupan, builtin01.7z  
+* com.eisys.almight_5.apk  
 
 ## 编辑器, c++    
 * search baidupan, 2D游戏地图编辑器合集可用  
@@ -192,8 +197,9 @@ My visual novel game engine study projects
 * http://docs.bakery.moe  
 * https://github.com/BKEngine/docs  
 
-## galgame, android, decompile  
+## 追忆, galgame, android, decompile  
 * https://github.com/weimingtom/ugame/tree/master/projects/galgame  
+* mobi.galgames.mp-1.apk  
 
 ## crass  
 * search baidupan, AVG引擎+工具.rar  
@@ -205,3 +211,13 @@ My visual novel game engine study projects
 ## decompyle  
 * https://github.com/weimingtom/decompyle-2.3.2_win32_build  
 * https://github.com/weimingtom/decompyle-2.3.2_win32_build/blob/master/decompyle.7z  
+
+## KAS / KAS4PC, java, Android / PC      
+* http://studiomikan.net/kas/  
+* https://studiomikan.net  
+
+## ponkan  
+* https://github.com/studiomikan/ponkan  
+
+## AMP  
+* search baiudpan, AMPv0.70(GALGAME).rar  
