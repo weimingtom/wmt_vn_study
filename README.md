@@ -211,10 +211,12 @@ My visual novel game engine study projects
 ## decompyle  
 * https://github.com/weimingtom/decompyle-2.3.2_win32_build  
 * https://github.com/weimingtom/decompyle-2.3.2_win32_build/blob/master/decompyle.7z  
+* (TODO, not found) iso  
 
 ## KAS / KAS4PC, java, Android / PC      
 * http://studiomikan.net/kas/  
 * https://studiomikan.net  
+* (TODO, not found) android project  
 
 ## ponkan  
 * https://github.com/studiomikan/ponkan  
