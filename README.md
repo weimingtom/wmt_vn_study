@@ -27,7 +27,9 @@ My visual novel game engine study projects
 * http://www.mysteryparfait.com/kage-kirie/  
 * search baidupan, krkrz_20140803.zip  
 * search baidupan, AVG引擎+工具.rar  
+* https://tieba.baidu.com/p/6310593391  
 * search baidupan, krkrz_20171225r2.7z  
+* search baidupan, kag3ex2.zip  
 
 ## onscripter-en   
 * https://github.com/weimingtom/onscripter_en_fork2  
