@@ -187,9 +187,6 @@ My visual novel game engine study projects
 * search baidupan, builtin01.7z  
 * com.eisys.almight_5.apk  
 
-## 编辑器, c++    
-* search baidupan, 2D游戏地图编辑器合集可用  
-
 ## rpg2k, rpgmaker, java    
 * search baidupan, rpg2kemu.7z  
 
