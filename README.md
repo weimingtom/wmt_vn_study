@@ -228,3 +228,6 @@ My visual novel game engine study projects
 
 ## AMP  
 * search baiudpan, AMPv0.70(GALGAME).rar  
+
+## (TODO) GalgameDemo  
+* https://github.com/TragedyGod/GalgameDemo  
