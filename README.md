@@ -30,6 +30,9 @@ My visual novel game engine study projects
 * https://tieba.baidu.com/p/6310593391  
 * search baidupan, krkrz_20171225r2.7z  
 * search baidupan, kag3ex2.zip  
+* https://github.com/uyjulian/krkrsdl2  
+* https://github.com/uyjulian/krkrs  
+* https://github.com/uyjulian/krkrv  
 
 ## onscripter-en   
 * https://github.com/weimingtom/onscripter_en_fork2  
@@ -57,6 +60,7 @@ My visual novel game engine study projects
 * https://gitee.com/weimingtom/kirikiroid2_fork  
 * https://github.com/weimingtom/linnea  
 * search baidupan, atest3  
+* https://github.com/ryank231231/kirikiroid2-NG  
 
 ## xclannad  
 * https://github.com/weimingtom/xclannad_fork  
