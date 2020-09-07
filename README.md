@@ -235,3 +235,6 @@ My visual novel game engine study projects
 
 ## (TODO) GalgameDemo  
 * https://github.com/TragedyGod/GalgameDemo  
+
+## 恋爱游戏制作大师2  
+* search baidupan, 恋爱游戏制作大师2  
