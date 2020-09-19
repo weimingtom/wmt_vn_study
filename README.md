@@ -201,8 +201,10 @@ My visual novel game engine study projects
 ## openrpgmaker, sourceforge  
 * https://sourceforge.net/projects/openrpgmaker/  
 
-## catsystem2  
-* catsystem2  
+## CatSystem2  
+* http://cs2.suki.jp  
+* http://cs2.suki.jp/manual/  
+* cs2_full_v301.zip  
 
 ## adv++  
 * adv++  
