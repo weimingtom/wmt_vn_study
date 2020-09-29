@@ -11,12 +11,14 @@ My visual novel game engine study projects
 * search baidupan, rlvm_fork_20180905_v1.rar, port to vs2013  
 
 ## nscripter  
+* http://www.nscripter.com  
 * http://nscripter.insani.org/reference/  
 * https://github.com/weimingtom/wmthome/tree/master/nscr  
 * https://github.com/weimingtom/nscripter_study/tree/master/nscripter_manual_chinese  
 * search baidupan, nscripter贴吧/资源.7z  
 
 ## onscripter  
+* https://onscripter.osdn.jp  
 * https://onscripter.osdn.jp/onscripter.html  
 * https://github.com/weimingtom/eriri/tree/master/rubysdl  
 
