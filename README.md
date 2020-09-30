@@ -48,6 +48,8 @@ My visual novel game engine study projects
 * onscripter-en-20080823-fullsrc.tar.bz2  
 * mirror: https://kaisernet.neocities.org/onscripter/#mirrors  
 * https://github.com/superzazu/onscripter-en  
+* http://narcissu.insani.org  
+* http://narcissu.gwathyr.net  
 
 ## onscripter-jh sdl2  
 * https://bitbucket.org/jh10001/onscripter-jh  
