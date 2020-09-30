@@ -42,6 +42,10 @@ My visual novel game engine study projects
 * https://github.com/weimingtom/onscripter_en_fork2_sdlport2  
 * https://github.com/weimingtom/onscripter_en_fork
 * https://github.com/weimingtom/sdlport  
+* onscripter-en-20110628-fullsrc.tar.bz2  
+* onscripter-en-20110413-fullsrc.tar.bz2  
+* onscripter-en-20110314-fullsrc.tar.bz2  
+* onscripter-en-20080823-fullsrc.tar.bz2  
 
 ## onscripter-jh sdl2  
 * https://bitbucket.org/jh10001/onscripter-jh  
