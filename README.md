@@ -13,7 +13,7 @@ My visual novel game engine study projects
 * I:\work_onscripter_csharp  
 * onsharp_v1.rar  
 * E:\work_rlvm\elliotglaysher  
-* vmware, ubuntu140432_rlvm  
+* vmware, ubuntu140432_rlvm, build mthod search baidupan, readme_v1.rar    
 * (TODO) https://github.com/weimingtom/xkanon_fork port to vc6  
 
 ## nscripter  
