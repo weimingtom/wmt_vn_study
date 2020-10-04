@@ -14,6 +14,7 @@ My visual novel game engine study projects
 * onsharp_v1.rar  
 * E:\work_rlvm\elliotglaysher  
 * vmware, ubuntu140432_rlvm  
+* (TODO) https://github.com/weimingtom/xkanon_fork port to vc6  
 
 ## nscripter  
 * http://www.nscripter.com  
