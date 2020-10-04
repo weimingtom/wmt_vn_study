@@ -12,6 +12,8 @@ My visual novel game engine study projects
 * search rlvm_fork_vs2013_v2_run_failed.rar  
 * I:\work_onscripter_csharp  
 * onsharp_v1.rar  
+* E:\work_rlvm\elliotglaysher  
+* vmware, ubuntu140432_rlvm  
 
 ## nscripter  
 * http://www.nscripter.com  
