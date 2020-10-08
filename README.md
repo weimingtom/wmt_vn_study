@@ -16,6 +16,10 @@ My visual novel game engine study projects
 * vmware, ubuntu140432_rlvm, build mthod search baidupan, readme_v1.rar    
 * (TODO) https://github.com/weimingtom/xkanon_fork port to vc6  
 
+## Old index  
+* https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/visual_novel.md  
+* https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/vn.md  
+
 ## nscripter  
 * http://www.nscripter.com  
 * http://nscripter.insani.org/reference/  
