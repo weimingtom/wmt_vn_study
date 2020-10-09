@@ -1,0 +1,7 @@
+ubuntu-14.04.5-desktop-i386.iso
+eglaysher-rlvm-release-0.14-0-ga85b19c.tar.gz
+
+$ sudo apt-get update
+$ sudo apt-get install scons zlib1g-dev libboost-dev libboost-system-dev libboost-thread-dev libboost-date-time-dev libboost-filesystem-dev libboost-iostreams-dev libboost-serialization-dev libboost-program-options-dev g++ libogg-dev libvorbis-dev libSDL-dev libgtk2.0-dev
+$ cd eglaysher-rlvm-b88bfe0/
+$ scons
