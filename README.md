@@ -15,6 +15,7 @@ My visual novel game engine study projects
 * E:\work_rlvm\elliotglaysher  
 * vmware, ubuntu140432_rlvm, build mthod search baidupan, readme_v1.rar    
 * (TODO) https://github.com/weimingtom/xkanon_fork port to vc6  
+* (TODO) search kas project  
 
 ## Old index  
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/visual_novel.md  
@@ -256,6 +257,7 @@ My visual novel game engine study projects
 * http://studiomikan.net/kas/  
 * https://studiomikan.net  
 * (TODO, not found) android project  
+* search baidupan, kas4pc_044.zip  
 
 ## ponkan  
 * https://github.com/studiomikan/ponkan  
