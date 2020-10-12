@@ -9,7 +9,7 @@ My visual novel game engine study projects
 ## TODO  
 * search baidupan, nscripter_java_20200829_replace_moon.rar    
 * (x) search baidupan, rlvm_fork_20180905_v1.rar, port to vs2013  
-* search rlvm_fork_vs2013_v2_run_failed.rar  
+* search baidupan, rlvm_fork_vs2013_v4_run_bug.rar  
 * I:\work_onscripter_csharp  
 * onsharp_v1.rar  
 * E:\work_rlvm\elliotglaysher  
@@ -60,6 +60,7 @@ My visual novel game engine study projects
 * https://github.com/superzazu/onscripter-en  
 * http://narcissu.insani.org  
 * http://narcissu.gwathyr.net  
+* search baidupan, NarcissuSetup[insani+Haeleth].exe  
 
 ## onscripter-jh sdl2  
 * https://bitbucket.org/jh10001/onscripter-jh  
