@@ -10,6 +10,7 @@ My visual novel game engine study projects
 * search baidupan, nscripter_java_20200829_replace_moon.rar    
 * (x) search baidupan, rlvm_fork_20180905_v1.rar, port to vs2013  
 * search baidupan, rlvm_fork_vs2013_v4_run_bug.rar  
+* rlvm game data, search baidupan, kanon_se_ori.rar  
 * I:\work_onscripter_csharp  
 * onsharp_v1.rar  
 * E:\work_rlvm\elliotglaysher  
