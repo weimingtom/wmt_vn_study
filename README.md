@@ -8,13 +8,9 @@ My visual novel game engine study projects
 
 ## TODO  
 * search baidupan, nscripter_java_20200829_replace_moon.rar    
-* (x) search baidupan, rlvm_fork_20180905_v1.rar, port to vs2013  
-* search baidupan, rlvm_fork_vs2013_v5_run_success.rar  
-* rlvm game data, search baidupan, kanon_se_ori.rar  
 * I:\work_onscripter_csharp  
 * onsharp_v1.rar  
 * E:\work_rlvm\elliotglaysher  
-* vmware, ubuntu140432_rlvm, build mthod search baidupan, readme_v1.rar    
 * (TODO) https://github.com/weimingtom/xkanon_fork port to vc6  
 * (TODO) search kas project  
 
@@ -133,6 +129,11 @@ My visual novel game engine study projects
 * https://gitee.com/weimingtom/rlvm_fork  
 * search baidupan, rlvm_fork_20180905_v1.rar  
 * search rlvm_fork_vs2013_v2_run_failed.rar  
+* (x) search baidupan, rlvm_fork_20180905_v1.rar, port to vs2013  
+* search baidupan, rlvm_fork_vs2013_v5_run_success.rar  
+* vmware, ubuntu140432_rlvm, build mthod search baidupan, readme_v1.rar    
+* rlvm game data, search baidupan, kanon_se_ori.rar  
+* rlvm game data, search baidupan, planetarian_steam_english.rar  
 
 ## novel-press  
 * http://houser-home.net/novel-press/top_index.html  
