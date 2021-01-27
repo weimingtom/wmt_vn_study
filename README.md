@@ -13,6 +13,8 @@ My visual novel game engine study projects
 * E:\work_rlvm\elliotglaysher  
 * (TODO) https://github.com/weimingtom/xkanon_fork port to vc6  
 * (TODO) search kas project  
+* (TODO) rlvm_vs2013  
+* (TODO) rlvm android, https://github.com/xyzz/rlvm-android  
 
 ## Old index  
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/visual_novel.md  
