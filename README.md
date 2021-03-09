@@ -31,6 +31,7 @@ My visual novel game engine study projects
 * https://onscripter.osdn.jp  
 * https://onscripter.osdn.jp/onscripter.html  
 * https://github.com/weimingtom/eriri/tree/master/rubysdl  
+* https://github.com/PSP-Archive/ONScripter-for-PSP  
 
 ## kirikiri2 / krkrz / kirikiriz  
 * https://github.com/krkrz/krkrz  
@@ -119,6 +120,7 @@ My visual novel game engine study projects
 * https://github.com/kichikuou/web  
 * http://8ne.sakura.ne.jp:20008/chika/unitbase/xsys35/  
 * search baidupan, xsystem35-1.7.2.tar.gz  
+* https://github.com/PSP-Archive/XSystem35-Lite  
 
 ## xnscripchan  
 * https://github.com/nonakap/xnscripchan  
