@@ -252,6 +252,7 @@ from https://archive.codeplex.com/?p=tvpcn
 
 ## crass  
 * https://github.com/shangjiaxuan/Crass-source  
+* https://github.com/rinrin-/crass  
 * search baidupan, AVG引擎+工具.rar  
 * search baidupan, Crass-source.7z  
 
