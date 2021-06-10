@@ -289,5 +289,8 @@ from https://archive.codeplex.com/?p=tvpcn
 * https://github.com/renpy/renpy  
 
 ## onslaught-vn  
-ONSlaught - An ONScripter clone with Unicode support.  
-https://github.com/sl1pkn07/onslaught-vn  
+* ONSlaught - An ONScripter clone with Unicode support.  
+* https://github.com/sl1pkn07/onslaught-vn  
+
+## Reitsuki  
+* https://github.com/kasuganosora/Reitsuki  
