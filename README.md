@@ -7,13 +7,13 @@ My visual novel game engine study projects
 ```
 
 ## TODO  
-* search baidupan, nscripter_java_20200829_replace_moon.rar    
+* (done) search baidupan, nscripter_java_20200829_replace_moon.rar    
 * I:\work_onscripter_csharp  
 * onsharp_v1.rar  
 * E:\work_rlvm\elliotglaysher  
 * (TODO) https://github.com/weimingtom/xkanon_fork port to vc6  
-* (DONE) (TODO) search kas project  
-* (TODO) rlvm_vs2013  
+* (done) (TODO) search kas project  
+* (done) (TODO) rlvm_vs2013  
 * (TODO) rlvm android, https://github.com/xyzz/rlvm-android  
 
 ## Old index  
