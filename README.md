@@ -141,9 +141,11 @@ from https://archive.codeplex.com/?p=tvpcn
 * rlvm game data, search baidupan, kanon_se_ori.rar  
 * rlvm game data, search baidupan, planetarian_steam_english.rar  
 
-## novel-press  
+## novel-press, NovelPress, for Android (and PC???)      
+* https://github.com/weimingtom/novelpress_fork  
+* https://gitee.com/weimingtom2000/novelpress_fork  
 * http://houser-home.net/novel-press/top_index.html  
-* search baidupan, src_adr06_13_01.zip     
+* search baidupan, src_adr06_13_01.zip    
 
 ## PGM, Pocket Game Maker  
 * https://github.com/History-exe/Pocket-Game-Maker-v0.83  
