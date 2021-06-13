@@ -12,7 +12,7 @@ My visual novel game engine study projects
 * onsharp_v1.rar  
 * E:\work_rlvm\elliotglaysher  
 * (TODO) https://github.com/weimingtom/xkanon_fork port to vc6  
-* (TODO) search kas project  
+* (DONE) (TODO) search kas project  
 * (TODO) rlvm_vs2013  
 * (TODO) rlvm android, https://github.com/xyzz/rlvm-android  
 
@@ -265,9 +265,11 @@ from https://archive.codeplex.com/?p=tvpcn
 * (TODO, not found) iso  
 
 ## KAS / KAS4PC, java, Android / PC      
+* https://github.com/weimingtom/kas_fork  
+* https://gitee.com/weimingtom2000/kas_fork  
 * http://studiomikan.net/kas/  
 * https://studiomikan.net  
-* (TODO, not found) android project  
+* android project, see below    
 * search baidupan, kas4pc_044.zip  
 
 ## ponkan, js     
