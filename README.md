@@ -40,6 +40,8 @@ My visual novel game engine study projects
 * https://github.com/PSP-Archive/ONScripter-for-PSP  
 
 ## kirikiri2 / krkrz / kirikiriz  
+* https://github.com/krkrsdl2/krkrsdl2  
+* https://github.com/Yamilemon/webview_sdl_krkr  
 * https://github.com/krkrz/krkrz  
 * https://github.com/weimingtom/krkrz110_fork  
 * https://github.com/krkrz/kag3  
@@ -152,6 +154,7 @@ from https://archive.codeplex.com/?p=tvpcn
 * vmware, ubuntu140432_rlvm, build mthod search baidupan, readme_v1.rar    
 * rlvm game data, search baidupan, kanon_se_ori.rar  
 * rlvm game data, search baidupan, planetarian_steam_english.rar  
+* https://github.com/weimingtom/wmt_vn_study/blob/master/build_rlvm.txt  
 
 ## novel-press, NovelPress, for Android (and PC???)      
 * https://github.com/weimingtom/novelpress_fork  
