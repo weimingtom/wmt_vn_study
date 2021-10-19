@@ -29,6 +29,9 @@ My visual novel game engine study projects
 * https://github.com/weimingtom/wmthome/tree/master/nscr  
 * https://github.com/weimingtom/nscripter_study/tree/master/nscripter_manual_chinese  
 * search baidupan, nscripter贴吧/资源.7z  
+* https://fr-m-wikipedia-org.translate.goog/wiki/NScripter?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=fr  
+* https://fr-m-wikipedia-org.translate.goog/wiki/NScripter?_x_tr_sl=auto&_x_tr_tl=zh-CN&_x_tr_hl=fr  
+* https://fr.wikipedia.org/wiki/NScripter  
 
 ## onscripter  
 * https://onscripter.osdn.jp  
@@ -75,6 +78,7 @@ from https://archive.codeplex.com/?p=tvpcn
 ## MiNE, branch of ONScripter     
 * https://github.com/natdon/ONScripter-CN  
 * (TODO) search baidupan, ONScripter-CN  
+* https://github.com/onsshare/onscripter/releases  
 
 ## nscripter java    
 * https://gitee.com/weimingtom2000/nscripter_java  
@@ -100,6 +104,7 @@ from https://archive.codeplex.com/?p=tvpcn
 * KANON_SE (Standard Edition) not support  
 
 ## nokscript  
+* https://github.com/yohokuno/suzuri  
 * https://github.com/weimingtom/nokscript_java  
 
 ## PSSSDK OpenTK  
@@ -113,10 +118,14 @@ from https://archive.codeplex.com/?p=tvpcn
 * https://github.com/weimingtom/GalGame-1  
 
 ## aquaplus-sources, ToHeart 2 XRATED  
+* http://leaf.aquaplus.co.jp/product/xvid.html  
+* https://github.com/autch/aquaplus_gpl  
+* https://github.com/jeeb/aquaplus-sources  
 * https://github.com/weimingtom/th2scriptengine  
 * search baidupan, sdtdump_v4.7z    
 
 ## habakiri, kirikiri2 java    
+* https://github.com/habakiri/habakiri  
 * https://github.com/weimingtom/habakiri/tree/master/kirikirij  
 
 ## system35  
@@ -154,6 +163,7 @@ from https://archive.codeplex.com/?p=tvpcn
 * https://github.com/History-exe/Pocket-Game-Maker-v0.83  
 
 ## Maid2  
+* https://code.google.com/archive/p/maid2/  
 * https://github.com/weimingtom/maid2  
 
 ## Lua, LuaBookSupport, gocha    
@@ -207,6 +217,7 @@ from https://archive.codeplex.com/?p=tvpcn
 * search baidupan, erica_v2.7z  
 
 ## NVList, java    
+* https://github.com/anonl/nvlist  
 * http://nvlist.weeaboo.nl  
 * https://github.com/kennyjijet/nvlist  
 
@@ -295,8 +306,8 @@ from https://archive.codeplex.com/?p=tvpcn
 ## Ren'Py  
 * https://github.com/renpy/renpy  
 
-## onslaught-vn  
-* ONSlaught - An ONScripter clone with Unicode support.  
+## ONSlaught - An ONScripter clone with Unicode support.  
+* https://github.com/Helios-vmg/ONSlaught  
 * https://github.com/sl1pkn07/onslaught-vn  
 
 ## Reitsuki  
