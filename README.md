@@ -71,6 +71,7 @@ from https://archive.codeplex.com/?p=tvpcn
 * http://narcissu.insani.org  
 * http://narcissu.gwathyr.net  
 * search baidupan, NarcissuSetup[insani+Haeleth].exe  
+* https://github.com/playmer/onscripter-en  
 
 ## onscripter-jh sdl2  
 * https://bitbucket.org/jh10001/onscripter-jh  
