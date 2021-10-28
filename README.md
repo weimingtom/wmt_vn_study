@@ -40,12 +40,16 @@ My visual novel game engine study projects
 * https://github.com/PSP-Archive/ONScripter-for-PSP  
 
 ## kirikiri2 / krkrz / kirikiriz  
+* (origin, dead) https://sv.kikyou.info/svn/kirikiri2/trunk/  
+* (new) http://krkrz.github.io  
+* (new) https://krkrz.github.io/krkr2doc/  
 * https://github.com/krkrsdl2/krkrsdl2  
 * https://github.com/Yamilemon/webview_sdl_krkr  
 * https://github.com/krkrz/krkrz  
 * https://github.com/weimingtom/krkrz110_fork  
 * https://github.com/krkrz/kag3  
 * http://www.mysteryparfait.com/kage-kirie/  
+* search baidupan, kage-kirie  
 * search baidupan, krkrz_20140803.zip  
 * search baidupan, AVG引擎+工具.rar  
 * https://tieba.baidu.com/p/6310593391  
