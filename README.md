@@ -328,3 +328,6 @@ from https://archive.codeplex.com/?p=tvpcn
 
 ## Reitsuki  
 * https://github.com/kasuganosora/Reitsuki  
+
+## LemoNovel, AS3  
+* http://www.le-mo.jp/lemo/products/LemoNovel_AS3/index.htm  
