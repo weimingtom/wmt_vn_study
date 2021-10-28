@@ -58,7 +58,7 @@ My visual novel game engine study projects
 from https://archive.codeplex.com/?p=tvpcn  
 
 ## onscripter-en   
-* (origin) http://unclemion.com/onscripter/releases/  
+* (origin, dead) http://unclemion.com/onscripter/releases/  
 * https://github.com/weimingtom/onscripter_en_fork2  
 * https://github.com/weimingtom/onscripter_en_fork2_sdlport2  
 * https://github.com/weimingtom/onscripter_en_fork
@@ -76,7 +76,7 @@ from https://archive.codeplex.com/?p=tvpcn
 * https://github.com/sekaiproject/ponscripter-fork  
 
 ## onscripter-jh sdl2  
-* (dead) https://bitbucket.org/jh10001/onscripter-jh  
+* (origin, dead) https://bitbucket.org/jh10001/onscripter-jh  
 * https://github.com/LasmGratel/onscripter-jh  
 (original name) https://github.com/NanamiArihara/onscripter-jh  
 * https://github.com/weimingtom/onscripter_jh_sdl2_fork  
