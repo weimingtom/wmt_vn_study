@@ -22,6 +22,7 @@ My visual novel game engine study projects
 ## Old index  
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/visual_novel.md  
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/vn.md  
+* https://ultrapre.github.io/clip/汉化破解研讨室/2019-10-13-1570948466/index.html  
 
 ## nscripter  
 * http://www.nscripter.com  
@@ -106,6 +107,8 @@ from https://archive.codeplex.com/?p=tvpcn
 * https://github.com/ryank231231/kirikiroid2-NG  
 
 ## xclannad  
+* (origin, dead) http://www.creator.club.ne.jp/~jagarl/xclannad.html  
+* (archive) https://web.archive.org/web/20100331135549/http://www.creator.club.ne.jp/~jagarl/xclannad.html  
 * https://github.com/weimingtom/xclannad_fork  
 * search baidupan, [040428][VisualArt's][Key][Clannad].mdf    
 * Clannad FV (Full Voice) not support  
@@ -113,6 +116,8 @@ from https://archive.codeplex.com/?p=tvpcn
 * https://github.com/natdon/ONScripter-CN  
 
 ## xkanon  
+* (origin, dead) http://www.creator.club.ne.jp/~jagarl/xkanon.html  
+* (archive) https://web.archive.org/web/20100409004347/http://www.creator.club.ne.jp/~jagarl/xkanon.html  
 * https://github.com/weimingtom/xkanon_fork  
 * search baidupan, [fyd09@古河渚吧][990604]Kanon_初回版.rar    
 * KANON_SE (Standard Edition) not support  
