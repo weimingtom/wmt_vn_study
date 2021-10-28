@@ -74,8 +74,9 @@ from https://archive.codeplex.com/?p=tvpcn
 * https://github.com/playmer/onscripter-en  
 
 ## onscripter-jh sdl2  
-* https://bitbucket.org/jh10001/onscripter-jh  
-* https://github.com/NanamiArihara/onscripter-jh  
+* (dead) https://bitbucket.org/jh10001/onscripter-jh  
+* https://github.com/LasmGratel/onscripter-jh  
+(original name) https://github.com/NanamiArihara/onscripter-jh  
 * https://github.com/weimingtom/onscripter_jh_sdl2_fork  
 
 ## MiNE, branch of ONScripter     
