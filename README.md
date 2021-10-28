@@ -105,6 +105,8 @@ from https://archive.codeplex.com/?p=tvpcn
 * https://github.com/weimingtom/xclannad_fork  
 * search baidupan, [040428][VisualArt's][Key][Clannad].mdf    
 * Clannad FV (Full Voice) not support  
+* https://github.com/Mysterious-tk/onscripter-for-iOS-GBK/tree/master/xclannad  
+* https://github.com/natdon/ONScripter-CN  
 
 ## xkanon  
 * https://github.com/weimingtom/xkanon_fork  
@@ -135,6 +137,10 @@ from https://archive.codeplex.com/?p=tvpcn
 
 ## xlvns, Leaf Visual Novel System for X (XLVNS)    
 * https://github.com/catmirrors/xlvns  
+
+## mglvns (Leaf Visual Novel System for MGL2)  
+* http://hoshina.denpa.org/mglvns/  
+* search baidupan, mglvns  
 
 ## habakiri, kirikiri2 java    
 * https://github.com/habakiri/habakiri  
