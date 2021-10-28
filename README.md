@@ -82,6 +82,8 @@ from https://archive.codeplex.com/?p=tvpcn
 * https://github.com/natdon/ONScripter-CN  
 * (TODO) search baidupan, ONScripter-CN  
 * https://github.com/onsshare/onscripter/releases  
+* https://github.com/butter255/emu/releases  
+* https://gitee.com/butter255/emu/releases  
 
 ## nscripter java    
 * https://gitee.com/weimingtom2000/nscripter_java  
