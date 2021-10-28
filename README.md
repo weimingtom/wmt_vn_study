@@ -133,6 +133,8 @@ from https://archive.codeplex.com/?p=tvpcn
 ## habakiri, kirikiri2 java    
 * https://github.com/habakiri/habakiri  
 * https://github.com/weimingtom/habakiri/tree/master/kirikirij  
+* https://osdn.net/projects/kirikirij/  
+* http://www.kaede-software.com/2011/11/2_for_javaandro.html  
 
 ## system35  
 * https://github.com/kichikuou/system3-sdl2  
@@ -241,7 +243,8 @@ from https://archive.codeplex.com/?p=tvpcn
 * search baidupan, LemoNovel_AS3_320x240.zip  
 * search baidupan, weimingtom_reversi.rar  
 
-## almight, html  
+## almight, html5  
+* https://almight.jp  
 * search baidupan, builtin01.7z  
 * com.eisys.almight_5.apk  
 
