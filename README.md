@@ -62,7 +62,11 @@ https://blog.csdn.net/umier2000/article/details/84149473
 * https://github.com/playmer/onscripter-en  
 * https://github.com/sekaiproject/ponscripter-fork  
 
-## onscripter-jh sdl2  
+## ONSlaught - An ONScripter clone with Unicode support.  
+* https://github.com/Helios-vmg/ONSlaught  
+* https://github.com/sl1pkn07/onslaught-vn  
+
+## onscripter-jh SDL2 branch (also include SDL 1.2 branch)    
 * (origin, dead) https://bitbucket.org/jh10001/onscripter-jh  
 * https://github.com/LasmGratel/onscripter-jh  
 (original name) https://github.com/NanamiArihara/onscripter-jh  
@@ -75,14 +79,14 @@ https://blog.csdn.net/umier2000/article/details/84149473
 * https://github.com/butter255/emu/releases  
 * https://gitee.com/butter255/emu/releases  
 
-## nscripter java    
+## 月猫 (tukineko), Java PDA (SHARP ZAURUS E21, KYOCERA PocketCosmo), closed source      
+* (origin, dead) http://www.din.or.jp/~boya/tsukihime/tukineko/index.html  
+* (origin, dead) http://www.din.or.jp/~boya/  
+* search tnA05_P.zip  
+* 月猫 decompiled mod (by me, weimingtom), named 'nscripter_java'  
 * https://gitee.com/weimingtom2000/nscripter_java  
-* search baidupan, 月姬、月姬格斗、月箱, 月箱.part1(1).rar, 月箱.part2(1).rar   
+* search baidupan, 月姬、月姬格斗、月箱, 月箱.part1(1).rar, 月箱.part2(1).rar  
 * search baidupan, nscripter_java_20200829_replace_moon.rar  
-
-## ONSlaught - An ONScripter clone with Unicode support.  
-* https://github.com/Helios-vmg/ONSlaught  
-* https://github.com/sl1pkn07/onslaught-vn  
 
 ## mscripter, Java midlet (closed source, like nscripter)   
 * (origin) http://www.epii.jp/articles/product/mscripter/mscripter  
