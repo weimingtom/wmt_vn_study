@@ -284,12 +284,12 @@ from https://archive.codeplex.com/?p=tvpcn
 * https://sourceforge.net/projects/openrpgmaker/  
 
 ## CatSystem2  
-* http://cs2.suki.jp  
-* http://cs2.suki.jp/manual/  
+* (origin) http://cs2.suki.jp  
+* (origin) http://cs2.suki.jp/manual/  
 * cs2_full_v301.zip  
 
 ## ADV+++ / adv_ppp    
-* https://www.yox-project.com/jp/adv_ppp/download.htm  
+* (origin) https://www.yox-project.com/jp/adv_ppp/download.htm  
 * search adv_ppp_for_PC_v2.43_master.zip  
 
 ## BKEngine  
@@ -317,10 +317,10 @@ from https://archive.codeplex.com/?p=tvpcn
 * (TODO, not found) iso  
 
 ## KAS / KAS4PC, java, Android / PC      
+* (origin, dead) http://studiomikan.net/kas/  
+* (origin) https://studiomikan.net  
 * https://github.com/weimingtom/kas_fork  
 * https://gitee.com/weimingtom2000/kas_fork  
-* http://studiomikan.net/kas/  
-* https://studiomikan.net  
 * android project, see below    
 * search baidupan, kas4pc_044.zip  
 
@@ -350,8 +350,12 @@ from https://archive.codeplex.com/?p=tvpcn
 * https://github.com/kasuganosora/Reitsuki  
 
 ## LemoNovel, AS3  
-* http://www.le-mo.jp/lemo/products/LemoNovel_AS3/index.htm  
+* (origin) http://www.le-mo.jp/lemo/products/LemoNovel_AS3/index.htm  
 
 ## AINE, flash    
-* http://www.drakkashi.com/aine/  
+* (origin) http://www.drakkashi.com/aine/  
 * search AINE_0.9.0_flash.zip  
+
+## mscripter, Java midlet (closed source)   
+* (origin) http://www.epii.jp/articles/product/mscripter/mscripter  
+* search baidupan, mscripter_v0_1_beta.zip, mscripter_v0_2_beta.zip  
