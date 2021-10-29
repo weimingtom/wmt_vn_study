@@ -288,8 +288,9 @@ from https://archive.codeplex.com/?p=tvpcn
 * http://cs2.suki.jp/manual/  
 * cs2_full_v301.zip  
 
-## adv++  
-* adv++  
+## ADV+++ / adv_ppp    
+* https://www.yox-project.com/jp/adv_ppp/download.htm  
+* search adv_ppp_for_PC_v2.43_master.zip  
 
 ## BKEngine  
 * https://bke.bakery.moe/download.html  
