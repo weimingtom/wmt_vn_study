@@ -146,6 +146,7 @@ from https://archive.codeplex.com/?p=tvpcn
 
 ## xlvns, Leaf Visual Novel System for X (XLVNS)    
 * https://github.com/catmirrors/xlvns  
+* search baidupan, xlvns_v1.rar, xlvns-xlvns-0.0.20010827.zip, xlvns_0.0.20010827.orig.tar.gz  
 
 ## mglvns (Leaf Visual Novel System for MGL2)  
 * http://hoshina.denpa.org/mglvns/  
