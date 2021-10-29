@@ -350,3 +350,7 @@ from https://archive.codeplex.com/?p=tvpcn
 
 ## LemoNovel, AS3  
 * http://www.le-mo.jp/lemo/products/LemoNovel_AS3/index.htm  
+
+## AINE, flash    
+* http://www.drakkashi.com/aine/  
+* search AINE_0.9.0_flash.zip  
