@@ -208,6 +208,7 @@ from https://archive.codeplex.com/?p=tvpcn
 ## System4 (closed source)    
 * (origin) http://kei.stbbs.net/rubyeye/sys40/sdk_dl.html  
 * https://www.iteye.com/blog/weimingtom-1130129  
+* search Sys40SDK_20041224  
 
 ## nokscript  
 * https://github.com/yohokuno/suzuri  
