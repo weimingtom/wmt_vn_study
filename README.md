@@ -44,28 +44,6 @@ https://blog.csdn.net/umier2000/article/details/84149473
 * https://github.com/PSP-Archive/ONScripter-for-PSP  
 * search baidupan, onscripter_android_src_20120711.tar.bz2  
 
-## kirikiri2 / krkrz / kirikiriz  
-* (origin, dead) https://sv.kikyou.info/svn/kirikiri2/trunk/  
-* (new) http://krkrz.github.io  
-* (new) https://krkrz.github.io/krkr2doc/  
-* https://github.com/krkrsdl2/krkrsdl2  
-* https://github.com/Yamilemon/webview_sdl_krkr  
-* https://github.com/krkrz/krkrz  
-* https://github.com/weimingtom/krkrz110_fork  
-* https://github.com/krkrz/kag3  
-* http://www.mysteryparfait.com/kage-kirie/  
-* search baidupan, kage-kirie  
-* search baidupan, krkrz_20140803.zip  
-* search baidupan, AVG引擎+工具.rar  
-* https://tieba.baidu.com/p/6310593391  
-* search baidupan, krkrz_20171225r2.7z  
-* search baidupan, kag3ex2.zip  
-* https://github.com/uyjulian/krkrsdl2  
-* https://github.com/uyjulian/krkrs  
-* https://github.com/uyjulian/krkrv  
-* https://github.com/weimingtom/tvpcn  
-from https://archive.codeplex.com/?p=tvpcn  
-
 ## onscripter-en   
 * (origin, dead) http://unclemion.com/onscripter/releases/  
 * https://github.com/weimingtom/onscripter_en_fork2  
@@ -110,6 +88,28 @@ from https://archive.codeplex.com/?p=tvpcn
 * (origin) http://www.epii.jp/articles/product/mscripter/mscripter  
 * search baidupan, mscripter_v0_1_beta.zip, mscripter_v0_2_beta.zip  
 
+## kirikiri2 / krkrz / kirikiriz  
+* (origin, dead) https://sv.kikyou.info/svn/kirikiri2/trunk/  
+* (new) http://krkrz.github.io  
+* (new) https://krkrz.github.io/krkr2doc/  
+* https://github.com/krkrsdl2/krkrsdl2  
+* https://github.com/Yamilemon/webview_sdl_krkr  
+* https://github.com/krkrz/krkrz  
+* https://github.com/weimingtom/krkrz110_fork  
+* https://github.com/krkrz/kag3  
+* http://www.mysteryparfait.com/kage-kirie/  
+* search baidupan, kage-kirie  
+* search baidupan, krkrz_20140803.zip  
+* search baidupan, AVG引擎+工具.rar  
+* https://tieba.baidu.com/p/6310593391  
+* search baidupan, krkrz_20171225r2.7z  
+* search baidupan, kag3ex2.zip  
+* https://github.com/uyjulian/krkrsdl2  
+* https://github.com/uyjulian/krkrs  
+* https://github.com/uyjulian/krkrv  
+* https://github.com/weimingtom/tvpcn  
+from https://archive.codeplex.com/?p=tvpcn  
+
 ## kirikiroid2  
 * https://github.com/zeas2/Kirikiroid2  
 * https://github.com/weimingtom/kirikiroid2lite  
@@ -117,6 +117,12 @@ from https://archive.codeplex.com/?p=tvpcn
 * https://github.com/weimingtom/linnea  
 * search baidupan, atest3  
 * https://github.com/ryank231231/kirikiroid2-NG  
+
+## habakiri, kirikirij, kirikiri2 java    
+* https://github.com/habakiri/habakiri  
+* https://github.com/weimingtom/habakiri/tree/master/kirikirij  
+* https://osdn.net/projects/kirikirij/  
+* http://www.kaede-software.com/2011/11/2_for_javaandro.html  
 
 ## almight, html5 (like kirikiri)   
 * https://almight.jp  
@@ -138,6 +144,21 @@ from https://archive.codeplex.com/?p=tvpcn
 * https://github.com/weimingtom/xkanon_fork  
 * search baidupan, [fyd09@古河渚吧][990604]Kanon_初回版.rar    
 * KANON_SE (Standard Edition) not support  
+
+## rlvm  
+* https://github.com/eglaysher/rlvm  
+* http://www.rlvm.net  
+* http://www.elliotglaysher.org  
+* (current work) https://github.com/weimingtom/rlvm_vs2013  
+* https://gitee.com/weimingtom/rlvm_fork  
+* search baidupan, rlvm_fork_20180905_v1.rar  
+* search rlvm_fork_vs2013_v2_run_failed.rar  
+* (x) search baidupan, rlvm_fork_20180905_v1.rar, port to vs2013  
+* search baidupan, rlvm_fork_vs2013_v5_run_success.rar  
+* vmware, ubuntu140432_rlvm, build mthod search baidupan, readme_v1.rar    
+* rlvm game data, search baidupan, kanon_se_ori.rar  
+* rlvm game data, search baidupan, planetarian_steam_english.rar  
+* https://github.com/weimingtom/wmt_vn_study/blob/master/build_rlvm.txt  
 
 ## nokscript  
 * https://github.com/yohokuno/suzuri  
@@ -169,12 +190,6 @@ from https://archive.codeplex.com/?p=tvpcn
 * http://hoshina.denpa.org/mglvns/  
 * search baidupan, mglvns-1.0.tar.gz  
 
-## habakiri, kirikiri2 java    
-* https://github.com/habakiri/habakiri  
-* https://github.com/weimingtom/habakiri/tree/master/kirikirij  
-* https://osdn.net/projects/kirikirij/  
-* http://www.kaede-software.com/2011/11/2_for_javaandro.html  
-
 ## xsystem35, System35, System3    
 * https://github.com/kichikuou/system3-sdl2  
 * https://github.com/kichikuou/xsystem35-sdl2  
@@ -191,21 +206,6 @@ from https://archive.codeplex.com/?p=tvpcn
 ## xnscripchan  
 * https://github.com/nonakap/xnscripchan  
 * (TODO) search baidupan, xnscripchan_v3_vc6.rar  
-
-## rlvm  
-* https://github.com/eglaysher/rlvm  
-* http://www.rlvm.net  
-* http://www.elliotglaysher.org  
-* (current work) https://github.com/weimingtom/rlvm_vs2013  
-* https://gitee.com/weimingtom/rlvm_fork  
-* search baidupan, rlvm_fork_20180905_v1.rar  
-* search rlvm_fork_vs2013_v2_run_failed.rar  
-* (x) search baidupan, rlvm_fork_20180905_v1.rar, port to vs2013  
-* search baidupan, rlvm_fork_vs2013_v5_run_success.rar  
-* vmware, ubuntu140432_rlvm, build mthod search baidupan, readme_v1.rar    
-* rlvm game data, search baidupan, kanon_se_ori.rar  
-* rlvm game data, search baidupan, planetarian_steam_english.rar  
-* https://github.com/weimingtom/wmt_vn_study/blob/master/build_rlvm.txt  
 
 ## novel-press, NovelPress, for Android (and PC???)      
 * https://github.com/weimingtom/novelpress_fork  
