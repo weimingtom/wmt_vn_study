@@ -39,6 +39,7 @@ My visual novel game engine study projects
 * https://onscripter.osdn.jp/onscripter.html  
 * https://github.com/weimingtom/eriri/tree/master/rubysdl  
 * https://github.com/PSP-Archive/ONScripter-for-PSP  
+* search baidupan, onscripter_android_src_20120711.tar.bz2  
 
 ## kirikiri2 / krkrz / kirikiriz  
 * (origin, dead) https://sv.kikyou.info/svn/kirikiri2/trunk/  
