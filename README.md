@@ -79,7 +79,7 @@ https://blog.csdn.net/umier2000/article/details/84149473
 * https://github.com/butter255/emu/releases  
 * https://gitee.com/butter255/emu/releases  
 
-## 月猫 (tukineko), Java PDA (SHARP ZAURUS E21, KYOCERA PocketCosmo), closed source      
+## 月猫 (tukineko), for Java PDA (SHARP ZAURUS E21, KYOCERA PocketCosmo), closed source      
 * (origin, dead) http://www.din.or.jp/~boya/tsukihime/tukineko/index.html  
 * (origin, dead) http://www.din.or.jp/~boya/  
 * search tnA05_P.zip  
@@ -88,7 +88,7 @@ https://blog.csdn.net/umier2000/article/details/84149473
 * search baidupan, 月姬、月姬格斗、月箱, 月箱.part1(1).rar, 月箱.part2(1).rar  
 * search baidupan, nscripter_java_20200829_replace_moon.rar  
 
-## mscripter, Java midlet (closed source, like nscripter)   
+## mscripter, for Java midlet (closed source, like nscripter)   
 * (origin) http://www.epii.jp/articles/product/mscripter/mscripter  
 * search baidupan, mscripter_v0_1_beta.zip, mscripter_v0_2_beta.zip  
 
@@ -118,21 +118,21 @@ https://blog.csdn.net/umier2000/article/details/84149473
 * https://github.com/weimingtom/tvpcn  
 from https://archive.codeplex.com/?p=tvpcn  
 
-## habakiri, kirikirij, kirikiri2 java    
-* https://github.com/habakiri/habakiri  
+## habakiri, kirikirij, kirikiri2 java (for Android and PC)     
+* (origin) http://www.kaede-software.com/2011/11/2_for_javaandro.html  
+* (origin) https://github.com/habakiri/habakiri  
+* (origin) https://osdn.net/projects/kirikirij/  
 * https://github.com/weimingtom/habakiri/tree/master/kirikirij  
-* https://osdn.net/projects/kirikirij/  
-* http://www.kaede-software.com/2011/11/2_for_javaandro.html  
 
-## kirikiroid2  
-* https://github.com/zeas2/Kirikiroid2  
+## kirikiroid2 (for Android and iOS)    
+* (origin) https://github.com/zeas2/Kirikiroid2  
 * https://github.com/weimingtom/kirikiroid2lite  
 * https://gitee.com/weimingtom/kirikiroid2_fork  
 * https://github.com/weimingtom/linnea  
 * search baidupan, atest3  
 * https://github.com/ryank231231/kirikiroid2-NG  
 
-## KAS / KAS4PC, java, Android / PC (like kirikiri)        
+## KAS, KAS4PC (for Java and Android and PC, like kirikiri)        
 * (origin, dead) http://studiomikan.net/kas/  
 * (origin) https://studiomikan.net  
 * https://github.com/weimingtom/kas_fork  
@@ -140,10 +140,14 @@ from https://archive.codeplex.com/?p=tvpcn
 * android project, see below    
 * search baidupan, kas4pc_044.zip  
 
-## almight, html5 (like kirikiri)   
-* https://almight.jp  
+## almight, html5 (like kirikiri, closed source)       
+* (origin) https://almight.jp  
 * search baidupan, builtin01.7z  
 * com.eisys.almight_5.apk  
+
+## RealLiveMax (closed source)    
+* http://www.product.co.jp/reallivemax/  
+* search baidupan, RealLiveMax_SDK_20111129_006.zip, acttest.zip    
 
 ## xclannad  
 * (origin, dead) http://www.creator.club.ne.jp/~jagarl/xclannad.html  
@@ -200,7 +204,7 @@ from https://archive.codeplex.com/?p=tvpcn
 * https://github.com/PSP-Archive/XSystem35-Lite  
 * search baidupan, xsystem35_android_src_173pre5-katane1.tbz2  
 
-## System4  
+## System4 (closed source)    
 * (origin) http://kei.stbbs.net/rubyeye/sys40/sdk_dl.html  
 * https://www.iteye.com/blog/weimingtom-1130129  
 
@@ -219,31 +223,31 @@ from https://archive.codeplex.com/?p=tvpcn
 ## qixi2016 Unity  
 * https://github.com/weimingtom/GalGame-1  
 
-## novel-press, NovelPress, for Android (and PC???)      
+## novel-press, NovelPress (for Android, and PC???)      
 * https://github.com/weimingtom/novelpress_fork  
 * https://gitee.com/weimingtom2000/novelpress_fork  
 * http://houser-home.net/novel-press/top_index.html  
 * search baidupan, src_adr06_13_01.zip    
 
-## PGM, Pocket Game Maker  
+## PGM, Pocket Game Maker (closed source, for Android ?)  
 * https://github.com/History-exe/Pocket-Game-Maker-v0.83  
 
 ## Maid2  
 * https://code.google.com/archive/p/maid2/  
 * https://github.com/weimingtom/maid2  
 
-## Lua, LuaBookSupport, gocha    
+## gocha (Lua, LuaBookSupport)      
 * https://github.com/weimingtom/game_gocha  
 * http://lua.mine.nu/w/LuaBookSupport  
 
 ## OpenRGSS  
 * https://github.com/weimingtom/OpenRGSS-RPGMaker  
 
-## ADV-PROGRAM, Cocos2d-x    
+## ADV-PROGRAM (for Cocos2d-x)      
 * https://gitee.com/SunnyRx/ADV-PROGRAM  
 * https://github.com/weimingtom/adv_cocos2dx  
 
-## marika / FastFireFrame, Java    
+## marika, FastFireFrame (for Java)      
 * https://github.com/weimingtom/marika_java  
 * https://github.com/weimingtom/marika_cocos2dx  
 * https://github.com/weimingtom/marika_as3  
@@ -251,22 +255,16 @@ from https://archive.codeplex.com/?p=tvpcn
 * https://github.com/weimingtom/myosotis  
 * https://github.com/weimingtom/myosotis2  
 
-## MyChar, ActionScript3  
+## MyChar (for ActionScript3)    
 * キャラクターなんとか機  
-* http://khmix.sakura.ne.jp/download.shtml  
-* MyChar  
-* https://github.com/weimingtom/MyChar  
-* charj    
+http://khmix.sakura.ne.jp/download.shtml  
 * https://osdn.jp/projects/charactermanaj/  
+* https://github.com/weimingtom/MyChar  
 * https://github.com/weimingtom/charj  
 
 ## lanovee, らのべえ  
-* http://lanovee.e-frontier.co.jp  
+* (origin) http://lanovee.e-frontier.co.jp  
 * search baidupan, lanoveeLatestBuild.zip, trial.zip    
-
-## RealLiveMax  
-* http://www.product.co.jp/reallivemax/  
-* search baidupan, RealLiveMax_SDK_20111129_006.zip, acttest.zip    
 
 ## tyranoscript  
 * https://tyrano.jp  
@@ -278,19 +276,19 @@ from https://archive.codeplex.com/?p=tvpcn
 * https://github.com/hide92795/NovelEngine-FileCreator  
 * search baidupan, NovelEngine  
 
-## erica, csharp    
+## erica (for C#)      
 * https://github.com/weimingtom/erica  
 * search baidupan, erica_v2.7z  
 
-## NVList, java    
+## NVList (for Java)      
 * https://github.com/anonl/nvlist  
 * http://nvlist.weeaboo.nl  
 * https://github.com/kennyjijet/nvlist  
 
-## flash, eye animation  
+## lip (for Flash, eye animation)    
 * search baidupan, lip  
 
-## flash / as3, 恋文, JQV    
+## etc (for flash, as3)    
 * search baidupan, 恋文网络版旧版本以及原始文件_代码废弃.rar  
 * JQV  
 * flash网球, yuki-mod.rar    
@@ -300,14 +298,14 @@ from https://archive.codeplex.com/?p=tvpcn
 * search baidupan, LemoNovel_AS3_320x240.zip  
 * search baidupan, weimingtom_reversi.rar  
 
-## rpg2k, rpgmaker, java    
+## rpg2k, rpgmaker (for java)      
 * search baidupan, rpg2kemu.7z  
 
 ## RPGMaker XP demo     
 * search baidupan, AVG半精装版（修改版）.rar  
 * search baidupan, RPG制作大师XP V1.rar  
 
-## openrpgmaker, sourceforge  
+## openrpgmaker  
 * https://sourceforge.net/projects/openrpgmaker/  
 
 ## CatSystem2  
@@ -315,7 +313,7 @@ from https://archive.codeplex.com/?p=tvpcn
 * (origin) http://cs2.suki.jp/manual/  
 * cs2_full_v301.zip  
 
-## ADV+++ / adv_ppp    
+## ADV+++, adv_ppp    
 * (origin) https://www.yox-project.com/jp/adv_ppp/download.htm  
 * search adv_ppp_for_PC_v2.43_master.zip  
 
@@ -325,8 +323,9 @@ from https://archive.codeplex.com/?p=tvpcn
 * (origin) http://docs.bakery.moe  
 * https://github.com/BKEngine/docs  
 
-## 追忆, galgame, android, decompile  
+## 追忆 (closed source, for android)    
 * (origin, dead) http://www.galgames.info/  
+* 追忆 decompile mod  
 * https://github.com/weimingtom/ugame/tree/master/projects/galgame  
 * mobi.galgames.mp-1.apk  
 
@@ -344,30 +343,30 @@ from https://archive.codeplex.com/?p=tvpcn
 * https://github.com/weimingtom/decompyle-2.3.2_win32_build/blob/master/decompyle.7z  
 * (TODO, not found) iso  
 
-## ponkan, js     
+## ponkan (for js)       
 * (origin) https://github.com/studiomikan/ponkan  
 
 ## AMP  
 * search baiudpan, AMPv0.70(GALGAME).rar  
 
-## (TODO) GalgameDemo, Unity    
+## (TODO) GalgameDemo (for Unity)      
 * https://github.com/TragedyGod/GalgameDemo  
 
 ## 恋爱游戏制作大师2  
 * search baidupan, 恋爱游戏制作大师2  
 
-## Nova, Unity    
+## Nova (for Unity)      
 * https://github.com/Lunatic-Works/Nova  
 
-## Ren'Py  
+## Ren'Py (for Python)    
 * https://github.com/renpy/renpy  
 
 ## Reitsuki  
 * https://github.com/kasuganosora/Reitsuki  
 
-## LemoNovel, AS3  
+## LemoNovel (for AS3, Flash)    
 * (origin) http://www.le-mo.jp/lemo/products/LemoNovel_AS3/index.htm  
 
-## AINE, flash    
+## AINE (for flash)      
 * (origin) http://www.drakkashi.com/aine/  
 * search AINE_0.9.0_flash.zip  
