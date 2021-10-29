@@ -28,6 +28,7 @@ https://www.iteye.com/blog/weimingtom-1396201
 https://blog.csdn.net/umier2000/article/details/84149473  
 * search baidpan 游戏引擎  
 * search baidpan 脚本引擎  
+* http://ruriko.denpa.org/200612c.html  
 
 ## nscripter  
 * http://www.nscripter.com  
@@ -361,7 +362,7 @@ http://khmix.sakura.ne.jp/download.shtml
 ## (TODO) GalgameDemo (for Unity)      
 * https://github.com/TragedyGod/GalgameDemo  
 
-## 恋爱游戏制作大师2  
+## 恋愛シミュレーションツクール２, 恋爱游戏制作大师2  
 * search baidupan, 恋爱游戏制作大师2  
 
 ## Nova (for Unity)      
@@ -379,3 +380,12 @@ http://khmix.sakura.ne.jp/download.shtml
 ## AINE (for flash)      
 * (origin) http://www.drakkashi.com/aine/  
 * search AINE_0.9.0_flash.zip  
+
+## YU-RIS, yuris   
+* (origin) http://yu-ris.net  
+* (origin) http://www.firstia.com  
+* search yu-ris_0480_001.zip  
+
+## EntisGLS  
+* (origin) http://www.entis.jp/gls/  
+* (TODO) download  
