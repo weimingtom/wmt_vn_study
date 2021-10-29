@@ -162,7 +162,7 @@ from https://archive.codeplex.com/?p=tvpcn
 * https://osdn.net/projects/kirikirij/  
 * http://www.kaede-software.com/2011/11/2_for_javaandro.html  
 
-## xsystem35, system35, system3    
+## xsystem35, System35, System3    
 * https://github.com/kichikuou/system3-sdl2  
 * https://github.com/kichikuou/xsystem35-sdl2  
 * https://github.com/kichikuou/web  
@@ -170,6 +170,10 @@ from https://archive.codeplex.com/?p=tvpcn
 * search baidupan, xsystem35-1.7.2.tar.gz  
 * https://github.com/PSP-Archive/XSystem35-Lite  
 * search baidupan, xsystem35_android_src_173pre5-katane1.tbz2  
+
+## System4  
+* (origin) http://kei.stbbs.net/rubyeye/sys40/sdk_dl.html  
+* https://www.iteye.com/blog/weimingtom-1130129  
 
 ## xnscripchan  
 * https://github.com/nonakap/xnscripchan  
