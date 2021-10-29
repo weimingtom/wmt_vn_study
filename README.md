@@ -166,9 +166,9 @@ from https://archive.codeplex.com/?p=tvpcn
 * KANON_SE (Standard Edition) not support  
 
 ## rlvm  
-* https://github.com/eglaysher/rlvm  
-* http://www.rlvm.net  
-* http://www.elliotglaysher.org  
+* (origin) http://www.rlvm.net  
+* (origin) http://www.elliotglaysher.org  
+* (origin) https://github.com/eglaysher/rlvm  
 * (current work) https://github.com/weimingtom/rlvm_vs2013  
 * https://gitee.com/weimingtom/rlvm_fork  
 * search baidupan, rlvm_fork_20180905_v1.rar  
@@ -181,14 +181,15 @@ from https://archive.codeplex.com/?p=tvpcn
 * https://github.com/weimingtom/wmt_vn_study/blob/master/build_rlvm.txt  
 
 ## aquaplus-sources, ToHeart 2 XRATED  
-* http://leaf.aquaplus.co.jp/product/xvid.html  
+* (origin) http://leaf.aquaplus.co.jp/product/xvid.html  
 * https://github.com/autch/aquaplus_gpl  
 * https://github.com/jeeb/aquaplus-sources  
 * https://github.com/weimingtom/th2scriptengine  
 * search baidupan, sdtdump_v4.7z    
 
 ## xlvns, Leaf Visual Novel System for X (XLVNS)    
-* https://github.com/catmirrors/xlvns  
+* (origin, ?) http://leafbsd.denpa.org  
+* (origin) https://github.com/catmirrors/xlvns  
 * search baidupan, xlvns_v1.rar, xlvns-xlvns-0.0.20010827.zip, xlvns_0.0.20010827.orig.tar.gz  
 
 ## mglvns (Leaf Visual Novel System for MGL2)  
