@@ -306,6 +306,7 @@ from https://archive.codeplex.com/?p=tvpcn
 * https://github.com/BKEngine/docs  
 
 ## 追忆, galgame, android, decompile  
+* (origin) http://www.galgames.info/  
 * https://github.com/weimingtom/ugame/tree/master/projects/galgame  
 * mobi.galgames.mp-1.apk  
 
