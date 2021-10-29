@@ -356,6 +356,6 @@ from https://archive.codeplex.com/?p=tvpcn
 * (origin) http://www.drakkashi.com/aine/  
 * search AINE_0.9.0_flash.zip  
 
-## mscripter, Java midlet (closed source)   
+## mscripter, Java midlet (closed source, like nscripter)   
 * (origin) http://www.epii.jp/articles/product/mscripter/mscripter  
 * search baidupan, mscripter_v0_1_beta.zip, mscripter_v0_2_beta.zip  
