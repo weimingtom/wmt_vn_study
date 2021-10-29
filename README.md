@@ -92,7 +92,7 @@ https://blog.csdn.net/umier2000/article/details/84149473
 * https://github.com/nonakap/xnscripchan  
 * (TODO) search baidupan, xnscripchan_v3_vc6.rar  
 
-## kirikiri2 / krkrz / kirikiriz  
+## 吉里吉里Z, kirikiri2, krkrz, kirikiriz, krkrsdl2  
 * (origin, dead) https://sv.kikyou.info/svn/kirikiri2/trunk/  
 * (new) http://krkrz.github.io  
 * (new) https://krkrz.github.io/krkr2doc/  
@@ -114,6 +114,12 @@ https://blog.csdn.net/umier2000/article/details/84149473
 * https://github.com/weimingtom/tvpcn  
 from https://archive.codeplex.com/?p=tvpcn  
 
+## habakiri, kirikirij, kirikiri2 java    
+* https://github.com/habakiri/habakiri  
+* https://github.com/weimingtom/habakiri/tree/master/kirikirij  
+* https://osdn.net/projects/kirikirij/  
+* http://www.kaede-software.com/2011/11/2_for_javaandro.html  
+
 ## kirikiroid2  
 * https://github.com/zeas2/Kirikiroid2  
 * https://github.com/weimingtom/kirikiroid2lite  
@@ -122,11 +128,13 @@ from https://archive.codeplex.com/?p=tvpcn
 * search baidupan, atest3  
 * https://github.com/ryank231231/kirikiroid2-NG  
 
-## habakiri, kirikirij, kirikiri2 java    
-* https://github.com/habakiri/habakiri  
-* https://github.com/weimingtom/habakiri/tree/master/kirikirij  
-* https://osdn.net/projects/kirikirij/  
-* http://www.kaede-software.com/2011/11/2_for_javaandro.html  
+## KAS / KAS4PC, java, Android / PC (like kirikiri)        
+* (origin, dead) http://studiomikan.net/kas/  
+* (origin) https://studiomikan.net  
+* https://github.com/weimingtom/kas_fork  
+* https://gitee.com/weimingtom2000/kas_fork  
+* android project, see below    
+* search baidupan, kas4pc_044.zip  
 
 ## almight, html5 (like kirikiri)   
 * https://almight.jp  
@@ -331,14 +339,6 @@ from https://archive.codeplex.com/?p=tvpcn
 * https://github.com/weimingtom/decompyle-2.3.2_win32_build  
 * https://github.com/weimingtom/decompyle-2.3.2_win32_build/blob/master/decompyle.7z  
 * (TODO, not found) iso  
-
-## KAS / KAS4PC, java, Android / PC      
-* (origin, dead) http://studiomikan.net/kas/  
-* (origin) https://studiomikan.net  
-* https://github.com/weimingtom/kas_fork  
-* https://gitee.com/weimingtom2000/kas_fork  
-* android project, see below    
-* search baidupan, kas4pc_044.zip  
 
 ## ponkan, js     
 * (origin) https://github.com/studiomikan/ponkan  
