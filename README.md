@@ -150,7 +150,7 @@ from https://archive.codeplex.com/?p=tvpcn
 
 ## mglvns (Leaf Visual Novel System for MGL2)  
 * http://hoshina.denpa.org/mglvns/  
-* search baidupan, mglvns  
+* search baidupan, mglvns-1.0.tar.gz  
 
 ## habakiri, kirikiri2 java    
 * https://github.com/habakiri/habakiri  
