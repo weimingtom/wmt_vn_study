@@ -164,6 +164,7 @@ from https://archive.codeplex.com/?p=tvpcn
 * http://8ne.sakura.ne.jp:20008/chika/unitbase/xsys35/  
 * search baidupan, xsystem35-1.7.2.tar.gz  
 * https://github.com/PSP-Archive/XSystem35-Lite  
+* search baidupan, xsystem35_android_src_173pre5-katane1.tbz2  
 
 ## xnscripchan  
 * https://github.com/nonakap/xnscripchan  
