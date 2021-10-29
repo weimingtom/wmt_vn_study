@@ -26,6 +26,8 @@ My visual novel game engine study projects
 * Android Platform 3.0 SDK和Eclipse ADT安装记录三  
 https://www.iteye.com/blog/weimingtom-1396201  
 https://blog.csdn.net/umier2000/article/details/84149473  
+* search baidpan 游戏引擎  
+* search baidpan 脚本引擎  
 
 ## nscripter  
 * http://www.nscripter.com  
