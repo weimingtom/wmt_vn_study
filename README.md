@@ -198,6 +198,9 @@ from https://archive.codeplex.com/?p=tvpcn
 ## mglvns (Leaf Visual Novel System for MGL2)  
 * (origin) http://hoshina.denpa.org/mglvns/  
 * search baidupan, mglvns-1.0.tar.gz  
+* MGL Version 2 は、Handheld PC などリソースの少ないマシンでグラフィック対応のアプリケーション動かすためのグラフィックライブラリおよび、ウインドウマネージャです。  
+* http://www.at.sakura.ne.jp/~suz/MGL2/index.html  
+* MobileGearII for DoCoMo: NEC's PDA  
 
 ## xsystem35, System35, System3    
 * https://github.com/kichikuou/system3-sdl2  
