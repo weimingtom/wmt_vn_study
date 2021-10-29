@@ -102,6 +102,14 @@ from https://archive.codeplex.com/?p=tvpcn
 * search baidupan, 月姬、月姬格斗、月箱, 月箱.part1(1).rar, 月箱.part2(1).rar   
 * search baidupan, nscripter_java_20200829_replace_moon.rar  
 
+## ONSlaught - An ONScripter clone with Unicode support.  
+* https://github.com/Helios-vmg/ONSlaught  
+* https://github.com/sl1pkn07/onslaught-vn  
+
+## mscripter, Java midlet (closed source, like nscripter)   
+* (origin) http://www.epii.jp/articles/product/mscripter/mscripter  
+* search baidupan, mscripter_v0_1_beta.zip, mscripter_v0_2_beta.zip  
+
 ## kirikiroid2  
 * https://github.com/zeas2/Kirikiroid2  
 * https://github.com/weimingtom/kirikiroid2lite  
@@ -109,6 +117,11 @@ from https://archive.codeplex.com/?p=tvpcn
 * https://github.com/weimingtom/linnea  
 * search baidupan, atest3  
 * https://github.com/ryank231231/kirikiroid2-NG  
+
+## almight, html5 (like kirikiri)   
+* https://almight.jp  
+* search baidupan, builtin01.7z  
+* com.eisys.almight_5.apk  
 
 ## xclannad  
 * (origin, dead) http://www.creator.club.ne.jp/~jagarl/xclannad.html  
@@ -275,11 +288,6 @@ from https://archive.codeplex.com/?p=tvpcn
 * search baidupan, LemoNovel_AS3_320x240.zip  
 * search baidupan, weimingtom_reversi.rar  
 
-## almight, html5  
-* https://almight.jp  
-* search baidupan, builtin01.7z  
-* com.eisys.almight_5.apk  
-
 ## rpg2k, rpgmaker, java    
 * search baidupan, rpg2kemu.7z  
 
@@ -300,13 +308,13 @@ from https://archive.codeplex.com/?p=tvpcn
 * search adv_ppp_for_PC_v2.43_master.zip  
 
 ## BKEngine  
-* https://bke.bakery.moe/download.html  
-* https://bke.bakery.moe/index_en.html  
-* http://docs.bakery.moe  
+* (origin) https://bke.bakery.moe/download.html  
+* (origin) https://bke.bakery.moe/index_en.html  
+* (origin) http://docs.bakery.moe  
 * https://github.com/BKEngine/docs  
 
 ## 追忆, galgame, android, decompile  
-* (origin) http://www.galgames.info/  
+* (origin, dead) http://www.galgames.info/  
 * https://github.com/weimingtom/ugame/tree/master/projects/galgame  
 * mobi.galgames.mp-1.apk  
 
@@ -333,7 +341,7 @@ from https://archive.codeplex.com/?p=tvpcn
 * search baidupan, kas4pc_044.zip  
 
 ## ponkan, js     
-* https://github.com/studiomikan/ponkan  
+* (origin) https://github.com/studiomikan/ponkan  
 
 ## AMP  
 * search baiudpan, AMPv0.70(GALGAME).rar  
@@ -350,10 +358,6 @@ from https://archive.codeplex.com/?p=tvpcn
 ## Ren'Py  
 * https://github.com/renpy/renpy  
 
-## ONSlaught - An ONScripter clone with Unicode support.  
-* https://github.com/Helios-vmg/ONSlaught  
-* https://github.com/sl1pkn07/onslaught-vn  
-
 ## Reitsuki  
 * https://github.com/kasuganosora/Reitsuki  
 
@@ -363,7 +367,3 @@ from https://archive.codeplex.com/?p=tvpcn
 ## AINE, flash    
 * (origin) http://www.drakkashi.com/aine/  
 * search AINE_0.9.0_flash.zip  
-
-## mscripter, Java midlet (closed source, like nscripter)   
-* (origin) http://www.epii.jp/articles/product/mscripter/mscripter  
-* search baidupan, mscripter_v0_1_beta.zip, mscripter_v0_2_beta.zip  
