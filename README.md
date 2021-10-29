@@ -193,7 +193,7 @@ from https://archive.codeplex.com/?p=tvpcn
 * search baidupan, xlvns_v1.rar, xlvns-xlvns-0.0.20010827.zip, xlvns_0.0.20010827.orig.tar.gz  
 
 ## mglvns (Leaf Visual Novel System for MGL2)  
-* http://hoshina.denpa.org/mglvns/  
+* (origin) http://hoshina.denpa.org/mglvns/  
 * search baidupan, mglvns-1.0.tar.gz  
 
 ## xsystem35, System35, System3    
@@ -221,34 +221,38 @@ from https://archive.codeplex.com/?p=tvpcn
 * search baidupan, PSSuiteSDK_098.exe  
 * https://github.com/nekoharuyuki/PSM  
 
-## qixi2016 Unity  
+## qixi2016 (for HTML5 and Unity)    
+* (origin, only HTML5) https://www.bilibili.com/html/activity-qixi2016.html  
 * https://github.com/weimingtom/GalGame-1  
 
 ## novel-press, NovelPress (for Android, and PC???)      
+* (origin) http://houser-home.net/novel-press/top_index.html  
 * https://github.com/weimingtom/novelpress_fork  
 * https://gitee.com/weimingtom2000/novelpress_fork  
-* http://houser-home.net/novel-press/top_index.html  
 * search baidupan, src_adr06_13_01.zip    
 
 ## PGM, Pocket Game Maker (closed source, for Android ?)  
-* https://github.com/History-exe/Pocket-Game-Maker-v0.83  
+* (origin) https://github.com/History-exe/Pocket-Game-Maker-v0.83  
 
 ## Maid2  
-* https://code.google.com/archive/p/maid2/  
+* (origin) https://code.google.com/archive/p/maid2/  
 * https://github.com/weimingtom/maid2  
 
 ## gocha (Lua, LuaBookSupport)      
+* (origin) http://lua.mine.nu/w/LuaBookSupport  
 * https://github.com/weimingtom/game_gocha  
-* http://lua.mine.nu/w/LuaBookSupport  
 
-## OpenRGSS  
+## OpenRGSS (for Ruby)    
+* (origin) https://github.com/zh99998/OpenRGSS-RPGMaker  
 * https://github.com/weimingtom/OpenRGSS-RPGMaker  
 
 ## ADV-PROGRAM (for Cocos2d-x)      
-* https://gitee.com/SunnyRx/ADV-PROGRAM  
+* (origin) https://gitee.com/SunnyRx/ADV-PROGRAM  
 * https://github.com/weimingtom/adv_cocos2dx  
 
 ## marika, FastFireFrame (for Java)      
+* (origin) アドベンチャーゲームプログラミング  
+* (origin) http://www.sbcr.jp/products/4797320273.html  
 * https://github.com/weimingtom/marika_java  
 * https://github.com/weimingtom/marika_cocos2dx  
 * https://github.com/weimingtom/marika_as3  
@@ -257,9 +261,9 @@ from https://archive.codeplex.com/?p=tvpcn
 * https://github.com/weimingtom/myosotis2  
 
 ## MyChar (for ActionScript3)    
-* キャラクターなんとか機  
+* (origin) キャラクターなんとか機  
 http://khmix.sakura.ne.jp/download.shtml  
-* https://osdn.jp/projects/charactermanaj/  
+* (origin) https://osdn.jp/projects/charactermanaj/  
 * https://github.com/weimingtom/MyChar  
 * https://github.com/weimingtom/charj  
 
@@ -268,22 +272,23 @@ http://khmix.sakura.ne.jp/download.shtml
 * search baidupan, lanoveeLatestBuild.zip, trial.zip    
 
 ## tyranoscript  
-* https://tyrano.jp  
-* https://github.com/ShikemokuMK/tyranoscript  
+* (origin) https://tyrano.jp  
+* (origin) https://github.com/ShikemokuMK/tyranoscript  
 * search baidupan, tyranoscript_v325.zip  
 * (TODO, not found) html running demo  
 
 ## NovelEngine  
-* https://github.com/hide92795/NovelEngine-FileCreator  
+* (origin) https://github.com/hide92795/NovelEngine-FileCreator  
 * search baidupan, NovelEngine  
 
 ## erica (for C#)      
+* (origin, dead) https://code.google.com/p/erica  
 * https://github.com/weimingtom/erica  
 * search baidupan, erica_v2.7z  
 
 ## NVList (for Java)      
-* https://github.com/anonl/nvlist  
-* http://nvlist.weeaboo.nl  
+* (origin) http://nvlist.weeaboo.nl  
+* (origin) https://github.com/anonl/nvlist  
 * https://github.com/kennyjijet/nvlist  
 
 ## lip (for Flash, eye animation)    
@@ -357,13 +362,13 @@ http://khmix.sakura.ne.jp/download.shtml
 * search baidupan, 恋爱游戏制作大师2  
 
 ## Nova (for Unity)      
-* https://github.com/Lunatic-Works/Nova  
+* (origin) https://github.com/Lunatic-Works/Nova  
 
 ## Ren'Py (for Python)    
-* https://github.com/renpy/renpy  
+* (origin) https://github.com/renpy/renpy  
 
 ## Reitsuki  
-* https://github.com/kasuganosora/Reitsuki  
+* (origin) https://github.com/kasuganosora/Reitsuki  
 
 ## LemoNovel (for AS3, Flash)    
 * (origin) http://www.le-mo.jp/lemo/products/LemoNovel_AS3/index.htm  
