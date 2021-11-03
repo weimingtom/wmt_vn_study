@@ -71,6 +71,7 @@ https://blog.csdn.net/umier2000/article/details/84149473
 
 ## onscripter-jh SDL2 branch (also include SDL 1.2 branch)    
 * (origin, dead) https://bitbucket.org/jh10001/onscripter-jh  
+* (origin, archived) https://github.com/uyjulian/onscripter-jh  
 * https://github.com/LasmGratel/onscripter-jh  
 (original name) https://github.com/NanamiArihara/onscripter-jh  
 * https://github.com/weimingtom/onscripter_jh_sdl2_fork  
