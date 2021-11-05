@@ -18,6 +18,7 @@ My visual novel game engine study projects
 * (done) (TODO) search kas project  
 * (done) (TODO) rlvm_vs2013  
 * (TODO) rlvm android, https://github.com/xyzz/rlvm-android  
+* (TODO) onscripter_jh_sdl2_fork_lons_vs2013_v1.rar   
 
 ## Old index  
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/visual_novel.md  
@@ -99,6 +100,12 @@ https://blog.csdn.net/umier2000/article/details/84149473
 ## xnscripchan  
 * https://github.com/nonakap/xnscripchan  
 * (TODO) search baidupan, xnscripchan_v3_vc6.rar  
+
+## (TODO) LONS  
+* (origin) https://gitee.com/only998/onscripter-lons  
+* (TODO) search baidupan, onscripter_jh_sdl2_fork_lons_vs2013_v1.rar  
+* vs2013  
+* search baidupan, onscripter_jh_sdl2_fork_v1.rar  
 
 ## 吉里吉里Z, kirikiri2, krkrz, kirikiriz, krkrsdl2  
 * (origin, dead) https://sv.kikyou.info/svn/kirikiri2/trunk/  
