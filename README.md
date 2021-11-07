@@ -403,3 +403,8 @@ http://khmix.sakura.ne.jp/download.shtml
 ## EntisGLS  
 * (origin) http://www.entis.jp/gls/  
 * (TODO) download  
+
+## Visual Novel Maker, VNMaker (with CoffeeScript)  
+* https://visualnovelmaker.com  
+* https://asset.visualnovelmaker.com/help/index.htm  
+* https://klsdf.github.io/Visual-Novel-Maker-in-Chinese  
