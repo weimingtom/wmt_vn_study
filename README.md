@@ -404,7 +404,7 @@ http://khmix.sakura.ne.jp/download.shtml
 * (origin) http://www.entis.jp/gls/  
 * (TODO) download  
 
-## Visual Novel Maker, VNMaker (with CoffeeScript)  
+## Visual Novel Maker, VNMaker (for CoffeeScript and NW.js)  
 * https://visualnovelmaker.com  
 * https://asset.visualnovelmaker.com/help/index.htm  
 * https://klsdf.github.io/Visual-Novel-Maker-in-Chinese  
