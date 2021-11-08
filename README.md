@@ -232,6 +232,25 @@ from https://archive.codeplex.com/?p=tvpcn
 * https://www.iteye.com/blog/weimingtom-1130129  
 * search Sys40SDK_20041224  
 
+## OpenRGSS (for Ruby)    
+* (origin) https://github.com/zh99998/OpenRGSS-RPGMaker  
+* https://github.com/weimingtom/OpenRGSS-RPGMaker  
+
+## rpg2k, rpgmaker (for java)      
+* search baidupan, rpg2kemu.7z  
+
+## RPGMaker XP demo     
+* search baidupan, AVG半精装版（修改版）.rar  
+* search baidupan, RPG制作大师XP V1.rar  
+
+## openrpgmaker  
+* https://sourceforge.net/projects/openrpgmaker/  
+
+## Visual Novel Maker, VNMaker (for CoffeeScript and NW.js, like RPG Maker)  
+* https://visualnovelmaker.com  
+* https://asset.visualnovelmaker.com/help/index.htm  
+* https://klsdf.github.io/Visual-Novel-Maker-in-Chinese  
+
 ## nokscript  
 * https://github.com/yohokuno/suzuri  
 * https://github.com/weimingtom/nokscript_java  
@@ -264,10 +283,6 @@ from https://archive.codeplex.com/?p=tvpcn
 ## gocha (Lua, LuaBookSupport)      
 * (origin) http://lua.mine.nu/w/LuaBookSupport  
 * https://github.com/weimingtom/game_gocha  
-
-## OpenRGSS (for Ruby)    
-* (origin) https://github.com/zh99998/OpenRGSS-RPGMaker  
-* https://github.com/weimingtom/OpenRGSS-RPGMaker  
 
 ## ADV-PROGRAM (for Cocos2d-x)      
 * (origin) https://gitee.com/SunnyRx/ADV-PROGRAM  
@@ -326,16 +341,6 @@ http://khmix.sakura.ne.jp/download.shtml
 * https://github.com/weimingtom/ugame/tree/master/projects/SlideShow  
 * search baidupan, LemoNovel_AS3_320x240.zip  
 * search baidupan, weimingtom_reversi.rar  
-
-## rpg2k, rpgmaker (for java)      
-* search baidupan, rpg2kemu.7z  
-
-## RPGMaker XP demo     
-* search baidupan, AVG半精装版（修改版）.rar  
-* search baidupan, RPG制作大师XP V1.rar  
-
-## openrpgmaker  
-* https://sourceforge.net/projects/openrpgmaker/  
 
 ## CatSystem2  
 * (origin) http://cs2.suki.jp  
@@ -408,11 +413,6 @@ http://khmix.sakura.ne.jp/download.shtml
 ## EntisGLS  
 * (origin) http://www.entis.jp/gls/  
 * (TODO) download  
-
-## Visual Novel Maker, VNMaker (for CoffeeScript and NW.js)  
-* https://visualnovelmaker.com  
-* https://asset.visualnovelmaker.com/help/index.htm  
-* https://klsdf.github.io/Visual-Novel-Maker-in-Chinese  
 
 ## Novelty  
 * http://www.visualnovelty.com/index.html  
