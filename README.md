@@ -398,7 +398,7 @@ http://khmix.sakura.ne.jp/download.shtml
 ## YU-RIS, yuris   
 * (origin) http://yu-ris.net  
 * (origin) http://www.firstia.com  
-* search yu-ris_0480_001.zip  
+* search yu-ris_0480_001.zip, yu-ris_0486_006.zip    
 
 ## EntisGLS  
 * (origin) http://www.entis.jp/gls/  
@@ -408,3 +408,7 @@ http://khmix.sakura.ne.jp/download.shtml
 * https://visualnovelmaker.com  
 * https://asset.visualnovelmaker.com/help/index.htm  
 * https://klsdf.github.io/Visual-Novel-Maker-in-Chinese  
+
+## Novelty  
+* http://www.visualnovelty.com/index.html  
+* search baidupan, novelty_0.8.9.zip  
