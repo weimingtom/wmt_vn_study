@@ -160,7 +160,9 @@ from https://archive.codeplex.com/?p=tvpcn
 * com.eisys.almight_5.apk  
 
 ## NVLMaker  
-* https://www.nvlmaker.net/download.html  
+* (origin) https://www.nvlmaker.net/download.html  
+* (origin) https://github.com/VariableD/the-nvl-maker-ex  
+* (origin) https://bitbucket.org/VariableD/the-nvl-maker/downloads/  
 
 ## RealLiveMax (closed source)    
 * http://www.product.co.jp/reallivemax/  
