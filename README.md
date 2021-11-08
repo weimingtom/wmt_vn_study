@@ -131,6 +131,7 @@ from https://archive.codeplex.com/?p=tvpcn
 
 ## KKDE  
 * (origin) https://github.com/mryp/kkde  
+* (origin) https://osdn.net/projects/kkde/  
 
 ## habakiri, kirikirij, kirikiri2 java (for Android and PC)     
 * (origin) http://www.kaede-software.com/2011/11/2_for_javaandro.html  
