@@ -252,6 +252,9 @@ from https://archive.codeplex.com/?p=tvpcn
 * https://asset.visualnovelmaker.com/help/index.htm  
 * https://klsdf.github.io/Visual-Novel-Maker-in-Chinese  
 
+## (TODO) OpenGame.exe (for CSharp)  
+* https://github.com/aphadeon/OpenGame.exe  
+
 ## nokscript  
 * https://github.com/yohokuno/suzuri  
 * https://github.com/weimingtom/nokscript_java  
