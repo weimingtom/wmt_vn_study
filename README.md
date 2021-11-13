@@ -20,7 +20,7 @@ My visual novel game engine study projects
 * (TODO) rlvm android, https://github.com/xyzz/rlvm-android  
 * (TODO) onscripter_jh_sdl2_fork_lons_vs2013_v1.rar   
 
-## Old index  
+## Old index / References      
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/visual_novel.md  
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/vn.md  
 * https://ultrapre.github.io/clip/汉化破解研讨室/2019-10-13-1570948466/index.html  
@@ -30,6 +30,7 @@ https://blog.csdn.net/umier2000/article/details/84149473
 * search baidpan 游戏引擎  
 * search baidpan 脚本引擎  
 * http://ruriko.denpa.org/200612c.html  
+* https://github.com/2439905184/Galgame-Engine-Collect  
 
 ## nscripter  
 * http://www.nscripter.com  
@@ -232,6 +233,7 @@ from https://archive.codeplex.com/?p=tvpcn
 * (origin) http://kei.stbbs.net/rubyeye/sys40/sdk_dl.html  
 * https://www.iteye.com/blog/weimingtom-1130129  
 * search Sys40SDK_20041224  
+* https://wikiwiki.jp/system4/System4SDKの入手  
 
 ## OpenRGSS (for Ruby)    
 * (origin) https://github.com/zh99998/OpenRGSS-RPGMaker  
@@ -421,3 +423,26 @@ http://khmix.sakura.ne.jp/download.shtml
 ## Novelty  
 * http://www.visualnovelty.com/index.html  
 * search baidupan, novelty_0.8.9.zip  
+
+## Monogatari  
+* https://github.com/Monogatari/Monogatari  
+
+## renjs  
+* https://renjs.net/index.html  
+
+## 橙光  
+* https://www.66rpg.com  
+
+## LiveMaker  
+* http://www.livemaker.net  
+* https://www.freem.ne.jp/win/game/17143  
+
+## PlaygroundOSS  
+* https://github.com/KLab/PlaygroundOSS  
+
+## retouch  
+* https://www.retouch.info  
+
+## Suika2  
+* https://github.com/ktabata/suika2  
+
