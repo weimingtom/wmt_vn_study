@@ -102,9 +102,9 @@ https://blog.csdn.net/umier2000/article/details/84149473
 * https://github.com/nonakap/xnscripchan  
 * (TODO) search baidupan, xnscripchan_v3_vc6.rar  
 
-## (TODO) LONS  
+## LONS  
 * (origin) https://gitee.com/only998/onscripter-lons  
-* (TODO) search baidupan, onscripter_jh_sdl2_fork_lons_vs2013_v1.rar  
+* search baidupan, onscripter_jh_sdl2_fork_lons_vs2013_v2_success.rar  
 * vs2013  
 * search baidupan, onscripter_jh_sdl2_fork_v1.rar  
 
