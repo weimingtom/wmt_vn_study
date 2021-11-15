@@ -18,7 +18,7 @@ My visual novel game engine study projects
 * (done) (TODO) search kas project  
 * (done) (TODO) rlvm_vs2013  
 * (TODO) rlvm android, https://github.com/xyzz/rlvm-android  
-* (TODO) onscripter_jh_sdl2_fork_lons_vs2013_v1.rar   
+* (done) onscripter_jh_sdl2_fork_lons_vs2013_v1.rar   
 
 ## Old index / References      
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/visual_novel.md  
