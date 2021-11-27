@@ -68,6 +68,7 @@ https://blog.csdn.net/umier2000/article/details/84149473
 * https://github.com/sekaiproject/ponscripter-fork  
 
 ## ONSlaught - An ONScripter clone with Unicode support.  
+* (origin) https://sourceforge.net/projects/onslaught-vn/  
 * https://github.com/Helios-vmg/ONSlaught  
 * https://github.com/sl1pkn07/onslaught-vn  
 
@@ -447,6 +448,6 @@ http://khmix.sakura.ne.jp/download.shtml
 * https://github.com/ktabata/suika2  
 
 ## pymo (for Android / Symbian(S60) / Windows)  
-(origin) https://github.com/pymo/pymo  
-(origin) https://www.pymogames.com  
-https://www.cnblogs.com/think90/p/11455121.html  
+* (origin) https://github.com/pymo/pymo  
+* (origin) https://www.pymogames.com  
+* https://www.cnblogs.com/think90/p/11455121.html  
