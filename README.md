@@ -451,3 +451,7 @@ http://khmix.sakura.ne.jp/download.shtml
 * (origin) https://github.com/pymo/pymo  
 * (origin) https://www.pymogames.com  
 * https://www.cnblogs.com/think90/p/11455121.html  
+
+## dxlib script_free.exe    
+* (origin, dead) http://homepage2.nifty.com/natupaji/DxLib/User/script_free.exe  
+* search baidupan, script_free.exe  
