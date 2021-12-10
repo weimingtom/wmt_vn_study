@@ -455,3 +455,4 @@ http://khmix.sakura.ne.jp/download.shtml
 ## dxlib script_free.exe    
 * (origin, dead) http://homepage2.nifty.com/natupaji/DxLib/User/script_free.exe  
 * search baidupan, script_free.exe  
+* https://dxlib.xsrv.jp  
