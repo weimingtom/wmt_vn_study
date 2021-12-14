@@ -202,6 +202,9 @@ from https://archive.codeplex.com/?p=tvpcn
 * rlvm game data, search baidupan, planetarian_steam_english.rar  
 * https://github.com/weimingtom/wmt_vn_study/blob/master/build_rlvm.txt  
 
+## waffle  
+* https://github.com/Ruin0x11/waffle_osx  
+
 ## aquaplus-sources, ToHeart 2 XRATED  
 * (origin) http://leaf.aquaplus.co.jp/product/xvid.html  
 * https://github.com/autch/aquaplus_gpl  
