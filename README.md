@@ -459,3 +459,7 @@ http://khmix.sakura.ne.jp/download.shtml
 * (origin, dead) http://homepage2.nifty.com/natupaji/DxLib/User/script_free.exe  
 * search baidupan, script_free.exe  
 * https://dxlib.xsrv.jp  
+
+## avg-plus  
+* https://github.com/avg-plus/avg.renderer  
+* http://demo.avg-engine.com  
