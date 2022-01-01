@@ -31,6 +31,9 @@ https://blog.csdn.net/umier2000/article/details/84149473
 * search baidpan 脚本引擎  
 * http://ruriko.denpa.org/200612c.html  
 * https://github.com/2439905184/Galgame-Engine-Collect  
+* Mac上玩部分文字AVG的方法  
+https://crazism.net/2055.html  
+* https://ultrapre.github.io/clip/  
 
 ## nscripter  
 * http://www.nscripter.com  
