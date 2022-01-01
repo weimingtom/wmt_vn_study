@@ -211,7 +211,7 @@ from https://archive.codeplex.com/?p=tvpcn
 
 ## kurokoge, くろこげ  
 * (origin, dead) http://www001.upp.so-net.ne.jp/keta/kurokoge/  
-* (dead) http://dev.haeleth.net/kurokoge  
+* (dead) http://dev.haeleth.net/kurokoge.shtml  
 * (dead) http://dev.haeleth.net/kurokoge/KurokogeSource.dmg  
 * https://tmkk.undo.jp/kurokoge/  
 
