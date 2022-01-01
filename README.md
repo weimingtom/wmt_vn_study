@@ -202,8 +202,15 @@ from https://archive.codeplex.com/?p=tvpcn
 * rlvm game data, search baidupan, planetarian_steam_english.rar  
 * https://github.com/weimingtom/wmt_vn_study/blob/master/build_rlvm.txt  
 
-## waffle  
+## waffle, わっふる  
+* (origin, dead) http://waffle.bunkasha.co.jp  
 * https://github.com/Ruin0x11/waffle_osx  
+
+## kurokoge, くろこげ  
+* (origin, dead) http://www001.upp.so-net.ne.jp/keta/kurokoge/  
+* (dead) http://dev.haeleth.net/kurokoge  
+* (dead) http://dev.haeleth.net/kurokoge/KurokogeSource.dmg  
+* https://tmkk.undo.jp/kurokoge/  
 
 ## aquaplus-sources, ToHeart 2 XRATED  
 * (origin) http://leaf.aquaplus.co.jp/product/xvid.html  
