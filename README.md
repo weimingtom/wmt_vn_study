@@ -114,6 +114,7 @@ https://crazism.net/2055.html
 
 ## 吉里吉里Z, kirikiri2, krkrz, kirikiriz, krkrsdl2  
 * (origin, dead) https://sv.kikyou.info/svn/kirikiri2/trunk/  
+* https://github.com/jeeb/kirikiri2  
 * (new) http://krkrz.github.io  
 * (new) https://krkrz.github.io/krkr2doc/  
 * https://github.com/krkrsdl2/krkrsdl2  
