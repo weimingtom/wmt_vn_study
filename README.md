@@ -134,6 +134,9 @@ https://crazism.net/2055.html
 * https://github.com/weimingtom/tvpcn  
 from https://archive.codeplex.com/?p=tvpcn  
 
+## kirikiri3-legacy  
+* https://github.com/w-dee/kirikiri3-legacy  
+
 ## KKDE  
 * (origin) https://github.com/mryp/kkde  
 * (origin) https://osdn.net/projects/kkde/  
