@@ -70,6 +70,11 @@ https://crazism.net/2055.html
 * https://github.com/playmer/onscripter-en  
 * https://github.com/sekaiproject/ponscripter-fork  
 
+## onscripter by insani (see http://dev.haeleth.net/onscripter.shtml after 2007.04.08)    
+* (origin) http://nscripter.insani.org/onscripter.html  
+* (origin) http://nscripter.insani.org/downloads/onscripter-20060724-insani.src.zip  
+* (dead) http://dev.haeleth.net/onscripter.shtml  
+
 ## ONSlaught - An ONScripter clone with Unicode support.  
 * (origin) https://sourceforge.net/projects/onslaught-vn/  
 * https://github.com/Helios-vmg/ONSlaught  
