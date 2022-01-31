@@ -120,6 +120,7 @@ https://crazism.net/2055.html
 
 ## 吉里吉里Z, kirikiri2, krkrz, kirikiriz, krkrsdl2  
 * (origin, dead) https://sv.kikyou.info/svn/kirikiri2/trunk/  
+* (origin, dead) https://sv.kikyou.info/svn/kirikiri2/trunk/kirikiri2/src/core/tjs2  
 * https://github.com/jeeb/kirikiri2  
 * (new) http://krkrz.github.io  
 * (new) https://krkrz.github.io/krkr2doc/  
@@ -140,6 +141,7 @@ https://crazism.net/2055.html
 * https://github.com/uyjulian/krkrv  
 * https://github.com/weimingtom/tvpcn  
 from https://archive.codeplex.com/?p=tvpcn  
+* (dead) http://tvpcn.codeplex.com/  
 
 ## kirikiri3-legacy  
 * https://github.com/w-dee/kirikiri3-legacy  
