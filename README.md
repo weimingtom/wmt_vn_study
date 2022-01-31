@@ -486,3 +486,8 @@ http://khmix.sakura.ne.jp/download.shtml
 ## kipgba (for GBA)  
 * (origin, dead) http://kaoriha.org/kip/  
 
+## yanSDK (yaneurao game script), YaneuraoGameSDK.NET  
+* NOTICE: before C++, currently perhaps no VN Script Engine    
+* (origin) http://yanesdkdotnet.sourceforge.jp/  
+* (origin, dead) http://ygs2k.xrea.jp/  
+
