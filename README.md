@@ -482,3 +482,7 @@ http://khmix.sakura.ne.jp/download.shtml
 ## avg-plus  
 * https://github.com/avg-plus/avg.renderer  
 * http://demo.avg-engine.com  
+
+## kipgba (for GBA)  
+* (origin, dead) http://kaoriha.org/kip/  
+
