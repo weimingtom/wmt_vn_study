@@ -192,6 +192,7 @@ from https://archive.codeplex.com/?p=tvpcn
 * Clannad FV (Full Voice) not support  
 * https://github.com/Mysterious-tk/onscripter-for-iOS-GBK/tree/master/xclannad  
 * https://github.com/natdon/ONScripter-CN  
+* https://github.com/toktc/onscripter-for-iOS-GBK/tree/master/xclannad  
 
 ## xkanon  
 * (origin, dead) http://www.creator.club.ne.jp/~jagarl/xkanon.html  
