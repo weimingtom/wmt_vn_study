@@ -142,6 +142,7 @@ https://crazism.net/2055.html
 * https://github.com/weimingtom/tvpcn  
 from https://archive.codeplex.com/?p=tvpcn  
 * (dead) http://tvpcn.codeplex.com/  
+* (English doc) http://kirikirikag.sourceforge.net/contents/index.html  
 
 ## kirikiri3-legacy  
 * https://github.com/w-dee/kirikiri3-legacy  
