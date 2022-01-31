@@ -253,6 +253,7 @@ from https://archive.codeplex.com/?p=tvpcn
 * search baidupan, xsystem35-1.7.2.tar.gz  
 * https://github.com/PSP-Archive/XSystem35-Lite  
 * search baidupan, xsystem35_android_src_173pre5-katane1.tbz2  
+* https://github.com/natdon/ONScripter-CN/tree/master/jni/app_xsystem35  
 
 ## System4 (closed source)    
 * (origin) http://kei.stbbs.net/rubyeye/sys40/sdk_dl.html  
