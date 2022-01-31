@@ -497,3 +497,6 @@ http://khmix.sakura.ne.jp/download.shtml
 * (origin) http://yanesdkdotnet.sourceforge.jp/  
 * (origin, dead) http://ygs2k.xrea.jp/  
 
+## vnds  
+* (origin, dead) http://digital-haze.net/projects/vnds.html  
+* (origin, dead) https://play.google.com/store/apps/details?id=com.qberty.narcissu  
