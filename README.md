@@ -34,6 +34,7 @@ https://blog.csdn.net/umier2000/article/details/84149473
 * Mac上玩部分文字AVG的方法  
 https://crazism.net/2055.html  
 * https://ultrapre.github.io/clip/  
+* (only patches, like xsystem35, onscripter, xkanon) http://fjts.org/~m/Install/PrivPorts/  
 
 ## nscripter  
 * http://www.nscripter.com  
