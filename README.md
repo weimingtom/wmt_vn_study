@@ -490,11 +490,12 @@ http://khmix.sakura.ne.jp/download.shtml
 * https://github.com/avg-plus/avg.renderer  
 * http://demo.avg-engine.com  
 
-## kipgba (for GBA)  
-* (origin, dead) http://kaoriha.org/kip/  
+## kipgba (for GBA), 希望入りパン菓子    
+* (origin) http://kaoriha.org/kip/  
+* Visual Reading Story『希望入りパン菓子』はWindows用ソフトウェアです。体験版がGameBoy Advance上に移植されました。  
 
 ## yanSDK (yaneurao game script), YaneuraoGameSDK.NET  
-* NOTICE: before C++, currently perhaps no VN Script Engine    
+* NOTICE: before was C++, currently perhaps no VN Script Engine    
 * (origin) http://yanesdkdotnet.sourceforge.jp/  
 * (origin, dead) http://ygs2k.xrea.jp/  
 
