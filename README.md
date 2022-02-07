@@ -1,5 +1,5 @@
 # wmt_vn_study
-My visual novel game engine study projects
+My visual novel game engine study projects (or something about...)  
 
 ```
 昨夜雨疏风骤，浓睡不消残酒。试问卷帘人，却道海棠依旧。知否，知否？应是绿肥红瘦。  
@@ -251,6 +251,9 @@ from https://archive.codeplex.com/?p=tvpcn
 
 ## PS2版『ToHeart2』をP/ECE用にコンバートして実行『好き好きタマお姉ちゃん』  
 * https://github.com/zurachu/pceth2  
+
+## XMulti, X11 mascot based on gal-game "To Heart"  
+* http://www.denpa.org/~go/xmulti/  
 
 ## xsystem35, System35, System3    
 * https://github.com/kichikuou/system3-sdl2  
