@@ -249,6 +249,9 @@ from https://archive.codeplex.com/?p=tvpcn
 * http://www.at.sakura.ne.jp/~suz/MGL2/index.html  
 * MobileGearII for DoCoMo: NEC's PDA  
 
+## PS2版『ToHeart2』をP/ECE用にコンバートして実行『好き好きタマお姉ちゃん』  
+* https://github.com/zurachu/pceth2  
+
 ## xsystem35, System35, System3    
 * https://github.com/kichikuou/system3-sdl2  
 * https://github.com/kichikuou/xsystem35-sdl2  
