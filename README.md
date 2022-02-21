@@ -119,6 +119,7 @@ https://crazism.net/2055.html
 * search baidupan, onscripter_jh_sdl2_fork_v1.rar  
 
 ## 吉里吉里Z, kirikiri2, krkrz, kirikiriz, krkrsdl2  
+* (origin) https://github.com/krkrz/krkr2  
 * (origin, dead) https://sv.kikyou.info/svn/kirikiri2/trunk/  
 * (origin, dead) https://sv.kikyou.info/svn/kirikiri2/trunk/kirikiri2/src/core/tjs2  
 * https://github.com/jeeb/kirikiri2  
