@@ -10,6 +10,7 @@ My visual novel game engine study projects (or something about...)
 * https://gitee.com/weimingtom2000/onscripter_csharp  
 
 ## TODO  
+* win7 vm, build krkrsdl2  
 * (done) search baidupan, nscripter_java_20200829_replace_moon.rar    
 * I:\work_onscripter_csharp  
 * onsharp_v1.rar  
