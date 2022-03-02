@@ -516,3 +516,6 @@ http://khmix.sakura.ne.jp/download.shtml
 ## vnds  
 * (origin, dead) http://digital-haze.net/projects/vnds.html  
 * (origin, dead) https://play.google.com/store/apps/details?id=com.qberty.narcissu  
+
+## INSTEAD - Simple Text Adventure Interpreter (with Lua)  
+https://github.com/instead-hub/instead  
