@@ -518,4 +518,6 @@ http://khmix.sakura.ne.jp/download.shtml
 * (origin, dead) https://play.google.com/store/apps/details?id=com.qberty.narcissu  
 
 ## INSTEAD - Simple Text Adventure Interpreter (with Lua)  
-https://github.com/instead-hub/instead  
+* (origin) http://instead.hugeping.ru/#about  
+* (origin) https://github.com/instead-hub/instead  
+* (origin) https://f-droid.org/en/packages/org.emunix.insteadlauncher/  
