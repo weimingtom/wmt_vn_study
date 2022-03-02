@@ -53,6 +53,9 @@ https://crazism.net/2055.html
 * https://github.com/weimingtom/eriri/tree/master/rubysdl  
 * https://github.com/PSP-Archive/ONScripter-for-PSP  
 * search baidupan, onscripter_android_src_20120711.tar.bz2  
+* raspberry pi, apt-cache search nscripter, onscripter_20220123.orig.tar.gz  
+onscripter - Visual novel games engine compatible to NScripter  
+https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/o/onscripter/  
 
 ## onscripter-en   
 * (origin, dead) http://unclemion.com/onscripter/releases/  
