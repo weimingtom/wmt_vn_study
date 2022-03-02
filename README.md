@@ -220,6 +220,9 @@ from https://archive.codeplex.com/?p=tvpcn
 * rlvm game data, search baidupan, kanon_se_ori.rar  
 * rlvm game data, search baidupan, planetarian_steam_english.rar  
 * https://github.com/weimingtom/wmt_vn_study/blob/master/build_rlvm.txt  
+* raspberry pi, apt-cache search rlvm, rlvm_0.14.orig.tar.gz  
+rlvm - RealLive virtual machine clone  
+https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/r/rlvm/  
 
 ## waffle, わっふる  
 * (origin, dead) http://waffle.bunkasha.co.jp  
