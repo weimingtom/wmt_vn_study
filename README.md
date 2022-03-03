@@ -9,6 +9,10 @@ My visual novel game engine study projects (or something about...)
 ## TODO, onscripter_csharp  
 * https://gitee.com/weimingtom2000/onscripter_csharp  
 
+## TODO, krkrsdl2  
+* krkrsdl2_github_20220221_full.tar.gz  
+* krkrsdl2_v3.rar  
+
 ## TODO  
 * win7 vm, build krkrsdl2  
 * (done) search baidupan, nscripter_java_20200829_replace_moon.rar    
