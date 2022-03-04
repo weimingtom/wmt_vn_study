@@ -525,3 +525,7 @@ http://khmix.sakura.ne.jp/download.shtml
 * (origin) http://instead.hugeping.ru/#about  
 * (origin) https://github.com/instead-hub/instead  
 * (origin) https://f-droid.org/en/packages/org.emunix.insteadlauncher/  
+
+## Novelsphere  
+* (origin) http://novelsphere.jp  
+* (origin) https://github.com/novelsphere/nsdemo  
