@@ -530,3 +530,9 @@ http://khmix.sakura.ne.jp/download.shtml
 ## Novelsphere  
 * (origin) http://novelsphere.jp  
 * (origin) https://github.com/novelsphere/nsdemo  
+
+## ISM  
+* http://hp.vector.co.jp/authors/VA000482/  
+
+## SYSTEM-NNN  
+* http://www2s.biglobe.ne.jp/~tinyan/nyanlib/index.htm  
