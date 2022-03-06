@@ -418,6 +418,7 @@ http://khmix.sakura.ne.jp/download.shtml
 * mobi.galgames.mp-1.apk  
 
 ## crass  
+* (origin) http://galcrass.blog124.fc2blog.us  
 * https://github.com/shangjiaxuan/Crass-source  
 * https://github.com/rinrin-/crass  
 * search baidupan, AVG引擎+工具.rar  
