@@ -9,12 +9,8 @@ My visual novel game engine study projects (or something about...)
 ## TODO, onscripter_csharp  
 * https://gitee.com/weimingtom2000/onscripter_csharp  
 
-## TODO, krkrsdl2  
-* krkrsdl2_github_20220221_full.tar.gz  
-* krkrsdl2_v3.rar  
-
 ## TODO  
-* win7 vm, build krkrsdl2  
+* (done, but not tested) win7 vm, build krkrsdl2  
 * (done) search baidupan, nscripter_java_20200829_replace_moon.rar    
 * I:\work_onscripter_csharp  
 * onsharp_v1.rar  
@@ -155,7 +151,10 @@ from https://archive.codeplex.com/?p=tvpcn
 * (origin) https://github.com/krkrsdl2/krkrsdl2  
 * (origin) https://github.com/uyjulian/krkrsdl2  
 * (origin) https://github.com/krkrsdl2/kag3  
-* (TODO, only kag3 hello template, something crash) krkrsdl2_v9_gui_hello_success.rar  
+* (TODO) krkrsdl2_v9_gui_hello_success.rar  
+only kag3 hello template, something crash  
+* krkrsdl2_github_20220221_full.tar.gz  
+* krkrsdl2_v3.rar  
 
 ## kirikiri3-legacy  
 * https://github.com/w-dee/kirikiri3-legacy  
