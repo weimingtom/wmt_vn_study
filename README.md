@@ -145,7 +145,12 @@ https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/o/onscri
 * https://github.com/weimingtom/tvpcn  
 from https://archive.codeplex.com/?p=tvpcn  
 * (dead) http://tvpcn.codeplex.com/  
-* (English doc) http://kirikirikag.sourceforge.net/contents/index.html  
+* (English kag3 doc) http://kirikirikag.sourceforge.net/contents/index.html  
+* (doc) https://krkrz.github.io/documents/  
+* (doc) https://krkrz.github.io/krkr2doc/  
+* (tjs doc) https://krkrz.github.io/krkr2doc/tjs2doc/contents/index.html  
+* (kr2 doc) https://krkrz.github.io/krkr2doc/kr2doc/contents/index.html  
+* (kag3 doc) https://krkrz.github.io/krkr2doc/kag3doc/contents/index.html  
 
 ## krkrsdl2  
 * (origin) https://github.com/krkrsdl2/krkrsdl2  
