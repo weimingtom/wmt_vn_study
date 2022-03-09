@@ -126,14 +126,13 @@ https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/o/onscri
 * vs2013  
 * search baidupan, onscripter_jh_sdl2_fork_v1.rar  
 
-## 吉里吉里Z, kirikiri2, krkrz, kirikiriz, krkrsdl2  
+## 吉里吉里Z, kirikiri2, krkrz, kirikiriz    
 * (origin) https://github.com/krkrz/krkr2  
 * (origin, dead) https://sv.kikyou.info/svn/kirikiri2/trunk/  
 * (origin, dead) https://sv.kikyou.info/svn/kirikiri2/trunk/kirikiri2/src/core/tjs2  
 * https://github.com/jeeb/kirikiri2  
 * (new) http://krkrz.github.io  
 * (new) https://krkrz.github.io/krkr2doc/  
-* https://github.com/krkrsdl2/krkrsdl2  
 * https://github.com/Yamilemon/webview_sdl_krkr  
 * https://github.com/krkrz/krkrz  
 * https://github.com/weimingtom/krkrz110_fork  
@@ -145,13 +144,18 @@ https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/o/onscri
 * https://tieba.baidu.com/p/6310593391  
 * search baidupan, krkrz_20171225r2.7z  
 * search baidupan, kag3ex2.zip  
-* https://github.com/uyjulian/krkrsdl2  
 * https://github.com/uyjulian/krkrs  
 * https://github.com/uyjulian/krkrv  
 * https://github.com/weimingtom/tvpcn  
 from https://archive.codeplex.com/?p=tvpcn  
 * (dead) http://tvpcn.codeplex.com/  
 * (English doc) http://kirikirikag.sourceforge.net/contents/index.html  
+
+## krkrsdl2  
+* (origin) https://github.com/krkrsdl2/krkrsdl2  
+* (origin) https://github.com/uyjulian/krkrsdl2  
+* (origin) https://github.com/krkrsdl2/kag3  
+* (TODO, only kag3 hello template, something crash) krkrsdl2_v9_gui_hello_success.rar  
 
 ## kirikiri3-legacy  
 * https://github.com/w-dee/kirikiri3-legacy  
