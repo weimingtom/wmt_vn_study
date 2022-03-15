@@ -238,6 +238,7 @@ only kag3 hello template, something crash
 * raspberry pi, apt-cache search rlvm, rlvm_0.14.orig.tar.gz  
 rlvm - RealLive virtual machine clone  
 https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/r/rlvm/  
+* https://github.com/eglaysher/rldev  
 
 ## waffle, わっふる  
 * (origin, dead) http://waffle.bunkasha.co.jp  
