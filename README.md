@@ -264,6 +264,9 @@ https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/r/rlvm/
 * https://github.com/jeeb/aquaplus-sources  
 * https://github.com/weimingtom/th2scriptengine  
 * search baidupan, sdtdump_v4.7z    
+* (IMP) min compile and run, search baidupan, th2scriptengine.7z  
+* ScriptEngine-0.0.1.rar  
+* ScriptEngine.7z  
 
 ## xlvns, Leaf Visual Novel System for X (XLVNS)    
 * (origin, ?) http://leafbsd.denpa.org  
