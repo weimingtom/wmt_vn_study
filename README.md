@@ -123,6 +123,12 @@ https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/o/onscri
 * vs2013  
 * search baidupan, onscripter_jh_sdl2_fork_v1.rar  
 
+## C&D Tools Win GUI  
+* (x) http://blog.livedoor.jp/tormtorm/  
+* (dead) http://www.geocities.jp/stm_torm/ons/tool.html  
+* http://iphonevisualnovel.wordpress.com/  
+* search baidupan, onscripter-tools_win.zip  
+
 ## 吉里吉里Z, kirikiri2, krkrz, kirikiriz    
 * (origin) https://github.com/krkrz/krkr2  
 * (origin, dead) https://sv.kikyou.info/svn/kirikiri2/trunk/  
