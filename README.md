@@ -131,7 +131,8 @@ https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/o/onscri
 
 ## Nspire上的类ONS游戏引擎KuroScripter  
 * by Anderain Ryu (Hikari no Uiharu)  
-* https://github.com/AnderainLovelace/KuroScripter  
+* (origin) http://anderainlovelace.github.io/KuroScripterHome/index.html  
+* (origin) https://github.com/AnderainLovelace/KuroScripter  
 
 ## 吉里吉里Z, kirikiri2, krkrz, kirikiriz    
 * (origin) https://github.com/krkrz/krkr2  
