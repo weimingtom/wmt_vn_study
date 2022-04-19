@@ -129,6 +129,10 @@ https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/o/onscri
 * http://iphonevisualnovel.wordpress.com/  
 * search baidupan, onscripter-tools_win.zip  
 
+## Nspire上的类ONS游戏引擎KuroScripter  
+* by Anderain Ryu (Hikari no Uiharu)  
+* https://github.com/AnderainLovelace/KuroScripter  
+
 ## 吉里吉里Z, kirikiri2, krkrz, kirikiriz    
 * (origin) https://github.com/krkrz/krkr2  
 * (origin, dead) https://sv.kikyou.info/svn/kirikiri2/trunk/  
