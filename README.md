@@ -133,6 +133,10 @@ https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/o/onscri
 * by Anderain Ryu (Hikari no Uiharu)  
 * (origin) http://anderainlovelace.github.io/KuroScripterHome/index.html  
 * (origin) https://github.com/AnderainLovelace/KuroScripter  
+* (origin, win32) krs_win32.zip (with game script template)  
+* https://anderainlovelace.github.io/KuroScripterHome/developer.html  
+* https://anderainlovelace.github.io/KuroScripterHome/files/krs_win32.zip  
+* https://github.com/AnderainLovelace/KuroScripterHome/tree/master/files  
 
 ## 吉里吉里Z, kirikiri2, krkrz, kirikiriz    
 * (origin) https://github.com/krkrz/krkr2  
