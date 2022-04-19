@@ -129,7 +129,7 @@ https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/o/onscri
 * http://iphonevisualnovel.wordpress.com/  
 * search baidupan, onscripter-tools_win.zip  
 
-## Nspire上的类ONS游戏引擎KuroScripter  
+## Nspire上的类ONS游戏引擎KuroScripter (with vc6 / win32 port)    
 * by Anderain Ryu (Hikari no Uiharu)  
 * (origin) http://anderainlovelace.github.io/KuroScripterHome/index.html  
 * (origin) https://github.com/AnderainLovelace/KuroScripter  
