@@ -490,7 +490,8 @@ http://khmix.sakura.ne.jp/download.shtml
 ## ponkan (for js)       
 * (origin) https://github.com/studiomikan/ponkan  
 
-## AMP  
+## AMP, 白枫AMP, using NGE2 by 白枫    
+* https://baike.baidu.com/item/amp/19446534  
 * search baiudpan, AMPv0.70(GALGAME).rar  
 
 ## (TODO) GalgameDemo (for Unity)      
