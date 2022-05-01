@@ -38,7 +38,7 @@ https://crazism.net/2055.html
 * (only patches, like xsystem35, onscripter, xkanon) http://fjts.org/~m/Install/PrivPorts/  
 * https://www.bilibili.com/read/cv1888505/  
 * https://www.zhihu.com/question/22981630  
-* 
+* https://www.bilibili.com/video/BV1qQ4y1k7Gs  
 
 ## nscripter  
 * http://www.nscripter.com  
