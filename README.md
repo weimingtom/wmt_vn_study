@@ -176,6 +176,7 @@ from https://archive.codeplex.com/?p=tvpcn
 only kag3 hello template, something crash  
 * krkrsdl2_github_20220221_full.tar.gz  
 * krkrsdl2_v3.rar  
+* krkrsdl2的作者给了一个示例（基于网页版），用了一个data.xp3，但我无论如何都解包不了里面的脚本文本（可以解出来，但乱码），用krkrsdl2的linux版程序却可以正常显示。今天我查出原因，可能是因为tjs和某些后缀文件是经过压缩的；tjs使用了unicode而非utf8。所以如果要解包，就要走两步：需要用一个支持xp3文本解压缩的解包器（ExtractData不行，只能用cr）；接出来的文本需要用特殊的支持Unicode字符集的阅读器（Notepad++也不行，我用的是bcomp）  
 
 ## kirikiri3-legacy  
 * https://github.com/w-dee/kirikiri3-legacy  
