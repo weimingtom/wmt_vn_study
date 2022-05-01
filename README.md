@@ -490,7 +490,8 @@ http://khmix.sakura.ne.jp/download.shtml
 ## ponkan (for js)       
 * (origin) https://github.com/studiomikan/ponkan  
 
-## AMP, 白枫AMP, using NGE2 by 白枫    
+## AVGMaker Portable, AMP, 白枫AMP, using NGE2 by 白枫    
+* https://baike.baidu.com/item/AVGMaker%20Portable/4156944  
 * https://baike.baidu.com/item/amp/19446534  
 * search baiudpan, AMPv0.70(GALGAME).rar  
 
