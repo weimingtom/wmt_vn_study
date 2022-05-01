@@ -36,6 +36,9 @@ https://blog.csdn.net/umier2000/article/details/84149473
 https://crazism.net/2055.html  
 * https://ultrapre.github.io/clip/  
 * (only patches, like xsystem35, onscripter, xkanon) http://fjts.org/~m/Install/PrivPorts/  
+* https://www.bilibili.com/read/cv1888505/  
+* https://www.zhihu.com/question/22981630  
+* 
 
 ## nscripter  
 * http://www.nscripter.com  
