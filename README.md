@@ -78,6 +78,11 @@ https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/o/onscri
 * search baidupan, NarcissuSetup[insani+Haeleth].exe  
 * https://github.com/playmer/onscripter-en  
 * https://github.com/sekaiproject/ponscripter-fork  
+* https://blog.51cto.com/weimingtom/1291000  
+编译onscripter-en  
+SDLOTHERCONFIG=--disable-assembly ./configure --std=gnu++98 --no-werror --with-internal-libs && make VERBOSE=true CSTD=-std=gnu99  
+注意，为了防止出现错误_wfopen、off64_t无定义错误，需要把-std=c++98换成--std=gnu++98，  
+把-std=c99换成-std=gnu99，以便把__STRICT_ANSI__的定义取消（相当于-U__STRICT_ANSI__）  
 
 ## onscripter by insani (see http://dev.haeleth.net/onscripter.shtml after 2007.04.08)    
 * (origin) http://nscripter.insani.org/onscripter.html  
