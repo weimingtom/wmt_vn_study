@@ -598,5 +598,4 @@ http://khmix.sakura.ne.jp/download.shtml
 
 ## xp3dumper  
 * (???) https://github.com/galaxy001/xp3dumpergui  
-* drag exe to exe to extract  
-
+* point to path, exe and xp3    
