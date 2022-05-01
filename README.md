@@ -583,3 +583,20 @@ http://khmix.sakura.ne.jp/download.shtml
 
 ## SYSTEM-NNN  
 * http://www2s.biglobe.ne.jp/~tinyan/nyanlib/index.htm  
+
+## KrkrExtract  
+* https://github.com/xmoeproject/KrkrExtract  
+* drag exe to exe to extract  
+
+## KrkrzExtract  
+* https://github.com/xmoeproject/KrkrzExtract  
+* drag exe to exe to extract  
+
+## xp3viewer  
+* (??? not sure) https://github.com/Inori/Xp3Viewer-AfterStory  
+* drag exe to exe to extract  
+
+## xp3dumper  
+* (???) https://github.com/galaxy001/xp3dumpergui  
+* drag exe to exe to extract  
+
