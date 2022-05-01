@@ -218,13 +218,21 @@ only kag3 hello template, something crash
 
 ## Artemis Engine, closed source    
 http://www.ies-net.com  
+* .iet, like ks  
+* .lua, lub, support lua, like tjs ???    
 
 ## Artroid+  
+* https://myskrpatch.tistory.com/82  
 * search Artroid+_2.0.apk  
+* remove all other files (if use Tyranor to patch, but it will make game broken),   
+* only need root.pfs and root.pfs.000 two files (rename .pfs to root.pfs, and .pfs.000)  
+* search morning.rar (only pfs)  
+* search Tyranor.rar (only extract files, see Tyranor)     
 
 ## Tyranor  
 * search Tyranor.apk  
 * put game upder /mnt/sdcard/Tyranor, like /mnt/sdcard/Tyranor/morning  
+* see Artroid+  
 
 ## RealLiveMax (closed source)    
 * http://www.product.co.jp/reallivemax/  
