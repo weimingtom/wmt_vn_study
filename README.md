@@ -216,6 +216,16 @@ only kag3 hello template, something crash
 * (origin) https://github.com/VariableD/the-nvl-maker-ex  
 * (origin) https://bitbucket.org/VariableD/the-nvl-maker/downloads/  
 
+## Artemis Engine, closed source    
+http://www.ies-net.com  
+
+## Artroid+  
+* search Artroid+_2.0.apk  
+
+## Tyranor  
+* search Tyranor.apk  
+* put game upder /mnt/sdcard/Tyranor, like /mnt/sdcard/Tyranor/morning  
+
 ## RealLiveMax (closed source)    
 * http://www.product.co.jp/reallivemax/  
 * search baidupan, RealLiveMax_SDK_20111129_006.zip, acttest.zip    
