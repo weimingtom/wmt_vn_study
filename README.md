@@ -146,6 +146,11 @@ SDLOTHERCONFIG=--disable-assembly ./configure --std=gnu++98 --no-werror --with-i
 * https://anderainlovelace.github.io/KuroScripterHome/files/krs_win32.zip  
 * https://github.com/AnderainLovelace/KuroScripterHome/tree/master/files  
 
+## onscripter-navy  
+* https://github.com/NJU-ProjectN/onscripter-navy  
+* https://ysyx.oscc.cc/docs/ics-pa/4.5.html#运行onscripter模拟器  
+* https://github.com/NJU-ProjectN/navy-apps/tree/ics2020/apps/onscripter  
+
 ## 吉里吉里Z, kirikiri2, krkrz, kirikiriz    
 * (origin) https://github.com/krkrz/krkr2  
 * (origin, dead) https://sv.kikyou.info/svn/kirikiri2/trunk/  
