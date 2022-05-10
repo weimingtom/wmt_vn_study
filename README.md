@@ -151,35 +151,38 @@ SDLOTHERCONFIG=--disable-assembly ./configure --std=gnu++98 --no-werror --with-i
 * https://ysyx.oscc.cc/docs/ics-pa/4.5.html#运行onscripter模拟器  
 * https://github.com/NJU-ProjectN/navy-apps/tree/ics2020/apps/onscripter  
 
-## 吉里吉里Z, kirikiri2, krkrz, kirikiriz    
+## 吉里吉里2, kirikiri2  
 * (origin) https://github.com/krkrz/krkr2  
 * (origin, dead) https://sv.kikyou.info/svn/kirikiri2/trunk/  
 * (origin, dead) https://sv.kikyou.info/svn/kirikiri2/trunk/kirikiri2/src/core/tjs2  
 * https://github.com/jeeb/kirikiri2  
-* (new) http://krkrz.github.io  
-* (new) https://krkrz.github.io/krkr2doc/  
-* https://github.com/Yamilemon/webview_sdl_krkr  
-* https://github.com/krkrz/krkrz  
-* https://github.com/weimingtom/krkrz110_fork  
-* https://github.com/krkrz/kag3  
 * http://www.mysteryparfait.com/kage-kirie/  
 * search baidupan, kage-kirie  
-* search baidupan, krkrz_20140803.zip  
 * search baidupan, AVG引擎+工具.rar  
 * https://tieba.baidu.com/p/6310593391  
-* search baidupan, krkrz_20171225r2.7z  
 * search baidupan, kag3ex2.zip  
-* https://github.com/uyjulian/krkrs  
-* https://github.com/uyjulian/krkrv  
 * https://github.com/weimingtom/tvpcn  
 from https://archive.codeplex.com/?p=tvpcn  
 * (dead) http://tvpcn.codeplex.com/  
 * (English kag3 doc) http://kirikirikag.sourceforge.net/contents/index.html  
+
+## 吉里吉里Z, krkrz, kirikiriz    
+* https://github.com/krkrz/krkrz_dev  
+* https://github.com/krkrz/krkrz  
+* https://github.com/weimingtom/krkrz110_fork  
+* https://github.com/krkrz/kag3  
+* https://github.com/Yamilemon/webview_sdl_krkr  
 * (doc) https://krkrz.github.io/documents/  
 * (doc) https://krkrz.github.io/krkr2doc/  
 * (tjs doc) https://krkrz.github.io/krkr2doc/tjs2doc/contents/index.html  
 * (kr2 doc) https://krkrz.github.io/krkr2doc/kr2doc/contents/index.html  
 * (kag3 doc) https://krkrz.github.io/krkr2doc/kag3doc/contents/index.html  
+* (new) http://krkrz.github.io  
+* (new) https://krkrz.github.io/krkr2doc/  
+* search baidupan, krkrz_20140803.zip  
+* search baidupan, krkrz_20171225r2.7z  
+* https://github.com/uyjulian/krkrs  
+* https://github.com/uyjulian/krkrv  
 
 ## krkrsdl2  
 * (origin) https://github.com/krkrsdl2/krkrsdl2  
