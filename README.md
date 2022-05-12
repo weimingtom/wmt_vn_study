@@ -188,7 +188,7 @@ from https://archive.codeplex.com/?p=tvpcn
 * (origin) https://github.com/krkrsdl2/krkrsdl2  
 * (origin) https://github.com/uyjulian/krkrsdl2  
 * (origin) https://github.com/krkrsdl2/kag3  
-* (TODO) krkrsdl2_v9_gui_hello_success.rar  
+* (vs2013) krkrsdl2_v14_crash_fix.rar  
 only kag3 hello template, something crash  
 * krkrsdl2_github_20220221_full.tar.gz  
 * krkrsdl2_v3.rar  
