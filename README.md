@@ -553,6 +553,7 @@ http://khmix.sakura.ne.jp/download.shtml
 
 ## 橙光  
 * https://www.66rpg.com  
+* search 橙光文字游戏制作工具1.15.64.1125.exe  
 
 ## LiveMaker  
 * http://www.livemaker.net  
