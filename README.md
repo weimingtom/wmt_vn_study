@@ -375,6 +375,40 @@ https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/r/rlvm/
 ## (TODO) OpenGame.exe (for CSharp)  
 * https://github.com/aphadeon/OpenGame.exe  
 
+## rmxp4droid  
+* http://blog.csdn.net/cxy1238/article/details/12253745    
+* search rmxp4droid2.4.rar  
+* https://github.com/weimingtom/wmt_todo_list/blob/master/README_001.md  
+
+## Ancurio/mkxp
+https://github.com/Ancurio/mkxp
+
+## weimingtom/rpg2kemuMod  
+https://github.com/weimingtom/rpg2kemuMod  
+
+## rm20xx-android  
+https://code.google.com/archive/p/rm20xx-android/  
+https://github.com/weimingtom/rm20xx-android  
+
+## zh99998/OpenRGSS-RPGMaker  
+https://github.com/zh99998/OpenRGSS-RPGMaker  
+
+## rpg2kemu / rpg2k  
+EasyRPG/Player  
+https://github.com/EasyRPG/Player  
+
+## take-cheeze/rpg2kemu  
+https://github.com/take-cheeze/rpg2kemu  
+
+## take-cheeze/librpg2k  
+https://github.com/take-cheeze/librpg2k  
+
+## take-cheeze/rpgtukuru-iphone  
+https://github.com/take-cheeze/rpgtukuru-iphone  
+
+## cjv123/RPG  
+https://github.com/cjv123/RPG  
+
 ## nokscript  
 * https://github.com/yohokuno/suzuri  
 * https://github.com/weimingtom/nokscript_java  
