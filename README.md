@@ -356,6 +356,7 @@ https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/r/rlvm/
 ## OpenRGSS (for Ruby)    
 * (origin) https://github.com/zh99998/OpenRGSS-RPGMaker  
 * https://github.com/weimingtom/OpenRGSS-RPGMaker  
+* 2016-8-19 15:31 来自 微博 weibo.com, 昨天研究openrgss, 看代码以为可以运行rpgmaker xp的工程，但实际上最好运行vx的工程，因为有个接口有区别（这个项目没有实现Tilemap的tileset属性，导致Spriteset_Map报错）。更神奇的是，在网上找到某些版本的vx创建的工程会导致sdl报错，只有某个版本的可以正常运行。其实这个项目可以简单理解为把官方文档的接口描述用开源的方式实现出来。  
 
 ## rpg2k, rpgmaker (for java)      
 * search baidupan, rpg2kemu.7z  
