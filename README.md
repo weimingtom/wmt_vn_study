@@ -308,6 +308,9 @@ https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/r/rlvm/
 * (dead) http://dev.haeleth.net/kurokoge/KurokogeSource.dmg  
 * https://tmkk.undo.jp/kurokoge/  
 
+## BLESS on AVG32  
+* search bless_avg32_1.4.tar.gz  
+
 ## aquaplus-sources, ToHeart 2 XRATED  
 * (origin) http://leaf.aquaplus.co.jp/product/xvid.html  
 * (origin, dead) http://tlwiki.org/index.php?title=Tools  
