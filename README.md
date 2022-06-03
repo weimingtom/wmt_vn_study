@@ -312,6 +312,8 @@ https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/r/rlvm/
 * (dead) http://dev.haeleth.net/kurokoge.shtml  
 * (dead) http://dev.haeleth.net/kurokoge/KurokogeSource.dmg  
 * https://tmkk.undo.jp/kurokoge/  
+* search KurokogeSource.dmg  
+* https://github.com/weimingtom/xclannad_fork/tree/master/vendor/haeleth/Kurokoge  
 
 ## BLESS on AVG32  
 * search bless_avg32_1.4.tar.gz  
