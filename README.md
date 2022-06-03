@@ -271,6 +271,7 @@ $ ninja -C _build
 * https://github.com/Mysterious-tk/onscripter-for-iOS-GBK/tree/master/xclannad  
 * https://github.com/natdon/ONScripter-CN  
 * https://github.com/toktc/onscripter-for-iOS-GBK/tree/master/xclannad  
+* (**TODO**) search xclannad-7hc.tar.gz  
 
 ## xkanon  
 * (origin, dead) http://www.creator.club.ne.jp/~jagarl/xkanon.html  
