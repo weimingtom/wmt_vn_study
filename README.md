@@ -165,6 +165,7 @@ SDLOTHERCONFIG=--disable-assembly ./configure --std=gnu++98 --no-werror --with-i
 from https://archive.codeplex.com/?p=tvpcn  
 * (dead) http://tvpcn.codeplex.com/  
 * (English kag3 doc) http://kirikirikag.sourceforge.net/contents/index.html  
+* (2014-11-19 to 2017-03-17, svn) kirikiri2.7z  
 
 ## 吉里吉里Z, krkrz, kirikiriz    
 * https://github.com/krkrz/krkrz_dev  
