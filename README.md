@@ -682,3 +682,7 @@ http://khmix.sakura.ne.jp/download.shtml
 
 ## web_maker  
 * http://milk0824.sakura.ne.jp/web_maker/  
+
+## mjdev  
+* http://dev.haeleth.net/majiro.shtml  
+* mjdev.rar  
