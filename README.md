@@ -172,6 +172,7 @@ from https://archive.codeplex.com/?p=tvpcn
 * https://github.com/krkrz/krkrz_dev  
 * https://github.com/krkrz/krkrz  
 * https://github.com/weimingtom/krkrz110_fork  
+* search krkrz-1.1.0_vs2010_v3_font_fixed.rar  
 * https://github.com/krkrz/kag3  
 * https://github.com/Yamilemon/webview_sdl_krkr  
 * (doc) https://krkrz.github.io/documents/  
