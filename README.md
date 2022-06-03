@@ -262,6 +262,9 @@ $ ninja -C _build
 * put game upder /mnt/sdcard/Tyranor, like /mnt/sdcard/Tyranor/morning  
 * see Artroid+  
 
+## KCDDP KAGeXpress 3.0  
+* search 吉里吉里v2.0.exe  
+
 ## RealLiveMax (closed source)    
 * http://www.product.co.jp/reallivemax/  
 * search baidupan, RealLiveMax_SDK_20111129_006.zip, acttest.zip    
