@@ -168,12 +168,15 @@ from https://archive.codeplex.com/?p=tvpcn
 * (2014-11-19 to 2017-03-17, 20170507 archive, svn) kirikiri2.7z  
 * (2017-09-01, svn) kirikiri_svn.7z  
 * (2012-11-09, may be svn) 51CTO下载-kirikiri2.zip  
+* (20080908, 2.30.2.416) kr2_230r2.lzh  
 
 ## 吉里吉里Z, krkrz, kirikiriz    
 * https://github.com/krkrz/krkrz_dev  
 * https://github.com/krkrz/krkrz  
 * https://github.com/weimingtom/krkrz110_fork  
-* search krkrz-1.1.0_vs2010_v3_font_fixed.rar  
+* (20180623) krkrz-1.1.0_vs2010_v3_font_fixed.rar  
+* (20170901) krkrz-1.1.0_tjs_v1_full.rar  
+* (20170901) krkrz-1.1.0_tjs_v6_min.rar  
 * https://github.com/krkrz/kag3  
 * https://github.com/Yamilemon/webview_sdl_krkr  
 * (doc) https://krkrz.github.io/documents/  
@@ -211,6 +214,8 @@ $ ninja -C _build
 ## KKDE  
 * (origin) https://github.com/mryp/kkde  
 * (origin) https://osdn.net/projects/kkde/  
+* (origin, dead) http://www.poringsoft.net/cnt/program/kkde2/index.html  
+* search kkde_200a3.zip  
 
 ## habakiri, kirikirij, kirikiri2 java (for Android and PC)     
 * (origin) http://www.kaede-software.com/2011/11/2_for_javaandro.html  
