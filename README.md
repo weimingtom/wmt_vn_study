@@ -281,6 +281,8 @@ $ ninja -C _build
 * KANON_SE (Standard Edition) not support  
 * (**TODO**) xkanon-gtk2-090830.tar.gz  
 * (**TODO**) xkanon-071209.tar.gz  
+* (origin, dead) http://dev.haeleth.net/xkanon.shtml  
+* xkanon-haeleth.tar.bz2  
 
 ## rlvm  
 * (origin) http://www.rlvm.net  
