@@ -315,6 +315,7 @@ https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/r/rlvm/
 * search bless_avg32_1.4.tar.gz  
 
 ## rldev  
+* (origin, dead) http://dev.haeleth.net/rldev.shtml  
 * rldev-1.40.tar.bz2  
 * rlBabel-src-1.43.rar  
 
