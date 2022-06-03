@@ -566,7 +566,7 @@ http://khmix.sakura.ne.jp/download.shtml
 * https://github.com/TragedyGod/GalgameDemo  
 
 ## 恋愛シミュレーションツクール２, 恋爱游戏制作大师2  
-* search baidupan, 恋爱游戏制作大师2  
+* search baidupan and 115, 恋爱游戏制作大师2, 恋爱游戏创作大师2   
 
 ## Nova (for Unity)      
 * (origin) https://github.com/Lunatic-Works/Nova  
