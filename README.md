@@ -157,7 +157,7 @@ SDLOTHERCONFIG=--disable-assembly ./configure --std=gnu++98 --no-werror --with-i
 * (origin, dead) https://sv.kikyou.info/svn/kirikiri2/trunk/kirikiri2/src/core/tjs2  
 * https://github.com/jeeb/kirikiri2  
 * http://www.mysteryparfait.com/kage-kirie/  
-* search baidupan, kage-kirie, Kage-kirie.zip    
+* search baidupan, kage-kirie, (2014-01-16) Kage-kirie.zip    
 * search baidupan, AVG引擎+工具.rar  
 * https://tieba.baidu.com/p/6310593391  
 * search baidupan, kag3ex2.zip  
@@ -165,8 +165,9 @@ SDLOTHERCONFIG=--disable-assembly ./configure --std=gnu++98 --no-werror --with-i
 from https://archive.codeplex.com/?p=tvpcn  
 * (dead) http://tvpcn.codeplex.com/  
 * (English kag3 doc) http://kirikirikag.sourceforge.net/contents/index.html  
-* (2014-11-19 to 2017-03-17, svn) kirikiri2.7z  
-* (?, svn) kirikiri_svn.7z  
+* (2014-11-19 to 2017-03-17, 20170507 archive, svn) kirikiri2.7z  
+* (2017-09-01, svn) kirikiri_svn.7z  
+* (2012-11-09, may be svn) 51CTO下载-kirikiri2.zip  
 
 ## 吉里吉里Z, krkrz, kirikiriz    
 * https://github.com/krkrz/krkrz_dev  
