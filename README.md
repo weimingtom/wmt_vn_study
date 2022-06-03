@@ -314,6 +314,10 @@ https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/r/rlvm/
 ## BLESS on AVG32  
 * search bless_avg32_1.4.tar.gz  
 
+## rldev  
+* rldev-1.40.tar.bz2  
+* rlBabel-src-1.43.rar  
+
 ## aquaplus-sources, ToHeart 2 XRATED  
 * (origin) http://leaf.aquaplus.co.jp/product/xvid.html  
 * (origin, dead) http://tlwiki.org/index.php?title=Tools  
