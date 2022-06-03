@@ -279,6 +279,8 @@ $ ninja -C _build
 * https://github.com/weimingtom/xkanon_fork  
 * search baidupan, [fyd09@古河渚吧][990604]Kanon_初回版.rar    
 * KANON_SE (Standard Edition) not support  
+* (**TODO**) xkanon-gtk2-090830.tar.gz  
+* (**TODO**) xkanon-071209.tar.gz  
 
 ## rlvm  
 * (origin) http://www.rlvm.net  
