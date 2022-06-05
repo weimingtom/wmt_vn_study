@@ -151,6 +151,9 @@ SDLOTHERCONFIG=--disable-assembly ./configure --std=gnu++98 --no-werror --with-i
 * https://ysyx.oscc.cc/docs/ics-pa/4.5.html#运行onscripter模拟器  
 * https://github.com/NJU-ProjectN/navy-apps/tree/ics2020/apps/onscripter  
 
+## fnscripter  
+* https://github.com/weimingtom/fnscripter  
+
 ## 吉里吉里2, kirikiri2  
 * (origin) https://github.com/krkrz/krkr2  
 * (origin, dead) https://sv.kikyou.info/svn/kirikiri2/trunk/  
