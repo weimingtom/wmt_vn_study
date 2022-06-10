@@ -703,3 +703,9 @@ http://khmix.sakura.ne.jp/download.shtml
 ## mjdev  
 * http://dev.haeleth.net/majiro.shtml  
 * mjdev.rar  
+
+## VisualNovelUpscaler  
+* https://github.com/hokejyo/VisualNovelUpscaler  
+* krkr4K  
+* https://jump2.bdimg.com/p/7602331921  
+
