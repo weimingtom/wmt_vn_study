@@ -709,3 +709,10 @@ http://khmix.sakura.ne.jp/download.shtml
 * krkr4K  
 * https://jump2.bdimg.com/p/7602331921  
 
+## galgametools  
+* https://github.com/poly000/galgametools  
+
+## galgametools  
+* (removed) https://github.com/number201724/GalGameTools  
+* see weimingtom fork  
+
