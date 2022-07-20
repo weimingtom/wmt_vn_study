@@ -716,3 +716,6 @@ http://khmix.sakura.ne.jp/download.shtml
 * (removed) https://github.com/number201724/GalGameTools  
 * see weimingtom fork  
 
+## Textractor  
+* https://github.com/Artikash/Textractor  
+
