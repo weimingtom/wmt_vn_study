@@ -719,3 +719,8 @@ http://khmix.sakura.ne.jp/download.shtml
 ## Textractor  
 * https://github.com/Artikash/Textractor  
 
+## MisakaTranslator  
+* https://github.com/hanmin0822/MisakaTranslator  
+
+## yotsukiGameTextTools  
+* https://github.com/yotsuki/yotsukiGameTextTools  
