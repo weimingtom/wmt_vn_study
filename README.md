@@ -689,6 +689,7 @@ http://khmix.sakura.ne.jp/download.shtml
 ## xp3viewer  
 * (??? not sure) https://github.com/Inori/Xp3Viewer-AfterStory  
 * drag exe to exe to extract  
+* (??? not sure) https://github.com/number201724/GalGameTools/blob/master/KAG/XP3Viewer.exe  
 
 ## xp3dumper  
 * (???) https://github.com/galaxy001/xp3dumpergui  
@@ -714,7 +715,7 @@ http://khmix.sakura.ne.jp/download.shtml
 * https://github.com/poly000/galgametools  
 
 ## galgametools  
-* (removed) https://github.com/number201724/GalGameTools  
+* (origin, removed ? come back) https://github.com/number201724/GalGameTools  
 * see weimingtom fork  
 
 ## Textractor  
