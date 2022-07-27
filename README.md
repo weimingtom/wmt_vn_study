@@ -97,6 +97,7 @@ SDLOTHERCONFIG=--disable-assembly ./configure --std=gnu++98 --no-werror --with-i
 ## onscripter-jh SDL2 branch (also include SDL 1.2 branch)    
 * (origin, dead) https://bitbucket.org/jh10001/onscripter-jh  
 * (origin, archived) https://github.com/uyjulian/onscripter-jh  
+* (origin) https://github.com/jh10001/ONScripter-Jh  
 * https://github.com/LasmGratel/onscripter-jh  
 (original name) https://github.com/NanamiArihara/onscripter-jh  
 * https://github.com/weimingtom/onscripter_jh_sdl2_fork  
