@@ -691,10 +691,12 @@ http://khmix.sakura.ne.jp/download.shtml
 * drag exe to exe to extract  
 * (??? not sure) https://github.com/number201724/GalGameTools/blob/master/KAG/XP3Viewer.exe  
 * (??? not sure) https://github.com/poly000/galgametools/blob/master/XP3Viewer/XP3Viewer.exe  
+* (??? not sure) https://github.com/poly000/galgametools/tree/master/XP3Viewer_12-02-06  
 
 ## xp3dumper  
 * (???) https://github.com/galaxy001/xp3dumpergui  
 * point to path, exe and xp3    
+* (???, not sure) https://github.com/poly000/galgametools/tree/master/xp3dumper/xp3dumper0.11  
 
 ## GARbro  
 * https://github.com/morkt/GARbro    
