@@ -690,6 +690,7 @@ http://khmix.sakura.ne.jp/download.shtml
 * (??? not sure) https://github.com/Inori/Xp3Viewer-AfterStory  
 * drag exe to exe to extract  
 * (??? not sure) https://github.com/number201724/GalGameTools/blob/master/KAG/XP3Viewer.exe  
+* (??? not sure) https://github.com/poly000/galgametools/blob/master/XP3Viewer/XP3Viewer.exe  
 
 ## xp3dumper  
 * (???) https://github.com/galaxy001/xp3dumpergui  
