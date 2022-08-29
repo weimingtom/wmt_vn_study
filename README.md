@@ -60,6 +60,7 @@ https://crazism.net/2055.html
 onscripter - Visual novel games engine compatible to NScripter  
 https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/o/onscripter/  
 * https://github.com/ljkgpxs/onscripter-GBK-2015  
+* https://github.com/Yeatse/ONScripter-iOS  
 
 ## onscripter-en   
 * (origin, dead) http://unclemion.com/onscripter/releases/  
