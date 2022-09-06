@@ -102,6 +102,7 @@ SDLOTHERCONFIG=--disable-assembly ./configure --std=gnu++98 --no-werror --with-i
 * https://github.com/LasmGratel/onscripter-jh  
 (original name) https://github.com/NanamiArihara/onscripter-jh  
 * https://github.com/weimingtom/onscripter_jh_sdl2_fork  
+* https://github.com/chf2000/ONScripter-Jh  
 
 ## MiNE, branch of ONScripter     
 * https://github.com/natdon/ONScripter-CN  
