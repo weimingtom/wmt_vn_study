@@ -106,6 +106,7 @@ SDLOTHERCONFIG=--disable-assembly ./configure --std=gnu++98 --no-werror --with-i
 * https://github.com/chf2000/ONScripter-Jh  
 * http://c.tieba.baidu.com/p/3395900252?pn=1  
 * search baidupan, sdl2.neon.apk  
+* macos sdl2, configure --prefix build, search baidupan, onscripter-jh_macos_prefix_build_v1.zip  
 
 ## MiNE, branch of ONScripter     
 * https://github.com/natdon/ONScripter-CN  
