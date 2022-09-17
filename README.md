@@ -62,6 +62,7 @@ https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/o/onscri
 * https://github.com/ljkgpxs/onscripter-GBK-2015  
 * https://github.com/Yeatse/ONScripter-iOS  
 * https://github.com/Mysterious-tk/onscripter-for-iOS-GBK  
+* NOTE, Some work see onscripter-jh, because onscripter-jh support SDL2 for iOS / MacOS, but onscripter use SDL 1.3  
 
 ## onscripter-en   
 * (origin, dead) http://unclemion.com/onscripter/releases/  
