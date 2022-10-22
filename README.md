@@ -297,6 +297,7 @@ $ ninja -C _build
 * (**TODO**) search xclannad-7hc.tar.gz  
 
 ## xkanon  
+* (origin) https://sirius10.net/Games/Xkanon.php  
 * (origin, dead) http://www.creator.club.ne.jp/~jagarl/xkanon.html  
 * (archive) https://web.archive.org/web/20100409004347/http://www.creator.club.ne.jp/~jagarl/xkanon.html  
 * https://github.com/weimingtom/xkanon_fork  
