@@ -339,7 +339,14 @@ https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/r/rlvm/
 * https://github.com/weimingtom/xclannad_fork/tree/master/vendor/haeleth/Kurokoge  
 
 ## BLESS on AVG32  
-* search bless_avg32_1.4.tar.gz  
+* (origin) https://sirius10.net/Games/Bless.php  
+* この BLESS on AVG32 は JAGARL さんが作成してくださったプログラムです  
+* sirius が作成したこのパッチも GPL とします。こうしてソースを公開してくださったおかげで、Raspberry Pi で BLESS を楽しむことができました。  
+* search bless_avg32_1.4.tar.gz, bless_avg32-rpi.patch.zip   
+* http://www.oberhumer.com/opensource/lzo/download/LZO-v1/  
+```
+patch -p1 < ../bless_avg32-rpi.patch  
+```
 
 ## rldev  
 * (origin, dead) http://dev.haeleth.net/rldev.shtml  
