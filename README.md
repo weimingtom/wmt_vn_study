@@ -745,3 +745,6 @@ http://khmix.sakura.ne.jp/download.shtml
 
 ## yotsukiGameTextTools  
 * https://github.com/yotsuki/yotsukiGameTextTools  
+
+## LunaTranslator  
+* https://github.com/HIllya51/LunaTranslator  
