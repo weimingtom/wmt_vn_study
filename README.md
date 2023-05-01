@@ -8,6 +8,8 @@ My visual novel game engine study projects (or something about...)
 
 ## TODO, onscripter_csharp  
 * https://gitee.com/weimingtom2000/onscripter_csharp  
+* plane-game-master_v1.rar  
+* https://github.com/hayuq/plane-game  
 
 ## TODO  
 * (TODO) record https://sirius10.net/Games/hgames.php  
