@@ -514,6 +514,7 @@ http://khmix.sakura.ne.jp/download.shtml
 * (origin) https://osdn.jp/projects/charactermanaj/  
 * https://github.com/weimingtom/MyChar  
 * https://github.com/weimingtom/charj  
+* LUM立绘纸娃娃  
 
 ## lanovee, らのべえ  
 * (origin) http://lanovee.e-frontier.co.jp  
