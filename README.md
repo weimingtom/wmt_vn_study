@@ -751,3 +751,7 @@ http://khmix.sakura.ne.jp/download.shtml
 
 ## LunaTranslator  
 * https://github.com/HIllya51/LunaTranslator  
+
+## ビジュアルノベル作成サイト  
+* http://plk.sakura.ne.jp/wvn/  
+* http://plk.sakura.ne.jp/wvn/dataview.html  
