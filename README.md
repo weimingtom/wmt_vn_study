@@ -698,11 +698,13 @@ http://khmix.sakura.ne.jp/download.shtml
 * http://www2s.biglobe.ne.jp/~tinyan/nyanlib/index.htm  
 
 ## KrkrExtract  
-* https://github.com/xmoeproject/KrkrExtract  
+* (dead) https://github.com/xmoeproject/KrkrExtract
+* (origin) https://github.com/xmoezzz/KrkrExtract  
 * drag exe to exe to extract  
 
 ## KrkrzExtract  
-* https://github.com/xmoeproject/KrkrzExtract  
+* (dead) https://github.com/xmoeproject/KrkrzExtract
+* (origin) https://github.com/xmoezzz/KrkrzExtract  
 * drag exe to exe to extract  
 
 ## xp3viewer  
