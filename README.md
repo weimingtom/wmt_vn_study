@@ -220,7 +220,9 @@ $ meson –prefix=/usr/local _build
 $ ninja -C _build  
 (not need) $ sudo ninja -C _build install  
 (or copy file _build/krkrsdl2 to somewhere)  
-(copy data.xp3 beside krkrsdl2 then) $ ./krkrsdl2  
+(copy data.xp3 beside krkrsdl2 then) $ ./krkrsdl2
+* https://github.com/krkrsdl2/krkrsdl2-kag3-demo
+https://www.bilibili.com/read/cv25481294/  
 
 ## kirikiri3-legacy  
 * https://github.com/w-dee/kirikiri3-legacy  
