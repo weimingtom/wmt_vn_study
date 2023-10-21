@@ -221,7 +221,8 @@ $ ninja -C _build
 (not need) $ sudo ninja -C _build install  
 (or copy file _build/krkrsdl2 to somewhere)  
 (copy data.xp3 beside krkrsdl2 then) $ ./krkrsdl2
-* https://github.com/krkrsdl2/krkrsdl2-kag3-demo  
+* https://github.com/krkrsdl2/krkrsdl2-kag3-demo
+教学 krkrz多平台 Kirikiri SDL2  
 https://www.bilibili.com/read/cv25481294/  
 
 ## kirikiri3-legacy  
