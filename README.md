@@ -760,3 +760,6 @@ http://khmix.sakura.ne.jp/download.shtml
 ## ビジュアルノベル作成サイト  
 * http://plk.sakura.ne.jp/wvn/  
 * http://plk.sakura.ne.jp/wvn/dataview.html  
+
+## gbabook  
+* https://github.com/weimingtom/gbabook  
