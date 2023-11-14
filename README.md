@@ -214,13 +214,14 @@ from https://archive.codeplex.com/?p=tvpcn
 * build method, see https://sirius10.net/blog/wordpress/index.php/2021/04/10/690/  
 (under xubuntu200464)   
 $ git clone –recursive https://github.com/uyjulian/krkrsdl2  
-$ sudo apt install ninja meson libsdl2-dev  
+$ sudo apt install ninja meson libsdl2-dev
+(or sudo apt install ninja-build meson libsdl2-dev)  
 $ cd krkrsdl2  
 $ meson –prefix=/usr/local _build  
 $ ninja -C _build  
 (not need) $ sudo ninja -C _build install  
 (or copy file _build/krkrsdl2 to somewhere)  
-(copy data.xp3 beside krkrsdl2 then) $ ./krkrsdl2
+(copy data.xp3 beside krkrsdl2 then) $ ./krkrsdl2  
 * https://github.com/krkrsdl2/krkrsdl2-kag3-demo  
 教学 krkrz多平台 Kirikiri SDL2  
 https://www.bilibili.com/read/cv25481294/  
