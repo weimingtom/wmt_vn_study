@@ -95,6 +95,7 @@ SDLOTHERCONFIG=--disable-assembly ./configure --std=gnu++98 --no-werror --with-i
 ## onscripter by insani (see http://dev.haeleth.net/onscripter.shtml after 2007.04.08)    
 * (origin) http://nscripter.insani.org/onscripter.html  
 * (origin) http://nscripter.insani.org/downloads/onscripter-20060724-insani.src.zip  
+* (origin) https://github.com/insani-org/onscripter-insani  
 * (dead) http://dev.haeleth.net/onscripter.shtml  
 
 ## ONSlaught - An ONScripter clone with Unicode support.  
