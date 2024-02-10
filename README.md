@@ -69,6 +69,8 @@ https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/o/onscri
 
 ## onscripter-en   
 * (origin, dead) http://unclemion.com/onscripter/releases/  
+* (origin) https://galladite.net/~galladite/ons-en/  
+* (origin) https://github.com/Galladite27/ONScripter-EN  
 * https://github.com/weimingtom/onscripter_en_fork2  
 * https://github.com/weimingtom/onscripter_en_fork2_sdlport2  
 * https://github.com/weimingtom/onscripter_en_fork
