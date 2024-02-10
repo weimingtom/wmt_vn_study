@@ -54,8 +54,12 @@ https://crazism.net/2055.html
 * https://fr.wikipedia.org/wiki/NScripter  
 
 ## onscripter  
-* https://onscripter.osdn.jp  
-* https://onscripter.osdn.jp/onscripter.html  
+* (origin) https://onscripter.osdn.jp  
+* (origin) https://onscripter.osdn.jp/onscripter.html  
+* (origin) https://github.com/ogapee/onscripter  
+* (origin) https://github.com/ogapee/onscripter_android  
+* (origin) https://github.com/ogapee/onscripter_win  
+* (origin) https://github.com/ogapee/onscripter_ios  
 * https://github.com/weimingtom/eriri/tree/master/rubysdl  
 * https://github.com/PSP-Archive/ONScripter-for-PSP  
 * search baidupan, onscripter_android_src_20120711.tar.bz2  
@@ -65,7 +69,7 @@ https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/o/onscri
 * https://github.com/ljkgpxs/onscripter-GBK-2015  
 * https://github.com/Yeatse/ONScripter-iOS  
 * https://github.com/Mysterious-tk/onscripter-for-iOS-GBK  
-* NOTE, Some work see onscripter-jh, because onscripter-jh support SDL2 for iOS / MacOS, but onscripter use SDL 1.3  
+* NOTE, Some work see onscripter-jh, because onscripter-jh support SDL2 for iOS / MacOS, but onscripter use SDL 1.3
 
 ## onscripter-en   
 * (origin, dead) http://unclemion.com/onscripter/releases/  
