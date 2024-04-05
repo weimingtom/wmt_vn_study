@@ -12,6 +12,9 @@ My visual novel game engine study projects (or something about...)
 * https://github.com/hayuq/plane-game  
 
 ## TODO  
+* https://mzp.hatenablog.com/entry/2023/12/23/110149  
+onscripter, ノベルゲーム移植の歴史, see yinxiangbiji   
+* http://michiaki.hatenablog.com/entry/20100716/1279290828    
 * (TODO) record https://sirius10.net/Games/hgames.php  
 * (done, but not tested) win7 vm, build krkrsdl2  
 * (done) search baidupan, nscripter_java_20200829_replace_moon.rar    
@@ -771,3 +774,17 @@ http://khmix.sakura.ne.jp/download.shtml
 
 ## gbabook  
 * https://github.com/weimingtom/gbabook  
+
+## simple pixel render study for Windows  
+* https://github.com/weimingtom/FastFireFrame_preview  
+* https://github.com/weimingtom/SSSPixel  
+* https://github.com/weimingtom/SimpleScriptSystem  
+* some code used in lvgldemo_*.rar for vs2013, like lvgldemo_832_v6_music.rar  
+* https://github.com/weimingtom/game_dino_vc6,loadBMPRaw, dumpBMPRaw  
+* https://github.com/weimingtom/twentylight/blob/master/vc6/Dib.h  
+* search badiupan, ddsview0663_src.zip, ddsview0663a.zip  
+* http://www.amnoid.de/ddsview/download.html  
+* http://openil.sourceforge.net/  
+* libpng write rgba  
+* https://blog.csdn.net/June_we/article/details/123420398  
+* https://github.com/weimingtom/luban-lite_fork_tools_vs2013  
