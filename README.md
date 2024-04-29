@@ -780,7 +780,8 @@ http://khmix.sakura.ne.jp/download.shtml
 * https://github.com/weimingtom/SSSPixel  
 * https://github.com/weimingtom/SimpleScriptSystem  
 * some code used in lvgldemo_*.rar for vs2013, like lvgldemo_832_v6_music.rar  
-* https://github.com/weimingtom/game_dino_vc6,loadBMPRaw, dumpBMPRaw  
+* https://github.com/weimingtom/game_dino_vc6  
+* (see upper) loadBMPRaw, dumpBMPRaw  
 * https://github.com/weimingtom/twentylight/blob/master/vc6/Dib.h  
 * search badiupan, ddsview0663_src.zip, ddsview0663a.zip  
 * http://www.amnoid.de/ddsview/download.html  
