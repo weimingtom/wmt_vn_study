@@ -791,8 +791,13 @@ http://khmix.sakura.ne.jp/download.shtml
 
 ## ITH
 * https://github.com/AndyScull/interactive-text-hooker  
+* Running under windows xp
+```
+ITH和ITHVNR在windows xp下拦截galgame日语文本（复制到剪贴板实现翻译功能）的效果。以前很常用的一个钩子提取日语文本软件，不过现在估计很少人用，win11下会运行失败。我几乎没用过。现在有很多更先进的工具，我觉得截图翻译也是可行的。怀旧用。ITH需要VC2010运行时，ITHVNR则需要VC2013运行时。ITHVNR多了一个unhook按钮，而且按钮内的对话框内容不同
+```
 
 ## ITHVNR  
 * https://github.com/mireado/ITHVNR/
 
-
+## TAHelper  
+* https://github.com/setsumi/TAHelper  
