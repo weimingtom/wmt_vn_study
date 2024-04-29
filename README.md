@@ -788,3 +788,11 @@ http://khmix.sakura.ne.jp/download.shtml
 * libpng write rgba  
 * https://blog.csdn.net/June_we/article/details/123420398  
 * https://github.com/weimingtom/luban-lite_fork_tools_vs2013  
+
+## ITH
+* https://github.com/AndyScull/interactive-text-hooker  
+
+## ITHVNR  
+* https://github.com/mireado/ITHVNR/
+
+
