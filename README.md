@@ -808,3 +808,11 @@ ITHVNR多了一个unhook按钮，而且按钮内的对话框内容不同
 
 ## TAHelper  
 * https://github.com/setsumi/TAHelper  
+
+## AGTH and Cp2Tran and etc  
+* 我好像记错了，其实ITH还有一个前驱者，叫AGTH，那个比ITH有名气得多——或者准确说ITH只是弥补了AGTH有些游戏不适用的缺点，基本上以前的人只会提及AGTH。还有一个比较有名的工具叫cp2tran，它应该算是很多galgame翻译工具的前身。这些工具都是时泪，不过就算是以前，我也很少用 ​​​  
+* https://tieba.baidu.com/p/2179634539  
+* https://code.google.com/p/annot-player/  
+* https://github.com/alexbft/chiitrans  
+* https://github.com/HIllya51/LunaHook  
+* https://github.com/Artikash/Textractor  
