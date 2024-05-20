@@ -816,3 +816,8 @@ ITHVNR多了一个unhook按钮，而且按钮内的对话框内容不同
 * https://github.com/alexbft/chiitrans  
 * https://github.com/HIllya51/LunaHook  
 * https://github.com/Artikash/Textractor  
+
+## Translation Aggregator  
+* https://github.com/Translation-Aggregator/Translation-Aggregator  
+* search baidupan, Translation Aggregator 0.2.9.rar, Source - Translation Aggregator 0.2.9.rar  
+* http://www.hongfire.com/forum/show thread.php?t=94395  
