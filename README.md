@@ -146,6 +146,13 @@ SDLOTHERCONFIG=--disable-assembly ./configure --std=gnu++98 --no-werror --with-i
 * https://github.com/nonakap/xnscripchan  
 * (TODO) search baidupan, xnscripchan_v3_vc6.rar  
 
+## onscripter-libretro  
+* (origin, dead?) https://github.com/iyzsong/onscripter-libretro   
+* (same) https://github.com/gouchi/onscripter-libretro  
+* search baidupan, onscripter-libretro    
+iyzsong_onscripter-libretro-main.zip   
+libretro-onscripter-deps-20240118.tar.xz   
+
 ## LONS  
 * (origin) https://gitee.com/only998/onscripter-lons  
 * search baidupan, onscripter_jh_sdl2_fork_lons_vs2013_v2_success.rar  
