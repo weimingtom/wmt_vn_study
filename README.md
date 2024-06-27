@@ -242,6 +242,52 @@ $ ninja -C _build
 * https://github.com/krkrsdl2/krkrsdl2-kag3-demo  
 教学 krkrz多平台 Kirikiri SDL2  
 https://www.bilibili.com/read/cv25481294/  
+* krkrsdl2 win32  
+https://krkrsdl2.github.io/krkrsdl2/en/
+```
+我看过krkrsdl2的官方发布版exe（现在发布包含了windows版），
+但似乎还是跑不了它自己demo里面那个xp3，如果换其他xp3会出现字符集问题（它应该只支持unicode字符集）——好想自己编译一下。
+我以前试过自己移植它到windows下（使用vs2013），如果能自己编译的话我希望顺便把它的安卓版也编译出来。当然目前只是打算，
+应该没具体计划
+```
+```
+我看过krkrsdl2的官方发布版exe（现在发布包含了windows版），但似乎还是跑不了它自己demo里面那个xp3
+（注：后来发现可以，需要解压Android同版本内的xp3文件），如果换其他xp3会出现字符集问题
+（它应该只支持unicode字符集，也许有办法绕过去，或者改代码）——好想自己编译一下。我以前试过自己移植它到windows下
+（使用vs2013），如果能自己编译的话我希望顺便把它的安卓版也编译出来。当然目前只是打算，应该没具体计划
+```
+```
+krkrsdl2的android版运行效果如下。不可以直接安装，需要先用JDK命令行程序签名打包（我用的是keystore文件签名，也可以用jks文件），
+例如这样：jarsigner -verbose -keystore mysign.keystore -signedjar krkrsdl2_o.apk krkrsdl2.apk mysign。
+不能指定xp3文件，只能运行内置的xp3文件资源。应该安卓4以上的机器都支持
+```
+* （TODO）cmake编译
+```
+我测试过xubuntu20下可以很顺利地用cmake编译krkrsdl2/krkrsdl2这个项目的linux版。方法类似于qmake：
+（1）git clone --recursive（2）mkdir build; cd build; cmake ..; (3) make，
+如果开8个线程编译的话需要4分钟左右，编译前900M，压缩360M（包括git本地），编译输出73M，从apk中提取的data.xp3是4.5M，
+可以正常运行./krkrsdl2（我这里先复制到外面后再执行：
+cp ./krkrsdl2 ../../krkrsdl2_releases; cd ../../krkrsdl2_releases;
+然后下载releases页面里apk解压得到data.xp3，gh上的releases页面是隐藏的，
+需要根据windows发布链接截取前面得到，发布链接在About右上角进入文档主页）
+```
+```
+那么android版的krkrsdl2如何编译呢？我测试过xubuntu20也可以顺利编译出so动态库，方法和linux版类似
+（1）先安装ndk，ndk的linux版可以单独下载解压，不需要装android studio或android sdk，
+另外ndk不带cmake，所以我选择用xubuntu编译（2）也是类似qmake的用法，
+和编译linux版的区别是需要加上一个-D开关指向一个cmake工具链文件，例如这样：
+mkdir build; cd build; cmake -DCMAKE_TOOLCHAIN_FILE=/home/wmt/work_krkrsdl2/android-ndk-r26d/build/cmake/android.toolchain.cmake ..
+（3）然后make，如果8线程编译，大概需要3分钟左右，如果遇到一个declaration-after-statment错误，
+你需要修改external/SDL/CMakeList.txt，把里面的-Werror=declaration-after-statment注释掉，
+这个错误是因为旧的标准C不支持声明放在语句后面，但新版支持（4）最后可以获得libmain.so和external/SDL/libSDL2.so这两个动态库，
+未测试是否有问题
+```
+```
+我测试过，用ADT编译krkrsdl2的Java部分，加入之前用cmake构建的so动态库文件两个，产生的apk包可以正常安装运行。
+只是因为krkrsdl2使用的SDL2代码的Java部分对旧安卓是会编译失败的，所以我去除了这部分代码
+```
+* search baiduapn, krkrsdl2_20240518_v1.tar.gz，linux版，krkrsdl2_releases_20240518_v1.tar.gz  
+* search baidupan, krkrsdl2_20240518_v2.tar.gz，安卓版（也可以编译linux版），krkrsdl2_releases_20240518_v2.tar.gz  
 
 ## kirikiri3-legacy  
 * https://github.com/w-dee/kirikiri3-legacy  
