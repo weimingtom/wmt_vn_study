@@ -187,6 +187,9 @@ libretro-onscripter-deps-20240118.tar.xz
 ## fnscripter  
 * https://github.com/weimingtom/fnscripter  
 
+## onscripter-vita  
+* https://gitee.com/yizhigai/onscripter-vita  
+
 ## 吉里吉里2, kirikiri2  
 * (origin) https://github.com/krkrz/krkr2  
 * (origin, dead) https://sv.kikyou.info/svn/kirikiri2/trunk/  
