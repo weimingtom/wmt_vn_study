@@ -122,6 +122,11 @@ SDLOTHERCONFIG=--disable-assembly ./configure --std=gnu++98 --no-werror --with-i
 * search baidupan, sdl2.neon.apk  
 * search baidupan, macos sdl2, configure --prefix build, search baidupan, onscripter-jh_macos_prefix_build_v1.zip  
 
+## psv-OnscripterJH / ONScripter-jh-PSVita    
+* https://www.gamebrew.org/wiki/ONScripterJH_Vita  
+* https://github.com/YuriSizuku/psv-OnscripterJH
+* https://github.com/wetor/ONScripter-jh-PSVita  
+
 ## MiNE, branch of ONScripter     
 * https://github.com/natdon/ONScripter-CN  
 * (TODO) search baidupan, ONScripter-CN  
