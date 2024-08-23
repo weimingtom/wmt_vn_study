@@ -421,7 +421,8 @@ waffle引擎
 除非有类似的linux实现（应该没有）
 sudo apt install macutils unar
 macunpack  
-hexbin  
+hexbin
+unar avg32-src-010701.sit.hqx  
 ```
 ```
   AVG32-like scriptor for Macintosh
