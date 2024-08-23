@@ -406,7 +406,15 @@ https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/r/rlvm/
 * https://github.com/eglaysher/rldev  
 
 ## waffle, わっふる  
-* (origin, dead) http://waffle.bunkasha.co.jp  
+* (origin, dead) http://waffle.bunkasha.co.jp
+* https://web.archive.org/web/20080430135655/http://waffle.bunkasha.co.jp/
+```
+これはなに？  
+よーするに、Visual Art's系のゲームで使われているAVG32用のスクリプトを、そのままMacintosh上で動かしてしまおーというものです。  
+現在は、これを使うより、改良／Carbon化版の「くろこげ」などを使うほうが良いでしょう。  
+通称「わっふる」 AVG32-like scriptor
+```
+* https://web.archive.org/web/20080314134252/http://waffle.bunkasha.co.jp/zau/
 * https://github.com/Ruin0x11/waffle_osx  
 * avg32-src-010701.sit.hqx, avg32_all.zip    
 ```
@@ -437,6 +445,13 @@ unar avg32-src-010701.sit.hqx
 　- AIR（Key）
   - and etc  
 ```
+* Waffle わっふる for PSP  
+https://archive.org/details/waffle-040116_psp
+* ポケットにさよならを
+https://nikuzaiku.web.fc2.com/pocket02.html
+* ゲーム関連日記  
+http://savaiv.blog81.fc2.com/blog-entry-292.html
+* 
 
 ## ??? akane  
 * akane-src-010909.zip  
