@@ -408,7 +408,7 @@ https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/r/rlvm/
 ## waffle, わっふる  
 * (origin, dead) http://waffle.bunkasha.co.jp  
 * https://github.com/Ruin0x11/waffle_osx  
-* avg32-src-010701.sit.hqx  
+* avg32-src-010701.sit.hqx, avg32_all.zip    
 ```
 ppc mac
 https://github.com/search?q=PBSetEOFAsync+InitWindows&type=code
