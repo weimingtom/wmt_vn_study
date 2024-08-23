@@ -445,13 +445,12 @@ unar avg32-src-010701.sit.hqx
 　- AIR（Key）
   - and etc  
 ```
-* Waffle わっふる for PSP  
-https://archive.org/details/waffle-040116_psp
-* ポケットにさよならを
-https://nikuzaiku.web.fc2.com/pocket02.html
+* Waffle わっふる for PSP   
+https://archive.org/details/waffle-040116_psp  
+* ポケットにさよならを  
+https://nikuzaiku.web.fc2.com/pocket02.html  
 * ゲーム関連日記  
-http://savaiv.blog81.fc2.com/blog-entry-292.html
-* 
+http://savaiv.blog81.fc2.com/blog-entry-292.html  
 
 ## ??? akane  
 * akane-src-010909.zip  
