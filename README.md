@@ -419,7 +419,13 @@ waffle引擎
 我考据过，实际上waffle引擎（AVG32）的源代码avg32-src-010701.sit.hqx可以用linux的unar命令解压（不需要额外参数，直接传双后缀的文件名），
 应该和gh上的代码一致。而且这份开源代码似乎是对应ppc mac的，所以里面提到的API是特定于ppc mac平台的（类似于WIN32 API那样），
 除非有类似的linux实现（应该没有）
+sudo apt install macutils unar
+macunpack  
+hexbin  
 ```
+
+## ??? akane  
+* akane-src-010909.zip  
 
 ## kurokoge, くろこげ  
 * (origin, dead) http://www001.upp.so-net.ne.jp/keta/kurokoge/  
