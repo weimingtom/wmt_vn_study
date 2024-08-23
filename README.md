@@ -423,6 +423,19 @@ sudo apt install macutils unar
 macunpack  
 hexbin  
 ```
+```
+  AVG32-like scriptor for Macintosh
+  AVG32 for Mac (AVG32-like scriptor for Macintosh) document
+  Copyright 2000-01, K.Takagi(Kenjo)
+  use IDE CodeWarrior6
+  MacOS 8.5 以上, MacOS 8.6 か OS 9, PowerPC G4を搭載したMacintosh
+　- Kanonデモ（Key）
+　- Kanon（Key）
+　- Kanon全年齢対象版（Key）
+　- AIRデモ（Key）
+　- AIR（Key）
+  - and etc  
+```
 
 ## ??? akane  
 * akane-src-010909.zip  
