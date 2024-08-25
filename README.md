@@ -78,6 +78,8 @@ https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/o/onscri
 * https://github.com/Yeatse/ONScripter-iOS  
 * https://github.com/Mysterious-tk/onscripter-for-iOS-GBK  
 * NOTE, Some work see onscripter-jh, because onscripter-jh support SDL2 for iOS / MacOS, but onscripter use SDL 1.3
+* ONScripter Launcher and Binary for Mac OS X  
+https://tmkk.undo.jp/onscripter/  
 
 ## onscripter-en   
 * (origin, dead) http://unclemion.com/onscripter/releases/  
@@ -461,12 +463,41 @@ http://savaiv.blog81.fc2.com/blog-entry-292.html
 * akane-src-010909.zip  
 
 ## kurokoge, くろこげ (former name わっふる, use Carbon.framework instead)      
+* くろこげはMac用のAVG32 scripter「わっふる」のCarbon版です。  
+早い話がMacでKanonやAIR等、Visual Art'sのゲームを動かすためのソフトということです。  
+くろこげにはいろいろなバージョンがありますが、このページでは音声化パッチを当てたKanon/AIRに対応したバージョンを公開しています。  
 * (origin, dead) http://www001.upp.so-net.ne.jp/keta/kurokoge/  
+* https://archive.org/details/waffle-040116_psp
+* Mac上玩部分文字AVG的方法
+https://crazism.net/2055.html
+ADV 游戏引擎计划  
+https://cloud.tencent.com/developer/article/1827167
+https://sagapla.net/works/usoten/demo_rcxp.htm
+```
+avg2nsc
+https://nyanonon.hatenablog.com/entries/2008/02/19#p2
+https://nyanonon.hatenablog.com/entries/2006/04/18#p2
+https://sirius10.net/blog/wordpress/index.php/2021/03/14/259/
+asc016.zip
+avg2nsc04.zip
+可能有用的：测试游戏：参考：https://yun.cup.com/lggdemolist4.html
+恋愛CHU!デモ（see baidupan）
+https://sagapla.net/works/usoten/demo_rcxp.htm
+https://sagapla.net/works/renchu/renchu_demo.htm
+rcxp_demo.lzh
+（see 115）：
+ススキノハラの約束
+http://kur-mar-ter.product.co.jp/
+ススキノハラの約束 GAME DISC.cue
+
+ONScripter Launcher and Binary for Mac OS X  
+https://tmkk.undo.jp/onscripter/  
+```
 * (dead) http://dev.haeleth.net/kurokoge.shtml  
 * (dead) http://dev.haeleth.net/kurokoge/KurokogeSource.dmg  
-* https://tmkk.undo.jp/kurokoge/  
+* (origin) https://tmkk.undo.jp/kurokoge/  
 * search KurokogeSource.dmg  
-* https://github.com/weimingtom/xclannad_fork/tree/master/vendor/haeleth/Kurokoge
+* https://github.com/weimingtom/xclannad_fork/tree/master/vendor/haeleth/Kurokoge  
 * Kurokoge_ub_20110630Src.zip, see https://tmkk.undo.jp/kurokoge/index.html  
 build failed with xcode 12, see Kurokoge_ub_20110630Src_error.txt  
 Carbon.framework  
