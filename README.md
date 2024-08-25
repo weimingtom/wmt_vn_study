@@ -412,7 +412,7 @@ rlvm - RealLive virtual machine clone
 https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/r/rlvm/  
 * https://github.com/eglaysher/rldev  
 
-## waffle, わっふる  
+## waffle, わっふる, for ppc (for very old powerpc mac osx os, see also kurokoge くろこげ)    
 * (origin, dead) http://waffle.bunkasha.co.jp
 * https://web.archive.org/web/20080430135655/http://waffle.bunkasha.co.jp/
 ```
