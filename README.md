@@ -460,13 +460,18 @@ http://savaiv.blog81.fc2.com/blog-entry-292.html
 ## ??? akane  
 * akane-src-010909.zip  
 
-## kurokoge, くろこげ  
+## kurokoge, くろこげ (former name わっふる, use Carbon.framework instead)      
 * (origin, dead) http://www001.upp.so-net.ne.jp/keta/kurokoge/  
 * (dead) http://dev.haeleth.net/kurokoge.shtml  
 * (dead) http://dev.haeleth.net/kurokoge/KurokogeSource.dmg  
 * https://tmkk.undo.jp/kurokoge/  
 * search KurokogeSource.dmg  
-* https://github.com/weimingtom/xclannad_fork/tree/master/vendor/haeleth/Kurokoge  
+* https://github.com/weimingtom/xclannad_fork/tree/master/vendor/haeleth/Kurokoge
+* Kurokoge_ub_20110630Src.zip, see https://tmkk.undo.jp/kurokoge/index.html  
+build failed with xcode 12, see Kurokoge_ub_20110630Src_error.txt  
+Carbon.framework  
+DrawSprocket.framework  
+QuickTime.framework  
 
 ## BLESS on AVG32  
 * (origin) https://sirius10.net/Games/Bless.php  
