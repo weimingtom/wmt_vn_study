@@ -79,14 +79,14 @@ https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/o/onscri
 * https://github.com/Mysterious-tk/onscripter-for-iOS-GBK  
 * NOTE, Some work see onscripter-jh, because onscripter-jh support SDL2 for iOS / MacOS, but onscripter use SDL 1.3
 * ONScripter Launcher and Binary for Mac OS X  
-https://tmkk.undo.jp/onscripter/
+https://tmkk.undo.jp/onscripter/  
 onslauncher-20230901.zip  
 * ONScripter for PSP CFW (MIPS) version 20081025   
 ONScripter for PocketPC (ARM) version 20081025 test  
-https://web.archive.org/web/20081112090135/http://kimatten.hp.infoseek.co.jp/
+https://web.archive.org/web/20081112090135/http://kimatten.hp.infoseek.co.jp/  
 no download  
 * ONScripter for MacOSX 10.4 (Intel) version 20090331  
-https://web.archive.org/web/20100618052350/http://kimatten.hp.infoseek.co.jp/
+https://web.archive.org/web/20100618052350/http://kimatten.hp.infoseek.co.jp/  
 no download  
 
 ## onscripter-en   
