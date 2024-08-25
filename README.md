@@ -422,7 +422,8 @@ https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/r/rlvm/
 
 ## waffle, わっふる, for ppc (for very old powerpc mac osx os, see also kurokoge くろこげ)    
 * (origin, dead) http://waffle.bunkasha.co.jp
-* https://web.archive.org/web/20080430135655/http://waffle.bunkasha.co.jp/
+* (origin) https://web.archive.org/web/20080430135655/http://waffle.bunkasha.co.jp/
+* see baidupan, waffle-ppc-030509.zip, waffle/, waffle2/    
 ```
 これはなに？  
 よーするに、Visual Art's系のゲームで使われているAVG32用のスクリプトを、そのままMacintosh上で動かしてしまおーというものです。  
@@ -469,7 +470,7 @@ http://savaiv.blog81.fc2.com/blog-entry-292.html
 
 ## AKANE, あかね, for PSP (?)    
 * (origin) https://web.archive.org/web/20051210160230/http://kimatten.hp.infoseek.co.jp/
-* akane-src-010909.zip  
+* akane-src-010909.zip (see baidupan, from where???, not sure)   
 * akane  
 https://bbs.newwise.com/thread-189740-1-1.html  
 AKANE for PSP Lite 20050729  
