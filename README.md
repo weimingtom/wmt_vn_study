@@ -420,7 +420,8 @@ rlvm - RealLive virtual machine clone
 https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/r/rlvm/  
 * https://github.com/eglaysher/rldev  
 
-## waffle, わっふる, for ppc (for very old powerpc mac osx os, see also kurokoge くろこげ)    
+## waffle, わっふる, for powerpc (for very old powerpc mac osx os)   
+* This code use CodeWarrior6 to build, too old osx to build (See also kurokoge, くろこげ, kurokoge use xcode to build)    
 * (origin, dead) http://waffle.bunkasha.co.jp
 * (origin) https://web.archive.org/web/20080430135655/http://waffle.bunkasha.co.jp/
 * (origin, 「ざうにもダメを」MI-Zaurus ＆ PocketPC 用ダメアプリ置き場。) http://retropc.net/kenjo/zau/  
