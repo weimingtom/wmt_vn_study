@@ -467,14 +467,24 @@ https://nikuzaiku.web.fc2.com/pocket02.html
 * ゲーム関連日記  
 http://savaiv.blog81.fc2.com/blog-entry-292.html  
 
-## AKANE, for PSP (?)      
+## AKANE, あかね, for PSP (?)    
+* (origin) https://web.archive.org/web/20051210160230/http://kimatten.hp.infoseek.co.jp/
 * akane-src-010909.zip  
 * akane  
 https://bbs.newwise.com/thread-189740-1-1.html  
 AKANE for PSP Lite 20050729  
 对应游戏只一个：《ONE-輝く季節へ》    
 只对应旧版，FULL VOICE版是不支持的。  
-下载地址：http://kimatten.hp.infoseek.co.jp/  （下载地址在旧的那里）  
+下载地址：http://kimatten.hp.infoseek.co.jp/  （下载地址在旧的那里）
+* https://blog.makapy.com/archives/258
+```
+あかね for PSP Lite 20050729版 公開。  
+ 2005/07/30 /  2015/05/27  
+PSPでTacticsのPCゲーム「ONE」をプレイする為の  
+ソフト「あかね for PSP」がバージョンアップ。  
+「ぼくだけのちいさな世界」
+http://kimatten.hp.infoseek.co.jp/  
+```
 
 ## kurokoge, くろこげ (former name わっふる, use Carbon.framework instead)      
 * くろこげはMac用のAVG32 scripter「わっふる」のCarbon版です。  
