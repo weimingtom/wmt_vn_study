@@ -423,6 +423,8 @@ https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/r/rlvm/
 ## waffle, わっふる, for ppc (for very old powerpc mac osx os, see also kurokoge くろこげ)    
 * (origin, dead) http://waffle.bunkasha.co.jp
 * (origin) https://web.archive.org/web/20080430135655/http://waffle.bunkasha.co.jp/
+* (origin, 「ざうにもダメを」MI-Zaurus ＆ PocketPC 用ダメアプリ置き場。) http://retropc.net/kenjo/zau/  
+https://web.archive.org/web/20081231142717/http://retropc.net/kenjo/zau/  
 * see baidupan, waffle-ppc-030509.zip, waffle/, waffle2/    
 ```
 これはなに？  
@@ -470,6 +472,8 @@ http://savaiv.blog81.fc2.com/blog-entry-292.html
 
 ## AKANE, あかね, for PSP (?)    
 * (origin) https://web.archive.org/web/20051210160230/http://kimatten.hp.infoseek.co.jp/
+* (origin, see this page end) https://web.archive.org/web/20081221001308/http://kimatten.hp.infoseek.co.jp/
+* (origin) https://web.archive.org/web/20081216051642/http://pyon.org/furukawa/watasimo/akaneppc.html  
 * akane-src-010909.zip (see baidupan, from where???, not sure)   
 * akane  
 https://bbs.newwise.com/thread-189740-1-1.html  
