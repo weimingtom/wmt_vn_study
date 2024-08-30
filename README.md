@@ -491,6 +491,13 @@ PSPでTacticsのPCゲーム「ONE」をプレイする為の
 「ぼくだけのちいさな世界」
 http://kimatten.hp.infoseek.co.jp/  
 ```
+* ???
+To Heart2動いた~。  
+https://nyanonon.hatenablog.com/entry/20051012/p1  
+https://web.archive.org/web/20050404193721/http://pyon.org/furukawa/watasimo/waffleppc.html  
+https://web.archive.org/web/20050308143414/http://waffle.bunkasha.co.jp/zau/index.html  
+あかね  
+https://web.archive.org/web/20050308143414/http://waffle.bunkasha.co.jp/zau/akane-src-010909.zip  
 
 ## kurokoge, くろこげ (former name わっふる, use Carbon.framework instead)      
 * くろこげはMac用のAVG32 scripter「わっふる」のCarbon版です。  
