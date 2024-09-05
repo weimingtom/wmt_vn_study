@@ -171,7 +171,8 @@ SDLOTHERCONFIG=--disable-assembly ./configure --std=gnu++98 --no-werror --with-i
 * (same) https://github.com/gouchi/onscripter-libretro  
 * search baidupan, onscripter-libretro    
 iyzsong_onscripter-libretro-main.zip   
-libretro-onscripter-deps-20240118.tar.xz   
+libretro-onscripter-deps-20240118.tar.xz
+* https://github.com/weimingtom/onscripter-libretro_fork  
 
 ## LONS  
 * (origin) https://gitee.com/only998/onscripter-lons  
