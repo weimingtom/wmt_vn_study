@@ -337,7 +337,10 @@ mkdir build; cd build; cmake -DCMAKE_TOOLCHAIN_FILE=/home/wmt/work_krkrsdl2/andr
 * (dead) https://github.com/ryank231231/kirikiroid2-NG
 * see https://github.com/ryank231231/Kirikiroid2Yuri/tree/yuri  
 see https://github.com/Yamilemon/Kirikiroid2Yuri/tree/yuri  
-see https://github.com/YuriSizuku/Kirikiroid2Yuri/tree/yuri    
+(origin) see https://github.com/YuriSizuku/Kirikiroid2Yuri/tree/yuri    
+Kirikiroid2Yuri-yuri.zip  
+* test data, search baidupan, _kirikiroid2  
+see also https://gitee.com/weimingtom/kirikiroid2_fork/tree/master/test_data/atest3  
 
 ## KAS, KAS4PC (for Java and Android and PC, like kirikiri)        
 * (origin, dead) http://studiomikan.net/kas/  
