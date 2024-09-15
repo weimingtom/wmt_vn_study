@@ -312,6 +312,10 @@ mkdir build; cd build; cmake -DCMAKE_TOOLCHAIN_FILE=/home/wmt/work_krkrsdl2/andr
 ```
 * search baiduapn, krkrsdl2_20240518_v1.tar.gz，linux版，krkrsdl2_releases_20240518_v1.tar.gz  
 * search baidupan, krkrsdl2_20240518_v2.tar.gz，安卓版（也可以编译linux版），krkrsdl2_releases_20240518_v2.tar.gz  
+* jarsigner, see krkrsdl2_o.apk  
+* extracted data (unicode script) and vs2013 self mod build, see krkrsdl2_v14_crash_fix.rar  
+* linux (xubuntu) host cmake android build and linux build, android_ndk_build, krkrsdl2_20240518_v2.tar.gz, krkrsdl2_20240518_v1.tar.gz  
+* linux host meson linux build (?not sure), see krkrsdl2_github_20220221_full.tar.gz, krkrsdl2_github_20220221_min.tar.gz  
 
 ## kirikiri3-legacy  
 * https://github.com/w-dee/kirikiri3-legacy  
