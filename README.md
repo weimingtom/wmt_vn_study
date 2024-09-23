@@ -1017,3 +1017,22 @@ ITHVNR多了一个unhook按钮，而且按钮内的对话框内容不同
 * (origin) https://github.com/Translation-Aggregator/Translation-Aggregator  
 * (dead) http://www.hongfire.com/forum/showthread.php?t=94395  
 * search baidupan, Translation Aggregator 0.2.9.rar, Source - Translation Aggregator 0.2.9.rar  
+
+## SteamDB  
+* SteamDB Game Engine Search  
+https://github.com/SteamDatabase/FileDetectionRuleSets/tree/main/descriptions  
+https://steamdb.info/tech/Engine/NScripter/  
+https://steamdb.info/tech/Engine/KiriKiri/  
+https://steamdb.info/tech/Engine/YU-RIS/  
+https://steamdb.info/tech/Engine/RenPy/  
+https://steamdb.info/tech/Engine/CatSystem2/  
+```
+SteamDB有个没什么用的功能是可以根据游戏查游戏引擎，或者根据游戏引擎反查相关的galgame，
+例如我找到这些引擎：水仙1+2的NScripter，
+亚托莉Atri的KiriKiri（其实是krkrz），
+龙姬混日子的YU-RIS，
+片轮少女的RenPy，
+ISLAND的CatSystem2，
+不过有些游戏的引擎没识别出来（没收录引擎），
+例如星之梦planetarian
+```
