@@ -612,6 +612,10 @@ Use it good for https://kichikuou.github.io/web/
 https://github.com/kichikuou/web  
 see https://github.com/kichikuou/xsystem35-sdl2  
 see https://github.com/kichikuou/system3-sdl2    
+* kichikuou.rar, RANCE_WIN.ZIP  
+see https://kichikuou.github.io/web/help.html  
+see http://retropc.net/alice/04.html  
+see http://retropc.net/alice/30.html  
 
 ## System4 (closed source)    
 * (origin) http://kei.stbbs.net/rubyeye/sys40/sdk_dl.html  
