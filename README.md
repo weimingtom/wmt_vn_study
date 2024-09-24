@@ -606,9 +606,12 @@ patch -p1 < ../bless_avg32-rpi.patch
 * search baidupan, xsystem35_android_src_173pre5-katane1.tbz2  
 * https://github.com/natdon/ONScripter-CN/tree/master/jni/app_xsystem35
 * https://www.gamebrew.org/wiki/XSystem35_Lite_for_PSP, search xsystempsp.7z  
-* https://web.archive.org/web/20070217200922/http://kimatten.hp.infoseek.co.jp/cgi-bin/wiki/wiki.cgi?page=XSystem35+Lite
+* https://web.archive.org/web/20070217200922/http://kimatten.hp.infoseek.co.jp/cgi-bin/wiki/wiki.cgi?page=XSystem35+Lite  
 * search kichikuou.zip, from https://alicefree.fastlast.org, https://d1.alicefree.fastlast.org/d/zip/kichikuou.zip  
 Use it good for https://kichikuou.github.io/web/  
+https://github.com/kichikuou/web  
+see https://github.com/kichikuou/xsystem35-sdl2  
+see https://github.com/kichikuou/system3-sdl2    
 
 ## System4 (closed source)    
 * (origin) http://kei.stbbs.net/rubyeye/sys40/sdk_dl.html  
