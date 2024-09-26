@@ -389,7 +389,7 @@ see also https://gitee.com/weimingtom/kirikiroid2_fork/tree/master/test_data/ate
 * http://www.product.co.jp/reallivemax/  
 * search baidupan, RealLiveMax_SDK_20111129_006.zip, acttest.zip    
 
-## xclannad  
+## xclannad (originally for NetBSD/dreamcast?)    
 * (origin, dead) http://www.creator.club.ne.jp/~jagarl/xclannad.html  
 * (archive) https://web.archive.org/web/20100331135549/http://www.creator.club.ne.jp/~jagarl/xclannad.html  
 * https://github.com/weimingtom/xclannad_fork  
@@ -400,7 +400,7 @@ see also https://gitee.com/weimingtom/kirikiroid2_fork/tree/master/test_data/ate
 * https://github.com/toktc/onscripter-for-iOS-GBK/tree/master/xclannad  
 * (**TODO**) search xclannad-7hc.tar.gz  
 
-## xkanon  
+## xkanon (originally for NetBSD/dreamcast?)      
 * (origin) https://sirius10.net/Games/Xkanon.php  
 * (origin, dead) http://www.creator.club.ne.jp/~jagarl/xkanon.html  
 * (archive) https://web.archive.org/web/20100409004347/http://www.creator.club.ne.jp/~jagarl/xkanon.html  
