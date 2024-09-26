@@ -431,8 +431,14 @@ see also https://gitee.com/weimingtom/kirikiroid2_fork/tree/master/test_data/ate
 rlvm - RealLive virtual machine clone  
 https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/r/rlvm/  
 * https://github.com/eglaysher/rldev
-* test data: planetarian ~the reverie of a little planet~_jp.7z  
-* test data: planetarian ~the reverie of a little planet~.7z  
+* test data:
+```
+planetarian ~the reverie of a little planet~_jp.7z  
+planetarian ~the reverie of a little planet~.7z  
+planetarian_steam_japanese.rar
+planetarian_steam_english.rar
+kanon_se_ori.rar  
+```
 
 ## waffle, わっふる, for powerpc (for very old powerpc mac osx os)   
 * This code use CodeWarrior6 to build, too old osx to build (See also kurokoge, くろこげ, kurokoge use xcode to build)    
