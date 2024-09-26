@@ -87,7 +87,8 @@ https://web.archive.org/web/20081112090135/http://kimatten.hp.infoseek.co.jp/
 no download  
 * ONScripter for MacOSX 10.4 (Intel) version 20090331  
 https://web.archive.org/web/20100618052350/http://kimatten.hp.infoseek.co.jp/  
-no download  
+no download
+* test data: narcissu2.7z  
 
 ## onscripter-en   
 * (origin, dead) http://unclemion.com/onscripter/releases/  
@@ -429,7 +430,9 @@ see also https://gitee.com/weimingtom/kirikiroid2_fork/tree/master/test_data/ate
 * raspberry pi, apt-cache search rlvm, rlvm_0.14.orig.tar.gz  
 rlvm - RealLive virtual machine clone  
 https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/r/rlvm/  
-* https://github.com/eglaysher/rldev  
+* https://github.com/eglaysher/rldev
+* test data: planetarian ~the reverie of a little planet~_jp.7z  
+* test data: planetarian ~the reverie of a little planet~.7z  
 
 ## waffle, わっふる, for powerpc (for very old powerpc mac osx os)   
 * This code use CodeWarrior6 to build, too old osx to build (See also kurokoge, くろこげ, kurokoge use xcode to build)    
@@ -828,7 +831,9 @@ http://khmix.sakura.ne.jp/download.shtml
 * (origin) https://github.com/Lunatic-Works/Nova  
 
 ## Ren'Py (for Python)    
-* (origin) https://github.com/renpy/renpy  
+* (origin) https://github.com/renpy/renpy
+* test data: Katawa Shoujo.7z  
+* test data: thequestion_v1.7z  
 
 ## Reitsuki  
 * (origin) https://github.com/kasuganosora/Reitsuki  
