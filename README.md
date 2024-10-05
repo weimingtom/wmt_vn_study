@@ -921,7 +921,7 @@ http://khmix.sakura.ne.jp/download.shtml
 
 ## Novelsphere  
 * (origin) http://novelsphere.jp  
-* (origin) https://github.com/novelsphere/nsdemo  
+* (origin, like kirikiri kag) https://github.com/novelsphere/nsdemo  
 
 ## ISM  
 * http://hp.vector.co.jp/authors/VA000482/  
