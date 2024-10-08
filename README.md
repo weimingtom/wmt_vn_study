@@ -650,7 +650,8 @@ Rance -光を求めて- see http://retropc.net/alice/04.html
 ## Visual Novel Maker, VNMaker (for CoffeeScript and NW.js, like RPG Maker)  
 * https://visualnovelmaker.com  
 * https://asset.visualnovelmaker.com/help/index.htm  
-* https://klsdf.github.io/Visual-Novel-Maker-in-Chinese  
+* https://klsdf.github.io/Visual-Novel-Maker-in-Chinese
+* see steam, Visual Novel Maker_20220625.7z  
 
 ## (TODO) OpenGame.exe (for CSharp)  
 * https://github.com/aphadeon/OpenGame.exe  
