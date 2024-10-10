@@ -89,6 +89,17 @@ no download
 https://web.archive.org/web/20100618052350/http://kimatten.hp.infoseek.co.jp/  
 no download
 * test data: narcissu2.7z  
+* unofficial android build version:  
+```
+cn.natdon.onscripter 20111124: 
+	onscripter.rar  
+jp.katane.onscripter 20120712: 
+	onscripter_android_src_20120712-katane2.tbz2
+jp.ogapee.onscripter 20120824: 
+	onscripter_android_v1.7z  
+cn.natdon.onscripterv2 20150802 (3.0.3 include xclannad and xsystem35): 
+	ONScripter-CN_v1.7z  
+```
 
 ## onscripter-en   
 * (origin, dead) http://unclemion.com/onscripter/releases/  
