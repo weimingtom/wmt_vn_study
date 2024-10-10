@@ -159,6 +159,7 @@ SDLOTHERCONFIG=--disable-assembly ./configure --std=gnu++98 --no-werror --with-i
 * https://github.com/wetor/ONScripter-jh-PSVita  
 
 ## MiNE, ONScripter-CN (chonscripter ???), branch of ONScripter     
+* 别名 A.K.A.：面包工坊mine模拟器app  
 * https://github.com/natdon/ONScripter-CN  
 * (TODO) search baidupan, ONScripter-CN  
 * https://github.com/onsshare/onscripter/releases  
