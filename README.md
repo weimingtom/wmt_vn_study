@@ -163,7 +163,8 @@ SDLOTHERCONFIG=--disable-assembly ./configure --std=gnu++98 --no-werror --with-i
 * (TODO) search baidupan, ONScripter-CN  
 * https://github.com/onsshare/onscripter/releases  
 * https://github.com/butter255/emu/releases  
-* https://gitee.com/butter255/emu/releases  
+* https://gitee.com/butter255/emu/releases
+* (?) chonscripter-20101024.zip, like ONScripter-CN code (???)  
 
 ## 月猫 (tukineko), for Java PDA (SHARP ZAURUS E21, KYOCERA PocketCosmo), closed source      
 * (origin, dead) http://www.din.or.jp/~boya/tsukihime/tukineko/index.html  
