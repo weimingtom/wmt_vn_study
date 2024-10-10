@@ -269,7 +269,10 @@ from https://archive.codeplex.com/?p=tvpcn
 ## krkrsdl2  
 * (origin) https://github.com/krkrsdl2/krkrsdl2  
 * (origin) https://github.com/uyjulian/krkrsdl2  
-* (origin) https://github.com/krkrsdl2/kag3  
+* (origin) https://github.com/krkrsdl2/kag3
+* (origin) https://github.com/krkrsdl2/krkrsdl2-kag3-demo  
+https://github.com/krkrsdl2/krkrsdl2-kag3-demo/blob/main/data-demo/scenario/first.ks  
+吉里吉里とKAGの紹介, data same as krkrsdl2_v14_crash_fix.rar  
 * (work, vs2013, no opengl blend) krkrsdl2_v14_crash_fix.rar  
 * (data same as krkrsdl2/krkrsdl2-kag3-demo) krkrsdl2的作者给了一个示例（基于网页版），用了一个data.xp3，但我无论如何都解包不了里面的脚本文本（可以解出来，但乱码），用krkrsdl2的linux版程序却可以正常显示。今天我查出原因，可能是因为tjs和某些后缀文件是经过压缩的；tjs使用了unicode而非utf8。所以如果要解包，就要走两步：需要用一个支持xp3文本解压缩的解包器（ExtractData不行，只能用cr）；接出来的文本需要用特殊的支持Unicode字符集的阅读器（Notepad++也不行，我用的是bcomp）  
 吉里吉里とKAGの紹介, data same as krkrsdl2_v14_crash_fix.rar  
@@ -284,10 +287,6 @@ $ ninja -C _build
 (not need) $ sudo ninja -C _build install  
 (or copy file _build/krkrsdl2 to somewhere)  
 (copy data.xp3 beside krkrsdl2 then) $ ./krkrsdl2  
-* https://github.com/krkrsdl2/krkrsdl2-kag3-demo  
-教学 krkrz多平台 Kirikiri SDL2  
-https://www.bilibili.com/read/cv25481294/  
-吉里吉里とKAGの紹介, data same as krkrsdl2_v14_crash_fix.rar  
 * krkrsdl2 win32  
 https://krkrsdl2.github.io/krkrsdl2/en/
 ```
@@ -339,6 +338,8 @@ mkdir build; cd build; cmake -DCMAKE_TOOLCHAIN_FILE=/home/wmt/work_krkrsdl2/andr
 * (data same as krkrsdl2/krkrsdl2-kag3-demo) extracted data (unicode script) and vs2013 self mod build, see krkrsdl2_v14_crash_fix.rar  
 * linux (xubuntu) host cmake android build and linux build, android_ndk_build, krkrsdl2_20240518_v2.tar.gz, krkrsdl2_20240518_v1.tar.gz  
 * linux host meson linux build (?not sure), see krkrsdl2_github_20220221_full.tar.gz, krkrsdl2_github_20220221_min.tar.gz  
+* (dead) 教学 krkrz多平台 Kirikiri SDL2   
+(dead) https://www.bilibili.com/read/cv25481294/  
 
 ## kirikiri3-legacy  
 * https://github.com/w-dee/kirikiri3-legacy  
