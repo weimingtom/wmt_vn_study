@@ -271,7 +271,8 @@ from https://archive.codeplex.com/?p=tvpcn
 * (origin) https://github.com/uyjulian/krkrsdl2  
 * (origin) https://github.com/krkrsdl2/kag3  
 * (work, vs2013, no opengl blend) krkrsdl2_v14_crash_fix.rar  
-* krkrsdl2的作者给了一个示例（基于网页版），用了一个data.xp3，但我无论如何都解包不了里面的脚本文本（可以解出来，但乱码），用krkrsdl2的linux版程序却可以正常显示。今天我查出原因，可能是因为tjs和某些后缀文件是经过压缩的；tjs使用了unicode而非utf8。所以如果要解包，就要走两步：需要用一个支持xp3文本解压缩的解包器（ExtractData不行，只能用cr）；接出来的文本需要用特殊的支持Unicode字符集的阅读器（Notepad++也不行，我用的是bcomp）  
+* (data same as krkrsdl2/krkrsdl2-kag3-demo) krkrsdl2的作者给了一个示例（基于网页版），用了一个data.xp3，但我无论如何都解包不了里面的脚本文本（可以解出来，但乱码），用krkrsdl2的linux版程序却可以正常显示。今天我查出原因，可能是因为tjs和某些后缀文件是经过压缩的；tjs使用了unicode而非utf8。所以如果要解包，就要走两步：需要用一个支持xp3文本解压缩的解包器（ExtractData不行，只能用cr）；接出来的文本需要用特殊的支持Unicode字符集的阅读器（Notepad++也不行，我用的是bcomp）  
+吉里吉里とKAGの紹介, data same as krkrsdl2_v14_crash_fix.rar  
 * build method, see https://sirius10.net/blog/wordpress/index.php/2021/04/10/690/  
 (under xubuntu200464)   
 $ git clone –recursive https://github.com/uyjulian/krkrsdl2  
@@ -286,6 +287,7 @@ $ ninja -C _build
 * https://github.com/krkrsdl2/krkrsdl2-kag3-demo  
 教学 krkrz多平台 Kirikiri SDL2  
 https://www.bilibili.com/read/cv25481294/  
+吉里吉里とKAGの紹介, data same as krkrsdl2_v14_crash_fix.rar  
 * krkrsdl2 win32  
 https://krkrsdl2.github.io/krkrsdl2/en/
 ```
@@ -295,6 +297,7 @@ https://krkrsdl2.github.io/krkrsdl2/en/
 应该没具体计划
 ```
 ```
+(data same as krkrsdl2/krkrsdl2-kag3-demo) 
 我看过krkrsdl2的官方发布版exe（现在发布包含了windows版），但似乎还是跑不了它自己demo里面那个xp3
 （注：后来发现可以，需要解压Android同版本内的xp3文件），如果换其他xp3会出现字符集问题
 （它应该只支持unicode字符集，也许有办法绕过去，或者改代码）——好想自己编译一下。我以前试过自己移植它到windows下
@@ -333,7 +336,7 @@ mkdir build; cd build; cmake -DCMAKE_TOOLCHAIN_FILE=/home/wmt/work_krkrsdl2/andr
 * search baiduapn, krkrsdl2_20240518_v1.tar.gz，linux版，krkrsdl2_releases_20240518_v1.tar.gz  
 * search baidupan, krkrsdl2_20240518_v2.tar.gz，安卓版（也可以编译linux版），krkrsdl2_releases_20240518_v2.tar.gz  
 * jarsigner, see krkrsdl2_o.apk  
-* extracted data (unicode script) and vs2013 self mod build, see krkrsdl2_v14_crash_fix.rar  
+* (data same as krkrsdl2/krkrsdl2-kag3-demo) extracted data (unicode script) and vs2013 self mod build, see krkrsdl2_v14_crash_fix.rar  
 * linux (xubuntu) host cmake android build and linux build, android_ndk_build, krkrsdl2_20240518_v2.tar.gz, krkrsdl2_20240518_v1.tar.gz  
 * linux host meson linux build (?not sure), see krkrsdl2_github_20220221_full.tar.gz, krkrsdl2_github_20220221_min.tar.gz  
 
