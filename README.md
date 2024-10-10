@@ -98,7 +98,11 @@ no download
 [official] jp.ogapee.onscripter 20120824: 
 	onscripter_android_v1.7z  
 [unofficial] cn.natdon.onscripterv2 20150802 (3.0.3 include xclannad and xsystem35): 
-	ONScripter-CN_v1.7z  
+	ONScripter-CN_v1.7z
+[closed source unofficial] 小鸡模拟器的ONS：cn/natdon/onscripterv2
+	感觉好像多了一些类，可能做了改动或者基于别的分支代码
+	xiaoji_android_v1.8.9-A028.apk
+	https://github.com/natdon/ONScripter-CN/tree/master/src/cn/natdon  
 ```
 
 ## onscripter-en   
