@@ -158,13 +158,15 @@ SDLOTHERCONFIG=--disable-assembly ./configure --std=gnu++98 --no-werror --with-i
 * https://github.com/YuriSizuku/psv-OnscripterJH
 * https://github.com/wetor/ONScripter-jh-PSVita  
 
-## MiNE, branch of ONScripter     
+## MiNE, ONScripter-CN (chonscripter ???), branch of ONScripter     
 * https://github.com/natdon/ONScripter-CN  
 * (TODO) search baidupan, ONScripter-CN  
 * https://github.com/onsshare/onscripter/releases  
 * https://github.com/butter255/emu/releases  
 * https://gitee.com/butter255/emu/releases
 * (?) chonscripter-20101024.zip, like ONScripter-CN code (???)  
+* (android version) cn.natdon.onscripter 20111124: onscripter.rar    
+* (android version) cn.natdon.onscripterv2 20150802 (3.0.3 include xclannad and xsystem35): ONScripter-CN_v1.7z  
 
 ## 月猫 (tukineko), for Java PDA (SHARP ZAURUS E21, KYOCERA PocketCosmo), closed source      
 * (origin, dead) http://www.din.or.jp/~boya/tsukihime/tukineko/index.html  
