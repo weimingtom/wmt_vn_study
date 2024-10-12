@@ -1082,3 +1082,10 @@ ISLAND的CatSystem2，
 不过有些游戏的引擎没识别出来（没收录引擎），
 例如星之梦planetarian
 ```
+
+## Susie, .spi plugin image converter   
+* (dead ?) http://nis-lab.is.s.u-tokyo.ac.jp/~koiso/software/lib/BitmapObject.cpp   
+* (daed ?) http://nis-lab.is.s.u-tokyo.ac.jp/~koiso/software/software.html  
+* SPIConvert.rar  
+* 物置き場, Susie プラグイン, データ変換, その他   
+http://elksimple.web.fc2.com/other.html#other  
