@@ -1088,7 +1088,7 @@ ISLAND的CatSystem2，
 * (daed ?) http://nis-lab.is.s.u-tokyo.ac.jp/~koiso/software/software.html  
 * SPIConvert.rar  
 * 物置き場, Susie プラグイン, データ変換, その他   
-* http://elksimple.web.fc2.com/other.html#other  
+http://elksimple.web.fc2.com/other.html#other  
 * https://www.digitalpad.co.jp/~takechin/download.html#ifjpeg
 * https://www2f.biglobe.ne.jp/~kana/link.html
 * https://www.asahi-net.or.jp/~DS8H-WTNB/software/index.html
@@ -1096,4 +1096,5 @@ UseSPI.lzh
 * https://github.com/uyjulian/ifpng
 * https://github.com/uyjulian/iftlg
 * https://www.asahi-net.or.jp/~kh4s-smz/spi/note/minispi.html
-
+* (dead ?) http://db23c.dnsalias.com/MangaMeeya/  
+MangaMeeya
