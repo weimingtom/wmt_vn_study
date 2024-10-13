@@ -1084,6 +1084,9 @@ ISLAND的CatSystem2，
 ```
 
 ## Susie, .spi plugin image converter   
+* (dead) http://dev.haeleth.net/majiro.shtml
+(dead) http://dev.haeleth.net/mjdev/majirospi.zip
+search baidupan, majirospi.zip, with Susie spi plugin src  
 * (dead ?) http://nis-lab.is.s.u-tokyo.ac.jp/~koiso/software/lib/BitmapObject.cpp   
 (daed ?) http://nis-lab.is.s.u-tokyo.ac.jp/~koiso/software/software.html  
 SPIConvert.rar  
