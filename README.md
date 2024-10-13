@@ -348,13 +348,17 @@ mkdir build; cd build; cmake -DCMAKE_TOOLCHAIN_FILE=/home/wmt/work_krkrsdl2/andr
 * (origin) https://github.com/mryp/kkde  
 * (origin) https://osdn.net/projects/kkde/  
 * (origin, dead) http://www.poringsoft.net/cnt/program/kkde2/index.html  
-* search kkde_200a3.zip  
+* search kkde_200a3.zip
+* kkde_200a4.zip  
 
 ## habakiri, kirikirij, kirikiri2 java (for Android and PC)     
 * (origin) http://www.kaede-software.com/2011/11/2_for_javaandro.html  
 * (origin) https://github.com/habakiri/habakiri  
 * (origin) https://osdn.net/projects/kirikirij/  
-* https://github.com/weimingtom/habakiri/tree/master/kirikirij  
+* (origin) http://sourceforge.jp/projects/kirikirij/releases/  
+* (origin) http://www.kaede-software.com/android/  
+* https://github.com/weimingtom/habakiri/tree/master/kirikirij
+* kirikiri2j.zip  
 
 ## kirikiroid2 (for Android and iOS)    
 * (origin) https://github.com/zeas2/Kirikiroid2  
@@ -607,8 +611,12 @@ patch -p1 < ../bless_avg32-rpi.patch
 * https://github.com/weimingtom/th2scriptengine  
 * search baidupan, sdtdump_v4.7z    
 * (IMP) min compile and run, search baidupan, th2scriptengine.7z  
-* ScriptEngine-0.0.1.rar  
-* ScriptEngine.7z  
+* min code (only show a window), ScriptEngine-0.0.1.rar  
+* ScriptEngine.7z
+* aquaplus_sources.zip
+* th2scriptengine_vc2010.rar  
+th2scriptengine_vc2010.rar is later then aquaplus_sources.7z, reflect the code  
+* use dxsdk_sum2004.exe (without DXSDK_Jun10.exe???)    
 
 ## xlvns, Leaf Visual Novel System for X (XLVNS)    
 * (origin, ?) http://leafbsd.denpa.org  
@@ -733,7 +741,8 @@ https://github.com/cjv123/RPG
 * (origin) http://houser-home.net/novel-press/top_index.html  
 * https://github.com/weimingtom/novelpress_fork  
 * https://gitee.com/weimingtom2000/novelpress_fork  
-* search baidupan, src_adr06_13_01.zip    
+* search baidupan, src_adr06_13_01.zip
+* search NovelPressBeta.jar (not source, only a runnable jar package and with 00.txt)    
 
 ## PGM, Pocket Game Maker (closed source, for Android ?)  
 * (origin) https://github.com/History-exe/Pocket-Game-Maker-v0.83  
@@ -1101,3 +1110,7 @@ https://github.com/uyjulian/iftlg
 * https://www.asahi-net.or.jp/~kh4s-smz/spi/note/minispi.html
 * (dead ?) http://db23c.dnsalias.com/MangaMeeya/  
 MangaMeeya
+
+## RPGViewer and Extractor    
+* May be not good, only for fun (?)      
+* Used to see images  
