@@ -60,6 +60,11 @@ https://crazism.net/2055.html
 * https://fr-m-wikipedia-org.translate.goog/wiki/NScripter?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=fr  
 * https://fr-m-wikipedia-org.translate.goog/wiki/NScripter?_x_tr_sl=auto&_x_tr_tl=zh-CN&_x_tr_hl=fr  
 * https://fr.wikipedia.org/wiki/NScripter  
+* http://senzogawa.s90.xrea.com/reference/NScrLuaAPI.html
+* http://senzogawa.s90.xrea.com/reference/NScrAPI.html
+* http://senzogawa.s90.xrea.com/reference
+* http://senzogawa.s90.xrea.com/cheetsheet/cheetsheet.html
+* nsaout.rar, nsaout.exe    
 
 ## onscripter  
 * (origin) https://onscripter.osdn.jp  
@@ -104,6 +109,10 @@ no download
 	xiaoji_android_v1.8.9-A028.apk
 	https://github.com/natdon/ONScripter-CN/tree/master/src/cn/natdon  
 ```
+* Shiori-chan Project, ONScripter Multi-Platforms Binary, ONScripter for MacOSX 10.2 + Tools(nsaconv, sarconv, nsadec, sardec), xclannad for LinuxZaurus, waffle for arm  
+https://web.archive.org/web/20071231075020/http://kimatten.hp.infoseek.co.jp/#ONScripter  
+https://web.archive.org/web/20090220183547/http://kimatten.hp.infoseek.co.jp/  
+* onscripter-tools_win.zip  
 
 ## onscripter-en   
 * (origin, dead) http://unclemion.com/onscripter/releases/  
@@ -129,6 +138,7 @@ no download
 SDLOTHERCONFIG=--disable-assembly ./configure --std=gnu++98 --no-werror --with-internal-libs && make VERBOSE=true CSTD=-std=gnu99  
 注意，为了防止出现错误_wfopen、off64_t无定义错误，需要把-std=c++98换成--std=gnu++98，  
 把-std=c99换成-std=gnu99，以便把__STRICT_ANSI__的定义取消（相当于-U__STRICT_ANSI__）  
+* https://github.com/Galladite27/ONScripter-EN-devkit  
 
 ## onscripter by insani (see http://dev.haeleth.net/onscripter.shtml after 2007.04.08)    
 * (origin) http://nscripter.insani.org/onscripter.html  
@@ -168,6 +178,14 @@ SDLOTHERCONFIG=--disable-assembly ./configure --std=gnu++98 --no-werror --with-i
 * (?) chonscripter-20101024.zip, like ONScripter-CN code (???)  
 * (android version) cn.natdon.onscripter 20111124: onscripter.rar    
 * (android version) cn.natdon.onscripterv2 20150802 (3.0.3 include xclannad and xsystem35): ONScripter-CN_v1.7z  
+* 小鸡模拟器的ONS：cn/natdon/onscripterv2，感觉好像多了一些类，可能做了改动或者基于别的分支代码  
+* https://github.com/natdon/ONScripter-CN/tree/951935b05ae66fb5e0c09ceb437324687f0a23f7/jni/app_onscripter-32bpp/onscripter-20130317
+```
+面包工坊ONScripter-CN的一部分代码应该是来源于早期的john-he中文化版本，见onslocale.h的头部。
+当然我手头上存有的john-he源码版本都是2009年以前的，而ONScripter-CN的版本是2013年，
+应该是重新又整合进去（已经改得面目全非）——所以可能只有两种中文化GBK版，
+一个是john-he，一个是jh，也可能这俩其实本质上都是同一个源头同一个人搞出来的  
+```
 
 ## 月猫 (tukineko), for Java PDA (SHARP ZAURUS E21, KYOCERA PocketCosmo), closed source      
 * (origin, dead) http://www.din.or.jp/~boya/tsukihime/tukineko/index.html  
