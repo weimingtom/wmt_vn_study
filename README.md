@@ -163,7 +163,7 @@ SDLOTHERCONFIG=--disable-assembly ./configure --std=gnu++98 --no-werror --with-i
 * search baidupan, sdl2.neon.apk  
 * search baidupan, macos sdl2, configure --prefix build, search baidupan, onscripter-jh_macos_prefix_build_v1.zip  
 
-## john-he onscripter Chinese version, for WIndows / PSP / Pocket PC  
+## john-he onscripter Chinese version, for Windows / PSP / Pocket PC  
 * (dead) http://john-he.ys168.com/?jdfwkey=k9rlz
 * (dead) http://blog.163.com/john_he_/
 * (dead) http://www.chinaavg.com/simple/index.php?t1088.html
