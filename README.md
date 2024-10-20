@@ -12,6 +12,9 @@ My visual novel game engine study projects (or something about...)
 * https://github.com/hayuq/plane-game  
 
 ## TODO  
+* (TODO, IMP) https://github.com/weimingtom/onscripter_csharp  
+* (TOOD, IMP) remove rlvm boost deps:  
+https://gitee.com/weimingtom2000/rlvm_mod  
 * 115, Gal_Port_Tools_Collection.7z, include:    
 Crass-source.7z  
 avg32.rar  
