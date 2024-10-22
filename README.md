@@ -570,10 +570,6 @@ PSPでTacticsのPCゲーム「ONE」をプレイする為の
 http://kimatten.hp.infoseek.co.jp/  
 ```
 * ???
-To Heart2動いた~。  
-https://nyanonon.hatenablog.com/entry/20051012/p1  
-https://web.archive.org/web/20050404193721/http://pyon.org/furukawa/watasimo/waffleppc.html  
-https://web.archive.org/web/20050308143414/http://waffle.bunkasha.co.jp/zau/index.html  
 あかね  
 https://web.archive.org/web/20050308143414/http://waffle.bunkasha.co.jp/zau/akane-src-010909.zip  
 
@@ -633,6 +629,14 @@ patch -p1 < ../bless_avg32-rpi.patch
 * (origin, dead) http://dev.haeleth.net/rldev.shtml  
 * rldev-1.40.tar.bz2  
 * rlBabel-src-1.43.rar  
+
+## (NOT FOUND and dead) th2wconv, wlk2ht.avd  
+* Converter for running on わっふる「avg32」 waffle engine, not for onscripter!!!  
+* th2wconv已佚失, 不可考  
+* To Heart2動いた~。  
+https://nyanonon.hatenablog.com/entry/20051012/p1  
+https://web.archive.org/web/20050404193721/http://pyon.org/furukawa/watasimo/waffleppc.html  
+https://web.archive.org/web/20050308143414/http://waffle.bunkasha.co.jp/zau/index.html  
 
 ## aquaplus-sources, ToHeart 2 XRATED  
 * (origin) http://leaf.aquaplus.co.jp/product/xvid.html  
