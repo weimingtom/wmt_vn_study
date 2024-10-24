@@ -713,7 +713,15 @@ Rance -光を求めて- see http://retropc.net/alice/04.html
 ## OpenRGSS (for Ruby)    
 * (origin) https://github.com/zh99998/OpenRGSS-RPGMaker  
 * https://github.com/weimingtom/OpenRGSS-RPGMaker  
-* 2016-8-19 15:31 来自 微博 weibo.com, 昨天研究openrgss, 看代码以为可以运行rpgmaker xp的工程，但实际上最好运行vx的工程，因为有个接口有区别（这个项目没有实现Tilemap的tileset属性，导致Spriteset_Map报错）。更神奇的是，在网上找到某些版本的vx创建的工程会导致sdl报错，只有某个版本的可以正常运行。其实这个项目可以简单理解为把官方文档的接口描述用开源的方式实现出来。  
+* 
+```
+2016-8-19 15:31 来自 微博 weibo.com,
+昨天研究openrgss, 看代码以为可以运行rpgmaker xp的工程，但实际上最好运行vx的工程，
+因为有个接口有区别（这个项目没有实现Tilemap的tileset属性，导致Spriteset_Map报错）。
+更神奇的是，在网上找到某些版本的vx创建的工程会导致sdl报错，
+只有某个版本的可以正常运行。
+其实这个项目可以简单理解为把官方文档的接口描述用开源的方式实现出来。  
+```
 
 ## rpg2k, rpgmaker (for java)      
 * search baidupan, rpg2kemu.7z  
@@ -1134,7 +1142,14 @@ ITHVNR多了一个unhook按钮，而且按钮内的对话框内容不同
 * https://github.com/setsumi/TAHelper  
 
 ## AGTH and Cp2Tran and etc  
-* 我好像记错了，其实ITH还有一个前驱者，叫AGTH，那个比ITH有名气得多——或者准确说ITH只是弥补了AGTH有些游戏不适用的缺点，基本上以前的人只会提及AGTH。还有一个比较有名的工具叫cp2tran，它应该算是很多galgame翻译工具的前身。这些工具都是时泪，不过就算是以前，我也很少用 ​​​  
+*
+```
+我好像记错了，其实ITH还有一个前驱者，叫AGTH，那个比ITH有名气得多
+——或者准确说ITH只是弥补了AGTH有些游戏不适用的缺点，
+基本上以前的人只会提及AGTH。还有一个比较有名的工具叫cp2tran，
+它应该算是很多galgame翻译工具的前身。这些工具都是时泪，
+不过就算是以前，我也很少用 ​​​  
+```
 * https://tieba.baidu.com/p/2179634539  
 * https://code.google.com/p/annot-player/  
 * https://github.com/alexbft/chiitrans  
@@ -1207,25 +1222,27 @@ MangaMeeya
 (dead) http://www.graphicker.jp/tools/  
 * 願花音  
 (dead) http://www2s.biglobe.ne.jp/~sodoms/index.html  
-* コミックメーカー
-(dead) ttp://www2s.biglobe.ne.jp/~mix/winkai.htm  
+* コミックメーカー  
+(dead) ttp://www2s.biglobe.ne.jp/~mix/winkai.htm    
 * さうんど?のべるん  
 (dead) http://quest.sub.jp/pq/  
-* シナリオライター
-(dead) http://www.geocities.co.jp/SiliconValley-SanJose/3215/
-* 西瓜Studio  
-(dead) http://www5b.biglobe.ne.jp/~k24j/  
-* びじゅあるのべる
-(dead) http://page.freett.com/elledia/index.html
-* ADV
-(dead) http://home.g07.itscom.net/kurima/
-* AGS
-(dead) http://www.geocities.co.jp/SiliconValley-Oakland/5580/
-* Alice
-(dead) http://hp.vector.co.jp/authors/VA015542/
-* BlueAirScript
-(dead) http://www.chara.ne.jp/~fire/
+* シナリオライター  
+(dead) http://www.geocities.co.jp/SiliconValley-SanJose/3215/  
+* 西瓜Studio    
+(dead) http://www5b.biglobe.ne.jp/~k24j/    
+* びじゅあるのべる  
+(dead) http://page.freett.com/elledia/index.html  
+* ADV  
+(dead) http://home.g07.itscom.net/kurima/  
+* AGS  
+(dead) http://www.geocities.co.jp/SiliconValley-Oakland/5580/  
+* Alice  
+(dead) http://hp.vector.co.jp/authors/VA015542/  
+* BlueAirScript  
+(dead) http://www.chara.ne.jp/~fire/  
 
 ## ADVRUN
 * (origin) http://buin2gou.com/advrun/  
 * (origin, dead) http://www.geocities.jp/buin2gou2/  
+* ADVRUNSDK_final.ZIP  
+* rules.LZH, ADVRUN_sozai.LZH  
