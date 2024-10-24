@@ -663,7 +663,15 @@ https://web.archive.org/web/20050308143414/http://waffle.bunkasha.co.jp/zau/inde
 * aquaplus_sources.zip
 * th2scriptengine_vc2010.rar  
 th2scriptengine_vc2010.rar is later then aquaplus_sources.7z, reflect the code  
-* use dxsdk_sum2004.exe (without DXSDK_Jun10.exe???)    
+* use dxsdk_sum2004.exe (without DXSDK_Jun10.exe???)
+* aquaplus_sources.zip (原版会乱码), Aquaplus-engine-src.7z（非原版但不乱码）    
+```
+http://e.ys168.com/?john-he
+http://www.mint.la/aquaplus/browse/
+http://neo-eclipse.forumotion.com/computer-s-zone-f19/source-code-game-game-leaf-aqua-plus-t86.htm
+http://mcn.oops.jp/wiki/index.php?Software%20License%2FGPL%2FGPL%B0%E3%C8%BF
+http://blog.yam.com/kctsang/article/5507230
+```
 
 ## xlvns, Leaf Visual Novel System for X (XLVNS)    
 * (origin, ?) http://leafbsd.denpa.org  
