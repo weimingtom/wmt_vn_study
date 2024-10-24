@@ -55,7 +55,9 @@ https://crazism.net/2055.html
 * https://www.bilibili.com/video/BV1qQ4y1k7Gs  
 
 ## nscripter  
-* http://www.nscripter.com  
+* (origin) http://www.nscripter.com  
+* (origin ???) http://www2.osk.3web.ne.jp/~naokikun/  
+http://autumoon.s35.xrea.com/nscr/nsdown.html   
 * http://nscripter.insani.org/reference/  
 * https://github.com/weimingtom/wmthome/tree/master/nscr  
 * https://github.com/weimingtom/nscripter_study/tree/master/nscripter_manual_chinese  
