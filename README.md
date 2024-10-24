@@ -276,6 +276,8 @@ from https://archive.codeplex.com/?p=tvpcn
 * (2017-09-01, svn) kirikiri_svn.7z  
 * (2012-11-09, may be svn) 51CTO下载-kirikiri2.zip  
 * (20080908, 2.30.2.416) kr2_230r2.lzh  
+* 安定版 ダウンロード, 吉里吉里2 SDK version 2.30 stable rev.2 / KAG 3 3.30 stable rev.2   
+kr2_230r2.lzh, Kikiriki.rar, kirikiri_inside.lzh, krkrlogo.lzh, translib2.lzh, wuvorbisfile20041005.lzh  
 
 ## 吉里吉里Z, krkrz, kirikiriz    
 * https://github.com/krkrz/krkrz_dev  
@@ -382,6 +384,10 @@ mkdir build; cd build; cmake -DCMAKE_TOOLCHAIN_FILE=/home/wmt/work_krkrsdl2/andr
 * (origin, dead) http://www.poringsoft.net/cnt/program/kkde2/index.html  
 * search kkde_200a3.zip
 * kkde_200a4.zip  
+* kkde_200a3.zip  
+
+## 克里的KRKR脚本助手
+* ksa.demo.express.rar  
 
 ## habakiri, kirikirij, kirikiri2 java (for Android and PC)     
 * (origin) http://www.kaede-software.com/2011/11/2_for_javaandro.html  
@@ -444,6 +450,9 @@ see also https://gitee.com/weimingtom/kirikiroid2_fork/tree/master/test_data/ate
 
 ## KCDDP KAGeXpress 3.0  
 * search 吉里吉里v2.0.exe  
+* 吉里吉里v2.0.exe解压后：  
+汉化版，仅汉化了krkr.eXe，其余打包工具没有汉化    
+Wizard.exe: KCDPP KAGeXpress新工程向导  
 
 ## RealLiveMax (closed source)    
 * http://www.product.co.jp/reallivemax/  
