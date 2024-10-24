@@ -259,6 +259,7 @@ libretro-onscripter-deps-20240118.tar.xz
 
 ## 吉里吉里2, kirikiri2  
 * (origin) https://github.com/krkrz/krkr2  
+* (origin, dead) http://kikyou.info/tvp/  
 * (origin, dead) https://sv.kikyou.info/svn/kirikiri2/trunk/  
 * (origin, dead) https://sv.kikyou.info/svn/kirikiri2/trunk/kirikiri2/src/core/tjs2  
 * https://github.com/jeeb/kirikiri2  
@@ -920,9 +921,35 @@ http://khmix.sakura.ne.jp/download.shtml
 * search AINE_0.9.0_flash.zip  
 
 ## YU-RIS, yuris   
-* (origin) http://yu-ris.net  
+* (origin) http://yu-ris.net, http://yu-ris.net/download/index.html    
 * (origin) http://www.firstia.com  
-* search yu-ris_0480_001.zip, yu-ris_0486_006.zip    
+* (origin, dead) http://www.firstia.com/yu-ris/  
+* search yu-ris_0480_001.zip, yu-ris_0486_006.zip
+* (old) yu-ris_0287_087.lzh, yu-ris_ysdhk_0287.lzh
+* (old) yu-ris_0276_sample.lzh, YU-RIS beta 3 V0.277 0.77.7z
+* (old) eris_087_novel.lzh
+* (dead) http://hi.baidu.com/violetfans/blog/item/1f7843f00d0d1fc57931aa1e.html
+```
+引擎就是一个单文件，可换图标，自带打包工具，相当方便。  
+并且一同提供 ERIS 脚本系统，包含很多默认脚本，比如 LOGO 显示，标题画面等等。  
+YU-RIS 支持多项目，每个项目占用一个新文件夹。
+除了脚本文件必须放在 script 目录下，cg、bgm 和 voice 目录可以自由设定。
+另外 config 目录下的 projectconfig.txt 是项目配置文件，
+用来设置游戏窗口标题、屏幕大小等等。
+设置 SYSTEMMODE 为 DEBUGMODE=0 将会自动编译所有脚本并保存到 ysbin 目录。
+而多个项目切换则由 yu-ris 下 system 目录的 ysconfig.txt 控制，
+PROJECTFOLDER[PROJECTFOLDER="./sample"] 指定当前项目。
+system 目录下，YSCom 脚本编译器会由引擎自动调用，DEBUG 时只会在内存中编译脚本。
+YSArc 是打包工具。
+yu-ris 会自动打开游戏目录下所有包，所以游戏数据可以分目录打包，也可以全部打成一个包。
+脚本源代码不能在打包状态编译运行，只能编译到 ysbin 后将 ysbin 目录打包。
+另外 YSIcon 工具可以给引擎程序更换图标。
+YSOne 可以将数据包和引擎程序一体化。
+至于 yu-ris 的中文汉化，大致分析了引擎代码，实现 GB2312 字符显示并不难。
+但是 YSCom 脚本编译器只支持 Shift-JIS 编码，相当麻烦。
+软件作者：たくみ 官网：http://yu-ris.net/
+教程作者：御宅男（おたく/otaku）官网：http://larryli.yo2.cn/
+```
 
 ## EntisGLS  
 * (origin) http://www.entis.jp/gls/  
@@ -1154,3 +1181,12 @@ MangaMeeya
 * my windows homebrew tool  
 * binary, umier_tool.rar  
 * source, UmierTools.7z  
+
+## ADV+++, YOX-ADV       
+* (origin) http://www.yox-project.com/jp/adv_ppp/download.htm  
+* (origin) http://www.yox-project.com/jp/adv_ppp/  
+* (old) adv_ppp_v234_base_hd.zip
+* (?) http://mimizun.com/log/2ch/gamedev/1083482407/  
+* (TODO)
+
+## 
