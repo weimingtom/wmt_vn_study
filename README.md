@@ -1200,4 +1200,32 @@ MangaMeeya
 * (?) http://mimizun.com/log/2ch/gamedev/1083482407/  
 * (TODO)
 
-## 
+## あどべんちゃーげーむをつくろう！　ScriptPlayer  
+* あどべんちゃーげーむをつくろう！　ScriptPlayer    
+(dead) http://member.nifty.ne.jp/xtom/  
+* うみがめTOOLS  
+(dead) http://www.graphicker.jp/tools/  
+* 願花音  
+(dead) http://www2s.biglobe.ne.jp/~sodoms/index.html  
+* コミックメーカー
+(dead) ttp://www2s.biglobe.ne.jp/~mix/winkai.htm  
+* さうんど?のべるん  
+(dead) http://quest.sub.jp/pq/  
+* シナリオライター
+(dead) http://www.geocities.co.jp/SiliconValley-SanJose/3215/
+* 西瓜Studio  
+(dead) http://www5b.biglobe.ne.jp/~k24j/  
+* びじゅあるのべる
+(dead) http://page.freett.com/elledia/index.html
+* ADV
+(dead) http://home.g07.itscom.net/kurima/
+* AGS
+(dead) http://www.geocities.co.jp/SiliconValley-Oakland/5580/
+* Alice
+(dead) http://hp.vector.co.jp/authors/VA015542/
+* BlueAirScript
+(dead) http://www.chara.ne.jp/~fire/
+
+## ADVRUN
+* (origin) http://buin2gou.com/advrun/  
+* (origin, dead) http://www.geocities.jp/buin2gou2/  
