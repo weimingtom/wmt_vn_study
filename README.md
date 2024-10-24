@@ -708,7 +708,16 @@ Rance -光を求めて- see http://retropc.net/alice/04.html
 * (origin) http://kei.stbbs.net/rubyeye/sys40/sdk_dl.html  
 * https://www.iteye.com/blog/weimingtom-1130129  
 * search Sys40SDK_20041224  
-* https://wikiwiki.jp/system4/System4SDKの入手  
+* https://wikiwiki.jp/system4/System4SDKの入手
+* Sys42SDK_20041224.lzh
+* system40ver132.lzh
+* 鬼畜王兰斯中文版.rar  
+```
+http://sidealice.blogbus.com/logs/144618.html
+http://ms.mblogger.cn/af
+http://sidealice.blogbus.com/logs/346778.html
+http://sidealice.com/
+```
 
 ## OpenRGSS (for Ruby)    
 * (origin) https://github.com/zh99998/OpenRGSS-RPGMaker  
@@ -1223,7 +1232,7 @@ MangaMeeya
 * 願花音  
 (dead) http://www2s.biglobe.ne.jp/~sodoms/index.html  
 * コミックメーカー  
-(dead) ttp://www2s.biglobe.ne.jp/~mix/winkai.htm    
+(dead) http://www2s.biglobe.ne.jp/~mix/winkai.htm    
 * さうんど?のべるん  
 (dead) http://quest.sub.jp/pq/  
 * シナリオライター  
