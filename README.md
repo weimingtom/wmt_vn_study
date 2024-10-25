@@ -293,7 +293,6 @@ see kirikiri_svn.7z, Kage-kirie.zip
 How to Build krkrz 1.1.0  
 https://github.com/krkrz/krkrz/releases/tag/v1.1.0  
 https://github.com/weimingtom/krkrz110_fork  
-https://github.com/weimingtom/krkrz110_fork/blob/master/kr2.md  
 https://github.com/weimingtom/krkrz110_fork/blob/master/HowToBuild.txt  
 (20180623) krkrz-1.1.0_vs2010_v3_font_fixed.rar  
 (20170901) krkrz-1.1.0_tjs_v1_full.rar  
@@ -309,6 +308,7 @@ https://github.com/weimingtom/krkrz110_fork/blob/master/HowToBuild.txt
 * search baidupan, krkrz_20171225r2.7z  
 * https://github.com/uyjulian/krkrs  
 * https://github.com/uyjulian/krkrv  
+* (TODO) https://github.com/weimingtom/krkrz110_fork/blob/master/kr2.md    
 
 ## krkrsdl2  
 * (origin) https://github.com/krkrsdl2/krkrsdl2  
