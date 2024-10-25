@@ -1260,7 +1260,7 @@ MangaMeeya
 * binary, umier_tool.rar  
 * source, UmierTools.7z  
 
-## ADV+++, YOX-ADV       
+## ADV+++, YOX-ADV, Yox-ADV  
 * (origin) http://www.yox-project.com/jp/adv_ppp/download.htm  
 * (origin) http://www.yox-project.com/jp/adv_ppp/  
 * (old) adv_ppp_v234_base_hd.zip
@@ -1314,6 +1314,10 @@ MangaMeeya
 (dead) http://hp.vector.co.jp/authors/VA012476/  
 * TNsystem  
 (dead) http://www.vector.co.jp/soft/win95/game/se174755.html  
+* Yuuki! Novel  
+(dead) http://page.freett.com/yuukiex/  
+* ZERO.system  
+(dead) http://www.ayahime.com/  
 
 ## ADVRUN
 * (origin) http://buin2gou.com/advrun/  
