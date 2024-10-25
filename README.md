@@ -1373,3 +1373,29 @@ MIA's HomePage
 ## シナリオくん  
 * http://www3.plala.or.jp/ootake/ver-up.html  
 * verup191.exe  
+
+## TLWiki  
+* (origin, dead) http://tsukuru.info/tlwiki/index.php?title=Tools#AnimED_-_Visual_Novel_Tools
+* TLWiki.rar
+* AnimED - Visual Novel Tools
+* BALDR FORCE EXE tools
+* Carnival dumper and repacker
+* CROSS†CHANNEL
+* Eien no Aselia
+* ExtractData
+* Gekkou no Carnevale
+* ImageMagick
+* Kas
+* Kono Yo no Hate de Koi wo Utau Shoujo YU-NO
+* Krkr, kiri_sm.7z, Xp3tools-20060708.zip, xp3_tools.patch
+* Love Plus
+* PONScripter Edition
+* ToHeart2 XRATED, gpl_cd.img.rar, Aquaplus_sources.iso.rar.exe
+* Visual Novel tools, Tools for working with visual novels
+like: KOGADO, npa, ONScripter-EN Releases, rlvm
+bitmapbreaker.rar, crescendo.rar, csx.rar
+editor.rar, jiskit.rar, katahane_tools.zip, katahane_tools_src.zip
+md5tool.rar, mjarc.rar, msd.rar, ostealer.rar
+http://www.solelo.com/p4s/  
+http://www.solelo.com/blog/index.php/2008/12/editing-katahane-not-fully-working/  
+http://vndb.org/v1136  
