@@ -330,8 +330,21 @@ https://github.com/weimingtom/krkrz110_fork/blob/master/HowToBuild.txt
 https://github.com/krkrsdl2/krkrsdl2-kag3-demo/blob/main/data-demo/scenario/first.ks  
 吉里吉里とKAGの紹介, data same as krkrsdl2_v14_crash_fix.rar  
 * (work, vs2013, no opengl blend) krkrsdl2_v14_crash_fix.rar  
-* (data same as krkrsdl2/krkrsdl2-kag3-demo) krkrsdl2的作者给了一个示例（基于网页版），用了一个data.xp3，但我无论如何都解包不了里面的脚本文本（可以解出来，但乱码），用krkrsdl2的linux版程序却可以正常显示。今天我查出原因，可能是因为tjs和某些后缀文件是经过压缩的；tjs使用了unicode而非utf8。所以如果要解包，就要走两步：需要用一个支持xp3文本解压缩的解包器（ExtractData不行，只能用cr）；接出来的文本需要用特殊的支持Unicode字符集的阅读器（Notepad++也不行，我用的是bcomp）  
+* (data same as krkrsdl2/krkrsdl2-kag3-demo)
+```
+krkrsdl2的作者给了一个示例（基于网页版），用了一个data.xp3，
+但我无论如何都解包不了里面的脚本文本（可以解出来，但乱码），
+用krkrsdl2的linux版程序却可以正常显示。今天我查出原因，
+可能是因为tjs和某些后缀文件是经过压缩的；tjs使用了
+unicode而非utf8。所以如果要解包，就要走两步：
+需要用一个支持xp3文本解压缩的解包器
+（ExtractData不行，只能用cr）；
+接出来的文本需要用特殊的支持Unicode字符集的阅读器
+（Notepad++也不行，我用的是bcomp）
+```  
+```
 吉里吉里とKAGの紹介, data same as krkrsdl2_v14_crash_fix.rar  
+```
 * build method, see https://sirius10.net/blog/wordpress/index.php/2021/04/10/690/  
 (under xubuntu200464)   
 $ git clone –recursive https://github.com/uyjulian/krkrsdl2  
