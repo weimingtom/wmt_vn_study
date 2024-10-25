@@ -1279,7 +1279,7 @@ MangaMeeya
 * (?) http://mimizun.com/log/2ch/gamedev/1083482407/  
 * (TODO)
 
-## あどべんちゃーげーむをつくろう！　ScriptPlayer, and etc dead   
+## (most dead very long time before) あどべんちゃーげーむをつくろう！　ScriptPlayer, and etc dead   
 * あどべんちゃーげーむをつくろう！　ScriptPlayer    
 (dead) http://member.nifty.ne.jp/xtom/  
 * うみがめTOOLS  
