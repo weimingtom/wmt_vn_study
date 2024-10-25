@@ -1,6 +1,6 @@
 # wmt_vn_study
 My visual novel game engine study projects (or something about...).    
-I want to find the similarity among too many visual novel engines (see vndb, more than 10000),  
+I want to find the similarity among too many visual novel engines (see vndb, more than 400),  
 like how to transform scripts into binary to protect the game.  
 DO NOT waste time to unpack them, there's no sense.  
 ```
