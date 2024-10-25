@@ -280,14 +280,24 @@ from https://archive.codeplex.com/?p=tvpcn
 * (20080908, 2.30.2.416) kr2_230r2.lzh  
 * 安定版 ダウンロード, 吉里吉里2 SDK version 2.30 stable rev.2 / KAG 3 3.30 stable rev.2   
 kr2_230r2.lzh, Kikiriki.rar, kirikiri_inside.lzh, krkrlogo.lzh, translib2.lzh, wuvorbisfile20041005.lzh  
+* How to build kirikiri2 (Kage-kirie) with bcb6 (C++Builder):  
+https://github.com/weimingtom/krkrz110_fork/blob/master/vendor/kr2/build.txt  
+see kirikiri_svn.7z, Kage-kirie.zip  
 
 ## 吉里吉里Z, krkrz, kirikiriz    
-* https://github.com/krkrz/krkrz_dev  
-* https://github.com/krkrz/krkrz  
+* (new) http://krkrz.github.io  
+* (new) https://krkrz.github.io/krkr2doc/  
+* (origin) https://github.com/krkrz/krkrz_dev  
+* (origin) https://github.com/krkrz/krkrz  
 * https://github.com/weimingtom/krkrz110_fork  
-* (20180623) krkrz-1.1.0_vs2010_v3_font_fixed.rar  
-* (20170901) krkrz-1.1.0_tjs_v1_full.rar  
-* (20170901) krkrz-1.1.0_tjs_v6_min.rar  
+How to Build krkrz 1.1.0  
+https://github.com/krkrz/krkrz/releases/tag/v1.1.0  
+https://github.com/weimingtom/krkrz110_fork  
+https://github.com/weimingtom/krkrz110_fork/blob/master/kr2.md  
+https://github.com/weimingtom/krkrz110_fork/blob/master/HowToBuild.txt  
+(20180623) krkrz-1.1.0_vs2010_v3_font_fixed.rar  
+(20170901) krkrz-1.1.0_tjs_v1_full.rar  
+(20170901) krkrz-1.1.0_tjs_v6_min.rar  
 * https://github.com/krkrz/kag3  
 * https://github.com/Yamilemon/webview_sdl_krkr  
 * (doc) https://krkrz.github.io/documents/  
@@ -295,8 +305,6 @@ kr2_230r2.lzh, Kikiriki.rar, kirikiri_inside.lzh, krkrlogo.lzh, translib2.lzh, w
 * (tjs doc) https://krkrz.github.io/krkr2doc/tjs2doc/contents/index.html  
 * (kr2 doc) https://krkrz.github.io/krkr2doc/kr2doc/contents/index.html  
 * (kag3 doc) https://krkrz.github.io/krkr2doc/kag3doc/contents/index.html  
-* (new) http://krkrz.github.io  
-* (new) https://krkrz.github.io/krkr2doc/  
 * search baidupan, krkrz_20140803.zip  
 * search baidupan, krkrz_20171225r2.7z  
 * https://github.com/uyjulian/krkrs  
