@@ -1296,6 +1296,10 @@ MangaMeeya
 (dead) http://www.asahi-net.or.jp/~ku5m-fji/  
 * FABSystem  
 (dead) http://nagasaki.cool.ne.jp/d_i/  
+* Hyper Novel System  
+(dead) http://studio-til.cool.ne.jp/    
+* Like A Novel　LNV Light　LNV petit  
+(dead) http://www.jomon.ne.jp/~ymd3106/   
 
 ## ADVRUN
 * (origin) http://buin2gou.com/advrun/  
@@ -1312,3 +1316,6 @@ MangaMeeya
 ## HSP3 (former name: HSP)    
 * (origin, moved) http://www.onionsoft.net/hsp/  
 * (origin) https://hsp.tv  
+
+## JAVA Novel  
+* http://hp.vector.co.jp/authors/VA006860/  
