@@ -1265,7 +1265,7 @@ MangaMeeya
 * (?) http://mimizun.com/log/2ch/gamedev/1083482407/  
 * (TODO)
 
-## あどべんちゃーげーむをつくろう！　ScriptPlayer  
+## あどべんちゃーげーむをつくろう！　ScriptPlayer, and etc dead   
 * あどべんちゃーげーむをつくろう！　ScriptPlayer    
 (dead) http://member.nifty.ne.jp/xtom/  
 * うみがめTOOLS  
@@ -1296,10 +1296,14 @@ MangaMeeya
 (dead) http://www.asahi-net.or.jp/~ku5m-fji/  
 * FABSystem  
 (dead) http://nagasaki.cool.ne.jp/d_i/  
+* GSS  
+(dead?) http://www.vector.co.jp/soft/win95/game/se154775.html  
 * Hyper Novel System  
 (dead) http://studio-til.cool.ne.jp/    
 * Like A Novel　LNV Light　LNV petit  
 (dead) http://www.jomon.ne.jp/~ymd3106/   
+* Mercurius  
+http://hp.vector.co.jp/authors/VA013591/   
 
 ## ADVRUN
 * (origin) http://buin2gou.com/advrun/  
@@ -1310,12 +1314,15 @@ MangaMeeya
 ## GameBookViewer  
 * http://www.asahi-net.or.jp/~uz2a-kdm/  
 
-## GSS  
-* http://www.vector.co.jp/soft/win95/game/se154775.html  
-
 ## HSP3 (former name: HSP)    
 * (origin, moved) http://www.onionsoft.net/hsp/  
 * (origin) https://hsp.tv  
 
 ## JAVA Novel  
 * http://hp.vector.co.jp/authors/VA006860/  
+
+## Live Maker  
+* http://www.livemaker.net/  
+
+## Malie
+* (?this is just light Official Website) http://www.light.gr.jp/  
