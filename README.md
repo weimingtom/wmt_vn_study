@@ -1277,9 +1277,25 @@ MangaMeeya
 (dead) http://hp.vector.co.jp/authors/VA015542/  
 * BlueAirScript  
 (dead) http://www.chara.ne.jp/~fire/  
+* CatSystem  
+(dead) http://neko.suki.gr.jp/catsys/
+* DSN    
+(dead) http://www.asahi-net.or.jp/~ku5m-fji/  
+* FABSystem  
+(dead) http://nagasaki.cool.ne.jp/d_i/  
 
 ## ADVRUN
 * (origin) http://buin2gou.com/advrun/  
 * (origin, dead) http://www.geocities.jp/buin2gou2/  
 * ADVRUNSDK_final.ZIP  
 * rules.LZH, ADVRUN_sozai.LZH  
+
+## GameBookViewer  
+* http://www.asahi-net.or.jp/~uz2a-kdm/  
+
+## GSS  
+* http://www.vector.co.jp/soft/win95/game/se154775.html  
+
+## HSP3 (former name: HSP)    
+* (origin, moved) http://www.onionsoft.net/hsp/  
+* (origin) https://hsp.tv  
