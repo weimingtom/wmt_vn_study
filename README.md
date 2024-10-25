@@ -1071,10 +1071,22 @@ YSOne 可以将数据包和引擎程序一体化。
 * (origin) http://kaoriha.org/kip/  
 * Visual Reading Story『希望入りパン菓子』はWindows用ソフトウェアです。体験版がGameBoy Advance上に移植されました。  
 
-## yanSDK (yaneurao game script), YaneuraoGameSDK.NET  
+## yanSDK (yaneurao game script), YaneuraoGameSDK.NET, ygs2k (this is IMP?)    
 * NOTICE: before was C++, currently perhaps no VN Script Engine    
 * (origin) http://yanesdkdotnet.sourceforge.jp/  
-* (origin, dead) http://ygs2k.xrea.jp/  
+* (origin, dead) http://ygs2k.xrea.jp/
+* yga_change.rar
+* yaneSDK2nd  
+http://yaneurao.hp.infoseek.co.jp/yaneSDK2nd/
+* (?) test23.lzh  
+* (IMP? script engine?) ygs2001v111.lzh, ygs2001v111.lzh, ygs2klib104.lzh  
+(dead?) http://yaneurao.hp.infoseek.co.jp/ygs2k/  
+```
+Yaneurao Game Script 2000 is a kind of language like a C.
+But this is easy to learn, easy to program,faster than Visual Basic.
+No development tool is necessary for making Game,without this script.
+This is a FREEWARE, and a ROYALTIES FREE!!
+```
 
 ## vnds  
 * (origin, dead) http://digital-haze.net/projects/vnds.html  
@@ -1314,8 +1326,6 @@ MangaMeeya
 (dead) http://hp.vector.co.jp/authors/VA012476/  
 * TNsystem  
 (dead) http://www.vector.co.jp/soft/win95/game/se174755.html  
-* Yuuki! Novel  
-(dead) http://page.freett.com/yuukiex/  
 * ZERO.system  
 (dead) http://www.ayahime.com/  
 
@@ -1354,3 +1364,12 @@ MangaMeeya
 * (moved) http://hp.vector.co.jp/authors/VA015883/  
 * http://taillove.jp/mia/
 MIA's HomePage
+
+## Yuuki! Novel  
+* (origin, dead) http://page.freett.com/yuukiex/yuukinovel.html  
+* (origin, dead) http://page.freett.com/yuukiex/
+* ynovel_r9_7.lzh  
+
+## シナリオくん  
+* http://www3.plala.or.jp/ootake/ver-up.html  
+* verup191.exe  
