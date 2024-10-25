@@ -742,16 +742,8 @@ see https://github.com/kichikuou/xsystem35-sdl2
 see https://github.com/kichikuou/system3-sdl2    
 * kichikuou.rar, RANCE_WIN.ZIP  
 see https://kichikuou.github.io/web/help.html  
-Rance -光を求めて- see http://retropc.net/alice/04.html  
 鬼畜王ランス see http://retropc.net/alice/30.html  
-
-## System4 (closed source)    
-* (origin) http://kei.stbbs.net/rubyeye/sys40/sdk_dl.html  
-* https://www.iteye.com/blog/weimingtom-1130129  
-* search Sys40SDK_20041224  
-* https://wikiwiki.jp/system4/System4SDKの入手
-* Sys42SDK_20041224.lzh
-* system40ver132.lzh
+Rance -光を求めて- see http://retropc.net/alice/04.html  
 * 鬼畜王兰斯中文版.rar  
 ```
 http://sidealice.blogbus.com/logs/144618.html
@@ -759,6 +751,16 @@ http://ms.mblogger.cn/af
 http://sidealice.blogbus.com/logs/346778.html
 http://sidealice.com/
 ```
+
+## System4 (closed source)    
+* (origin) http://kei.stbbs.net/rubyeye/sys40/sdk_dl.html  
+* https://www.iteye.com/blog/weimingtom-1130129  
+* search Sys40SDK_20041224  
+* https://wikiwiki.jp/system4/System4SDKの入手
+* Sys42SDK_20041224.lzh
+* system40ver132.lzh  
+* System3.X/4.X    
+http://www.alicesoft.co.jp/    
 
 ## OpenRGSS (for Ruby)    
 * (origin) https://github.com/zh99998/OpenRGSS-RPGMaker  
@@ -1303,7 +1305,15 @@ MangaMeeya
 * Like A Novel　LNV Light　LNV petit  
 (dead) http://www.jomon.ne.jp/~ymd3106/   
 * Mercurius  
-http://hp.vector.co.jp/authors/VA013591/   
+(dead) http://hp.vector.co.jp/authors/VA013591/   
+* NVS  
+(dead) http://www5.big.or.jp/~nekotaro/nvs/
+* S0-Ra  
+(dead) http://sora-net-web.hp.infoseek.co.jp/  
+* SystemMSG  
+(dead) http://hp.vector.co.jp/authors/VA012476/  
+* TNsystem  
+(dead) http://www.vector.co.jp/soft/win95/game/se174755.html  
 
 ## ADVRUN
 * (origin) http://buin2gou.com/advrun/  
@@ -1326,3 +1336,17 @@ http://hp.vector.co.jp/authors/VA013591/
 
 ## Malie
 * (?this is just light Official Website) http://www.light.gr.jp/  
+
+## SNEC  
+* http://www.kataline.com  
+
+## Sutear(?)    
+* (?AstralSystem.com) https://www.astralsystem.com  
+
+## Win Book Maker, SuiHac's OnlineSoft Gallery     
+* http://hp.vector.co.jp/authors/VA006597/  
+
+## XEVNIS   
+* (moved) http://hp.vector.co.jp/authors/VA015883/  
+* http://taillove.jp/mia/
+MIA's HomePage
