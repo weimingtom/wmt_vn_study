@@ -282,7 +282,14 @@ from https://archive.codeplex.com/?p=tvpcn
 kr2_230r2.lzh, Kikiriki.rar, kirikiri_inside.lzh, krkrlogo.lzh, translib2.lzh, wuvorbisfile20041005.lzh  
 * How to build kirikiri2 (Kage-kirie) with bcb6 (C++Builder):  
 https://github.com/weimingtom/krkrz110_fork/blob/master/vendor/kr2/build.txt  
-see kirikiri_svn.7z, Kage-kirie.zip  
+see kirikiri_svn.7z, Kage-kirie.zip (use BCB6.ISO ???)   
+```
+我找到用bcb6编译kirikiri2的tvpwin32.exe的方法了，
+之前我编译它的核心代码tjs的时候发现它的tjsregexp是可以裁剪的，
+所以bcb6在链接期报错时，只要添加TJS_NO_REGEXP定义
+和删除TVP_REPORT_HW_EXCEPTION定义，跳过tjsRegExp.cpp的编译
+（我的做法是用预编译注释掉），即可回避链接错误了 ​​​
+```
 
 ## 吉里吉里Z, krkrz, kirikiriz    
 * (new) http://krkrz.github.io  
