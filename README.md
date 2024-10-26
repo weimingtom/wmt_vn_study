@@ -890,7 +890,8 @@ https://github.com/cjv123/RPG
 * https://gitee.com/weimingtom/angle  
 * https://gitee.com/weimingtom/sakura_ubuntu  
 * search baidupan, PSSuiteSDK_098.exe  
-* https://github.com/nekoharuyuki/PSM  
+Actually there are 2 verisions : PSSuiteSDK_098.exe and PSM_SDK_1.21.02.exe    
+* https://github.com/nekoharuyuki/PSM    
 
 ## qixi2016 (for HTML5 and Unity)    
 * (origin, only HTML5) https://www.bilibili.com/html/activity-qixi2016.html  
