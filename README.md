@@ -1100,8 +1100,11 @@ YSOne 可以将数据包和引擎程序一体化。
 * search 橙光文字游戏制作工具1.15.64.1125.exe  
 
 ## LiveMaker  
-* http://www.livemaker.net  
-* https://www.freem.ne.jp/win/game/17143  
+* (origin) http://www.livemaker.net  
+* https://www.freem.ne.jp/win/game/17143
+* (old) setup02090519f.exe
+(old) setup03090519f.exe
+http://www.livemaker.net/download.html  
 
 ## PlaygroundOSS  
 * https://github.com/KLab/PlaygroundOSS  
