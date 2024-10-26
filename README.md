@@ -547,20 +547,20 @@ Wizard.exe: KCDPP KAGeXpress新工程向导
 * (origin) http://www.rlvm.net  
 * (origin) http://www.elliotglaysher.org  
 * (origin) https://github.com/eglaysher/rlvm  
-* (current work) https://github.com/weimingtom/rlvm_vs2013  
-* https://gitee.com/weimingtom/rlvm_fork  
-* search baidupan, rlvm_fork_20180905_v1.rar  
-* search rlvm_fork_vs2013_v2_run_failed.rar  
-* (x) search baidupan, rlvm_fork_20180905_v1.rar, port to vs2013  
-* search baidupan, rlvm_fork_vs2013_v5_run_success.rar  
-* vmware, ubuntu140432_rlvm, build mthod search baidupan, readme_v1.rar    
-* rlvm game data, search baidupan, kanon_se_ori.rar  
-* rlvm game data, search baidupan, planetarian_steam_english.rar  
+* (my work, not origin) https://github.com/weimingtom/rlvm_vs2013  
+https://gitee.com/weimingtom/rlvm_fork  
+search baidupan, rlvm_fork_20180905_v1.rar  
+search rlvm_fork_vs2013_v2_run_failed.rar  
+(x) search baidupan, rlvm_fork_20180905_v1.rar, port to vs2013  
+search baidupan, rlvm_fork_vs2013_v5_run_success.rar  
+vmware, ubuntu140432_rlvm, build mthod search baidupan, readme_v1.rar    
+rlvm game data, search baidupan, kanon_se_ori.rar  
+rlvm game data, search baidupan, planetarian_steam_english.rar  
 * https://github.com/weimingtom/wmt_vn_study/blob/master/build_rlvm.txt  
 * raspberry pi, apt-cache search rlvm, rlvm_0.14.orig.tar.gz  
 rlvm - RealLive virtual machine clone  
 https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/r/rlvm/  
-* https://github.com/eglaysher/rldev
+* https://github.com/eglaysher/rldev  
 * test data:
 ```
 planetarian ~the reverie of a little planet~_jp.7z  
@@ -705,12 +705,13 @@ Latest version: 1.40 (2006-6-22) - changelog.
 WARNING: this program is not really ready for public consumption. Proceed at your own risk.  
 ```
 * rldev-1.40.tar.bz2  
-* rlBabel-src-1.43.rar
-* http://d.namipan.com/d/rldev.rar/608868611d32a88f508d462b951c835471ad37f7ac2a1c00
-rldev.rar, 带中文命令参数解释
+* rlBabel-src-1.43.rar  
+* http://d.namipan.com/d/rldev.rar/608868611d32a88f508d462b951c835471ad37f7ac2a1c00  
+rldev.rar, 带中文命令参数解释  
 * manual.pdf, manual_develop.htm, manual.htm, RLdev: a visual novel development kit  
-* rlBabel-GenMap-1.43.rar, rlBabel-src-1.43.rar
+* rlBabel-GenMap-1.43.rar, rlBabel-src-1.43.rar  
 * rldev-1.40.tar.bz2, rldev-1.40-win32.rar  
+* https://github.com/eglaysher/rldev  
 
 ## haeleth  
 * haeleth.rar  
