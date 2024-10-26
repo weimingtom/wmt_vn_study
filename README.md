@@ -749,7 +749,7 @@ https://web.archive.org/web/20050308143414/http://waffle.bunkasha.co.jp/zau/inde
 * th2scriptengine_vc2010.rar  
 th2scriptengine_vc2010.rar is later then aquaplus_sources.7z, reflect the code  
 * use dxsdk_sum2004.exe (without DXSDK_Jun10.exe???)
-* aquaplus_sources.zip (原版会乱码), Aquaplus-engine-src.7z（非原版但不乱码）    
+* aquaplus_sources.zip (原版文件名会乱码), Aquaplus-engine-src.7z（非原版但文件名不乱码）    
 ```
 http://e.ys168.com/?john-he
 http://www.mint.la/aquaplus/browse/
@@ -1505,3 +1505,11 @@ http://rubyforge.org/frs/?group_id=1006
 * RMXP入门教学手册+RGSS入门.rar
 * RPGXP完全教学chm.rar
 * TutorialCicloGiorno-NotteperRPGMakerXP.zip  
+
+## Comic Maker  
+* (dead) http://www2s.biglobe.ne.jp/~mix/cm3rt_download.htm  
+* cm3rt312.exe  
+
+## BladeEngine  
+* (dead) http://www.bladeengine.com/BladeEngine/download.php  
+* Default_VN_Kit.zip  
