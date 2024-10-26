@@ -1084,6 +1084,8 @@ YSOne 可以将数据包和引擎程序一体化。
 ## EntisGLS  
 * (origin) http://www.entis.jp/gls/  
 * (TODO) download  
+* (old) gls309a.lzh  
+* (old etc) cotopha308f.lzh, eglmdv108.lzh, erisacvt105.lzh, in_mio.lzh, noa32v109.lzh, noaskin102e.lzh  
 
 ## Novelty  
 * http://www.visualnovelty.com/index.html  
@@ -1418,7 +1420,8 @@ MangaMeeya
 
 ## HSP3 (former name: HSP)    
 * (origin, moved) http://www.onionsoft.net/hsp/  
-* (origin) https://hsp.tv  
+* (origin) https://hsp.tv
+* (old) hsp32.exe  
 
 ## JAVA Novel, JAVA Novel アドベンチャー Ex    
 * http://hp.vector.co.jp/authors/VA006860/  
