@@ -1104,7 +1104,7 @@ YSOne 可以将数据包和引擎程序一体化。
 * (dead) https://www.freem.ne.jp/win/game/17143  
 * (old) setup02090519f.exe  
 (old) setup03090519f.exe  
-http://www.livemaker.net/download.html    
+(dead) http://www.livemaker.net/download.html    
 
 ## PlaygroundOSS  
 * https://github.com/KLab/PlaygroundOSS  
@@ -1420,8 +1420,9 @@ MangaMeeya
 * (origin, moved) http://www.onionsoft.net/hsp/  
 * (origin) https://hsp.tv  
 
-## JAVA Novel  
+## JAVA Novel, JAVA Novel アドベンチャー Ex    
 * http://hp.vector.co.jp/authors/VA006860/  
+* old: jadv40b6.lzh, jnap10.lzh  
 
 ## Live Maker  
 * http://www.livemaker.net/  
