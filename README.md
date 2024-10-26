@@ -62,7 +62,7 @@ https://crazism.net/2055.html
 ## nscripter  
 * (origin) http://www.nscripter.com  
 * (origin ???) http://www2.osk.3web.ne.jp/~naokikun/  
-http://autumoon.s35.xrea.com/nscr/nsdown.html   
+http://autumoon.s35.xrea.com/nscr/nsdown.html
 * http://nscripter.insani.org/reference/  
 * https://github.com/weimingtom/wmthome/tree/master/nscr  
 * https://github.com/weimingtom/nscripter_study/tree/master/nscripter_manual_chinese  
@@ -74,7 +74,23 @@ http://autumoon.s35.xrea.com/nscr/nsdown.html
 * http://senzogawa.s90.xrea.com/reference/NScrAPI.html
 * http://senzogawa.s90.xrea.com/reference
 * http://senzogawa.s90.xrea.com/cheetsheet/cheetsheet.html
-* nsaout.rar, nsaout.exe    
+* nsaout.rar, nsaout.exe  
+see http://nscripter.insani.org/sdk.html  
+nscr_sdk.zip, nsdec.zip, sardec.zip  nsaout.zip  
+* NScripterHelpFilesV1.rar  
+* nscr261-小渡汉化版.rar  
+* nscr248_chs.7z, nscr282_chs.7z, nscr282-1_chs.7z
+http://e.ys168.com/?john-he  
+* my work: 尝试汉化.rar, 汉化reference.rar  
+* NScripterDevV1.rar, nscr261.exe就是上面那个nscr261   
+* NScripter全攻略.rar, nscripter资料01.rar, nscripter资料02.rar
+* Editor: ginnie10079b.exe, ginniefe10079b.exe, perledit.lzh, tpad093.zip, tpad_plugin  
+```
+http://suzakura.noblog.net/blog/e/10556440.html
+http://www5f.biglobe.ne.jp/~t-susumu/library/tpad.html
+http://ginnie.kntware.net/
+http://www.k-collect.net/pe/index.htm
+```
 
 ## onscripter  
 * (origin) https://onscripter.osdn.jp  
