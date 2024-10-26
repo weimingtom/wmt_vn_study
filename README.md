@@ -78,11 +78,16 @@ http://autumoon.s35.xrea.com/nscr/nsdown.html
 
 ## onscripter  
 * (origin) https://onscripter.osdn.jp  
-* (origin) https://onscripter.osdn.jp/onscripter.html  
+(origin) https://onscripter.osdn.jp/onscripter.html  
 * (origin) https://github.com/ogapee/onscripter  
-* (origin) https://github.com/ogapee/onscripter_android  
-* (origin) https://github.com/ogapee/onscripter_win  
-* (origin) https://github.com/ogapee/onscripter_ios  
+(origin) https://github.com/ogapee/onscripter_android  
+(origin) https://github.com/ogapee/onscripter_win  
+(origin) https://github.com/ogapee/onscripter_ios  
+* (origin, old, dead?) http://ogapee.at.infoseek.co.jp/onscripter.html  
+http://dev.haeleth.net/onscripter.shtml  
+http://ogapee.at.infoseek.co.jp/onscripter.html  
+onscripter-20090822.tar.gz  
+onscripter-20090921.tar.gz  
 * https://github.com/weimingtom/eriri/tree/master/rubysdl  
 * https://github.com/PSP-Archive/ONScripter-for-PSP  
 * search baidupan, onscripter_android_src_20120711.tar.bz2  
@@ -124,6 +129,7 @@ https://web.archive.org/web/20071231075020/http://kimatten.hp.infoseek.co.jp/#ON
 https://web.archive.org/web/20090220183547/http://kimatten.hp.infoseek.co.jp/  
 * onscripter-tools_win.zip  
 
+
 ## onscripter-en   
 * (origin, dead) http://unclemion.com/onscripter/releases/  
 * (origin) https://galladite.net/~galladite/ons-en/  
@@ -148,7 +154,11 @@ https://web.archive.org/web/20090220183547/http://kimatten.hp.infoseek.co.jp/
 SDLOTHERCONFIG=--disable-assembly ./configure --std=gnu++98 --no-werror --with-internal-libs && make VERBOSE=true CSTD=-std=gnu99  
 注意，为了防止出现错误_wfopen、off64_t无定义错误，需要把-std=c++98换成--std=gnu++98，  
 把-std=c99换成-std=gnu99，以便把__STRICT_ANSI__的定义取消（相当于-U__STRICT_ANSI__）  
-* https://github.com/Galladite27/ONScripter-EN-devkit  
+* https://github.com/Galladite27/ONScripter-EN-devkit
+* (old) http://dev.haeleth.net/onscripter.shtml  
+onscripter-en-20080823.zip  
+onscripter-en-20080823-fullsrc.tar.bz2  
+onscripter-en-20080823-src.tar.bz2  
 
 ## onscripter by insani (see http://dev.haeleth.net/onscripter.shtml after 2007.04.08)    
 * (origin) http://nscripter.insani.org/onscripter.html  
@@ -188,6 +198,7 @@ SDLOTHERCONFIG=--disable-assembly ./configure --std=gnu++98 --no-werror --with-i
 应该是重新又整合进去（已经改得面目全非）——所以可能只有两种中文化GBK版，
 一个是john-he，一个是jh，也可能这俩其实本质上都是同一个源头同一个人搞出来的  
 ```
+* onscripter-20080121-zh04.tar.gz  
 
 ## psv-OnscripterJH / ONScripter-jh-PSVita    
 * https://www.gamebrew.org/wiki/ONScripterJH_Vita  
