@@ -888,7 +888,11 @@ http://khmix.sakura.ne.jp/download.shtml
 
 ## lanovee, らのべえ  
 * (origin) http://lanovee.e-frontier.co.jp  
-* search baidupan, lanoveeLatestBuild.zip, trial.zip    
+* search baidupan, lanoveeLatestBuild.zip, trial.zip  
+* http://retouch.xsrv.jp/lanovee/
+http://retouch.xsrv.jp/lanovee/main.html  
+see https://www.retouch.info  
+(???) Maybe it is about retouch and sketch/ExHIBIT  
 
 ## tyranoscript  
 * (origin) https://tyrano.jp  
@@ -1047,8 +1051,14 @@ YSOne 可以将数据包和引擎程序一体化。
 ## PlaygroundOSS  
 * https://github.com/KLab/PlaygroundOSS  
 
-## retouch  
-* https://www.retouch.info  
+## sketch / ExHIBIT, retouch, sketchFE        
+* (origin) https://www.retouch.info
+* (origin) http://www.retouch.info/retouch/index.html  
+* (origin) https://www.retouch.info/retouch/manualIndex.html  
+* (old) sketchFE1.31.19.zip
+* retouch/sketch/ExHIBIT とは無関係なツール: findDir102.zip, ifPNG061.zip, sjcpGadget080.zip    
+* C++/Delphi/VB JRE, jredk.lzh, jredoc.lzh
+* tools link dead, see index.rar  
 
 ## Suika2  
 * https://github.com/ktabata/suika2  
