@@ -1211,7 +1211,8 @@ and the R18 group (Beenyan, Candle, Haoh).
 ```
 MJDEV, an unofficial development toolkit for the Majiro virtual machine
 ```
-* mjdev.rar, mjarc.exe, mjasm.exe, mjcrypt.exe, mjdisasm.exe, vaconv.exe and their src    
+* mjdev.rar  
+mjarc.exe, mjasm.exe, mjcrypt.exe, mjdisasm.exe, vaconv.exe and their src    
 * majirospi.zip  
 
 ## VisualNovelUpscaler  
