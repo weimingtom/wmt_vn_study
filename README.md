@@ -132,16 +132,20 @@ https://web.archive.org/web/20090220183547/http://kimatten.hp.infoseek.co.jp/
 
 ## onscripter-en   
 * (origin, dead) http://unclemion.com/onscripter/releases/  
+onscripter-en-20110628-fullsrc.tar.bz2  
+onscripter-en-20110413-fullsrc.tar.bz2  
+onscripter-en-20110314-fullsrc.tar.bz2  
+onscripter-en-20080823-fullsrc.tar.bz2  
+* (origin, old, dead) http://dev.haeleth.net/onscripter.shtml  
+onscripter-en-20080823.zip  
+onscripter-en-20080823-fullsrc.tar.bz2  
+onscripter-en-20080823-src.tar.bz2  
 * (origin) https://galladite.net/~galladite/ons-en/  
 * (origin) https://github.com/Galladite27/ONScripter-EN  
 * https://github.com/weimingtom/onscripter_en_fork2  
 * https://github.com/weimingtom/onscripter_en_fork2_sdlport2  
 * https://github.com/weimingtom/onscripter_en_fork
 * https://github.com/weimingtom/sdlport  
-* onscripter-en-20110628-fullsrc.tar.bz2  
-* onscripter-en-20110413-fullsrc.tar.bz2  
-* onscripter-en-20110314-fullsrc.tar.bz2  
-* onscripter-en-20080823-fullsrc.tar.bz2  
 * mirror: https://kaisernet.neocities.org/onscripter/#mirrors  
 * https://github.com/superzazu/onscripter-en  
 * http://narcissu.insani.org  
@@ -155,10 +159,6 @@ SDLOTHERCONFIG=--disable-assembly ./configure --std=gnu++98 --no-werror --with-i
 注意，为了防止出现错误_wfopen、off64_t无定义错误，需要把-std=c++98换成--std=gnu++98，  
 把-std=c99换成-std=gnu99，以便把__STRICT_ANSI__的定义取消（相当于-U__STRICT_ANSI__）  
 * https://github.com/Galladite27/ONScripter-EN-devkit
-* (old) http://dev.haeleth.net/onscripter.shtml  
-onscripter-en-20080823.zip  
-onscripter-en-20080823-fullsrc.tar.bz2  
-onscripter-en-20080823-src.tar.bz2  
 
 ## onscripter by insani (see http://dev.haeleth.net/onscripter.shtml after 2007.04.08)    
 * (origin) http://nscripter.insani.org/onscripter.html  
