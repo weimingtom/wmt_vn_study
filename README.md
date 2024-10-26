@@ -1201,9 +1201,18 @@ This is a FREEWARE, and a ROYALTIES FREE!!
 ## web_maker  
 * http://milk0824.sakura.ne.jp/web_maker/  
 
-## mjdev  
+## mjdev, tools for Majiro Engine       
 * http://dev.haeleth.net/majiro.shtml  
-* mjdev.rar  
+```
+Majiro is yet another visual-novel-oriented scripting engine,  
+used by companies such as SIESTA, NekoNeko Soft,  
+and the R18 group (Beenyan, Candle, Haoh).  
+```
+```
+MJDEV, an unofficial development toolkit for the Majiro virtual machine
+```
+* mjdev.rar, mjarc.exe, mjasm.exe, mjcrypt.exe, mjdisasm.exe, vaconv.exe  
+* majirospi.zip  
 
 ## VisualNovelUpscaler  
 * https://github.com/hokejyo/VisualNovelUpscaler  
