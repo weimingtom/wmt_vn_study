@@ -672,8 +672,32 @@ patch -p1 < ../bless_avg32-rpi.patch
 
 ## rldev  
 * (origin, dead) http://dev.haeleth.net/rldev.shtml  
+```
+RLdev is a basic RealLive development kit, containing an archiver/disassembler, a compiler, and a graphics conversion tool.  
+Latest version: 1.40 (2006-6-22) - changelog.  
+WARNING: this program is not really ready for public consumption. Proceed at your own risk.  
+```
 * rldev-1.40.tar.bz2  
-* rlBabel-src-1.43.rar  
+* rlBabel-src-1.43.rar
+* http://d.namipan.com/d/rldev.rar/608868611d32a88f508d462b951c835471ad37f7ac2a1c00
+rldev.rar, 带中文命令参数解释
+* manual.pdf, manual_develop.htm, manual.htm, RLdev: a visual novel development kit  
+* rlBabel-GenMap-1.43.rar, rlBabel-src-1.43.rar
+* rldev-1.40.tar.bz2, rldev-1.40-win32.rar  
+
+## haeleth  
+* haeleth.rar  
+* Kurokoge  
+* Majiro stuff
+* ONScripter
+* rldev
+* xclannad
+* xkanon  
+
+## hkuczc (RealLive or something about, not sure)       
+* http://free.gqdns.com/hkuczc/  
+* clannad渚线剧本注音完成（rc版发布）  
+http://www.keyfc.net/bbs/showtopic-31510-1.aspx  
 
 ## (NOT FOUND and dead) th2wconv, wlk2ht.avd  
 * Converter for running on わっふる「avg32」 waffle engine, not for onscripter!!!  
@@ -981,9 +1005,12 @@ see https://www.retouch.info
 * (origin) https://github.com/Lunatic-Works/Nova  
 
 ## Ren'Py (for Python)    
+* (origin) https://www.renpy.org  
 * (origin) https://github.com/renpy/renpy
 * test data: Katawa Shoujo.7z  
-* test data: thequestion_v1.7z  
+* test data: thequestion_v1.7z
+* (old) renpy-6.9.3-sdk.tar.bz2  
+http://www.renpy.org/wiki/renpy/releases/6.9.3
 
 ## Reitsuki  
 * (origin) https://github.com/kasuganosora/Reitsuki  
@@ -1409,3 +1436,27 @@ md5tool.rar, mjarc.rar, msd.rar, ostealer.rar
 http://www.solelo.com/p4s/  
 http://www.solelo.com/blog/index.php/2008/12/editing-katahane-not-fully-working/  
 http://vndb.org/v1136  
+
+## rUGP  
+* rUGP54010_beta_half.exe  
+* (TODO, where???)  
+
+## (?maybe should not put here) Ruby  
+* Ruby  
+http://www.web-ghost.net/blog/blog.cgi/recent  
+http://ruby-game-dev.org/wiki/index.php?%E3%82%B2%E3%83%BC%E3%83%A0  
+http://bd.tank.jp/garakuta/index.html  
+* rskit-1.2.0b.zip  
+http://route477.net/w/?RubySDLStarterKit#l0  
+http://www.kmc.gr.jp/~ohai/rubysdl_ref.html#label-537  
+* asteroid_rescue_0010.zip  
+http://www.catch.jp/blog/programing/ruby_sdl/a20070504.htm  
+* RubyForge: Ruby/SDL: Project Filelist  
+http://rubyforge.org/frs/?group_id=1006  
+* rubyemb_change.rar, ruby18_vc6lib.rar  
+
+## RGSS  
+* nockyzhqy新人学RGSS大集合114799195.rar
+* RMXP入门教学手册+RGSS入门.rar
+* RPGXP完全教学chm.rar
+* TutorialCicloGiorno-NotteperRPGMakerXP.zip  
