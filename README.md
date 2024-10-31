@@ -515,6 +515,9 @@ see also https://gitee.com/weimingtom/kirikiroid2_fork/tree/master/test_data/ate
 汉化版，仅汉化了krkr.eXe，其余打包工具没有汉化    
 Wizard.exe: KCDPP KAGeXpress新工程向导  
 
+## fantasydr/krkr-cs  
+* https://github.com/fantasydr/krkr-cs  
+
 ## RealLiveMax (closed source)    
 * http://www.product.co.jp/reallivemax/  
 * search baidupan, RealLiveMax_SDK_20111129_006.zip, acttest.zip    
