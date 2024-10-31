@@ -31,8 +31,8 @@
 * Amane Kisora-chan(FREE ver)  
 http://www.assetstore.unity3d.com/en/content/70581  
 天音绮青空(Amane Kisora)  
-https://twitter.com/sapphiart_chan
-Amane Kisora-chanFREE ver  
+https://twitter.com/sapphiart_chan  
+Amane Kisora-chanFREE ver.unitypackage  
 * 暮井 慧  
 http://3d.nicovideo.jp/works/td8608  
 http://pronama.azurewebsites.net/2014/08/20/kurei-kei-3d-model-unity-package/  
@@ -40,19 +40,19 @@ http://pronama.azurewebsites.net/2014/08/22/unity-toon-shading/
 http://zenryokuhp.com/poser-oboegaki/archives/2014/12/d3d.html   
 * UNITY-CHAN!  
 http://unity-chan.com/  
-Unity-chan Model  
+Unity-chan Model.unitypackage  
 * MiraiAkariProject    
 http://3d.nicovideo.jp/works/td31639  
 * Akane Project
-Akane 1.1, for unity5.3.0f4    
+Akane 1.1.unitypackage, for unity5.3.0f4    
 * Action-RPG Starter Kit  
 Action-RPG Starter Kit 6.54.zip  
 Action-RPG Starter Kit 6.5.rar    
 * Haruka  
-Anime Style Girl Haruka, 1.1, need Unity 2019  
-* Top-Down RPG Starter Kit
-* GalForUnity1.1b.3
-* Riko 1.3  
+Anime Style Girl Haruka [1.1].unitypackage, 1.1, need Unity 2019  
+* Top-Down RPG Starter Kit.unitypackage  
+* GalForUnity1.1b.3.unitypackage  
+* Riko 1.3.unitypackage  
 
 ## live2d  
 * Live2D_SDK_OpenGL_2.0.06_3_en.zip
