@@ -1308,7 +1308,17 @@ ITHVNR多了一个unhook按钮，而且按钮内的对话框内容不同
 * https://github.com/HIllya51/LunaHook  
 * https://github.com/Artikash/Textractor  
 * GALGAME自动翻译器(附带小工具).rar  
-
+agth, Cp2Tran, galtrans, galtrans2, NT全域通 (NTLEA 0.82, 0.86), APP (apploc 语言转换器)  
+AGTH Assistant Ver1.1, jbeijing V6      
+```
+GALGAME自动翻译器,重新整合完整版
+（附带小工具和使用方法）
+更新字库！！！！！
+《零之龙》
+http://blog.fenbei.com/5406999
+http://a448062416.home.imhb.cn/
+http://www.yyfc.com/2003819/
+```
 
 ## Translation Aggregator  
 * (origin) https://github.com/Translation-Aggregator/Translation-Aggregator  
