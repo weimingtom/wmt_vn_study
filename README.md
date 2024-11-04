@@ -1095,7 +1095,7 @@ YSOne 可以将数据包和引擎程序一体化。
 
 ## EntisGLS  
 * (origin) http://www.entis.jp/gls/  
-* (TODO) download  
+* EntisGLS ver.4.07 (2024/07/16 更新): EntisGLS4.07.01.zip  
 * (old) gls309a.lzh  
 * (old etc) cotopha308f.lzh, eglmdv108.lzh, erisacvt105.lzh, in_mio.lzh, noa32v109.lzh, noaskin102e.lzh  
 * (old) gls4s.05.2015.04.18.zip
