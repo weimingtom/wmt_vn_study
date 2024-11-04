@@ -774,6 +774,9 @@ http://blog.yam.com/kctsang/article/5507230
 * MGL Version 2 は、Handheld PC などリソースの少ないマシンでグラフィック対応のアプリケーション動かすためのグラフィックライブラリおよび、ウインドウマネージャです。  
 * http://www.at.sakura.ne.jp/~suz/MGL2/index.html  
 * MobileGearII for DoCoMo: NEC's PDA  
+* (old mgl2) mgl2-alpha-019.tar.gz, mgl2-alpha-020.tar.gz, fontkit-1.1-nobdf.tar.gz, fontkit-1.1-src.tar.gz  
+see http://www.at.sakura.ne.jp/~suz/MGL2/index.html  
+see http://hoshina.denpa.org/mglvns/  
 
 ## PS2版『ToHeart2』をP/ECE用にコンバートして実行『好き好きタマお姉ちゃん』  
 * https://github.com/zurachu/pceth2  
@@ -1061,7 +1064,8 @@ http://www.renpy.org/wiki/renpy/releases/6.9.3
 ## YU-RIS, yuris   
 * (origin) http://yu-ris.net, http://yu-ris.net/download/index.html    
 * (origin) http://www.firstia.com  
-* (origin, dead) http://www.firstia.com/yu-ris/  
+* (origin, dead) http://www.firstia.com/yu-ris/
+* (old) yu-ris_0486_006.zip  
 * search yu-ris_0480_001.zip, yu-ris_0486_006.zip
 * (old) yu-ris_0287_087.lzh, yu-ris_ysdhk_0287.lzh
 * (old) yu-ris_0276_sample.lzh, YU-RIS beta 3 V0.277 0.77.7z
@@ -1094,6 +1098,8 @@ YSOne 可以将数据包和引擎程序一体化。
 * (TODO) download  
 * (old) gls309a.lzh  
 * (old etc) cotopha308f.lzh, eglmdv108.lzh, erisacvt105.lzh, in_mio.lzh, noa32v109.lzh, noaskin102e.lzh  
+* (old) gls4s.05.2015.04.18.zip
+* (old) gls4s.03.2014.08.25.zip  
 
 ## Novelty  
 * http://www.visualnovelty.com/index.html  
