@@ -200,6 +200,18 @@ SDLOTHERCONFIG=--disable-assembly ./configure --std=gnu++98 --no-werror --with-i
 * http://c.tieba.baidu.com/p/3395900252?pn=1  
 * search baidupan, sdl2.neon.apk  
 * search baidupan, macos sdl2, configure --prefix build, search baidupan, onscripter-jh_macos_prefix_build_v1.zip  
+* Anbernic RG350 and Anbernic RetroGame (RS97) version, all are mipsel  
+RG350 version is similar to ln93/Onscripter-GameCase, but not same  
+RS97 version is music code mod of RG350 version (?)  
+ln93/Onscripter-GameCase is the SDL1 branch of ONScripter-Jh  
+https://steward-fu.github.io/website/handheld/rg350/build_onscripter.htm  
+https://steward-fu.github.io/website/handheld/rs97/build_onscripter.htm  
+https://github.com/steward-fu/website/releases?q=rg350&expanded=true  
+https://github.com/steward-fu/website/releases?q=rs97&expanded=true  
+https://github.com/ln93/Onscripter-GameCase  
+search ln93_Onscripter-GameCase-master.zip,   
+steward-fu_website_rg350_src_onscripter.tar.gz,   
+steward-fu_website_rs97_src_onscripter.7z  
 
 ## john-he onscripter Chinese version, for Windows / PSP / Pocket PC  
 * (dead) http://john-he.ys168.com/?jdfwkey=k9rlz
