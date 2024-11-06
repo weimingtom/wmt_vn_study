@@ -12,6 +12,7 @@ Nothing seek, nothing find
 ```
 
 ## TODO  
+* (TODO) compile retroarch, work_ra_v1.tar.gz  
 * (TODO, IMP) https://github.com/weimingtom/wmt_vn_study/blob/master/unity_001.md  
 * (TODO, IMP) https://github.com/weimingtom/onscripter_csharp  
 https://gitee.com/weimingtom2000/onscripter_csharp  
