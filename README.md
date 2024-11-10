@@ -136,6 +136,8 @@ no download
 	onscripter_android_src_20120712-katane2.tbz2
 [official] jp.ogapee.onscripter 20120824: 
 	onscripter_android_v1.7z  
+[unofficial] com.onscripter.plus, 2.0.18 (20130425)    
+	com.onscripter.plus.apk
 [unofficial] cn.natdon.onscripterv2 20150802 (3.0.3 include xclannad and xsystem35): 
 	ONScripter-CN_v1.7z
 [closed source unofficial] 小鸡模拟器的ONS：cn/natdon/onscripterv2
@@ -305,6 +307,12 @@ libretro-onscripter-deps-20240118.tar.xz
 
 ## onscripter-vita  
 * https://gitee.com/yizhigai/onscripter-vita  
+
+## onscripter-plus  
+* https://github.com/matthewn4444/onscripter-plus-android    
+* https://github.com/matthewn4444/onscripter-engine-android  
+* 2.0.18: com.onscripter.plus.apk  
+* 2.0.16: https://github.com/wushuo894/ONScripterPlus/releases  
 
 ## 吉里吉里2, kirikiri2  
 * (origin) https://github.com/krkrz/krkr2  
