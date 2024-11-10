@@ -548,6 +548,12 @@ Wizard.exe: KCDPP KAGeXpress新工程向导
 ## fantasydr/krkr-cs  
 * https://github.com/fantasydr/krkr-cs  
 
+## milizhang/TJS-iOS  
+* https://github.com/milizhang/TJS-iOS  
+
+## bolero-MURAKAMI/KTL  
+* https://github.com/bolero-MURAKAMI/KTL  
+
 ## RealLiveMax (closed source)    
 * http://www.product.co.jp/reallivemax/  
 * search baidupan, RealLiveMax_SDK_20111129_006.zip, acttest.zip    
@@ -1572,3 +1578,6 @@ http://rubyforge.org/frs/?group_id=1006
 css-engine, nifty-gui, fenggui, java-universal-css-engine  
 * SWT公司项目  
 旧工程打包.rar  
+
+## thefoggycity/BGIScrViewer  
+* https://github.com/thefoggycity/BGIScrViewer  
