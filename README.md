@@ -136,14 +136,15 @@ no download
 	onscripter_android_src_20120712-katane2.tbz2
 [official] jp.ogapee.onscripter 20120824: 
 	onscripter_android_v1.7z  
-[unofficial] com.onscripter.plus, 2.0.18 (20130425)    
-	com.onscripter.plus.apk
 [unofficial] cn.natdon.onscripterv2 20150802 (3.0.3 include xclannad and xsystem35): 
 	ONScripter-CN_v1.7z
 [closed source unofficial] 小鸡模拟器的ONS：cn/natdon/onscripterv2
 	感觉好像多了一些类，可能做了改动或者基于别的分支代码
 	xiaoji_android_v1.8.9-A028.apk
 	https://github.com/natdon/ONScripter-CN/tree/master/src/cn/natdon  
+[unofficial] com.onscripter.plus, 2.0.18, onscripter version 20161102 (not apk, see git)  
+	2.0.16 version about since 2023 (???), but the git log is since 2013    
+	com.onscripter.plus.apk
 ```
 * Shiori-chan Project, ONScripter Multi-Platforms Binary, ONScripter for MacOSX 10.2 + Tools(nsaconv, sarconv, nsadec, sardec), xclannad for LinuxZaurus, waffle for arm  
 https://web.archive.org/web/20071231075020/http://kimatten.hp.infoseek.co.jp/#ONScripter  
@@ -309,6 +310,8 @@ libretro-onscripter-deps-20240118.tar.xz
 * https://gitee.com/yizhigai/onscripter-vita  
 
 ## onscripter-plus  
+* git code onscripter version 20161102 (not apk, see git)    
+* the code is since 2013     
 * https://github.com/matthewn4444/onscripter-plus-android    
 * https://github.com/matthewn4444/onscripter-engine-android  
 * 2.0.18: com.onscripter.plus.apk  
