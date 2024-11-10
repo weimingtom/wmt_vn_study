@@ -270,7 +270,10 @@ steward-fu_website_rs97_src_onscripter.7z
 * (TODO) search baidupan, xnscripchan_v3_vc6.rar  
 
 ## onscripter-libretro  
-* (origin, dead?) https://github.com/iyzsong/onscripter-libretro   
+* (origin, dead?) https://github.com/iyzsong/onscripter-libretro  
+Seems be merged into Onscripter Yuri, Commits on Oct 8, 2024    
+https://github.com/YuriSizuku/OnscripterYuri/tree/master/src/onsyuri_libretro
+https://github.com/YuriSizuku/OnscripterYuri/commits/b3aad4f7ced52861fcf570a87d92cfb43522069e/  
 * (same) https://github.com/gouchi/onscripter-libretro  
 * search baidupan, onscripter-libretro    
 iyzsong_onscripter-libretro-main.zip   
