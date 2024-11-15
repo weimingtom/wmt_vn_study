@@ -94,6 +94,7 @@ http://www.k-collect.net/pe/index.htm
 ```
 * nsaout源码  
 工具.rar  
+* みずいろ, see NScripterDevV1.rar\nscripter\Projects  
 
 ## onscripter  
 * (origin) https://onscripter.osdn.jp  
