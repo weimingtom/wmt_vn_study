@@ -1628,3 +1628,6 @@ https://github.com/weimingtom/myosotis2/tree/master
 http://www.sbcr.jp/products/4797347623.html  
 3d游戏编程，3dRpgProgramingSample.zip  
 ```
+
+## VMWare vs VirtualBox   
+* VirtualBox will fail to run OpenGL and DirectX games, but VMWare not   
