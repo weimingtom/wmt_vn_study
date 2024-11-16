@@ -1604,3 +1604,27 @@ css-engine, nifty-gui, fenggui, java-universal-css-engine
 
 ## thefoggycity/BGIScrViewer  
 * https://github.com/thefoggycity/BGIScrViewer  
+
+## Some books  
+* Visual C++_RPG游戏程序设计.rar  
+* Visual C++冒险游戏程序设计.rar  
+* Visual C++游戏编程基础.rar  
+* Visual C++专业游戏程序设计.rar  
+* Windows游戏编程.rar  
+* OPenGL高级编程篇.rar  
+* OpenGL系统开发篇.rar  
+* VC++OpenGL应用程序开发.rar  
+* ScriptSource.zip  
+* 3dRpgProgramingSample.zip  
+```
+我把《Visual C++ RPG游戏程序设计》和《Visual C++冒险游戏程序设计》这两本书的源代码又找回来，
+打算把RPG那个也计划这几年内移植到Java上。
+至于《冒险》那个我以前已经移植到Java上了。
+其实这俩游戏都不咋的，属于那种你只要知道怎么玩就算玩通了的感觉，
+不过好处是开源，不开源的游戏再好玩也没多少参考价值
+Script Engine Programming (スクリプトエンジン プログラミング)   
+https://github.com/weimingtom/myosotis2/tree/master  
+脚本引擎编程， ScriptSource.zip  
+http://www.sbcr.jp/products/4797347623.html  
+3d游戏编程，3dRpgProgramingSample.zip  
+```
