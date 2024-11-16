@@ -659,6 +659,9 @@ https://archive.org/details/waffle-040116_psp
 https://nikuzaiku.web.fc2.com/pocket02.html  
 * ゲーム関連日記  
 http://savaiv.blog81.fc2.com/blog-entry-292.html  
+* WLK200.AVD  
+waffle-040116_psp__20241018_v1_may_run_good.7z
+with avc020803.zip, avgcnv07.zip to convert kanon_first.zip  
 
 ## AKANE, あかね, for PSP (?)    
 * (origin) https://web.archive.org/web/20051210160230/http://kimatten.hp.infoseek.co.jp/
