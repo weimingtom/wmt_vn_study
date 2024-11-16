@@ -773,6 +773,20 @@ http://www.keyfc.net/bbs/showtopic-31510-1.aspx
 https://nyanonon.hatenablog.com/entry/20051012/p1  
 https://web.archive.org/web/20050404193721/http://pyon.org/furukawa/watasimo/waffleppc.html  
 https://web.archive.org/web/20050308143414/http://waffle.bunkasha.co.jp/zau/index.html  
+```
+放弃研究这个：不可考，已放弃
+wtool.LZH：解包AVD文件
+waffle-src-040116.tar.gz：所有代码
+https://web.archive.org/web/*/http://cubism.cyberknights.net/*
+找不到th2wconv_v022_release.LZH
+和th2wconv_v006_release.LZH
+http://www.areanine.gr.jp/~nyano/zakki0601.html
+http://cncc.bingj.com/cache.aspx?q=th2wconv&d=4840596102206211&mkt=en-US&setlang=en-US&w=5k1WipmcRrCZP5feeoHq1lGqqXcCgARC
+To Heart 2 Waffle Data Converter
+WLK2HT.AVD
+http://savaiv.blog81.fc2.com/blog-entry-292.html
+https://web.archive.org/web/*/http://cubism.cyberknights.net/*
+```
 
 ## aquaplus-sources, ToHeart 2 XRATED  
 * (origin) http://leaf.aquaplus.co.jp/product/xvid.html  
