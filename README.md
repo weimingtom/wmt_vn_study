@@ -1605,7 +1605,7 @@ css-engine, nifty-gui, fenggui, java-universal-css-engine
 ## thefoggycity/BGIScrViewer  
 * https://github.com/thefoggycity/BGIScrViewer  
 
-## Some books  
+## Some books code    
 * Visual C++_RPG游戏程序设计.rar  
 * Visual C++冒险游戏程序设计.rar  
 * Visual C++游戏编程基础.rar  
