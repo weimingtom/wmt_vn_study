@@ -63,6 +63,11 @@ https://ruriko.denpa.org/200612c.html
 http://ruriko.denpa.org/200612c.html    
 * 大师的资源, 大师罗莊的blog  
 https://blog.csdn.net/luozhuang/  
+* 月姬中文化
+https://code.google.com/archive/p/tsukihimehanzify/source/default/source  
+* Fuwanovel  
+https://forums.fuwanovel.moe  
+https://fuwanovel.moe/category/news/releases/official-tl-releases/  
 
 ## nscripter  
 * (origin) http://www.nscripter.com  
@@ -880,7 +885,8 @@ http://sidealice.com/
 ```
 
 ## System4 (closed source)    
-* (origin) http://kei.stbbs.net/rubyeye/sys40/sdk_dl.html  
+* (origin) http://kei.stbbs.net/rubyeye/sys40/sdk_dl.html
+* (origin, dead) https://kei.stbbs.net/rubyeye/sys40/sdk_dl.html  
 * https://www.iteye.com/blog/weimingtom-1130129  
 * search Sys40SDK_20041224  
 * https://wikiwiki.jp/system4/System4SDKの入手
