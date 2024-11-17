@@ -176,6 +176,9 @@ https://code.google.com/archive/p/onscripter-zh/source/default/source
 onscripter_android.tar.gz
 ons_ch_20120601.apk
 * ons.rar  
+* onscriptercn.rar
+* ONS模拟器.rar
+* 
 
 ## onscripter-en   
 * (origin, dead) http://unclemion.com/onscripter/releases/  
@@ -206,6 +209,13 @@ SDLOTHERCONFIG=--disable-assembly ./configure --std=gnu++98 --no-werror --with-i
 注意，为了防止出现错误_wfopen、off64_t无定义错误，需要把-std=c++98换成--std=gnu++98，  
 把-std=c99换成-std=gnu99，以便把__STRICT_ANSI__的定义取消（相当于-U__STRICT_ANSI__）  
 * https://github.com/Galladite27/ONScripter-EN-devkit
+* onscripter-en-20110314.7z  
+* onscripter-en.rar  
+* onscripter-en-20110314.rar
+* onscripter-en-20110314-fullsrc.tar.bz2
+* onscripter-en-20110314-src.tar.bz2
+* onscripter-en-win32_dsound-20110314.zip
+* onscripter-en-win32-20110314.zip  
 
 ## onscripter by insani (see http://dev.haeleth.net/onscripter.shtml after 2007.04.08)    
 * (origin) http://nscripter.insani.org/onscripter.html  
@@ -845,6 +855,10 @@ http://neo-eclipse.forumotion.com/computer-s-zone-f19/source-code-game-game-leaf
 http://mcn.oops.jp/wiki/index.php?Software%20License%2FGPL%2FGPL%B0%E3%C8%BF
 http://blog.yam.com/kctsang/article/5507230
 ```
+* aquaplus_sources__.rar  
+* ScriptEngine.rar
+* ScriptEngine-0.0.1.rar
+* merge__.rar  
 
 ## xlvns, Leaf Visual Novel System for X (XLVNS)    
 * (origin, ?) http://leafbsd.denpa.org  
