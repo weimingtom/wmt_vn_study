@@ -107,6 +107,7 @@ http://www.k-collect.net/pe/index.htm
 * nsaout源码  
 工具.rar  
 * みずいろ, see NScripterDevV1.rar\nscripter\Projects  
+* nscripter_antlr.rar  
 
 ## CCScripter, nscripter的Mac OS X实现  
 * (dead) http://homepage.mac.com/toveta/ccs/  
@@ -171,6 +172,10 @@ https://web.archive.org/web/20090220183547/http://kimatten.hp.infoseek.co.jp/
 * onscripter-zh  
 https://code.google.com/archive/p/onscripter-zh/  
 https://code.google.com/archive/p/onscripter-zh/source/default/source  
+* onscripter-20120712.tar.gz
+onscripter_android.tar.gz
+ons_ch_20120601.apk
+* ons.rar  
 
 ## onscripter-en   
 * (origin, dead) http://unclemion.com/onscripter/releases/  
