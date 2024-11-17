@@ -106,17 +106,17 @@ http://www.k-collect.net/pe/index.htm
 ```
 * nsaout源码  
 工具.rar  
-* みずいろ, see NScripterDevV1.rar\nscripter\Projects  
-* nscripter_antlr.rar  
+* みずいろ, see erDevV1.rar\er\Projects  
+* er_antlr.rar  
 
-## CCScripter, nscripter的Mac OS X实现  
+## CCScripter, er的Mac OS X实现  
 * (dead) http://homepage.mac.com/toveta/ccs/  
 * CCScripter-0.8.24.tar.gz  
 
 ## onscripter  
 * (origin) https://onscripter.osdn.jp  
-(origin) https://onscripter.osdn.jp/onscripter.html  
-(origin, dead) http://onscripter.sourceforge.jp/android/android.html  
+(origin) https://onscripter.osdn.jp/oer.html  
+(origin, dead) http://onstripter.sourceforge.jp/android/android.html  
 * (origin) https://github.com/ogapee/onscripter    
 (origin) https://github.com/ogapee/onscripter_android    
 (origin) https://github.com/ogapee/onscripter_win  
@@ -1734,3 +1734,7 @@ iris.zip
 * src05_01_01.zip  
 * http://www.houser-home.net/novelplus/wiki/index.php?%A5%BD%A1%BC%A5%B9%A5%B3%A1%BC%A5%C9  
 * http://houser-home.net/novel-press/top_index.html  
+
+## nscript   
+* ns003src.zip
+* ns003win32.lzh  
