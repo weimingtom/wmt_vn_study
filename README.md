@@ -58,7 +58,9 @@ https://crazism.net/2055.html
 * (only patches, like xsystem35, onscripter, xkanon) http://fjts.org/~m/Install/PrivPorts/  
 * https://www.bilibili.com/read/cv1888505/  
 * https://www.zhihu.com/question/22981630  
-* https://www.bilibili.com/video/BV1qQ4y1k7Gs  
+* https://www.bilibili.com/video/BV1qQ4y1k7Gs
+* 電波とどいた？, ゲームエンジンとか  
+https://ruriko.denpa.org/200612c.html  
 
 ## nscripter  
 * (origin) http://www.nscripter.com  
@@ -89,12 +91,15 @@ http://e.ys168.com/?john-he
 ```
 http://suzakura.noblog.net/blog/e/10556440.html
 http://www5f.biglobe.ne.jp/~t-susumu/library/tpad.html
-http://ginnie.kntware.net/
+http://ginnie.kntware.net/  
 http://www.k-collect.net/pe/index.htm
 ```
 * nsaout源码  
 工具.rar  
 * みずいろ, see NScripterDevV1.rar\nscripter\Projects  
+
+## CCScripter, nscripter的Mac OS X实现  
+* (dead) http://homepage.mac.com/toveta/ccs/  
 
 ## onscripter  
 * (origin) https://onscripter.osdn.jp  
@@ -584,7 +589,8 @@ Wizard.exe: KCDPP KAGeXpress新工程向导
 
 ## rlvm  
 * (origin) http://www.rlvm.net  
-* (origin) http://www.elliotglaysher.org  
+* (origin) http://www.elliotglaysher.org
+http://www.elliotglaysher.org/rlvm/index.html  
 * (origin) https://github.com/eglaysher/rlvm  
 * (my work, not origin) https://github.com/weimingtom/rlvm_vs2013  
 https://gitee.com/weimingtom/rlvm_fork  
