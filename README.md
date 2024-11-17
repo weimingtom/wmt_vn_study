@@ -63,11 +63,13 @@ https://ruriko.denpa.org/200612c.html
 http://ruriko.denpa.org/200612c.html    
 * 大师的资源, 大师罗莊的blog  
 https://blog.csdn.net/luozhuang/  
-* 月姬中文化
+* 月姬中文化  
 https://code.google.com/archive/p/tsukihimehanzify/source/default/source  
 * Fuwanovel  
 https://forums.fuwanovel.moe  
 https://fuwanovel.moe/category/news/releases/official-tl-releases/  
+* スクリプトエンジン (ゲーム)  
+http://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3_(%E3%82%B2%E3%83%BC%E3%83%A0)  
 
 ## nscripter  
 * (origin) http://www.nscripter.com  
@@ -108,6 +110,7 @@ http://www.k-collect.net/pe/index.htm
 
 ## CCScripter, nscripter的Mac OS X实现  
 * (dead) http://homepage.mac.com/toveta/ccs/  
+* CCScripter-0.8.24.tar.gz  
 
 ## onscripter  
 * (origin) https://onscripter.osdn.jp  
@@ -1144,6 +1147,9 @@ http://www.renpy.org/wiki/renpy/releases/6.9.3
 
 ## LemoNovel (for AS3, Flash)    
 * (origin) http://www.le-mo.jp/lemo/products/LemoNovel_AS3/index.htm  
+* http://www.le-mo.jp/lemo/products/LemoNovel/index.htm
+* LemoNovelEx_1024x576.zip
+* 
 
 ## AINE (for flash)      
 * (origin) http://www.drakkashi.com/aine/  
@@ -1681,7 +1687,7 @@ http://code.google.com/p/iridium/
 Iridiumv0.03rel5.zip  
 https://code.google.com/archive/p/iridium/downloads  
 
-## baka-Tsuki, Clannad  
+## Baka-Tsuki, Clannad  
 http://www.baka-tsuki.org/project/index.php?title=Clannad  
 
 ## OPL2  
