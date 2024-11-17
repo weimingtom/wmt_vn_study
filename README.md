@@ -1666,6 +1666,11 @@ https://github.com/weimingtom/myosotis2/tree/master
 http://www.sbcr.jp/products/4797347623.html  
 3d游戏编程，3dRpgProgramingSample.zip  
 ```
+* 3dRpgProgramingSample.zip
+* PROGAMEproject.zip
+* PROGAMEsample.zip
+* ScriptSource_1.zip
+* ScriptSource_2.zip  
 
 ## VMWare vs VirtualBox   
 * VirtualBox will fail to run OpenGL and DirectX games, but VMWare not   
