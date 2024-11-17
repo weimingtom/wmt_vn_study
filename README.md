@@ -105,10 +105,10 @@ http://www.k-collect.net/pe/index.htm
 
 ## onscripter  
 * (origin) https://onscripter.osdn.jp  
-(origin) https://onscripter.osdn.jp/onscripter.html
+(origin) https://onscripter.osdn.jp/onscripter.html  
 (origin, dead) http://onscripter.sourceforge.jp/android/android.html  
-* (origin) https://github.com/ogapee/onscripter  
-(origin) https://github.com/ogapee/onscripter_android  
+* (origin) https://github.com/ogapee/onscripter    
+(origin) https://github.com/ogapee/onscripter_android    
 (origin) https://github.com/ogapee/onscripter_win  
 (origin) https://github.com/ogapee/onscripter_ios  
 * (origin, old, dead?) http://ogapee.at.infoseek.co.jp/onscripter.html  
