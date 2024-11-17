@@ -83,7 +83,8 @@ https://fr.wikipedia.org/wiki/NScripter
 * http://senzogawa.s90.xrea.com/reference/NScrLuaAPI.html  
 http://senzogawa.s90.xrea.com/reference/NScrAPI.html  
 http://senzogawa.s90.xrea.com/reference  
-http://senzogawa.s90.xrea.com/cheetsheet/cheetsheet.html  
+http://senzogawa.s90.xrea.com/cheetsheet/cheetsheet.html
+http://senzogawa.s90.xrea.com/reference.html  
 * nsaout.rar, nsaout.exe  
 see http://nscripter.insani.org/sdk.html  
 nscr_sdk.zip, nsdec.zip, sardec.zip  nsaout.zip  
@@ -573,6 +574,7 @@ Wizard.exe: KCDPP KAGeXpress新工程向导
 ## RealLiveMax (closed source)    
 * http://www.product.co.jp/reallivemax/  
 * search baidupan, RealLiveMax_SDK_20111129_006.zip, acttest.zip    
+* rebuilt.RealLiveMax_SDK_20100726_001.zip  
 
 ## xclannad (originally for NetBSD/dreamcast?)    
 * (origin, dead) http://www.creator.club.ne.jp/~jagarl/xclannad.html  
@@ -624,6 +626,7 @@ planetarian_steam_japanese.rar
 planetarian_steam_english.rar
 kanon_se_ori.rar  
 ```
+* eglaysher-rlvm-release-0.09-0-gbe8db97.tar.gz  
 
 ## waffle, わっふる, for powerpc (for very old powerpc mac osx os)   
 * This code use CodeWarrior6 to build, too old osx to build (See also kurokoge, くろこげ, kurokoge use xcode to build)    
@@ -984,6 +987,9 @@ Actually there are 2 verisions : PSSuiteSDK_098.exe and PSM_SDK_1.21.02.exe
 * https://gitee.com/weimingtom2000/novelpress_fork  
 * search baidupan, src_adr06_13_01.zip
 * search NovelPressBeta.jar (not source, only a runnable jar package and with 00.txt)    
+* NovelPressBeta.jar
+* NovelPressTest.jar  
+
 
 ## PGM, Pocket Game Maker (closed source, for Android ?)  
 * (origin) https://github.com/History-exe/Pocket-Game-Maker-v0.83  
@@ -992,11 +998,16 @@ Actually there are 2 verisions : PSSuiteSDK_098.exe and PSM_SDK_1.21.02.exe
 
 ## Maid2  
 * (origin) https://code.google.com/archive/p/maid2/  
+maid2_r513.zip  
 * https://github.com/weimingtom/maid2  
+* http://sourceforge.jp/projects/maid/  
+maid.rar  
 
 ## gocha (Lua, LuaBookSupport)      
 * (origin) http://lua.mine.nu/w/LuaBookSupport  
 * https://github.com/weimingtom/game_gocha  
+* game_gocha.zip  
+* http://lua.mine.nu/w/LuaBookSupport  
 
 ## ADV-PROGRAM (for Cocos2d-x)      
 * (origin) https://gitee.com/SunnyRx/ADV-PROGRAM  
@@ -1062,11 +1073,13 @@ see https://www.retouch.info
 * https://github.com/weimingtom/ugame/tree/master/projects/SlideShow  
 * search baidupan, LemoNovel_AS3_320x240.zip  
 * search baidupan, weimingtom_reversi.rar  
+* LemoNovelEx_1024x576.zip   
 
 ## CatSystem2  
 * (origin) http://cs2.suki.jp  
 * (origin) http://cs2.suki.jp/manual/  
 * cs2_full_v301.zip  
+* cs2_core_v200.zip  
 
 ## ADV+++, adv_ppp    
 * (origin) https://www.yox-project.com/jp/adv_ppp/download.htm  
@@ -1221,6 +1234,9 @@ YSOne 可以将数据包和引擎程序一体化。
 * (origin, dead) http://homepage2.nifty.com/natupaji/DxLib/User/script_free.exe  
 * search baidupan, script_free.exe  
 * https://dxlib.xsrv.jp  
+* novelgame.zip, guiprog    
+http://www.usamimi.info/~guiprog/game/#gamesource  
+http://karetta.jp/book-cover/game-programming/toc#toc  
 
 ## avg-plus  
 * https://github.com/avg-plus/avg.renderer  
@@ -1653,3 +1669,38 @@ http://www.sbcr.jp/products/4797347623.html
 
 ## VMWare vs VirtualBox   
 * VirtualBox will fail to run OpenGL and DirectX games, but VMWare not   
+
+## iridium  
+an opensource ADV Game Engine  
+http://code.google.com/p/iridium/  
+Iridiumv0.03rel5.zip  
+https://code.google.com/archive/p/iridium/downloads  
+
+## baka-Tsuki, Clannad  
+http://www.baka-tsuki.org/project/index.php?title=Clannad  
+
+## OPL2  
+* http://www.hgame5.com/thread-65245-1-1.html  
+* http://code.google.com/p/opl2/source/checkout   
+* opl2_windows.zip  
+
+## SiglusEngine game  
+* chihaya_rolling_we.zip  
+
+## IRIS/IRIS++ ver 0.01  
+* http://docs.ulyssesrecords.com/iris/  
+iris.zip  
+* http://www.ulyssesrecords.com/jp/products/iris/index.html  
+
+## krkr ons games  
+* merosu_101.zip  
+* mlll_beta2.0.zip  
+* https://kzkz.jp  
+* https://mukiryokukan.sakura.ne.jp/May_DownLoad.htm  
+
+## NovelPlus  
+* (dead) http://www.houser-home.net/novelplus/wiki/index.php?%A5%BD%A1%BC%A5%B9%A5%B3%A1%BC%A5%C9  
+* src02_01_01.zip
+* src05_01_01.zip  
+* http://www.houser-home.net/novelplus/wiki/index.php?%A5%BD%A1%BC%A5%B9%A5%B3%A1%BC%A5%C9  
+* http://houser-home.net/novel-press/top_index.html  
