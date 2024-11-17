@@ -50,7 +50,6 @@ https://www.iteye.com/blog/weimingtom-1396201
 https://blog.csdn.net/umier2000/article/details/84149473  
 * search baidpan 游戏引擎  
 * search baidpan 脚本引擎  
-* http://ruriko.denpa.org/200612c.html  
 * https://github.com/2439905184/Galgame-Engine-Collect  
 * Mac上玩部分文字AVG的方法  
 https://crazism.net/2055.html  
@@ -61,6 +60,9 @@ https://crazism.net/2055.html
 * https://www.bilibili.com/video/BV1qQ4y1k7Gs
 * 電波とどいた？, ゲームエンジンとか  
 https://ruriko.denpa.org/200612c.html  
+http://ruriko.denpa.org/200612c.html    
+* 大师的资源, 大师罗莊的blog  
+https://blog.csdn.net/luozhuang/  
 
 ## nscripter  
 * (origin) http://www.nscripter.com  
@@ -103,7 +105,8 @@ http://www.k-collect.net/pe/index.htm
 
 ## onscripter  
 * (origin) https://onscripter.osdn.jp  
-(origin) https://onscripter.osdn.jp/onscripter.html  
+(origin) https://onscripter.osdn.jp/onscripter.html
+(origin, dead) http://onscripter.sourceforge.jp/android/android.html  
 * (origin) https://github.com/ogapee/onscripter  
 (origin) https://github.com/ogapee/onscripter_android  
 (origin) https://github.com/ogapee/onscripter_win  
@@ -156,7 +159,9 @@ no download
 https://web.archive.org/web/20071231075020/http://kimatten.hp.infoseek.co.jp/#ONScripter  
 https://web.archive.org/web/20090220183547/http://kimatten.hp.infoseek.co.jp/  
 * onscripter-tools_win.zip  
-
+* onscripter-zh  
+https://code.google.com/archive/p/onscripter-zh/  
+https://code.google.com/archive/p/onscripter-zh/source/default/source  
 
 ## onscripter-en   
 * (origin, dead) http://unclemion.com/onscripter/releases/  
@@ -1003,7 +1008,9 @@ Actually there are 2 verisions : PSSuiteSDK_098.exe and PSM_SDK_1.21.02.exe
 
 ## MyChar (for ActionScript3)    
 * (origin) キャラクターなんとか機  
-http://khmix.sakura.ne.jp/download.shtml  
+http://khmix.sakura.ne.jp/download.shtml
+K.Hみっくす　ふぁーすと えでぃしょん  
+https://khmix.sakura.ne.jp  
 * (origin) https://osdn.jp/projects/charactermanaj/  
 * https://github.com/weimingtom/MyChar  
 * https://github.com/weimingtom/charj  
@@ -1506,10 +1513,13 @@ MangaMeeya
 ## GameBookViewer  
 * http://www.asahi-net.or.jp/~uz2a-kdm/  
 
-## HSP3 (former name: HSP)    
+## HSP3, OpenHSP (former name: HSP)    
 * (origin, moved) http://www.onionsoft.net/hsp/  
 * (origin) https://hsp.tv
 * (old) hsp32.exe  
+* OpenHSP  
+* (dead) http://dev.onionsoft.net/trac/browser  
+* https://github.com/onitama/OpenHSP
 
 ## JAVA Novel, JAVA Novel アドベンチャー Ex    
 * http://hp.vector.co.jp/authors/VA006860/  
