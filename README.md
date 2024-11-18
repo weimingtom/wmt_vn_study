@@ -69,7 +69,9 @@ https://code.google.com/archive/p/tsukihimehanzify/source/default/source
 https://forums.fuwanovel.moe  
 https://fuwanovel.moe/category/news/releases/official-tl-releases/  
 * スクリプトエンジン (ゲーム)  
-http://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3_(%E3%82%B2%E3%83%BC%E3%83%A0)  
+http://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3_(%E3%82%B2%E3%83%BC%E3%83%A0)    
+* http://insani.org/nscripter/links.html  
+* https://blog.csdn.net/cping1982/article/details/4573738  
 
 ## nscripter  
 * (origin) http://www.nscripter.com  
