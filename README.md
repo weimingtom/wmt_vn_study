@@ -108,8 +108,8 @@ http://www.k-collect.net/pe/index.htm
 ```
 * nsaout源码  
 工具.rar  
-* みずいろ, see erDevV1.rar\er\Projects  
-* er_antlr.rar  
+* みずいろ, see NScripterDevV1.rar\er\Projects  
+* nscripter_antlr.rar  
 
 ## CCScripter, nscripter的Mac OS X实现  
 * (dead, origin) http://homepage.mac.com/toveta/ccs/  
