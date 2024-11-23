@@ -358,8 +358,10 @@ libretro-onscripter-deps-20240118.tar.xz
 * 2.0.18: com.onscripter.plus.apk  
 * 2.0.16: https://github.com/wushuo894/ONScripterPlus/releases  
 
-## OnscripterYuri  
-* cmake build onsyuri_libretro.so
+## Onscripter-Yuri, for pc, android, retroarch, web      
+* https://github.com/YuriSizuku/OnscripterYuri
+* Not very upstream, also include jh and sjis code, using SDL2    
+* cmake build onsyuri_libretro.so for retroarch  
 ```
 git clone https://github.com/YuriSizuku/OnscripterYuri
 cd OnscripterYuri/
