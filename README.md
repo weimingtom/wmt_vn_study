@@ -1008,6 +1008,18 @@ https://github.com/zh99998/OpenRGSS-RPGMaker
 EasyRPG/Player  
 https://github.com/EasyRPG/Player  
 
+## easyrpg  
+* How to camke build easyrpg  
+```
+由于easyrpg的linux版可能会运行失败（动态库问题），所以要自己编译，在xubuntu20下用cmake编译运行easyrpg过程如下
+（1）准备：expat2（我用的是expat-2.4.9）和liblcf-0.8和Player-0.8的源码包，并且创建的rpgmaker 2k的简单工程
+（2）用cmake依次编译expat2和liblcf和Player，使用相同的-DCMAKE_INSTALL_PREFIX=指向同一个输出目录
+（原理是cmake会把这个输出目录也用于输入的依靠库目录），并且都执行make install，最后获得easyrpg-player
+（3）然后切换到rpgmaker 2k的简单工程目录下，然后通过LD_LIBRARY_PATH指向so动态库目录同时执行easyrpg-player，
+例如这样：LD_LIBRARY_PATH=/home/wmt/work_easyrpg/out/lib /home/wmt/work_easyrpg/out/bin/easyrpg-player
+（4）运行效果和windows版几乎一摸一样
+```
+
 ## take-cheeze/rpg2kemu  
 https://github.com/take-cheeze/rpg2kemu  
 
