@@ -360,7 +360,14 @@ libretro-onscripter-deps-20240118.tar.xz
 
 ## Onscripter-Yuri, for pc, android, retroarch, web      
 * https://github.com/YuriSizuku/OnscripterYuri
-* Not very upstream, also include jh and sjis code, using SDL2    
+* Not very upstream, also include jh and sjis code, using SDL2
+* cmake in xubuntu 20 64bit  
+```
+尝试cmake编译YuriSizuku/OnscripterYuri的linux版成功，似乎只能用xubuntu20（cmake有版本要求），
+反正都用sdl2了（不过安卓版似乎还是sdl1，待考，这次不管安卓编译的问题），需要手工装dev库，
+注意lua是装lua5.3的，然后就可以顺利cmake了（cd script; ./local_linux64.sh) ，
+运行效果如下，默认是GBK版（jh版），似乎可以兼容shift-jis版（原版）
+```
 * cmake build onsyuri_libretro.so for retroarch  
 ```
 git clone https://github.com/YuriSizuku/OnscripterYuri
