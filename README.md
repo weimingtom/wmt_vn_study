@@ -358,6 +358,35 @@ libretro-onscripter-deps-20240118.tar.xz
 * 2.0.18: com.onscripter.plus.apk  
 * 2.0.16: https://github.com/wushuo894/ONScripterPlus/releases  
 
+## OnscripterYuri  
+* cmake build onsyuri_libretro.so
+```
+git clone https://github.com/YuriSizuku/OnscripterYuri
+cd OnscripterYuri/
+git submodule update --init --progress
+
+cd ~/work_yuri/OnscripterYuri/src/onsyuri_libretro/deps
+rm -rf bzip2
+git clone https://github.com/libarchive/bzip2
+
+cd ~/work_yuri/OnscripterYuri/src/onsyuri_libretro/deps/SDL_ttf
+git submodule update --init --progress
+
+cd ~/work_yuri/OnscripterYuri/src/onsyuri_libretro/
+mkdir build
+cd build
+cmake ..
+make
+[ 41%] Built target sdl2
+[ 49%] Built target sdl2_image
+[ 65%] Built target sdl2_mixer
+[ 82%] Built target freetype
+[ 83%] Built target sdl2_ttf
+[ 86%] Built target bzip2
+[100%] Built target onsyuri_libretro
+no need to add --recursive, because it doesn't use other libraries, but ttf and bzip2 need  
+``` 
+
 ## 吉里吉里2, kirikiri2  
 * (origin) https://github.com/krkrz/krkr2  
 * (origin, dead) http://kikyou.info/tvp/  
