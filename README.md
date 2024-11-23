@@ -368,7 +368,7 @@ libretro-onscripter-deps-20240118.tar.xz
 注意lua是装lua5.3的，然后就可以顺利cmake了（cd script; ./local_linux64.sh) ，
 运行效果如下，默认是GBK版（jh版），似乎可以兼容shift-jis版（原版）
 ```
-* cmake build onsyuri_libretro.so for retroarch  
+* cmake build onsyuri_libretro.so for retroarch in xubuntu 20 64bit    
 ```
 git clone https://github.com/YuriSizuku/OnscripterYuri
 cd OnscripterYuri/
