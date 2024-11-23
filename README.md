@@ -393,7 +393,14 @@ make
 [ 83%] Built target sdl2_ttf
 [ 86%] Built target bzip2
 [100%] Built target onsyuri_libretro
+
 no need to add --recursive, because it doesn't use other libraries, but ttf and bzip2 need  
+
+我也成功用cmake编译原版的onsyuri_libretro.so，项目是YuriSizuku/OnscripterYuri。
+由于编译这个库需要导出子库，
+我最开始试过用git clone --recursive，虽然可行，但非常慢，有个方法是按需要执行
+git submodule --init --progress，因为编译这个代码实际上真的不需要导出那么多子库
+（例如SDL_image其实是用了stb），所以除了SDL_ttf比较例外，其他都不需要递归导出子库
 ``` 
 
 ## 吉里吉里2, kirikiri2  
@@ -1012,10 +1019,9 @@ https://github.com/weimingtom/rm20xx-android
 https://github.com/zh99998/OpenRGSS-RPGMaker  
 
 ## rpg2kemu / rpg2k  
-EasyRPG/Player  
-https://github.com/EasyRPG/Player  
 
-## easyrpg  
+## easyrpg, EasyRPG/Player  
+* https://github.com/EasyRPG/Player  
 * How to camke build easyrpg  
 ```
 由于easyrpg的linux版可能会运行失败（动态库问题），所以要自己编译，在xubuntu20下用cmake编译运行easyrpg过程如下
