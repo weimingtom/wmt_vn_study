@@ -961,8 +961,8 @@ see http://hoshina.denpa.org/mglvns/
 * xsystem35-1.7.2.tar.gz
 ```
 Maybe it's for very very old GTK (GTK1), need to use Redhat 9 to compile it, fail in old Ubuntu
-xsystem35_1.7.3-pre5.orig.tar.gz  
 If you need to build it in Ubuntu, you have to use xsystem35-1.7.3,  
+xsystem35_1.7.3-pre5.orig.tar.gz  
 like https://mirrors.cqupt.edu.cn/deepin/pool/main/x/xsystem35/  
 ```
 * xsystem35_1.7.3-pre5.orig.tar.gz   
