@@ -955,10 +955,15 @@ see http://hoshina.denpa.org/mglvns/
 ## XMulti, X11 mascot based on gal-game "To Heart"  
 * http://www.denpa.org/~go/xmulti/  
 
-## xsystem35, System35, System3    
-* https://github.com/kichikuou/system3-sdl2  
+## xsystem35, System35, System3, XSystem35 Lite      
+* (origin) https://web.archive.org/web/19990922092008/http://www.aist-nara.ac.jp/~masaki-c/private/unitbase/xsys35/download.html  
+* (origin) https://web.archive.org/web/19990428071024/http://www.aist-nara.ac.jp/~masaki-c/private/unitbase/xsys35/index.html
+* xsystem35_1.7.3-pre5.orig.tar.gz    
+Maybe it's for very very old GTK (GTK1), need to use Redhat 9 to compile it, fail in old Ubuntu    
+* https://github.com/kichikuou/system3-sdl2   
 * https://github.com/kichikuou/xsystem35-sdl2  
 * https://github.com/kichikuou/web  
+https://kichikuou.github.io/web/  
 * http://8ne.sakura.ne.jp:20008/chika/unitbase/xsys35/  
 * search baidupan, xsystem35-1.7.2.tar.gz  
 * https://github.com/PSP-Archive/XSystem35-Lite  
@@ -982,6 +987,58 @@ http://ms.mblogger.cn/af
 http://sidealice.blogbus.com/logs/346778.html
 http://sidealice.com/
 ```
+* My Building record  
+```
+xsystem35_1.7.3-pre5.orig.tar.gz，
+https://mirrors.cqupt.edu.cn/deepin/pool/main/x/xsystem35/
+
+如果用1.7.2必须装gtk-config,即libgtk1.2-dev或libgtk1.0-dev，必须支持gtk-config命令（例如redhat9，挂载IDE硬盘）
+https://blog.csdn.net/u010189459/article/details/38401513
+错误：heching for gtk-config... no
+checking for GTK - version = 1.2.0... no
+*** The gtk-config script installed by GTK could not be found
+*** If GTK was installed in PREFIX, make sure PREFIX/bin is in
+*** your path, or set the GTK_CONFIG enviroment variable to the
+*** full path to gtk-config.
+configure: error: Cannot find GTK: Is gtk-config in path?
+原因：
+解决：sudo apt-get install libgtk1.2-dev
+
+在ubuntu14上编译运行的xsystem35-1.7.3，从这个版本开始支持gtk2或者叫gtk+
+（此处是gtk+-2.0 2.24.23），
+不再需要gtk-config命令。字体问题仍然待考，编译可能需要做一些修改和特殊配置
+（IMP）work_xsystem35_v1.tar.gz
+kichikuou_GAMEDATA.zip
+
+在redhat9上编译运行的xsystem35-1.7.2，由于这个版本需要gtk1.0
+（此处是gtk-1.2.10）和gtk-config，
+所以不能在ubuntu10和之后的版本上编译，所以只能这样。字体显示问题未解决
+（redhat9只支持IDE硬盘不支持SATA硬盘）
+work_xsystem35_redhat_v1.tar.gz
+
+ubuntu14下勉强能把xsystem35 1.7.3pre5的字体弄出来（可能根据字体不同有些字仍然显示不出），
+方法是在命令行后面加上这样的参数：
+./xsystem35 -devfont ttf -ttfont_gothic msgothic.ttc，
+至于这个ttc或者ttf字体需要自己去找一个，这个开源项目应该不提供，
+类似的情况xclannad的字体也是要自己找（我用了类似的字体）
+work_xsystem35_v2.tar.gz
+
+我测试过可以用相同的命令行方式指定gothic字体，运行redhat9上编译的xsystem35 1.7.2，
+而且字体显示更佳，所以我可能最终还是选这个版本来研究
+（./xsystem35 -devfont ttf -ttfont_gothic msgothic__real.ttc)
+
+鬼畜王兰斯中文版.rar
+其实这A社游戏好像有人做了中文版的（大概也算神作吧，不懂），只不过有一些地方没中文，
+而且一上来就全打通了。我没试过能不能用xsystem35启动，也不想试，
+可能有时间用ONScripter-CN的代码比较一些。我怎么感觉上这个游戏是带语音的（不确定），
+应该是可以外挂语音文件的，但这个中文版本应该不能语音，只有音效
+更正：不是语音文件，是BGM文件  
+
+兰斯bgm问题
+Xsystem35.pdf
+```
+
+
 
 ## System4 (closed source)    
 * (origin) http://kei.stbbs.net/rubyeye/sys40/sdk_dl.html
