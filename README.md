@@ -654,9 +654,15 @@ Wizard.exe: KCDPP KAGeXpress新工程向导
 * (**TODO**) search xclannad-7hc.tar.gz  
 
 ## xkanon (originally for NetBSD/dreamcast?)      
-* (origin) https://sirius10.net/Games/Xkanon.php  
 * (origin, dead) http://www.creator.club.ne.jp/~jagarl/xkanon.html  
 * (archive) https://web.archive.org/web/20100409004347/http://www.creator.club.ne.jp/~jagarl/xkanon.html  
+* (patch) https://sirius10.net/Games/Xkanon.php
+```
+Xkanon(または xayusys-gtk2)
+  この XKanon は JAGARL さんが作成してくださったプログラムです。 GPL で公開してくださったことに感謝します。
+　sirius が作成したこのパッチも GPL とします。
+　こうしてソースを公開してくださったおかげで、Raspberry Pi で Kannon などのゲームを楽しむことができました。本当にありがとうございます。
+```
 * https://github.com/weimingtom/xkanon_fork  
 * search baidupan, [fyd09@古河渚吧][990604]Kanon_初回版.rar    
 * KANON_SE (Standard Edition) not support  
