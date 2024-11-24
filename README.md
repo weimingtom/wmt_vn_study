@@ -1119,7 +1119,7 @@ https://github.com/zh99998/OpenRGSS-RPGMaker
 
 ## easyrpg, EasyRPG/Player  
 * https://github.com/EasyRPG/Player  
-* How to camke build easyrpg  
+* How to cmake build easyrpg  
 ```
 由于easyrpg的linux版可能会运行失败（动态库问题），所以要自己编译，在xubuntu20下用cmake编译运行easyrpg过程如下
 （1）准备：expat2（我用的是expat-2.4.9）和liblcf-0.8和Player-0.8的源码包，并且创建的rpgmaker 2k的简单工程
