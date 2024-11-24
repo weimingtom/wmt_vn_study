@@ -958,11 +958,15 @@ see http://hoshina.denpa.org/mglvns/
 ## xsystem35, System35, System3, XSystem35 Lite      
 * (origin) https://web.archive.org/web/19990922092008/http://www.aist-nara.ac.jp/~masaki-c/private/unitbase/xsys35/download.html  
 * (origin) https://web.archive.org/web/19990428071024/http://www.aist-nara.ac.jp/~masaki-c/private/unitbase/xsys35/index.html
-* xsystem35-1.7.2.tar.gz    
+* xsystem35-1.7.2.tar.gz
+```
 Maybe it's for very very old GTK (GTK1), need to use Redhat 9 to compile it, fail in old Ubuntu
 xsystem35_1.7.3-pre5.orig.tar.gz  
-If you need to build it in Ubuntu, you have to use xsystem35-1.7.3
+If you need to build it in Ubuntu, you have to use xsystem35-1.7.3,  
 like https://mirrors.cqupt.edu.cn/deepin/pool/main/x/xsystem35/  
+```
+* xsystem35_1.7.3-pre5.orig.tar.gz   
+https://mirrors.cqupt.edu.cn/deepin/pool/main/x/xsystem35/   
 * https://github.com/kichikuou/system3-sdl2   
 * https://github.com/kichikuou/xsystem35-sdl2  
 * https://github.com/kichikuou/web  
