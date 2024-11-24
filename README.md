@@ -1043,9 +1043,16 @@ work_xsystem35_v2.tar.gz
 
 兰斯bgm问题
 Xsystem35.pdf
+
+我大概猜到为什么rlvm可以正常显示到日文字体，它应该是穷举法，
+在src/utilities/find_font_file.cc中有两个数组
+western_platform_fonts和ja_platform_fonts
+就是用来推测gothic字体路径位置的。
+其实xsystem35也有类似的做法，
+不过xsystem35的默认日文字体路径在ubuntu上缺失
+
+默认似乎加载msgothic.ttc，待考（搜索代码）
 ```
-
-
 
 ## System4 (closed source)    
 * (origin) http://kei.stbbs.net/rubyeye/sys40/sdk_dl.html
