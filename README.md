@@ -1061,7 +1061,7 @@ http://www.alicesoft.co.jp/
 ## OpenRGSS (for Ruby)    
 * (origin) https://github.com/zh99998/OpenRGSS-RPGMaker  
 * https://github.com/weimingtom/OpenRGSS-RPGMaker  
-* 
+* My weibo study record    
 ```
 2016-8-19 15:31 来自 微博 weibo.com,
 昨天研究openrgss, 看代码以为可以运行rpgmaker xp的工程，但实际上最好运行vx的工程，
