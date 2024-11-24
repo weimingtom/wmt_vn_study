@@ -869,12 +869,16 @@ rldev.rar, 带中文命令参数解释
 
 ## haeleth  
 * haeleth.rar  
-* Kurokoge  
-* Majiro stuff
-* ONScripter
-* rldev
-* xclannad
+* Kurokoge   
+* Majiro stuff  
+* ONScripter  
+* rldev  
+* xclannad  
 * xkanon  
+* https://ultrapre.github.io/clip/default/2019-10-13-1570903018/index.html  
+* http://www.haeleth.net  
+* Haeleth's translation about Narcissu 2  
+https://steamcommunity.com/app/264380/discussions/0/540739861554184860/  
 
 ## hkuczc (RealLive or something about, not sure)       
 * http://free.gqdns.com/hkuczc/  
