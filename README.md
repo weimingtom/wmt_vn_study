@@ -180,8 +180,7 @@ onscripter_android.tar.gz
 ons_ch_20120601.apk
 * ons.rar  
 * onscriptercn.rar
-* ONS模拟器.rar
-* 
+* ONS模拟器.rar  
 
 ## onscripter-en   
 * (origin, dead) http://unclemion.com/onscripter/releases/  
@@ -642,20 +641,18 @@ Wizard.exe: KCDPP KAGeXpress新工程向导
 * search baidupan, RealLiveMax_SDK_20111129_006.zip, acttest.zip    
 * rebuilt.RealLiveMax_SDK_20100726_001.zip  
 
-## xclannad (originally for NetBSD/dreamcast?)    
-* (origin, dead) http://www.creator.club.ne.jp/~jagarl/xclannad.html  
-* (archive) https://web.archive.org/web/20100331135549/http://www.creator.club.ne.jp/~jagarl/xclannad.html  
-* https://github.com/weimingtom/xclannad_fork  
-* search baidupan, [040428][VisualArt's][Key][Clannad].mdf    
-* Clannad FV (Full Voice) not support  
-* https://github.com/Mysterious-tk/onscripter-for-iOS-GBK/tree/master/xclannad  
-* https://github.com/natdon/ONScripter-CN  
-* https://github.com/toktc/onscripter-for-iOS-GBK/tree/master/xclannad  
-* (**TODO**) search xclannad-7hc.tar.gz  
-
-## xkanon (originally for NetBSD/dreamcast?)      
+## xkanon   
 * (origin, dead) http://www.creator.club.ne.jp/~jagarl/xkanon.html  
-* (archive) https://web.archive.org/web/20100409004347/http://www.creator.club.ne.jp/~jagarl/xkanon.html  
+* (archive, 2000/3/24-2009/8/30) https://web.archive.org/web/20100409004347/http://www.creator.club.ne.jp/~jagarl/xkanon.html
+* xkanon / current(gtk2版) : 2009.8.30  
+ソース( current: 2007.12.09 / gtk2 version current: 2009.8.30 )  
+* old name: xayusys
+* ??? maybe it's for very old gtk ???  
+```
+X Window System 上で動かすためのプログラムです。gtk+ 2.6以降、もしくは gtkmm 1.2.0
+（動作確認はFreeBSD 4.3-RELEASE  
+```
+* ??? originally for NetBSD/dreamcast ? seems not  
 * (patch) https://sirius10.net/Games/Xkanon.php
 ```
 Xkanon(または xayusys-gtk2)
@@ -670,6 +667,25 @@ Xkanon(または xayusys-gtk2)
 * (**TODO**) xkanon-071209.tar.gz  
 * (origin, dead) http://dev.haeleth.net/xkanon.shtml  
 * xkanon-haeleth.tar.bz2  
+
+## xclannad
+* (origin, dead) http://www.creator.club.ne.jp/~jagarl/xclannad.html  
+* (archive, 2004/9/3-2009/8/23) https://web.archive.org/web/20100331135549/http://www.creator.club.ne.jp/~jagarl/xclannad.html  
+* xclannad version. 0.07hb    
+ソース( 0.07hc (2009/8/23) )  
+```
+X Window System 上で動かすためのプログラムです。動作にはSDL 1.2が 必要です
+動作確認はFreeBSD 5.4-RELEASE  
+```
+* old name xlove ???  
+* ??? originally for NetBSD/dreamcast ? seems not  
+* https://github.com/weimingtom/xclannad_fork  
+* search baidupan, [040428][VisualArt's][Key][Clannad].mdf    
+* Clannad FV (Full Voice) not support  
+* https://github.com/Mysterious-tk/onscripter-for-iOS-GBK/tree/master/xclannad  
+* https://github.com/natdon/ONScripter-CN  
+* https://github.com/toktc/onscripter-for-iOS-GBK/tree/master/xclannad  
+* (**TODO**) search xclannad-7hc.tar.gz  
 
 ## rlvm  
 * (origin) http://www.rlvm.net  
