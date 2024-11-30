@@ -216,3 +216,12 @@ PC端可运行EXE：https://pan.baidu.com/s/1eO0m3FDli0U2lCvzrZjbbg
 ## gles    
 lwjgl gles (TODO)    
 
+## my old homebrew android games    
+```
+似乎没太多选择，很难找到有顺手的C++ OpenGL ES游戏引擎。
+除了cocos2d-x（基于C++，我移植的kirikiroid2lite和adv_cocos2dx和我写的gomoku）外，
+其他我比较熟悉的有AndEngine（基于Java，我写的reversiwins），
+OGEngine（基于Java，我没用过），
+LibGDX（基于Java，我写的SimpleRPG_preview）
+和SDL2（基于C，我写的enjoyllk2）
+```
