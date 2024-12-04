@@ -1961,3 +1961,12 @@ Baldr Sky的发售时间续作，剧情时间线上的前作。
 * GALGAME自动翻译器(附带小工具).rar
 * e.typist.v12-patch.rar
 * ExtractData.zip
+
+## Visual Novel and Graphic Adventure
+* https://emulation.fandom.com/wiki/Emulators_on_Android  
+* ScummVM  
+* ResidualVM (Android port)  
+* NScripter  
+onscripter  
+* KiriKiri  
+Habakiri  
