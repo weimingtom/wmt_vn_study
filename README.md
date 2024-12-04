@@ -640,6 +640,25 @@ Wizard.exe: KCDPP KAGeXpress新工程向导
 * http://www.product.co.jp/reallivemax/  
 * search baidupan, RealLiveMax_SDK_20111129_006.zip, acttest.zip    
 * rebuilt.RealLiveMax_SDK_20100726_001.zip  
+```
+用日文xp运行reallivemax示例工程的效果，需要lic文件，不过maxcode前缀的lic文件其实是一个文本，
+只要找到一个能用的放进去就可以（例如我换成星之梦steam版旧版也可以，不过星之梦steam版旧版已经下架了）。
+另外我想起来seen.txt其实是日语谐音笑话，意思就是scene或者scenario。
+关于这个工具的用法还在研究（虽然研究这个也没啥太大用处，也是过时了，
+不过可以拿来参考思路或者拿来玩）
+RealLiveMax_SDK_20110107_004.zip
+
+RealLiveMax研究。最开始的时候Tpc2000Max.exe旁边是没有ini文件，
+所以默认打开Tpc2000Max里面文本框会什么内容都没有，
+需要点右上角的一括设定，然后直接点OK，然后文本框就会填入目录内容了
+（当然也可以逐个拖放路径进去文本框，效果一样，但麻烦）。
+关闭Tpc2000Max再打开就会见到有ini文件并且加载上一次的设置
+（5个路径设置对应exe/org/tmp/work四个目录）。
+点左侧的编译运行按钮可以打开reallivemax.exe
+（需要先复制maxcode星.lic文件到reallivemax.exe旁边），
+支持脚本代码trace（类似krkr，不过不好用，待考）。
+左上角的debug on/off其实只是打开关闭reallivemax窗口头部的菜单栏
+```
 
 ## xkanon   
 * (origin, dead) http://www.creator.club.ne.jp/~jagarl/xkanon.html  
@@ -1467,6 +1486,11 @@ This is a FREEWARE, and a ROYALTIES FREE!!
 * (dead) https://github.com/xmoeproject/KrkrExtract
 * (origin) https://github.com/xmoezzz/KrkrExtract  
 * drag exe to exe to extract  
+* (see follow, to Kirikiri_Engine_XP3) https://github.com/XeNTaXBackup/XeNTaXBackup.github.io/blob/main/markdown/VenusBlood%20Frontier%20.xp3%20files_24851.md?plain=1    
+* https://github.com/arcusmaximus/KirikiriTools    
+* https://github.com/awaken1ng/krkr-xp3    
+* https://bitbucket.org/SmilingWolf/xp3tools-updated/src/master/  
+* http://wiki.xentax.com/index.php/Kirikiri_Engine_XP3  
 
 ## KrkrzExtract  
 * (dead) https://github.com/xmoeproject/KrkrzExtract
@@ -1770,7 +1794,8 @@ MIA's HomePage
 * ImageMagick
 * Kas
 * Kono Yo no Hate de Koi wo Utau Shoujo YU-NO
-* Krkr, kiri_sm.7z, Xp3tools-20060708.zip, xp3_tools.patch
+* Krkr, kiri_sm.7z, Xp3tools-20060708.zip, xp3_tools.patch  
+http://www.insani.org/tools/xp3tools-20060708.zip  
 * Love Plus
 * PONScripter Edition
 * ToHeart2 XRATED, gpl_cd.img.rar, Aquaplus_sources.iso.rar.exe
