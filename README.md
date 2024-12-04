@@ -1883,7 +1883,9 @@ http://www.sbcr.jp/products/4797347623.html
 * PROGAMEproject.zip
 * PROGAMEsample.zip
 * ScriptSource_1.zip
-* ScriptSource_2.zip  
+* ScriptSource_2.zip
+* 全方位3D游戏设计——游戏引擎与游戏开发实例剖析  
+https://github.com/weimingtom/BlenderStudy    
 
 ## VMWare vs VirtualBox   
 * VirtualBox will fail to run OpenGL and DirectX games, but VMWare not   
