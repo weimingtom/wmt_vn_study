@@ -181,6 +181,17 @@ ons_ch_20120601.apk
 * ons.rar  
 * onscriptercn.rar
 * ONS模拟器.rar  
+* (Onscripter SDL2 version) About OpenGL problem, define USE_SDL_RENDERER.  
+It would run failed with VirtualBox, because it could not run OpenGL well (use VMWare instead).     
+```
+在VirtualBox上也能正常使用的Onscripter SDL2版效果。
+我发现其实是可以的，只要想办法关闭OpenGL显示即可，
+实际做法在Onscripter原版代码中是通过取消宏
+USE_SDL_RENDERER来实现（默认是取消不开启OpenGL），
+如果开启了的话在VirtualBox里头就会闪退了。
+可能以后会想办法把这个宏放入到Onscripter-Jh中
+onscripter_jh_sdl2_fork-master_v4_20241116.rar
+``
 
 ## onscripter-en   
 * (origin, dead) http://unclemion.com/onscripter/releases/  
