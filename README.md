@@ -734,6 +734,13 @@ planetarian_steam_english.rar
 kanon_se_ori.rar  
 ```
 * eglaysher-rlvm-release-0.09-0-gbe8db97.tar.gz  
+* my mod  
+```
+比较work_rlvm_v6.tar.gz和v7
+work_rlvm\eglaysher-rlvm-b88bfe0\src\systems\base\platform.cc
+SYSCOM.
+控制右键菜单，如果改错了就会整个右键菜单宽度变得很短
+```
 
 ## waffle, わっふる, for powerpc (for very old powerpc mac osx os)   
 * This code use CodeWarrior6 to build, too old osx to build (See also kurokoge, くろこげ, kurokoge use xcode to build)    
@@ -1922,3 +1929,13 @@ iris.zip
 
 ## webvn-demo  
 * https://github.com/liriliri/webvn-demo  
+
+## (可能没什么研究价值，纯参考) NeXAS
+* https://ultrapre.github.io/clip/default/2019-10-15-1571153274/index.html
+* https://github.com/Yggdrasill-Moe/Niflheim
+* https://github.com/xd2333/patchs
+* https://github.com/xd2333/patchs/issues/1
+* 解包sc4mfc:  
+PARFAITRO_out.7z  
+参考：Parfait.7z  
+パルフェ～ショコラ second brew～“Re-order”初回版  
