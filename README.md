@@ -191,6 +191,9 @@ USE_SDL_RENDERER来实现（默认是取消不开启OpenGL），
 如果开启了的话在VirtualBox里头就会闪退了。
 可能以后会想办法把这个宏放入到Onscripter-Jh中
 onscripter_jh_sdl2_fork-master_v4_20241116.rar
+
+（注：jh sdl2版似乎没定义USE_SDL_RENDERER，而且只处理了开启使用OpenGL的情况，
+没考虑关闭不用OpenGL的情况，所以在VirtualBox中可能会闪退）
 ```
 
 ## onscripter-en   
