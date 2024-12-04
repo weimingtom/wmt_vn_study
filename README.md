@@ -1984,3 +1984,6 @@ Baldr Sky的发售时间续作，剧情时间线上的前作。
 onscripter  
 * KiriKiri  
 Habakiri  
+
+## gba galgame  
+* https://vndb.org/v?q=&sb=Search%21&ch=&f=4ogba&s=26w  
