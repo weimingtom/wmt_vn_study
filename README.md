@@ -1939,3 +1939,23 @@ iris.zip
 PARFAITRO_out.7z  
 参考：Parfait.7z  
 パルフェ～ショコラ second brew～“Re-order”初回版  
+
+## 用unity的galgame
+* https://www.zhihu.com/question/557632528/answer/2842366743
+* https://www.zhihu.com/question/557632528/answer/2842366743
+```
+はちみつそふと社的アイシング-love coating-，画师是綾瀬はづき，
+之前的作品是音符社的Secret Agent～騎士学園の忍びなるもの～。
+GIGA社的Baldr Sky Zero1+2，大名鼎鼎的格斗游戏，
+Baldr Sky的发售时间续作，剧情时间线上的前作。
+还有在steam上发售，曾经被动画化的知名游戏——苍之彼方的四重奏的官方汉化版。
+（该做在发售时用的引擎和枕社的超级糖果为同一引擎，
+后因为冷饭社汉化封包难度问题该用unity高清汉化重置x）
+```
+
+## nsaout源码
+* 工具.rar
+* 恋爱游戏制作大师2@星空网@WAR3ANDC.S
+* GALGAME自动翻译器(附带小工具).rar
+* e.typist.v12-patch.rar
+* ExtractData.zip
