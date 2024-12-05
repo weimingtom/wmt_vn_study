@@ -809,6 +809,7 @@ https://nikuzaiku.web.fc2.com/pocket02.html
 * ゲーム関連日記  
 http://savaiv.blog81.fc2.com/blog-entry-292.html
 
+
 ## 霧雨の降る日に わっふる for PSP, waffle psp, closed source (?), only pbp file   
 * waffle-040116_psp.zip  
 * 霧雨の降る日に わっふる for PSP - livedoor Blog（ブログ）.URL  
@@ -1358,6 +1359,13 @@ see https://www.retouch.info
 * test data: thequestion_v1.7z
 * (old) renpy-6.9.3-sdk.tar.bz2  
 http://www.renpy.org/wiki/renpy/releases/6.9.3
+```
+renpy android, use renpy-8.3.0-sdk.7z.exe and renpy-8.3.0-sdk_v1.7z
+thequestion_v1.7z
+把renpy android编译出来了，可以运行，虽然只有java部分编译了，
+c/c++部分未编译，以后再研究
+（TODO）编译renpy的JNI
+```
 
 ## Reitsuki  
 * (origin) https://github.com/kasuganosora/Reitsuki  
@@ -1989,3 +1997,23 @@ Habakiri
 
 ## gba galgame  
 * https://vndb.org/v?q=&sb=Search%21&ch=&f=4ogba&s=26w  
+
+## 汉化工具  
+https://github.com/Immortalyzy/SoraTranslator  
+
+## etc  
+```
+https://github.com/open-rust-initiative/rust-edu/tree/88467679f36b5367033eb9cedd786be5f2b8d1c6/zhejiang-university/system-programming/fall23/msj_rsons
+https://github.com/brijohn/onscripter-wii
+https://github.com/R1kaB3rN/tsukihime-port/tree/main
+https://github.com/franckv/nscripter2renpy
+https://www.rpgchina.net/forum.php?mod=viewthread&tid=1093
+https://github.com/vim-scripts/nscripter.vim/blob/master/syntax/nscripter.vim
+http://senzogawa.s90.xrea.com/reference/NScrAPI.html
+https://w.atwiki.jp/wiki14_itigoppo/pages/8.html
+https://original.sharpmz.org/mz-700/basicmon.htm
+https://original.sharpmz.org/mz-700/basintern.htm
+https://mz-archive.co.uk/downloads/nyktdH3XxSDIqmeGuwFaP1q7CY7ghNZnpBcfmAz3UJIR9x6q.html
+https://original.sharpmz.org/mz-700/basoverv.htm
+```
+
