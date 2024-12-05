@@ -195,6 +195,8 @@ onscripter_jh_sdl2_fork-master_v4_20241116.rar
 （注：jh sdl2版似乎没定义USE_SDL_RENDERER，而且只处理了开启使用OpenGL的情况，
 没考虑关闭不用OpenGL的情况，所以在VirtualBox中可能会闪退）
 ```
+* archlinux onscripter packages   
+https://aur.archlinux.org/packages?O=0&SeB=nd&K=onscripter&outdated=&SB=p&SO=d&PP=50&submit=Go    
 
 ## onscripter-en   
 * (origin, dead) http://unclemion.com/onscripter/releases/  
