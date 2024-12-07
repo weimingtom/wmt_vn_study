@@ -645,6 +645,12 @@ Wizard.exe: KCDPP KAGeXpress新工程向导
 
 ## fantasydr/krkr-cs  
 * https://github.com/fantasydr/krkr-cs  
+```
+原来很早以前就出现了的krkr-cs（kirikirij的csharp移植）是打算用在psm上的，
+可惜psm很早就黄了（psm好像是索尼搞的安卓游戏平台），
+不过现在unity在安卓上搞得很成功，其实如果当初pss/psm有较好的移植性，
+说不定能移动到unity平台
+```
 
 ## milizhang/TJS-iOS  
 * https://github.com/milizhang/TJS-iOS  
