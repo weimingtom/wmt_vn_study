@@ -2527,6 +2527,22 @@ https://www.bilibili.com/video/BV1r1421C7ep/
 https://www.32r.com/app/10630.html
 org.tvp.kirikiri2_free_10309.apk
 
+avg2nsc
+https://nyanonon.hatenablog.com/entries/2008/02/19#p2
+https://nyanonon.hatenablog.com/entries/2006/04/18#p2
+https://sirius10.net/blog/wordpress/index.php/2021/03/14/259/
+asc016.zip
+avg2nsc04.zip
+可能有用的：测试游戏：参考：https://yun.cup.com/lggdemolist4.html
+恋愛CHU!デモ（see 百度网盘）
+https://sagapla.net/works/usoten/demo_rcxp.htm
+https://sagapla.net/works/renchu/renchu_demo.htm
+rcxp_demo.lzh
+（see 115）：
+ススキノハラの約束
+http://kur-mar-ter.product.co.jp/
+ススキノハラの約束 GAME DISC.cue
+
 
 ```
 
