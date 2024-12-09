@@ -2518,6 +2518,16 @@ https://github.com/YuriSizuku/psv-OnscripterJH
 search catsystem2 or dnml
 
 onscripter psp: [PSP][PC移植版][月姬][中文版].rar
+
+小鸡模拟器里面的ONS代码是可以用jadx反编译出来一些的，名字空间在这里：cn/natdon/onscripterv2，应该跟gh的开源代码是一致的，有时间记录一下（不过感觉好像多了一些类，可能做了改动或者基于别的分支代码）
+https://github.com/natdon/ONScripter-CN/tree/master/src/cn/natdon
+search baidupan, xiaoji_android_v1.8.9-A028.apk
+
+https://www.bilibili.com/video/BV1r1421C7ep/
+https://www.32r.com/app/10630.html
+org.tvp.kirikiri2_free_10309.apk
+
+
 ```
 
 ## retroarch ons  
