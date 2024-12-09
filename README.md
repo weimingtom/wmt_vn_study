@@ -2511,6 +2511,13 @@ vino, unity
 OpenRGSS-RPGMaker和rpgmaker
 rgss.rar
 java版移植，参考：rpg2kemu.7z
+
+https://www.gamebrew.org/wiki/ONScripterJH_Vita
+https://github.com/YuriSizuku/psv-OnscripterJH
+
+search catsystem2 or dnml
+
+onscripter psp: [PSP][PC移植版][月姬][中文版].rar
 ```
 
 ## retroarch ons  
