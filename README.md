@@ -418,6 +418,14 @@ git submodule --init --progress，因为编译这个代码实际上真的不需�
 （例如SDL_image其实是用了stb），所以除了SDL_ttf比较例外，其他都不需要递归导出子库
 ``` 
 
+## katane, some sources and patches (see the .h file) about onscripter and etc    
+* onscripter_android_src_20120711.tar.bz2  
+* rotategear_android_src_105-katane1.tbz2  
+* (onscripter patches) Wrapper_SDL_mixer_ChunkToStream_20100714.zip  
+* (onscripter patches, support : 16bpp (RGB565) only, -DBPP16) Wrapper_SDL_ScreenRotate_20100713.zip  
+* (onscripter patches, support : 16bpp (RGB565) only, -DBPP16, same as upper) RotateSDLWrapper_20100713.zip  
+* SDL-1.2.12-3_iphoneos.tar.bz2  
+
 ## 吉里吉里2, kirikiri2  
 * (origin) https://github.com/krkrz/krkr2  
 * (origin, dead) http://kikyou.info/tvp/  
