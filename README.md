@@ -428,8 +428,8 @@ git submodule --init --progress，因为编译这个代码实际上真的不需�
 
 ## ponscripter-fork, PONScripter    
 * I think it is the fork for multiple languages (like English and Japanese) support in the same time (UTF-8) for ONScripter.   
-* (origin) https://github.com/sekaiproject/ponscripter-fork
-https://sekaiproject.github.io/ponscripter-fork/doc/rn01re01.html  
+* (origin) https://github.com/sekaiproject/ponscripter-fork  
+* https://sekaiproject.github.io/ponscripter-fork/doc/rn01re01.html  
 https://steamdb.info/app/264380/   
 see steam game, "Narcissu 1st & 2nd"  
 https://store.steampowered.com/app/264380/Narcissu_1st__2nd/  
