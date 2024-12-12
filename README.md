@@ -426,17 +426,40 @@ git submodule --init --progress，因为编译这个代码实际上真的不需�
 * (onscripter patches, support : 16bpp (RGB565) only, -DBPP16, same as upper) RotateSDLWrapper_20100713.zip  
 * SDL-1.2.12-3_iphoneos.tar.bz2  
 
-## ponscripter-fork, ponscripter  
-* (origin) https://github.com/sekaiproject/ponscripter-fork  
+## ponscripter-fork, PONScripter    
+* I think it is the fork for multiple languages (like English and Japanese) support in the same time for ONScripter.   
+* (origin) https://github.com/sekaiproject/ponscripter-fork
+```
+Ponscripter is an NScripter-style novel-game interpreter with an
+emphasis on supporting games in Western languages.  The goal is to
+provide an easy porting target for translation projects.
+
+If you want an multiplatform interpreter that strives to remain
+compatible with NScripter, try ONScripter-En (of which this is a fork)
+or the original ONScripter.
+
+If you want a novel-game system designed from the ground up for
+original Western-language games, try Ren'Py.
+
+Ponscripter deliberately breaks compatibility with ONScripter.  For
+example, it is sometimes able to read ONScripter saved games, but
+ONScripter will almost never be able to read Ponscripter saved games.
+
+If you use this program with games that were not designed for it, you
+do so at your own risk.
+```
 * (origin, dead) http://unclemion.com/onscripter/releases/  
-* (origin) https://web.archive.org/web/20181006182632/http://unclemion.com/onscripter/releases/
+* (origin) https://web.archive.org/web/20181006182632/http://unclemion.com/onscripter/releases/  
 ```
 Uncle Mion's ONScripter Corner  
 about the English branch of ONScripter, a game scripting engine  
 Current Release, Version: ponscripter-20100502  
 ```
-* (origin) https://web.archive.org/web/20141218151326/http://roto1.net/ponscripter/  
+* (origin) https://web.archive.org/web/20141218151326/http://roto1.net/ponscripter/
+https://web.archive.org/web/20150119081056/http://roto1.net/ponscripter/  
 ```
+Roto's PONScripter Builds
+
 NOTE: The builds on this page are currently out-of-date;
 official builds for Mac OS X, Linux, and Windows are
 available from UncleMion's ONScripter Corner
