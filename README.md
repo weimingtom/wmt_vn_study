@@ -427,8 +427,11 @@ git submodule --init --progress，因为编译这个代码实际上真的不需�
 * SDL-1.2.12-3_iphoneos.tar.bz2  
 
 ## ponscripter-fork, PONScripter    
-* I think it is the fork for multiple languages (like English and Japanese) support in the same time for ONScripter.   
+* I think it is the fork for multiple languages (like English and Japanese) support in the same time (UTF8) for ONScripter.   
 * (origin) https://github.com/sekaiproject/ponscripter-fork
+https://steamdb.info/app/264380/   
+see steam game, "Narcissu 1st & 2nd"  
+https://store.steampowered.com/app/264380/Narcissu_1st__2nd/  
 ```
 Ponscripter is an NScripter-style novel-game interpreter with an
 emphasis on supporting games in Western languages.  The goal is to
