@@ -426,7 +426,7 @@ git submodule --init --progress，因为编译这个代码实际上真的不需�
 * (onscripter patches, support : 16bpp (RGB565) only, -DBPP16, same as upper) RotateSDLWrapper_20100713.zip  
 * SDL-1.2.12-3_iphoneos.tar.bz2  
 
-## ponscripter-fork, PONScripter    
+## ponscripter-fork (SDL2 version), PONScripter (SDL 1.2 version)      
 * I think it is the fork for multiple languages (like English and Japanese) support in the same time (UTF-8) for ONScripter.   
 * (origin) https://github.com/sekaiproject/ponscripter-fork  
 * https://sekaiproject.github.io/ponscripter-fork/doc/rn01re01.html  
