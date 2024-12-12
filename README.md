@@ -733,6 +733,9 @@ RealLiveMax研究。最开始的时候Tpc2000Max.exe旁边是没有ini文件，
 （需要先复制maxcode星.lic文件到reallivemax.exe旁边），
 支持脚本代码trace（类似krkr，不过不好用，待考）。
 左上角的debug on/off其实只是打开关闭reallivemax窗口头部的菜单栏
+
+115, angel magister
+baidupan, angel_magister
 ```
 
 ## xkanon   
