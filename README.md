@@ -333,11 +333,12 @@ iyzsong_onscripter-libretro-main.zip
 libretro-onscripter-deps-20240118.tar.xz
 * https://github.com/weimingtom/onscripter-libretro_fork  
 
-## LONS  
+## LONS, onscripter-lons  
 * (origin) https://gitee.com/only998/onscripter-lons  
 * search baidupan, onscripter_jh_sdl2_fork_lons_vs2013_v2_success.rar  
 * vs2013  
-* search baidupan, onscripter_jh_sdl2_fork_v1.rar  
+* search baidupan, onscripter_jh_sdl2_fork_v1.rar
+* https://github.com/weimingtom/onscripter-lons_fork   
 
 ## C&D Tools Win GUI  
 * (x) http://blog.livedoor.jp/tormtorm/  
@@ -616,6 +617,7 @@ mkdir build; cd build; cmake -DCMAKE_TOOLCHAIN_FILE=/home/wmt/work_krkrsdl2/andr
 * linux host meson linux build (?not sure), see krkrsdl2_github_20220221_full.tar.gz, krkrsdl2_github_20220221_min.tar.gz  
 * (dead) 教学 krkrz多平台 Kirikiri SDL2   
 (dead) https://www.bilibili.com/read/cv25481294/  
+* https://github.com/weimingtom/krkrsdl2_fork  
 
 ## kirikiri3-legacy  
 * https://github.com/w-dee/kirikiri3-legacy  
