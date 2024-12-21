@@ -1440,7 +1440,6 @@ c/c++部分未编译，以后再研究
 * (origin) http://www.le-mo.jp/lemo/products/LemoNovel_AS3/index.htm  
 * http://www.le-mo.jp/lemo/products/LemoNovel/index.htm
 * LemoNovelEx_1024x576.zip
-* 
 
 ## AINE (for flash)      
 * (origin) http://www.drakkashi.com/aine/  
@@ -1508,7 +1507,9 @@ YSOne 可以将数据包和引擎程序一体化。
 (dead) http://www.livemaker.net/download.html    
 
 ## PlaygroundOSS  
-* https://github.com/KLab/PlaygroundOSS  
+* https://github.com/KLab/PlaygroundOSS
+* (?) https://github.com/kotori2/SIF-Win32   
+it uses this library ? not sure  
 
 ## sketch / ExHIBIT, retouch, sketchFE        
 * (origin) https://www.retouch.info
