@@ -538,7 +538,7 @@ https://github.com/weimingtom/krkrz110_fork/blob/master/HowToBuild.txt
 https://github.com/krkrsdl2/krkrsdl2-kag3-demo/blob/main/data-demo/scenario/first.ks  
 吉里吉里とKAGの紹介, data same as krkrsdl2_v14_crash_fix.rar  
 * (work, vs2013, no opengl blend) krkrsdl2_v14_crash_fix.rar  
-* (data same as krkrsdl2/krkrsdl2-kag3-demo), see data_web.tar.gz, krkrsdl2-kag3-demo_20240518_v2.tar.gz    
+* (data same as krkrsdl2/krkrsdl2-kag3-demo), see data_web.tar.gz, krkrsdl2-kag3-demo_20240518_v2.tar.gz; make verbose output see krkrsdl2_20240518_make_output.tar.gz      
 ```
 krkrsdl2的作者给了一个示例（基于网页版），用了一个data.xp3，
 但我无论如何都解包不了里面的脚本文本（可以解出来，但乱码），
