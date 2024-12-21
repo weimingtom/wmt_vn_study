@@ -197,6 +197,8 @@ onscripter_jh_sdl2_fork-master_v4_20241116.rar
 ```
 * archlinux onscripter packages   
 https://aur.archlinux.org/packages?O=0&SeB=nd&K=onscripter&outdated=&SB=p&SO=d&PP=50&submit=Go    
+* SDL2 unofficial patch by uyjulian, tested and can work   
+https://github.com/uyjulian/onscripter/tree/sdl2   
 
 ## onscripter-en   
 * (origin, dead) http://unclemion.com/onscripter/releases/  
