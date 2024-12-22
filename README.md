@@ -1383,6 +1383,7 @@ see https://www.retouch.info
 * 追忆 decompile mod  
 * https://github.com/weimingtom/ugame/tree/master/projects/galgame  
 * mobi.galgames.mp-1.apk  
+* galgame_xxx_v1.rar, galgame_xxx_old.7z    
 
 ## crass  
 * (origin) http://galcrass.blog124.fc2blog.us  
