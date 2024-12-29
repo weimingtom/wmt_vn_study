@@ -505,6 +505,11 @@ see kirikiri_svn.7z, Kage-kirie.zip (use BCB6.ISO ???)
 和删除TVP_REPORT_HW_EXCEPTION定义，跳过tjsRegExp.cpp的编译
 （我的做法是用预编译注释掉），即可回避链接错误了 ​​​
 ```
+* kirikiri编译四件套.zip  
+boost-1.30.2.zip  
+Borland CPP Builder 5.7z  
+nasm-2.05-win32.zip  
+ActivePerl-5.26.msi  
 
 ## 吉里吉里Z, krkrz, kirikiriz    
 * (new) http://krkrz.github.io  
