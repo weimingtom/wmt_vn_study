@@ -2679,3 +2679,6 @@ LD_LIBRARY_PATH=/home/wmt/work_easyrpg/out/lib /home/wmt/work_easyrpg/out/bin/ea
 ## 由《壳之少女》英文版的艰难发行过程说起, 聊一聊对游戏本地化的看法  
 * https://www.sohu.com/a/278568936_120020331  
 
+## ParseXP3  
+* https://github.com/sst311212/wuvorbis  
+
