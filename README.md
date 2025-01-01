@@ -2682,3 +2682,6 @@ LD_LIBRARY_PATH=/home/wmt/work_easyrpg/out/lib /home/wmt/work_easyrpg/out/bin/ea
 ## ParseXP3  
 * https://github.com/sst311212/wuvorbis  
 
+## antlr4 kirikiri-tjs  
+* https://github.com/antlr/grammars-v4/tree/master/kirikiri-tjs  
+* https://github.com/antlr/grammars-v4/tree/master/kirikiri-tjs/example  
