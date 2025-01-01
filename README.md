@@ -510,6 +510,7 @@ boost-1.30.2.zip
 Borland CPP Builder 5.7z  
 nasm-2.05-win32.zip  
 ActivePerl-5.26.msi  
+see https://github.com/Yamilemon/Kirikiri2Compile  
 
 ## 吉里吉里Z, krkrz, kirikiriz    
 * (new) http://krkrz.github.io  
