@@ -2689,3 +2689,7 @@ LD_LIBRARY_PATH=/home/wmt/work_easyrpg/out/lib /home/wmt/work_easyrpg/out/bin/ea
 ## antlr4 kirikiri-tjs  
 * https://github.com/antlr/grammars-v4/tree/master/kirikiri-tjs  
 * https://github.com/antlr/grammars-v4/tree/master/kirikiri-tjs/example  
+
+## Godot-Galgame  
+* https://github.com/924036076/Godot-Galgame  
+* global_var.gd, if data else 1.0  
