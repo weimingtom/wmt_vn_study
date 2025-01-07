@@ -2693,3 +2693,7 @@ LD_LIBRARY_PATH=/home/wmt/work_easyrpg/out/lib /home/wmt/work_easyrpg/out/bin/ea
 ## Godot-Galgame  
 * https://github.com/924036076/Godot-Galgame  
 * global_var.gd, if data else 1.0  
+
+## Spring Days, using kirikiri2 engine      
+* https://code.google.com/archive/p/godxq1986/downloads  
+* there are some other games  
