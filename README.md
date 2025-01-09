@@ -273,8 +273,8 @@ steward-fu_website_rg350_src_onscripter.tar.gz,
 steward-fu_website_rs97_src_onscripter.7z
 * https://github.com/steward-fu/website/releases/tag/miyoo-mini  
 https://github.com/steward-fu/website/releases/download/miyoo-mini/rel_ons_20220417.zip  
-https://github.com/steward-fu/website/releases/download/miyoo-mini/src_ons.tar.gz  
-onion_ons_20220417.zip
+https://github.com/steward-fu/website/releases/download/miyoo-mini/src_ons.tar.gz    
+onion_ons_20220417.zip    
 二合一版（0419新固件）V3.10.5 只有ONS游戏懒人包32G.zip    
 https://tieba.baidu.com/p/7862507512    
 
