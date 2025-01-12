@@ -2703,3 +2703,7 @@ LD_LIBRARY_PATH=/home/wmt/work_easyrpg/out/lib /home/wmt/work_easyrpg/out/bin/ea
 ## Spring Days, using kirikiri2 engine      
 * https://code.google.com/archive/p/godxq1986/downloads  
 * there are some other games  
+
+## VNTranslationTools    
+* https://github.com/arcusmaximus/VNTranslationTools    
+* https://github.com/vnkeyfc/VNTranslationTools-mod  
