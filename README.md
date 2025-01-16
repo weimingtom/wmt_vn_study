@@ -2707,3 +2707,15 @@ LD_LIBRARY_PATH=/home/wmt/work_easyrpg/out/lib /home/wmt/work_easyrpg/out/bin/ea
 ## VNTranslationTools    
 * https://github.com/arcusmaximus/VNTranslationTools    
 * https://github.com/vnkeyfc/VNTranslationTools-mod  
+
+## Use winlator on Android to run Chinese Kirikiri2 game  
+* https://github.com/brunodev85/winlator, version 8.0  
+* LC_ALL设置为zh_CN.UTF-8（或者zh_CN.GBK)  
+* Copy C:\Windows\Fonts\simsun.ttc (like Win11) into Fonts folder in winlator  
+```
+我尝试用winlator运行kirikiri2中文游戏，似乎可以这样：
+（1）在进入系统前，容器环境变量那里添加LC_ALL设置为zh_CN.UTF-8（或者zh_CN.GBK），
+这一步可能不是必须的（2）在进入系统后，把simsun.ttc（宋体和新宋体）
+从电脑中C:\windows\fonts拿出来（我是从win11里面拿的）放到winlator里面的fonts目录中
+（3）然后就可以运行了
+```
