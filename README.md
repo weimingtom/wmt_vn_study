@@ -2719,3 +2719,11 @@ LD_LIBRARY_PATH=/home/wmt/work_easyrpg/out/lib /home/wmt/work_easyrpg/out/bin/ea
 从电脑中C:\windows\fonts拿出来（我是从win11里面拿的）放到winlator里面的fonts目录中
 （3）然后就可以运行了
 ```
+
+## leafpak  
+* http://hoshina.denpa.org/leafpak.html
+* http://akkera102.sakura.ne.jp/gbadev/index.php?Doc.15%20PC%A5%B2%A1%BC%A5%E0%A1%D6%BC%B6%A1%D7%A4%CE%B0%DC%BF%A2%CA%FD%CB%A1(1)
+* http://www.freebsd.org/cgi/pds.cgi?ports/graphics/leafpak
+* http://mirror.kr.freebsd.org/ports/graphics.html#leafpak-1.1.1
+* http://www.freebsd.org/cgi/cvsweb.cgi/ports/graphics/leafpak/
+
