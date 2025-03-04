@@ -483,6 +483,15 @@ available from UncleMion's ONScripter Corner
 ponscripter-mac-20091015.dmg
 ```
 
+## UVE, UVEngine, Universal VisualNovel Engine, WindowsPhone上的ONS模拟器, for Windows Phone / WinPhone (at least for WP8. not sure WP10)      
+* (origin) https://github.com/lightstudio/uve  
+UVEngine 2.1 SourceCode (GPLv2)  
+* https://github.com/weimingtom/uve  
+UVE Opensource Project for UVE 2.1  
+* Seems from ONScripter  
+* https://tieba.baidu.com/p/3329962867  
+* (dead) http://uve.codeplex.com  
+
 ## 吉里吉里2, kirikiri2  
 * (origin) https://github.com/krkrz/krkr2  
 * (origin, dead) http://kikyou.info/tvp/  
