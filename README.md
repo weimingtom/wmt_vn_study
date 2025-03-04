@@ -1580,6 +1580,10 @@ This is a FREEWARE, and a ROYALTIES FREE!!
 ## vnds  
 * (origin, dead) http://digital-haze.net/projects/vnds.html  
 * (origin, dead) https://play.google.com/store/apps/details?id=com.qberty.narcissu  
+* http://gamebrew.org/wiki/DS_Visual_Novel_Reader
+* Virtualnovelreader150ds.rar
+* vnds-tools.tar.gz
+* vnds-1.4.9.tar.gz  
 
 ## INSTEAD - Simple Text Adventure Interpreter (with Lua)  
 * (origin) http://instead.hugeping.ru/#about  
