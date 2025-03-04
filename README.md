@@ -488,7 +488,7 @@ ponscripter-mac-20091015.dmg
 UVEngine 2.1 SourceCode (GPLv2)  
 * https://github.com/weimingtom/uve  
 UVE Opensource Project for UVE 2.1  
-* Seems from ONScripter  
+* Seems from ONScripter-JH    
 * https://tieba.baidu.com/p/3329962867  
 * (dead) http://uve.codeplex.com  
 
@@ -1376,7 +1376,7 @@ see https://www.retouch.info
 * search baidupan, lip  
 
 ## etc (for flash, as3)    
-* search baidupan, 恋文网络版旧版本以及原始文件_代码废弃.rar  
+* search baidupan, 恋文网络版旧版本以及原始文件_代码废弃.rar, flashplayer_18_sa_debug.exe, novel_koiroma    
 * JQV  
 * flash网球, yuki-mod.rar    
 * flash音游, 打字达人, search email, TYPINGMANIA4.part1.rar      
