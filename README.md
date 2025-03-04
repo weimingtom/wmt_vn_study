@@ -1577,13 +1577,15 @@ No development tool is necessary for making Game,without this script.
 This is a FREEWARE, and a ROYALTIES FREE!!
 ```
 
-## vnds  
+## vnds, DS Visual Novel Reader, for NDS (not sure)      
+* (origin) https://web.archive.org/web/20140218222855/http://digital-haze.net/projects/vnds.html  
 * (origin, dead) http://digital-haze.net/projects/vnds.html  
 * (origin, dead) https://play.google.com/store/apps/details?id=com.qberty.narcissu  
+* I think it's an open source visual novel engine for NDS (see no$gba-2.6)    
 * http://gamebrew.org/wiki/DS_Visual_Novel_Reader
-* Virtualnovelreader150ds.rar
-* vnds-tools.tar.gz
-* vnds-1.4.9.tar.gz  
+* Virtualnovelreader150ds.rar, vnds-1.5.0  
+* vnds-1.4.9.tar.gz   
+* vnds-tools.tar.gz  
 
 ## INSTEAD - Simple Text Adventure Interpreter (with Lua)  
 * (origin) http://instead.hugeping.ru/#about  
