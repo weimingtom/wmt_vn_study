@@ -1231,6 +1231,7 @@ http://www.alicesoft.co.jp/
 * https://github.com/aphadeon/OpenGame.exe  
 
 ## rmxp4droid  
+* (origin?) https://github.com/baijiacms/rmxp4droid  
 * http://blog.csdn.net/cxy1238/article/details/12253745    
 * search rmxp4droid2.4.rar  
 * https://github.com/weimingtom/wmt_todo_list/blob/master/README_001.md  
