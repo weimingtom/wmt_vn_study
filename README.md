@@ -277,6 +277,11 @@ https://github.com/steward-fu/website/releases/download/miyoo-mini/src_ons.tar.g
 onion_ons_20220417.zip    
 二合一版（0419新固件）V3.10.5 只有ONS游戏懒人包32G.zip    
 https://tieba.baidu.com/p/7862507512    
+* prebuilt onscripter-jh exe
+https://github.com/jh10001/ONScripter-Jh/releases  
+https://butter255.github.io  
+https://github.com/butter255/emu/releases  
+https://gitee.com/butter255/emu/releases  
 
 ## john-he onscripter Chinese version, for Windows / PSP / Pocket PC  
 * (dead) http://john-he.ys168.com/?jdfwkey=k9rlz
