@@ -277,12 +277,15 @@ https://github.com/steward-fu/website/releases/download/miyoo-mini/src_ons.tar.g
 onion_ons_20220417.zip    
 二合一版（0419新固件）V3.10.5 只有ONS游戏懒人包32G.zip    
 https://tieba.baidu.com/p/7862507512    
-* So many prebuilt onscripter-jh apk and exe files   
+* ONScripter-Jh apk  
 https://github.com/jh10001/ONScripter-Jh/releases  
+* So many prebuilt onscripter-jh apk and exe files   
 (dead) https://butter255.github.io  
 各种版本onscripter-jh的安卓版和windows版，也包括kirikiroid2    
 https://github.com/butter255/emu/releases  
 (dead) https://gitee.com/butter255/emu/releases  
+* 出处不明（似乎和《孤独少女的百合物语.rar》一起），但兼容海猫（不会出现不透明立绘）
+Ons_for_PC.rar  
 
 ## john-he onscripter Chinese version, for Windows / PSP / Pocket PC  
 * (dead) http://john-he.ys168.com/?jdfwkey=k9rlz
