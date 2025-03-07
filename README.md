@@ -292,7 +292,7 @@ https://github.com/jh10001/ONScripter-Jh/releases
 https://github.com/butter255/emu/releases  
 (dead) https://gitee.com/butter255/emu/releases  
 * Ons_for_PC, Ons_for_PC.rar  
-出处不明（似乎和《孤独少女的百合物语.rar》一起），但兼容海猫（不会出现不透明立绘）  
+出处不明（似乎和《孤独少女的百合物语.rar》一起），但似乎可以解决海猫不透明立绘的bug，待考    
 似乎还出现在：ONS游戏整合包.rar, ONS.zip.001  
 可能是从onscripter-en并入的，参考这个：onscripter-en-win32-20110628.zip    
 搜索:substituting crossfade, 见stdout.txt    
@@ -303,6 +303,8 @@ Audio: 44100 Hz 16 bit stereo
 dll effect: Got dll 'trvswave.dll/h'
 effect No. 99 not implemented; substituting crossfade
 ```
+see https://kaisernet.org/onscripter/releases/onscripter-en-20110628-src.tar.bz2  
+see https://kaisernet.org/onscripter/releases/onscripter-en-20110628-fullsrc.tar.bz2  
 * onscripter-en-win32-20110628.zip    
 https://kaisernet.org/onscripter/  
 (old is this site:) https://kaisernet.neocities.org/onscripter/#mirrors   
