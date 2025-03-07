@@ -216,7 +216,14 @@ onscripter-en-20080823-src.tar.bz2
 * https://github.com/weimingtom/onscripter_en_fork2_sdlport2  
 * https://github.com/weimingtom/onscripter_en_fork
 * https://github.com/weimingtom/sdlport  
-* mirror: https://kaisernet.neocities.org/onscripter/#mirrors  
+* mirror: https://kaisernet.org/onscripter/  
+https://kaisernet.neocities.org/onscripter/#mirrors
+```
+onscripter-en-win32-20110628.zip    
+https://kaisernet.org/onscripter/  
+(old is this site:) https://kaisernet.neocities.org/onscripter/#mirrors   
+search neocities_onscripter_mirrors  
+```
 * https://github.com/superzazu/onscripter-en  
 * http://narcissu.insani.org  
 * http://narcissu.gwathyr.net  
@@ -296,6 +303,10 @@ Audio: 44100 Hz 16 bit stereo
 dll effect: Got dll 'trvswave.dll/h'
 effect No. 99 not implemented; substituting crossfade
 ```
+* onscripter-en-win32-20110628.zip    
+https://kaisernet.org/onscripter/  
+(old is this site:) https://kaisernet.neocities.org/onscripter/#mirrors   
+search neocities_onscripter_mirrors  
 
 ## john-he onscripter Chinese version, for Windows / PSP / Pocket PC  
 * (dead) http://john-he.ys168.com/?jdfwkey=k9rlz
