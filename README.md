@@ -284,7 +284,7 @@ https://github.com/jh10001/ONScripter-Jh/releases
 各种版本onscripter-jh的安卓版和windows版，也包括kirikiroid2    
 https://github.com/butter255/emu/releases  
 (dead) https://gitee.com/butter255/emu/releases  
-* 出处不明（似乎和《孤独少女的百合物语.rar》一起），但兼容海猫（不会出现不透明立绘）
+* 出处不明（似乎和《孤独少女的百合物语.rar》一起），但兼容海猫（不会出现不透明立绘）  
 Ons_for_PC.rar  
 
 ## john-he onscripter Chinese version, for Windows / PSP / Pocket PC  
