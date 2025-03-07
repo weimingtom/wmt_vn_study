@@ -117,18 +117,21 @@ http://www.k-collect.net/pe/index.htm
 * CCScripter-0.8.24.tar.gz  
 
 ## onscripter  
-* (origin) https://onscripter.osdn.jp  
-(origin) https://onscripter.osdn.jp/onscripter.html  
-(origin, dead) http://onstripter.sourceforge.jp/android/android.html  
+* (origin, dead? the osdn.jp/sourceforge.jp version is before github version and after infoseek version) https://onscripter.osdn.jp  
+(origin, dead?) https://onscripter.osdn.jp/onscripter.html  
+(origin, dead?) http://onstripter.sourceforge.jp/android/android.html   
 * (origin) https://github.com/ogapee/onscripter    
 (origin) https://github.com/ogapee/onscripter_android    
 (origin) https://github.com/ogapee/onscripter_win  
 (origin) https://github.com/ogapee/onscripter_ios  
-* (origin, old, dead?) http://ogapee.at.infoseek.co.jp/onscripter.html  
+* (very and before origin, dead, it's before sourceforge.jp version) http://ogapee.at.infoseek.co.jp/onscripter.html  
 http://dev.haeleth.net/onscripter.shtml  
 http://ogapee.at.infoseek.co.jp/onscripter.html  
 onscripter-20090822.tar.gz  
-onscripter-20090921.tar.gz  
+onscripter-20090921.tar.gz    
+https://web.archive.org/web/20090401000000*/http://ogapee.at.infoseek.co.jp/onscripter.html    
+https://web.archive.org/web/20090201202810/http://ogapee.at.infoseek.co.jp/onscripter.html  
+https://web.archive.org/web/20100826072837/http://ogapee.at.infoseek.co.jp/onscripter.html  
 * https://github.com/weimingtom/eriri/tree/master/rubysdl  
 * https://github.com/PSP-Archive/ONScripter-for-PSP  
 * search baidupan, onscripter_android_src_20120711.tar.bz2  
