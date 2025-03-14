@@ -29,7 +29,9 @@ and etc
 * https://mzp.hatenablog.com/entry/2023/12/23/110149  
 onscripter, ノベルゲーム移植の歴史, see yinxiangbiji   
 * http://michiaki.hatenablog.com/entry/20100716/1279290828    
-* (TODO) record https://sirius10.net/Games/hgames.php  
+* (TODO) record https://sirius10.net/Games/hgames.php    
+https://sirius10.net/RaspberryPi/ONScripter.html  
+GPiCASE で ONScripter  
 * (done, but not tested) win7 vm, build krkrsdl2  
 * (done) search baidupan, nscripter_java_20200829_replace_moon.rar    
 * I:\work_onscripter_csharp  
