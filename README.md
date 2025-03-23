@@ -118,6 +118,15 @@ http://www.k-collect.net/pe/index.htm
 * (origin) https://web.archive.org/web/20111105141217/http://homepage.mac.com/toveta/ccs/  
 * CCScripter-0.8.24.tar.gz  
 
+## 月猫 (tukineko), for Java PDA (SHARP ZAURUS E21, KYOCERA PocketCosmo), closed source      
+* (origin, dead) http://www.din.or.jp/~boya/tsukihime/tukineko/index.html  
+* (origin, dead) http://www.din.or.jp/~boya/  
+* search tnA05_P.zip  
+* 月猫 decompiled mod (by me, weimingtom), named 'nscripter_java'  
+* https://gitee.com/weimingtom2000/nscripter_java  
+* search baidupan, 月姬、月姬格斗、月箱, 月箱.part1(1).rar, 月箱.part2(1).rar  
+* search baidupan, nscripter_java_20200829_replace_moon.rar  
+
 ## onscripter  
 * (origin, dead? the osdn.jp/sourceforge.jp version is before github version and after infoseek version) https://onscripter.osdn.jp  
 (origin, dead?) https://onscripter.osdn.jp/onscripter.html  
@@ -349,15 +358,6 @@ search neocities_onscripter_mirrors
 * (android version) cn.natdon.onscripterv2 20150802 (3.0.3 include xclannad and xsystem35): ONScripter-CN_v1.7z  
 * 小鸡模拟器的ONS：cn/natdon/onscripterv2，感觉好像多了一些类，可能做了改动或者基于别的分支代码  
 * https://github.com/natdon/ONScripter-CN/tree/951935b05ae66fb5e0c09ceb437324687f0a23f7/jni/app_onscripter-32bpp/onscripter-20130317
-
-## 月猫 (tukineko), for Java PDA (SHARP ZAURUS E21, KYOCERA PocketCosmo), closed source      
-* (origin, dead) http://www.din.or.jp/~boya/tsukihime/tukineko/index.html  
-* (origin, dead) http://www.din.or.jp/~boya/  
-* search tnA05_P.zip  
-* 月猫 decompiled mod (by me, weimingtom), named 'nscripter_java'  
-* https://gitee.com/weimingtom2000/nscripter_java  
-* search baidupan, 月姬、月姬格斗、月箱, 月箱.part1(1).rar, 月箱.part2(1).rar  
-* search baidupan, nscripter_java_20200829_replace_moon.rar  
 
 ## mscripter, for Java midlet (closed source, like nscripter)   
 * (origin) http://www.epii.jp/articles/product/mscripter/mscripter  
