@@ -2830,5 +2830,5 @@ LD_LIBRARY_PATH=/home/wmt/work_easyrpg/out/lib /home/wmt/work_easyrpg/out/bin/ea
 ## Galgame-Engine-Collect   
 * https://github.com/2439905184/Galgame-Engine-Collect  
 ```
-releases，我去这SDK还真能找到，可能已经很旧了，佩服，不过叠起来了    
+sdk see releases
 ```
