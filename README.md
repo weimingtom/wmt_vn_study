@@ -680,7 +680,25 @@ mkdir build; cd build; cmake -DCMAKE_TOOLCHAIN_FILE=/home/wmt/work_krkrsdl2/andr
 * linux host meson linux build (?not sure), see krkrsdl2_github_20220221_full.tar.gz, krkrsdl2_github_20220221_min.tar.gz  
 * (dead) 教学 krkrz多平台 Kirikiri SDL2   
 (dead) https://www.bilibili.com/read/cv25481294/  
-* https://github.com/weimingtom/krkrsdl2_fork  
+* https://github.com/weimingtom/krkrsdl2_fork    
+https://github.com/weimingtom/krkrsdl2-miyoo-a30    
+
+## kirikiroid2 (for Android and iOS)    
+* (origin) https://github.com/zeas2/Kirikiroid2  
+* search baidupan, atest3  
+* (dead) https://github.com/ryank231231/kirikiroid2-NG
+* see https://github.com/ryank231231/Kirikiroid2Yuri/tree/yuri  
+see https://github.com/Yamilemon/Kirikiroid2Yuri/tree/yuri  
+(origin) see https://github.com/YuriSizuku/Kirikiroid2Yuri/tree/yuri    
+Kirikiroid2Yuri-yuri.zip  
+* test data, search baidupan, _kirikiroid2  
+see also https://gitee.com/weimingtom/kirikiroid2_fork/tree/master/test_data/atest3  
+* https://github.com/weimingtom/kirikiroid2-miyoo-a30    
+https://github.com/weimingtom/cocos2d-x-3.6-miyoo-a30    
+https://github.com/weimingtom/kirikiroid2lite  
+https://gitee.com/weimingtom/kirikiroid2_fork  
+https://github.com/weimingtom/linnea  
+* https://github.com/Yamilemon/Kirikiroid2Yuri  
 
 ## kirikiri3-legacy  
 * https://github.com/w-dee/kirikiri3-legacy  
@@ -704,20 +722,6 @@ mkdir build; cd build; cmake -DCMAKE_TOOLCHAIN_FILE=/home/wmt/work_krkrsdl2/andr
 * (origin) http://www.kaede-software.com/android/  
 * https://github.com/weimingtom/habakiri/tree/master/kirikirij
 * kirikiri2j.zip  
-
-## kirikiroid2 (for Android and iOS)    
-* (origin) https://github.com/zeas2/Kirikiroid2  
-* https://github.com/weimingtom/kirikiroid2lite  
-* https://gitee.com/weimingtom/kirikiroid2_fork  
-* https://github.com/weimingtom/linnea  
-* search baidupan, atest3  
-* (dead) https://github.com/ryank231231/kirikiroid2-NG
-* see https://github.com/ryank231231/Kirikiroid2Yuri/tree/yuri  
-see https://github.com/Yamilemon/Kirikiroid2Yuri/tree/yuri  
-(origin) see https://github.com/YuriSizuku/Kirikiroid2Yuri/tree/yuri    
-Kirikiroid2Yuri-yuri.zip  
-* test data, search baidupan, _kirikiroid2  
-see also https://gitee.com/weimingtom/kirikiroid2_fork/tree/master/test_data/atest3  
 
 ## KAS, KAS4PC (for Java and Android and PC, like kirikiri)        
 * (origin, dead) http://studiomikan.net/kas/  
