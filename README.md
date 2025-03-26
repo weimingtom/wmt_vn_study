@@ -369,15 +369,18 @@ https://github.com/natdon/ONScripter-CN/blob/951935b05ae66fb5e0c09ceb437324687f0
 * https://github.com/nonakap/xnscripchan  
 * (TODO) search baidupan, xnscripchan_v3_vc6.rar  
 
-## onscripter-libretro  
-* (origin, dead?) https://github.com/iyzsong/onscripter-libretro  
+## onscripter-libretro, onscripter core for RetroArch    
+* (origin) https://github.com/iyzsong/onscripter-libretro  
 Seems be merged into Onscripter Yuri, Commits on Oct 8, 2024    
-https://github.com/YuriSizuku/OnscripterYuri/tree/master/src/onsyuri_libretro
-https://github.com/YuriSizuku/OnscripterYuri/commits/b3aad4f7ced52861fcf570a87d92cfb43522069e/  
+(origin) https://github.com/YuriSizuku/OnscripterYuri/tree/master/src/onsyuri_libretro
+(origin) https://github.com/YuriSizuku/OnscripterYuri/commits/b3aad4f7ced52861fcf570a87d92cfb43522069e/  
 * (same) https://github.com/gouchi/onscripter-libretro  
 * search baidupan, onscripter-libretro    
 iyzsong_onscripter-libretro-main.zip   
 libretro-onscripter-deps-20240118.tar.xz
+* https://github.com/weimingtom/onscripter-libretro_fork  
+* https://github.com/christianhaitian/retroarch-cores/blob/master/aarch64/onscripter_libretro.so.zip  
+* https://github.com/christianhaitian/rk3326_core_builds/blob/rk3326/scripts/onscripter.sh  
 * https://github.com/weimingtom/onscripter-libretro_fork  
 
 ## LONS, onscripter-lons  
@@ -465,13 +468,6 @@ no need to add --recursive, because it doesn't use other libraries, but ttf and 
 git submodule --init --progress，因为编译这个代码实际上真的不需要导出那么多子库
 （例如SDL_image其实是用了stb），所以除了SDL_ttf比较例外，其他都不需要递归导出子库
 ``` 
-
-## onscripter_libretro, retroarch ons  
-* (origin) https://github.com/iyzsong/onscripter-libretro  
-* (origin) https://github.com/YuriSizuku/OnscripterYuri/tree/master/src/onsyuri_libretro  
-* https://github.com/christianhaitian/retroarch-cores/blob/master/aarch64/onscripter_libretro.so.zip  
-* https://github.com/christianhaitian/rk3326_core_builds/blob/rk3326/scripts/onscripter.sh  
-* https://github.com/weimingtom/onscripter-libretro_fork  
 
 ## katane, some sources and patches (see the .h file) about onscripter and etc     
 * (origin) https://onedrive.live.com/?cid=1A0406E116655303&id=1a0406e116655303%21108&authkey=%21AEU0L3HpCKm7YLU   
