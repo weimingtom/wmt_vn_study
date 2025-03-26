@@ -707,7 +707,7 @@ see https://github.com/Yamilemon/Kirikiroid2Yuri/tree/yuri
 Kirikiroid2Yuri-yuri.zip  
 https://github.com/Yamilemon/Kirikiroid2Yuri    
 * test data, search baidupan, _kirikiroid2  
-see also https://gitee.com/weimingtom/kirikiroid2_fork/tree/master/test_data/atest3
+see also https://gitee.com/weimingtom/kirikiroid2_fork/tree/master/test_data/atest3  
 test data, search baidupan, atest3  
 * https://github.com/weimingtom/kirikiroid2-miyoo-a30    
 https://github.com/weimingtom/cocos2d-x-3.6-miyoo-a30    
