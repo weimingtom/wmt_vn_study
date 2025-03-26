@@ -684,7 +684,22 @@ mkdir build; cd build; cmake -DCMAKE_TOOLCHAIN_FILE=/home/wmt/work_krkrsdl2/andr
 https://github.com/weimingtom/krkrsdl2-miyoo-a30    
 
 ## kirikiroid2 (for Android and iOS)    
-* (origin) https://github.com/zeas2/Kirikiroid2   
+* (origin) https://github.com/zeas2/Kirikiroid2  
+https://github.com/butter255/emu/releases/tag/krkr2
+```
+我有Kirikiroid2的早期版本（从1.0.12到1.1.7），
+我试过其中一个版本，通过放置default.ttf，
+可以打开日语和中文的数据文件——
+跟最新的1.3有什么区别呢？我觉得体积小很多，仅使用了ffmpeg，
+没有用cocos2d-x（可能用了，但没有用ui资源），
+菜单是通过Android菜单来实现的，如果以后有机会，
+我也想改成类似这样（当然我现在没时间研究这个）
+```
+Kirikiroid2/历史版本:    
+Kirikiroid2_1.0.12.apk  
+...   
+Kirikiroid2_1.1.6beta.apk  
+Kirikiroid2_1.1.7beta3.apk, 2015-02-13  
 * (dead) https://github.com/ryank231231/kirikiroid2-NG  
 see https://github.com/ryank231231/Kirikiroid2Yuri/tree/yuri    
 see https://github.com/Yamilemon/Kirikiroid2Yuri/tree/yuri    
