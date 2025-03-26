@@ -466,6 +466,13 @@ git submodule --init --progress，因为编译这个代码实际上真的不需�
 （例如SDL_image其实是用了stb），所以除了SDL_ttf比较例外，其他都不需要递归导出子库
 ``` 
 
+## onscripter_libretro, retroarch ons  
+* (origin) https://github.com/iyzsong/onscripter-libretro  
+* (origin) https://github.com/YuriSizuku/OnscripterYuri/tree/master/src/onsyuri_libretro  
+* https://github.com/christianhaitian/retroarch-cores/blob/master/aarch64/onscripter_libretro.so.zip  
+* https://github.com/christianhaitian/rk3326_core_builds/blob/rk3326/scripts/onscripter.sh  
+* https://github.com/weimingtom/onscripter-libretro_fork  
+
 ## katane, some sources and patches (see the .h file) about onscripter and etc     
 * (origin) https://onedrive.live.com/?cid=1A0406E116655303&id=1a0406e116655303%21108&authkey=%21AEU0L3HpCKm7YLU   
 * (origin) http://hissi.org/read.php/gamedev/20120809/QVFHQUFSTEM.html   
@@ -2680,10 +2687,6 @@ http://kur-mar-ter.product.co.jp/
 
 
 ```
-
-## retroarch ons  
-* https://github.com/christianhaitian/retroarch-cores/blob/master/aarch64/onscripter_libretro.so.zip  
-* https://github.com/christianhaitian/rk3326_core_builds/blob/rk3326/scripts/onscripter.sh  
 
 ## (IMP) rlvm portmaster  
 * https://github.com/christianhaitian/PortMaster/blob/main/Rlvm.zip  
