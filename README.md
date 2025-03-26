@@ -1265,7 +1265,7 @@ western_platform_fonts和ja_platform_fonts
 ```
 
 ## System4 (closed source)    
-* (origin) http://kei.stbbs.net/rubyeye/sys40/sdk_dl.html
+* (origin, dead) http://kei.stbbs.net/rubyeye/sys40/sdk_dl.html
 * (origin, dead) https://kei.stbbs.net/rubyeye/sys40/sdk_dl.html  
 * https://www.iteye.com/blog/weimingtom-1130129  
 * search Sys40SDK_20041224  
