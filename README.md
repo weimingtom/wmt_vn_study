@@ -684,21 +684,21 @@ mkdir build; cd build; cmake -DCMAKE_TOOLCHAIN_FILE=/home/wmt/work_krkrsdl2/andr
 https://github.com/weimingtom/krkrsdl2-miyoo-a30    
 
 ## kirikiroid2 (for Android and iOS)    
-* (origin) https://github.com/zeas2/Kirikiroid2  
-* search baidupan, atest3  
-* (dead) https://github.com/ryank231231/kirikiroid2-NG
-* see https://github.com/ryank231231/Kirikiroid2Yuri/tree/yuri  
-see https://github.com/Yamilemon/Kirikiroid2Yuri/tree/yuri  
+* (origin) https://github.com/zeas2/Kirikiroid2   
+* (dead) https://github.com/ryank231231/kirikiroid2-NG  
+see https://github.com/ryank231231/Kirikiroid2Yuri/tree/yuri    
+see https://github.com/Yamilemon/Kirikiroid2Yuri/tree/yuri    
 (origin) see https://github.com/YuriSizuku/Kirikiroid2Yuri/tree/yuri    
 Kirikiroid2Yuri-yuri.zip  
+https://github.com/Yamilemon/Kirikiroid2Yuri    
 * test data, search baidupan, _kirikiroid2  
-see also https://gitee.com/weimingtom/kirikiroid2_fork/tree/master/test_data/atest3  
+see also https://gitee.com/weimingtom/kirikiroid2_fork/tree/master/test_data/atest3
+test data, search baidupan, atest3  
 * https://github.com/weimingtom/kirikiroid2-miyoo-a30    
 https://github.com/weimingtom/cocos2d-x-3.6-miyoo-a30    
 https://github.com/weimingtom/kirikiroid2lite  
 https://gitee.com/weimingtom/kirikiroid2_fork  
 https://github.com/weimingtom/linnea  
-* https://github.com/Yamilemon/Kirikiroid2Yuri  
 
 ## kirikiri3-legacy  
 * https://github.com/w-dee/kirikiri3-legacy  
@@ -845,7 +845,8 @@ X Window System 上で動かすためのプログラムです。動作にはSDL 
 ```
 * old name xlove ???  
 * ??? originally for NetBSD/dreamcast ? seems not  
-* https://github.com/weimingtom/xclannad_fork  
+* https://github.com/weimingtom/xclannad_fork   
+https://github.com/weimingtom/xclannad-gbk_fork    
 * search baidupan, [040428][VisualArt's][Key][Clannad].mdf    
 * Clannad FV (Full Voice) not support  
 * https://github.com/Mysterious-tk/onscripter-for-iOS-GBK/tree/master/xclannad  
