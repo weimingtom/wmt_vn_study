@@ -1858,6 +1858,8 @@ SteamDB有个没什么用的功能是可以根据游戏查游戏引擎，或者�
 ISLAND的CatSystem2，
 不过有些游戏的引擎没识别出来（没收录引擎），
 例如星之梦planetarian
+具体遍历
+https://github.com/SteamDatabase/FileDetectionRuleSets/tree/main/descriptions
 ```
 
 ## Susie, .spi plugin image converter   
@@ -2272,20 +2274,6 @@ search baidupan, 月姬plus-unity2018工程文件.rar
 * Light.vn.release.16.5.1_240816_1912.zip  
 
 ## Steam  
-```
-https://steamdb.info/tech/Engine/NScripter/
-https://steamdb.info/tech/Engine/KiriKiri/
-https://steamdb.info/tech/Engine/YU-RIS/
-https://github.com/SteamDatabase/FileDetectionRuleSets/tree/main/descriptions
-https://steamdb.info/tech/Engine/RenPy/
-https://steamdb.info/tech/Engine/CatSystem2/
-SteamDB有个没什么用的功能是可以根据游戏查游戏引擎，或者根据游戏引擎反查相关的galgame，
-例如我找到这些引擎：水仙1+2的NScripter，亚托莉Atri的KiriKiri（其实是krkrz），
-龙姬混日子的YU-RIS，片轮少女的RenPy，ISLAND的CatSystem2，
-不过有些游戏的引擎没识别出来（没收录引擎），例如星之梦planetarian
-具体遍历
-https://github.com/SteamDatabase/FileDetectionRuleSets/tree/main/descriptions
-```
 ```
 https://github.com/eviltwo/ChotNovel/tree/main
 KAG风格脚本
