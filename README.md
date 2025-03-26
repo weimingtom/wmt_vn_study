@@ -2332,11 +2332,6 @@ http://www.wiiupload.net/fl/3d03a5adea
 描述：        Professional Adventure-Game System by YOX-Project（http://www.yox-project.com/）
 ```
 ```
-chonscripter-20101024.zip, like onscripter-CN
-
-小鸡模拟器的ONS：cn/natdon/onscripterv2，感觉好像多了一些类，可能做了改动或者基于别的分支代码
-```
-```
 (TODO)
 在xubuntu20上编译运行xclannad的效果（我以前试过在Windows上跑，这次改成用linux跑），
 目前只能跑日本语版。其实我是想弄中文的，没成功——因为我没找到可用的文件，
