@@ -1273,7 +1273,12 @@ western_platform_fonts和ja_platform_fonts
 * Sys42SDK_20041224.lzh
 * system40ver132.lzh  
 * System3.X/4.X    
-http://www.alicesoft.co.jp/    
+http://www.alicesoft.co.jp/      
+* http://sidealice.blogbus.com/logs/144618.html  
+* http://ms.mblogger.cn/af  
+* http://sidealice.blogbus.com/logs/346778.html  
+* http://sidealice.com/  
+* http://8ne.sakura.ne.jp:20008/chika/unitbase/xsys35/  
 
 ## OpenRGSS (for Ruby)    
 * (origin) https://github.com/zh99998/OpenRGSS-RPGMaker  
@@ -2445,16 +2450,6 @@ work_xsystem35_v2.tar.gz
 ==
 兰斯bgm问题
 Xsystem35.pdf
-```
-```
-Sys42SDK_20041224.lzh
-system40ver132.lzh
-http://kei.stbbs.net/rubyeye/sys40/sdk_dl.html
-http://sidealice.blogbus.com/logs/144618.html
-http://ms.mblogger.cn/af
-http://sidealice.blogbus.com/logs/346778.html
-http://sidealice.com/
-http://8ne.sakura.ne.jp:20008/chika/unitbase/xsys35/
 ```
 ```
 TODO：
