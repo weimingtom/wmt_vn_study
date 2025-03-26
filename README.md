@@ -1811,7 +1811,6 @@ ITHVNR多了一个unhook按钮，而且按钮内的对话框内容不同
 * https://github.com/setsumi/TAHelper  
 
 ## AGTH and Cp2Tran and etc  
-*
 ```
 我好像记错了，其实ITH还有一个前驱者，叫AGTH，那个比ITH有名气得多
 ——或者准确说ITH只是弥补了AGTH有些游戏不适用的缺点，
