@@ -714,6 +714,15 @@ https://github.com/weimingtom/cocos2d-x-3.6-miyoo-a30
 https://github.com/weimingtom/kirikiroid2lite  
 https://gitee.com/weimingtom/kirikiroid2_fork  
 https://github.com/weimingtom/linnea  
+* 贴吧的梗图，什么是xp3filter.tjs和patch.tjs，什么是无法转换字节字符为宽字符  
+【教学】Kirikiroid2[吉里吉里模拟器] 下载&使用  
+https://tieba.baidu.com/p/8962163653  
+关于无法转换字节字符为宽字符的问题  
+https://tieba.baidu.com/p/5066851433
+```
+注：最好别知道为什么  
+如果只是自制游戏的话这个问题不用深究原因    
+```
 
 ## kirikiri3-legacy  
 * https://github.com/w-dee/kirikiri3-legacy  
@@ -760,6 +769,17 @@ https://github.com/weimingtom/linnea
 * http://www.ies-net.com  
 * .iet, like ks  
 * .lua, .lub, support lua, like tjs ???    
+```
+我发现很早以前就有人公开了Artemis引擎的SDK（大概是2022年），
+如果没有这个SDK的话（据说这个SDK有申请门槛，需要给作者发mail），
+其实也不是不能研究，garbro可以，但有了这个SDK可以看出来，
+那些所谓的Artemis引擎模拟器可能也是基于这个SDK的（相当于集成了SDK），
+但也可能还做了别的事情，甚至可能不是基于这个SDK——可能是很久以前的旧版本。
+当然这些对开源来说毫无帮助，如果是我，我可能只会先做高层模拟器，
+而且也只能先解决nscripter和kirikiri2标签语言的模拟
+（我在研究基于节点的godot实现的模拟器），
+才会考虑研究这个引擎（我觉得现阶段还是太难了，还不是时候研究它）
+```
 
 ## Artroid+  
 * https://myskrpatch.tistory.com/82  
