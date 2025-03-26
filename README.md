@@ -2828,3 +2828,8 @@ LD_LIBRARY_PATH=/home/wmt/work_easyrpg/out/lib /home/wmt/work_easyrpg/out/bin/ea
 * http://mirror.kr.freebsd.org/ports/graphics.html#leafpak-1.1.1
 * http://www.freebsd.org/cgi/cvsweb.cgi/ports/graphics/leafpak/
 
+## Galgame-Engine-Collect   
+* https://github.com/2439905184/Galgame-Engine-Collect  
+```
+releases，我去这SDK还真能找到，可能已经很旧了，佩服，不过叠起来了    
+```
