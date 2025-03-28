@@ -423,6 +423,9 @@ libretro-onscripter-deps-20240118.tar.xz
 * https://github.com/matthewn4444/onscripter-engine-android  
 * 2.0.18: com.onscripter.plus.apk  
 * 2.0.16: https://github.com/wushuo894/ONScripterPlus/releases  
+* (TODO) Seems be changed havily, Aug 28, 2023, see 
+https://github.com/matthewn4444/onscripter-engine-android/tree/master/src/main/cpp/onscripter  
+onscripter_20161102.orig.tar.gz  
 
 ## Onscripter-Yuri, for pc, android, retroarch, web      
 * https://github.com/YuriSizuku/OnscripterYuri
