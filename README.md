@@ -123,11 +123,11 @@ http://www.k-collect.net/pe/index.htm
 * (origin, dead) http://www.din.or.jp/~boya/  
 * search tnA05_P.zip  
 * 月猫 decompiled mod (by me, weimingtom), named 'nscripter_java'  
-* https://gitee.com/weimingtom2000/nscripter_java  
-* search baidupan, 月姬、月姬格斗、月箱, 月箱.part1(1).rar, 月箱.part2(1).rar  
-* search baidupan, nscripter_java_20200829_replace_moon.rar  
-* https://github.com/weimingtom/tukineko_godot    
-https://github.com/weimingtom/tukineko_csharp  
+https://gitee.com/weimingtom2000/nscripter_java  
+https://github.com/weimingtom/tukineko_godot    
+https://github.com/weimingtom/tukineko_csharp   
+search baidupan, 月姬、月姬格斗、月箱, 月箱.part1(1).rar, 月箱.part2(1).rar  
+search baidupan, nscripter_java_20200829_replace_moon.rar   
 
 ## onscripter  
 * (origin, dead? the osdn.jp/sourceforge.jp version is before github version and after infoseek version) https://onscripter.osdn.jp  
