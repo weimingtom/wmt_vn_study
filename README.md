@@ -126,6 +126,8 @@ http://www.k-collect.net/pe/index.htm
 * https://gitee.com/weimingtom2000/nscripter_java  
 * search baidupan, 月姬、月姬格斗、月箱, 月箱.part1(1).rar, 月箱.part2(1).rar  
 * search baidupan, nscripter_java_20200829_replace_moon.rar  
+* https://github.com/weimingtom/tukineko_godot    
+https://github.com/weimingtom/tukineko_csharp  
 
 ## onscripter  
 * (origin, dead? the osdn.jp/sourceforge.jp version is before github version and after infoseek version) https://onscripter.osdn.jp  
