@@ -609,7 +609,7 @@ https://github.com/weimingtom/krkrz110_fork/blob/master/HowToBuild.txt
 * (origin) https://github.com/krkrsdl2/kag3
 * (origin) https://github.com/krkrsdl2/krkrsdl2-kag3-demo  
 https://github.com/krkrsdl2/krkrsdl2-kag3-demo/blob/main/data-demo/scenario/first.ks  
-吉里吉里とKAGの紹介, data same as krkrsdl2_v14_crash_fix.rar  
+吉里吉里とKAGの紹介, data same as krkrsdl2_v14_crash_fix.rar, data_web.xp3    
 * (work, vs2013, no opengl blend) krkrsdl2_v14_crash_fix.rar  
 * (data same as krkrsdl2/krkrsdl2-kag3-demo), see data_web.tar.gz, krkrsdl2-kag3-demo_20240518_v2.tar.gz; make verbose output see krkrsdl2_20240518_make_output.tar.gz      
 ```
@@ -622,9 +622,11 @@ unicode而非utf8。所以如果要解包，就要走两步：
 （ExtractData不行，只能用cr）；
 接出来的文本需要用特殊的支持Unicode字符集的阅读器
 （Notepad++也不行，我用的是bcomp）
+
+**see data_web.xp3**
 ```  
 ```
-吉里吉里とKAGの紹介, data same as krkrsdl2_v14_crash_fix.rar  
+吉里吉里とKAGの紹介, data same as krkrsdl2_v14_crash_fix.rar, data_web.xp3    
 ```
 * build method, see https://sirius10.net/blog/wordpress/index.php/2021/04/10/690/  
 (under xubuntu200464)   
