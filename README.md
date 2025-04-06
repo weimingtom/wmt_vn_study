@@ -215,6 +215,8 @@ onscripter_jh_sdl2_fork-master_v4_20241116.rar
 https://aur.archlinux.org/packages?O=0&SeB=nd&K=onscripter&outdated=&SB=p&SO=d&PP=50&submit=Go    
 * SDL2 unofficial patch by uyjulian, tested and can work   
 https://github.com/uyjulian/onscripter/tree/sdl2   
+* SDL1.2 apt install: sudo apt-get install libsdl1.2-dev libsdl-image1.2-dev libsdl-mixer1.2-dev libsdl-ttf2.0-dev libsdl-gfx1.2-dev liblua5.1-0-dev libbz2-dev libfontconfig1-dev libavifile-0.7-dev libsmpeg-dev    
+* SDL2 apt install: sudo apt-get install libsdl2-dev liblua5.1-0-dev libsdl2-image-dev libsdl2-ttf-dev libsdl2-mixer-dev libbz2-dev libfontconfig1-dev libogg-dev libvorbis-dev  
 
 ## onscripter-en   
 * (origin, dead) http://unclemion.com/onscripter/releases/  
@@ -325,6 +327,7 @@ see https://kaisernet.org/onscripter/releases/onscripter-en-20110628-fullsrc.tar
 https://kaisernet.org/onscripter/  
 (old is this site:) https://kaisernet.neocities.org/onscripter/#mirrors   
 search neocities_onscripter_mirrors  
+* SDL2 apt install: sudo apt-get install libsdl2-dev liblua5.1-0-dev libsdl2-image-dev libsdl2-ttf-dev libsdl2-mixer-dev libbz2-dev libfontconfig1-dev libogg-dev libvorbis-dev  
 
 ## john-he onscripter Chinese version, for Windows / PSP / Pocket PC  
 * (dead) http://john-he.ys168.com/?jdfwkey=k9rlz
@@ -576,6 +579,7 @@ Borland CPP Builder 5.7z
 nasm-2.05-win32.zip  
 ActivePerl-5.26.msi  
 see https://github.com/Yamilemon/Kirikiri2Compile  
+* kr2_232r2.lzh, kr2_232r2.zip, krkr_trunk(nosrc).zip, Korvet_v1.rar, kr2_228r3.lzh  
 
 ## 吉里吉里Z, krkrz, kirikiriz    
 * (new) http://krkrz.github.io  
@@ -602,6 +606,7 @@ https://github.com/weimingtom/krkrz110_fork/blob/master/HowToBuild.txt
 * https://github.com/uyjulian/krkrs  
 * https://github.com/uyjulian/krkrv  
 * (TODO) https://github.com/weimingtom/krkrz110_fork/blob/master/kr2.md    
+* krkrz_20150817.zip, krkrz_20140803.zip    
 
 ## krkrsdl2  
 * (origin) https://github.com/krkrsdl2/krkrsdl2  
