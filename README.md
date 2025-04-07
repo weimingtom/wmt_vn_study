@@ -217,6 +217,8 @@ https://aur.archlinux.org/packages?O=0&SeB=nd&K=onscripter&outdated=&SB=p&SO=d&P
 https://github.com/uyjulian/onscripter/tree/sdl2   
 * SDL1.2 apt install: sudo apt-get install libsdl1.2-dev libsdl-image1.2-dev libsdl-mixer1.2-dev libsdl-ttf2.0-dev libsdl-gfx1.2-dev liblua5.1-0-dev libbz2-dev libfontconfig1-dev libavifile-0.7-dev libsmpeg-dev    
 * SDL2 apt install: sudo apt-get install libsdl2-dev liblua5.1-0-dev libsdl2-image-dev libsdl2-ttf-dev libsdl2-mixer-dev libbz2-dev libfontconfig1-dev libogg-dev libvorbis-dev  
+* SDL2 archlinux pacman install: pacman -S bzip2 fontconfig libjpeg-turbo lua53 sdl2 sdl2_image sdl2_mixer sdl2_ttf   
+see https://aur.archlinux.org/packages/onscripter-yuri  
 
 ## onscripter-en   
 * (origin, dead) http://unclemion.com/onscripter/releases/  
@@ -328,6 +330,8 @@ https://kaisernet.org/onscripter/
 (old is this site:) https://kaisernet.neocities.org/onscripter/#mirrors   
 search neocities_onscripter_mirrors  
 * SDL2 apt install: sudo apt-get install libsdl2-dev liblua5.1-0-dev libsdl2-image-dev libsdl2-ttf-dev libsdl2-mixer-dev libbz2-dev libfontconfig1-dev libogg-dev libvorbis-dev  
+* SDL2 archlinux pacman install: pacman -S bzip2 fontconfig libjpeg-turbo lua53 sdl2 sdl2_image sdl2_mixer sdl2_ttf   
+see https://aur.archlinux.org/packages/onscripter-yuri  
 
 ## john-he onscripter Chinese version, for Windows / PSP / Pocket PC  
 * (dead) http://john-he.ys168.com/?jdfwkey=k9rlz
