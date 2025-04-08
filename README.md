@@ -426,15 +426,19 @@ libretro-onscripter-deps-20240118.tar.xz
 * https://gitee.com/yizhigai/onscripter-vita  
 
 ## onscripter-plus  
-* git code onscripter version 20161102 (not apk, see git)    
-* the code is since 2013     
-* https://github.com/matthewn4444/onscripter-plus-android    
-* https://github.com/matthewn4444/onscripter-engine-android  
+* (origin) https://github.com/matthewn4444/onscripter-plus-android    
+* (origin) https://github.com/matthewn4444/onscripter-engine-android  
+* For Android, it can auto detect languages (zh, jp, en, ko, ru) and change font size dynamically at runtime   
+https://github.com/matthewn4444/onscripter-engine-android/blob/master/src/main/cpp/onscripter/ScriptDecoder.cpp  
+https://github.com/matthewn4444/onscripter-engine-android/blob/master/src/main/cpp/onscripter/ScriptHandler.cpp  
+git code onscripter version 20161102 (not apk, see git)    
+the code is since 2013     
 * 2.0.18: com.onscripter.plus.apk  
 * 2.0.16: https://github.com/wushuo894/ONScripterPlus/releases  
 * (TODO) Seems be changed heavily, Aug 28, 2023, see   
 https://github.com/matthewn4444/onscripter-engine-android/tree/master/src/main/cpp/onscripter    
 search onscripter_20161102.orig.tar.gz    
+* https://github.com/weimingtom/onscripter-plus_fork  
 
 ## Onscripter-Yuri, for pc, android, retroarch, web      
 * https://github.com/YuriSizuku/OnscripterYuri
