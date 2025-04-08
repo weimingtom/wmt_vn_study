@@ -546,6 +546,11 @@ UVE Opensource Project for UVE 2.1
 * https://tieba.baidu.com/p/3329962867  
 * (dead) http://uve.codeplex.com  
 
+## ONScripter-GBK-Linux  
+* https://github.com/shouhuanxiaoji/ONScripter-GBK-Linux
+* https://bbs.archlinuxcn.org/viewtopic.php?id=1843  
+* Largely changed in ScriptHandler.h and sjis2utf16.cpp  
+
 ## 吉里吉里2, kirikiri2  
 * (origin) https://github.com/krkrz/krkr2  
 * (origin, dead) http://kikyou.info/tvp/  
