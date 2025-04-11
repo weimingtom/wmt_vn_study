@@ -357,6 +357,8 @@ archinstall profile minimal
 如果不用sudo运行，则只能用Alt+F2切换到其他tty，然后执行
 killall onscripter退出程序
 ```
+* macos, mac mini  
+https://github.com/weimingtom/onscripter-jh-macos  
 
 ## john-he onscripter Chinese version, for Windows / PSP / Pocket PC  
 * (dead) http://john-he.ys168.com/?jdfwkey=k9rlz
