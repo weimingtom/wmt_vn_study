@@ -286,6 +286,7 @@ SDLOTHERCONFIG=--disable-assembly ./configure --std=gnu++98 --no-werror --with-i
 * http://c.tieba.baidu.com/p/3395900252?pn=1  
 * search baidupan, sdl2.neon.apk  
 * search baidupan, macos sdl2, configure --prefix build, search baidupan, onscripter-jh_macos_prefix_build_v1.zip  
+for macos, mac mini, see https://github.com/weimingtom/onscripter-jh-macos    
 * Anbernic RG350 and Anbernic RetroGame (RS97) version, all are mipsel  
 RG350 version is similar to ln93/Onscripter-GameCase, but not same  
 RS97 version is music code mod of RG350 version (?)  
@@ -357,8 +358,7 @@ archinstall profile minimal
 如果不用sudo运行，则只能用Alt+F2切换到其他tty，然后执行
 killall onscripter退出程序
 ```
-* macos, mac mini  
-https://github.com/weimingtom/onscripter-jh-macos  
+
 
 ## john-he onscripter Chinese version, for Windows / PSP / Pocket PC  
 * (dead) http://john-he.ys168.com/?jdfwkey=k9rlz
