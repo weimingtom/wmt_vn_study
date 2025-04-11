@@ -358,6 +358,17 @@ archinstall profile minimal
 如果不用sudo运行，则只能用Alt+F2切换到其他tty，然后执行
 killall onscripter退出程序
 ```
+* Fedora 41, KDE  
+sudo yum install ftp make gcc g++  
+sudo yum install SDL2-devel SDL2_image-devel SDL2_mixer-devel SDL2_ttf-devel   
+sudo yum install lua-devel libogg-devel libvorbis-devel   
+```
+fedora 41的KDE环境编译运行onscripter-jh的效果（关3D），virtualbox不能开3d，
+否则SDL2显示会有问题，闪烁。如果关了3d，问题会少一些，但显示还是会有一点问题
+——不过fedora也很少用，无所谓了 ​​​
+
+标题中文没乱字了
+```
 
 
 ## john-he onscripter Chinese version, for Windows / PSP / Pocket PC  
