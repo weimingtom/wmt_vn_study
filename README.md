@@ -332,6 +332,31 @@ search neocities_onscripter_mirrors
 * SDL2 apt install: sudo apt-get install libsdl2-dev liblua5.1-0-dev libsdl2-image-dev libsdl2-ttf-dev libsdl2-mixer-dev libbz2-dev libfontconfig1-dev libogg-dev libvorbis-dev  
 * SDL2 archlinux pacman install: pacman -S bzip2 fontconfig libjpeg-turbo lua53 sdl2 sdl2_image sdl2_mixer sdl2_ttf   
 see https://aur.archlinux.org/packages/onscripter-yuri  
+* Arch Linux 20250401 x86_64, Linux 6.14.1  
+archinstall profile desktop Cinnamon, KDE, MATE, LXQt, Enlightenment    
+```
+Cinnamon、KDE、MATE和LXQt这四个桌面环境对SDL2支持较好 ​​​  
+Enlightenment桌面环境下编译运行onscripter-jh的效果，SDL2也没什么显示问题  
+```
+archinstall profile desktop GNOME, Xfce    
+```
+xfce桌面，效果如下，需要启用3D加速，编译运行onscripter-jh也会有一些显示问题  
+用archinstall命令安装，但要记得配置好分区和root用户和软件源和profile（选择desktop）和网络（复制ISO）  
+(GNOME) 编译出来的程序运行显示是会有少许问题，例如晃动窗口有时候会有残影，右键菜单可能会让整个屏幕变白    
+```
+archinstall profile desktop Awesome  
+```
+virtualbox不开3d会好一些，开3d可能会有显示问题。需要输入startx才能进入桌面环境
+```
+archinstall profile minimal  
+```
+用Arch Linux的最小模式编译运行onscripter-jh的效果如下，
+纯CLI环境下SDL2的framebuffer的显示有bug（局部刷新计算有问题），
+获取文件可以通过lftp传输（user和ls和get命令）。
+需要用sudo运行，否则无法鼠标键盘输入，但退出只能用Ctrl+C；
+如果不用sudo运行，则只能用Alt+F2切换到其他tty，然后执行
+killall onscripter退出程序
+```
 
 ## john-he onscripter Chinese version, for Windows / PSP / Pocket PC  
 * (dead) http://john-he.ys168.com/?jdfwkey=k9rlz
