@@ -277,11 +277,19 @@ SDLOTHERCONFIG=--disable-assembly ./configure --std=gnu++98 --no-werror --with-i
 
 ## onscripter-jh SDL2 branch (also include SDL 1.2 branch)    
 * (origin, dead) https://bitbucket.org/jh10001/onscripter-jh  
-* (origin, archived) https://github.com/uyjulian/onscripter-jh  
+* (origin, archived) https://github.com/uyjulian/onscripter-jh
+https://github.com/uyjulian/onscripter-jh/tree/SDL2, The SDL2 branch,   
+is very same as the dead bitbucket code base, or jh10001-onscripter-jh-a11f51d5728f.zip  
 * (origin) https://github.com/jh10001/ONScripter-Jh  
+It is the newer version by the onscripter-jh author than the dead bitbucket code base       
 * https://github.com/LasmGratel/onscripter-jh  
 (original name) https://github.com/NanamiArihara/onscripter-jh  
-* https://github.com/weimingtom/onscripter_jh_sdl2_fork  
+* https://github.com/weimingtom/onscripter_jh_sdl2_fork
+https://github.com/weimingtom/onscripter_jh_sdl2_fork/blob/master/vendor/onscripter-jh/jh10001-onscripter-jh-a11f51d5728f.zip  
+my saved old bitbucket code base SDL2 branch, see jh10001-onscripter-jh-a11f51d5728f.zip   
+* https://github.com/fybmain/ONScripter-Jh  
+https://github.com/fybmain/ONScripter-Jh/tree/for-upstream  
+Bug fix for the dead bitbucket code base SDL2 branch (not by the jh author) for linux fedora building, but it may be not largely changed  
 * https://github.com/chf2000/ONScripter-Jh  
 * http://c.tieba.baidu.com/p/3395900252?pn=1  
 * search baidupan, sdl2.neon.apk  
