@@ -2871,17 +2871,21 @@ LD_LIBRARY_PATH=/home/wmt/work_easyrpg/out/lib /home/wmt/work_easyrpg/out/bin/ea
 sdk see releases
 ```
 
-## Windows日语转区工具, some tools to turn locale (and timezone) (from Chinese) to japanese in Windows  
+## (Don't use them as possible) Some tools to turn locale (and timezone) (from Chinese) to japanese in Windows  
 ```
+（慎用，尽量别用）各种Windows日语转区工具和方法
+
 ntleasWin.exe, 一个绿色软件，用来玩CM3D和CM3D2的（逃）
+不过你知道得太多了，请买正版，D版有也别玩
+Please buy steam games  
 ```
 * ntleas045_x64.rar
+* (not recommended) 用虚拟机装Windows XP日文版来转区，不推荐，因为虚拟机比较卡（而且声音卡），而且有时候会玩不了，DirectX可能会有问题，有些游戏也可能不支持XP  
 * 在win10的区域设置里面选非Unicode设置为日语（默认是中文），确定后会提示是否重启系统，重启完后再运行CM3D就能绕过错误框和闪退
 ```
 控制面板-时钟和区域-区域-管理-非Unicode程序的语言-更改系统区域设置-日语（日本）-重启
 ```
 * (not tested) Locale Emulator.rar，没试过，可能用ntleas就够了
-* (not recommended) 用虚拟机装Windows XP日文版来转区，不推荐，因为虚拟机比较卡（而且声音卡），而且有时候会玩不了，DirectX可能会有问题，有些游戏也可能不支持XP  
 * (not tested) GALGAME自动翻译器(附带小工具).rar, NT全域通(NTLEA 0.82, NTLEA 0.86), apploc(语言转换器).msi  
 * (not good, not useful) AGTH_setup.rar, AGTH智能设置器（更新在线翻译）, w2kxpcjk2    
 * (not useful, always install failed in Win7 and Win10) apploc.7z, apploc.msi  
