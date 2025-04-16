@@ -2879,7 +2879,7 @@ ntleasWin.exe, 一个绿色软件，用来玩CM3D和CM3D2的（逃）
 * 在win10的区域设置里面选非Unicode设置为日语（默认是中文），确定后会提示是否重启系统，重启完后再运行CM3D就能绕过错误框和闪退
 ```
 控制面板-时钟和区域-区域-管理-非Unicode程序的语言-更改系统区域设置-日语（日本）-重启
-``
+```
 * (not tested) Locale Emulator.rar，没试过，可能用ntleas就够了
 * (not recommended) 用虚拟机装Windows XP日文版来转区，不推荐，因为虚拟机比较卡（而且声音卡），而且有时候会玩不了，DirectX可能会有问题，有些游戏也可能不支持XP  
 * (not tested) GALGAME自动翻译器(附带小工具).rar, NT全域通(NTLEA 0.82, NTLEA 0.86), apploc(语言转换器).msi  
