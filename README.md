@@ -458,6 +458,17 @@ libretro-onscripter-deps-20240118.tar.xz
 * (dead) http://www.geocities.jp/stm_torm/ons/tool.html  
 * http://iphonevisualnovel.wordpress.com/  
 * search baidupan, onscripter-tools_win.zip  
+```
+□バイナリパッケージ
+C&D Tools Win GUI 1.0.0
+onscripter-tools_win.zip
+
+□このソフトウェアについて
+ONScripter 付属のアーカイブ変換?解凍 Tool (nsaconv sarconv nsadec sardec) と、それを扱う為の GUI フロントエンドのセットです。
+
+ONScripterのページ
+http://ogapee.at.infoseek.co.jp/onscripter.html
+```
 
 ## Nspire上的类ONS游戏引擎KuroScripter (with vc6 / win32 port)    
 * by Anderain Ryu (Hikari no Uiharu)  
@@ -2967,3 +2978,24 @@ https://blog.sina.cn/dpool/blog/u/1303459875
 ## FineReader.7z  
 * 批量转换txt代码页，用于MP3看小说（逃）
 * 不过我也不用这个
+
+## odbg110.zip  
+* W32Dasm.rar, c32asm.rar, PEiD-0.95-20081103.zip, IDA.7z, odbg200.rar    
+
+## Dbgview.7z  
+* FileMon.zip, socketsniff.rar, proexp, tcpmon-1.0-bin.rar, ProcessMonitor.rar, ProcessExplorer1203.rar, RegMon      
+* httpdebug.exe  
+* ScreenToolkit.exe
+* Strings.zip  
+* xampp-portcheck.exe
+* http://www.sysinternals.com  
+* https://learn.microsoft.com/zh-cn/sysinternals/  
+* IECacheViewer  
+
+## CDimageGUI.zip  
+* 文件制作ISO工具，不过用ultraiso更好？
+
+## powerchm  
+
+## enigmavb  
+
