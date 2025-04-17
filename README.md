@@ -1150,7 +1150,9 @@ patch -p1 < ../bless_avg32-rpi.patch
 ```
 RLdev is a basic RealLive development kit, containing an archiver/disassembler, a compiler, and a graphics conversion tool.  
 Latest version: 1.40 (2006-6-22) - changelog.  
-WARNING: this program is not really ready for public consumption. Proceed at your own risk.  
+WARNING: this program is not really ready for public consumption. Proceed at your own risk.
+
+an unofficial development toolkit for AVG2000 and RealLive
 ```
 * rldev-1.40.tar.bz2  
 * rlBabel-src-1.43.rar  
@@ -1572,16 +1574,24 @@ see https://www.retouch.info
 * mobi.galgames.mp-1.apk  
 * galgame_xxx_v1.rar, galgame_xxx_old.7z    
 
-## crass  
+## (NOTE: don't study it) crass  
 * (origin) http://galcrass.blog124.fc2blog.us  
 * https://github.com/shangjiaxuan/Crass-source  
 * https://github.com/rinrin-/crass  
 * search baidupan, AVG引擎+工具.rar  
 * search baidupan, Crass-source.7z  
+* crass-0.4.10.1.7z
+* https://code.google.com/archive/p/godxq1986/downloads    
 
-## ExtractData  
+## (NOTE: don't study it) ExtractData, Version 1.20  
 * search baidupan, ExtractData120_src.7z
 * ExtractData.zip  
+* ExtractData_1.20b5.rar  
+* ExtractData120_src.7z  
+* ExtractData120.7z
+* (NOTE: don't study it) 我通常用来解nsa包和nscript.dat，但也可以用garbro代替  
+* (origin, dead?) http://twin.tn.st/  
+* Support Susie plugins  
 
 ## decompyle  
 * https://github.com/weimingtom/decompyle-2.3.2_win32_build  
@@ -1972,9 +1982,11 @@ https://github.com/uyjulian/iftlg
 * (dead ?) http://db23c.dnsalias.com/MangaMeeya/  
 MangaMeeya
 
-## RPGViewer and Extractor    
+## RPGViewer and Extractor and GameViewer      
 * May be not good, only for fun (?)      
 * Used to see images  
+* RPGViewer2.8Build322.rar  
+* GV_50.rar  
 
 ## UmierTools    
 * my windows homebrew tool  
@@ -2902,7 +2914,38 @@ start notepad.exe
 ## vnr, VNR3  
 
 ## JBeijing  
-* jBeijingV7.zip  
+* jBeijingV7.zip, jBeijingV7.rar  
 
 ## 喵翻, AgthStart.exe    
 * Cp2Tran.exe, agth.exe, ntleac.exe, AppLoc.exe, TGT/GTGal.exe, AgthSet.exe  
+
+## JapanHR  
+* japanhr翻译器:日语汉字读音自动标注
+
+## (NOTE: don't study it) KIDres.zip, KIDres.exe    
+* Don't know if good   
+* dat 图片声音
+
+## (NOTE: don't study it) Kid Tools GUI, KTG_v15b050905.exe, KidToolsGUI.rar  
+* Don't know if good  
+* dat 图片声音，比KIDres支持更多；脚本似乎也能，但不可用  
+
+## exe2swf.7z  
+
+## (NOTE: don't study it) exef2paz.zip    
+* http://asmodean.reverse.net
+
+## (NOTE: don't study it) cape.rar, SHUFFLE!文本提取器
+* 不确定，可能来源于crass？也可能不是  
+
+## ComittoNN, an Android manga reader  
+* （新版建议用ComittoNxA）, 安卓漫画阅读器
+* https://github.com/ComittoNxA/ComittoNxA
+* 虽然勉强可以用，不过可能不支持最新的安卓，如果用不了就算了  
+* 用快图（quickpic）可能更好
+
+## MangaMeeya, a PC manga reader     
+* https://github.com/leopck/MangaMeeya
+* 对gif支持不好
+* 可能对大文件会很卡
+* 需要设置一下，否则可能会出现严重的图片波纹（有时会消除不了）  
