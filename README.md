@@ -2932,7 +2932,7 @@ start notepad.exe
 
 ## exe2swf.7z  
 
-## (NOTE: don't study it) exef2paz.zip    
+## (NOTE: don't study it) exef2paz.zip, exmaspaz.zip      
 * http://asmodean.reverse.net
 
 ## (NOTE: don't study it) cape.rar, SHUFFLE!文本提取器
