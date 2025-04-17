@@ -2980,17 +2980,18 @@ https://blog.sina.cn/dpool/blog/u/1303459875
 * 不过我也不用这个
 
 ## odbg110.zip  
-* W32Dasm.rar, c32asm.rar, PEiD-0.95-20081103.zip, IDA.7z, odbg200.rar    
+* W32Dasm.rar, c32asm.rar, PEiD-0.95-20081103.zip, IDA.7z, odbg200.rar, ghidra      
 
 ## Dbgview.7z  
-* FileMon.zip, socketsniff.rar, proexp, tcpmon-1.0-bin.rar, ProcessMonitor.rar, ProcessExplorer1203.rar, RegMon      
+* FileMon.zip, socketsniff.rar, proexp, tcpmon-1.0-bin.rar, ProcessMonitor.rar, ProcessExplorer1203.rar, RegMon, smsniff            
 * httpdebug.exe  
-* ScreenToolkit.exe
+* ScreenToolkit.exe, ScreenCapture.exe  
 * Strings.zip  
-* xampp-portcheck.exe
+* xampp-portcheck.exe, cports  
 * http://www.sysinternals.com  
 * https://learn.microsoft.com/zh-cn/sysinternals/  
 * IECacheViewer  
+* depends22_x86  
 
 ## CDimageGUI.zip  
 * 文件制作ISO工具，不过用ultraiso更好？
@@ -2999,3 +3000,6 @@ https://blog.sina.cn/dpool/blog/u/1303459875
 
 ## enigmavb  
 
+## DiskGenius  
+
+## GoldWave  
