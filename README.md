@@ -2886,7 +2886,8 @@ Please buy steam games
 控制面板-时钟和区域-区域-管理-非Unicode程序的语言-更改系统区域设置-日语（日本）-重启
 ```
 * (not tested) Locale Emulator.rar，没试过，可能用ntleas就够了
-* (not tested) GALGAME自动翻译器(附带小工具).rar, NT全域通(NTLEA 0.82, NTLEA 0.86), apploc(语言转换器).msi  
+* (not tested) GALGAME自动翻译器(附带小工具).rar, NT全域通(NTLEA 0.82, NTLEA 0.86), apploc(语言转换器).msi
+AppLoc ???,  AppPatch ???    
 * (not good, not useful) AGTH_setup.rar, AGTH智能设置器（更新在线翻译）, w2kxpcjk2    
 * (not useful, always install failed in Win7 and Win10) apploc.7z, apploc.msi  
 * (not good, not useful) APP_command.7z, APP命令行.bat  
@@ -2895,3 +2896,13 @@ SET __COMPAT_LAYER=#ApplicationLocale
 SET AppLocaleID=0411
 start notepad.exe
 ```
+
+## dtlite  
+
+## vnr, VNR3  
+
+## JBeijing  
+* jBeijingV7.zip  
+
+## 喵翻, AgthStart.exe    
+* Cp2Tran.exe, agth.exe, ntleac.exe, AppLoc.exe, TGT/GTGal.exe, AgthSet.exe  
