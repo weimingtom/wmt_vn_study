@@ -2949,3 +2949,15 @@ start notepad.exe
 * 对gif支持不好
 * 可能对大文件会很卡
 * 需要设置一下，否则可能会出现严重的图片波纹（有时会消除不了）  
+
+## (NOTE: don't study it) s028.zip, cuffs_con.exe, for csx
+```
+2007/04/28
+No.028 CUFFS汎用 メッセージローダー
+```
+* http://www.entis.jp/eri/ ???  
+* EntisGLS ???  
+* (dead?) http://notazsite.hp.infoseek.co.jp/  
+* Galgameの汉化篇（2）  
+https://blog.sina.cn/dpool/blog/s/blog_4db138230100eo4f.html  
+https://blog.sina.cn/dpool/blog/u/1303459875  
