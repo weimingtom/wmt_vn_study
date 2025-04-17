@@ -2961,3 +2961,5 @@ No.028 CUFFS汎用 メッセージローダー
 * Galgameの汉化篇（2）  
 https://blog.sina.cn/dpool/blog/s/blog_4db138230100eo4f.html  
 https://blog.sina.cn/dpool/blog/u/1303459875  
+* notaエロゲ研究室[メッセージローダー]☆様(http://notazsite.hp.infoseek.co.jp/main/soft/index.html)
+* 还有其他很多各种抽文本工具，但太多了，没保留下来（有也找不到了）  
