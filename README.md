@@ -621,6 +621,15 @@ UVE Opensource Project for UVE 2.1
 * Largely changed in ScriptHandler.h and sjis2utf16.cpp  
 
 ## 吉里吉里2, kirikiri2  
+```
+就日文版而言
+和krkrz的情况相似，由本体【krkr.eXe】和KAG3【data】两部分组成，缺一不可
+但和krkrz有点不同，kirikiri2的KAG3是集成在SDK中【kr2_232r2.zip】
+详细参考：
+http://krkrz.github.io
+下载kr2_232r2.zip (吉里吉里2 SDK ダウンロード)
+http://krkrz.github.io/download/kr2_232r2.zip
+```
 * (origin) https://github.com/krkrz/krkr2  
 * (origin, dead) http://kikyou.info/tvp/  
 * (origin, dead) https://sv.kikyou.info/svn/kirikiri2/trunk/  
