@@ -658,6 +658,7 @@ nasm-2.05-win32.zip
 ActivePerl-5.26.msi  
 see https://github.com/Yamilemon/Kirikiri2Compile  
 * kr2_232r2.lzh, kr2_232r2.zip, krkr_trunk(nosrc).zip, Korvet_v1.rar, kr2_228r3.lzh  
+* (not recommended) KKDE has three simple template projects: empty, kag3 and kagexpp  
 
 ## 吉里吉里Z, krkrz, kirikiriz    
 * (new) http://krkrz.github.io  
