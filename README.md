@@ -698,6 +698,8 @@ Plugins.link("menu.dll");
 Plugins.link("KAGParser.dll");
 当然也可能有一个目的是要兼容kr2
 【甚至，krkrdebg.exe和tvpwin32.exe也能运行krkrsdl2/kag3】
+还有一个英文版的：
+https://github.com/a-rabin/kag3-en  
 
 （三）tvpwin32.exe和tvpwin64.exe支持两种文本编码
 -readencoding=UTF-8
