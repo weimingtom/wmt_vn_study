@@ -688,7 +688,7 @@ krkrdebg.exe
 参数：-readencoding=UTF-8 -debug
 以及文字代码改为：UTF-8
 
-（二）存在三种KAG3，而非一种
+（二）存在主要的三种KAG3，而非一种
 https://github.com/krkrz/kag3
 https://github.com/krkrz/kag3_ham
 https://github.com/krkrsdl2/kag3/tree/krkrsdl2
@@ -698,10 +698,16 @@ Plugins.link("menu.dll");
 Plugins.link("KAGParser.dll");
 当然也可能有一个目的是要兼容kr2
 【甚至，krkrdebg.exe和tvpwin32.exe也能运行krkrsdl2/kag3】
-还有一个英文版的：
-https://github.com/a-rabin/kag3-en  
 
-（三）tvpwin32.exe和tvpwin64.exe支持两种文本编码
+（三）其他支持krkrz的KAG3
+还有一个英文版的：
+https://github.com/a-rabin/kag3-en
+还有一个完整KAG3例子，但这个例子需要先解压krkrsdl2/kag3，
+然后把data-demo的文件覆盖进去
+（不是用krkrsdl2/kag3覆盖进去data-demo）：
+https://github.com/krkrsdl2/krkrsdl2-kag3-demo/tree/main/data-demo
+
+（四）tvpwin32.exe和tvpwin64.exe支持两种文本编码
 -readencoding=UTF-8
 -readencoding=Shift-JIS
 ```
