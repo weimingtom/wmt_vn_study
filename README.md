@@ -672,7 +672,7 @@ see https://github.com/Yamilemon/Kirikiri2Compile
 ## 吉里吉里Z, krkrz, kirikiriz    
 ```
 就日文版而言
-和kirikiri2的情况相似，由本体【tvpwin32.exe】和KAG3【data】两部分组成，缺一不可
+和kirikiri2的情况相似，由本体【tvpwin32.exe或tvpwin64.exe】和KAG3【data】两部分组成，缺一不可
 但和kirikiri2有非常复杂的不同，kirikiri2的KAG3是不集成在SDK中【krkrz_20171225r2.7z】
 详细参考：
 http://krkrz.github.io
@@ -681,7 +681,8 @@ https://github.com/krkrz/krkrz/releases/download/1.4.0r2/krkrz_20171225r2.7z
 https://github.com/krkrz/kag3/archive/master.zip
 
 另外还有很多跟kirikiri2不同的问题
-（一）支持调试器，且调试器和本体分离，位于SDK【krkrz_20171225r2.7z】内
+（一）支持调试器（类似于Flash调试版播放器和DbgView/FlashDevelop的关系），
+且调试器和本体分离，位于SDK【krkrz_20171225r2.7z】内
 krkrdebg.exe
 但使用前需要在菜单手动设置：
 参数：-readencoding=UTF-8 -debug
@@ -696,6 +697,7 @@ https://github.com/krkrsdl2/kag3/tree/krkrsdl2
 Plugins.link("menu.dll");
 Plugins.link("KAGParser.dll");
 当然也可能有一个目的是要兼容kr2
+【甚至，krkrdebg.exe和tvpwin32.exe也能运行krkrsdl2/kag3】
 
 （三）tvpwin32.exe和tvpwin64.exe支持两种文本编码
 -readencoding=UTF-8
