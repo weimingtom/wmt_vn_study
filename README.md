@@ -757,9 +757,9 @@ krkrsdl2的作者给了一个示例（基于网页版），用了一个data.xp3�
 可能是因为tjs和某些后缀文件是经过压缩的；tjs使用了
 unicode而非utf8。所以如果要解包，就要走两步：
 需要用一个支持xp3文本解压缩的解包器
-（ExtractData不行，只能用cr）；
-接出来的文本需要用特殊的支持Unicode字符集的阅读器
-（Notepad++也不行，我用的是bcomp）
+（ExtractData不行，只能用crass）；
+解出来的文本需要用特殊的支持Unicode字符集的阅读器
+（Notepad++也不行，我用的是beyondcompare）
 
 **see data_web.xp3**
 
