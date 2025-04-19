@@ -688,10 +688,10 @@ krkrdebg.exe
 参数：-readencoding=UTF-8 -debug
 以及文字代码改为：UTF-8
 
-（二）存在主要的三种KAG3，而非一种
-https://github.com/krkrz/kag3
-https://github.com/krkrz/kag3_ham
-https://github.com/krkrsdl2/kag3/tree/krkrsdl2
+（二）支持krkrz的三种常用KAG3
+(2.1) https://github.com/krkrz/kag3
+(2.2) https://github.com/krkrz/kag3_ham
+(2.3) https://github.com/krkrsdl2/kag3/tree/krkrsdl2
 为什么会有三种？因为kag3_ham是新的，
 而krkrsdl2/kag3需要去掉startup.tjs内的dll（手机无法加载dll）和加入polyfill
 Plugins.link("menu.dll");
@@ -699,19 +699,20 @@ Plugins.link("KAGParser.dll");
 当然也可能有一个目的是要兼容kr2
 【甚至，krkrdebg.exe和tvpwin32.exe也能运行krkrsdl2/kag3】
 
-（三）其他支持krkrz的KAG3
-还有一个英文版的：
+（三）支持krkrz的其他KAG3
+(3.1) 还有一个英文版的：
 https://github.com/a-rabin/kag3-en
-还有一个完整KAG3例子，但这个例子需要先解压krkrsdl2/kag3，
+(3.2) 还有一个完整KAG3例子，但这个例子需要先解压krkrsdl2/kag3，
 然后把data-demo的文件覆盖进去
 （不是用krkrsdl2/kag3覆盖进去data-demo）：
 https://github.com/krkrsdl2/krkrsdl2-kag3-demo/tree/main/data-demo
-Krkr2Compat, 作用不明  
+(3.3) (TODO) Krkr2Compat, 作用不明，未试验    
 https://github.com/krkrz/Krkr2Compat
 
-（四）tvpwin32.exe和tvpwin64.exe支持两种文本编码
+（四）tvpwin32.exe和tvpwin64.exe至少支持两种文本编码（可能还支持两字节unicode，待考）
 -readencoding=UTF-8
 -readencoding=Shift-JIS
+(TODO?) ???-readencoding=Unicode???
 ```
 * (new) http://krkrz.github.io  
 * (new) https://krkrz.github.io/krkr2doc/  
@@ -738,7 +739,7 @@ https://github.com/weimingtom/krkrz110_fork/blob/master/HowToBuild.txt
 * https://github.com/uyjulian/krkrv  
 * (TODO) https://github.com/weimingtom/krkrz110_fork/blob/master/kr2.md    
 * krkrz_20150817.zip, krkrz_20140803.zip    
-* https://github.com/krkrz/Krkr2Compat  
+* (TODO) https://github.com/krkrz/Krkr2Compat  
 
 ## krkrsdl2  
 * (origin) https://github.com/krkrsdl2/krkrsdl2  
@@ -761,6 +762,14 @@ unicode而非utf8。所以如果要解包，就要走两步：
 （Notepad++也不行，我用的是bcomp）
 
 **see data_web.xp3**
+
+那种其实是被编译成字节码的tjs：
+krkrz.github.io/docs/kirikiriz/j/contents/index.html
+（但实际上不一定是编译后的tjs/ks，可能只是编码问题导致只能用bcomp来看）
+
+krkrsdl2的作者给了一个打包工具krkrsdl2/krkrrel-ng，
+我对比过打包出来的结果是连一些非tjs的文件都会乱码，
+例如asd、ks之类，如果说是字节码那很难解释得通
 ```  
 ```
 吉里吉里とKAGの紹介, data same as krkrsdl2_v14_crash_fix.rar, data_web.xp3    
@@ -831,6 +840,15 @@ mkdir build; cd build; cmake -DCMAKE_TOOLCHAIN_FILE=/home/wmt/work_krkrsdl2/andr
 (dead) https://www.bilibili.com/read/cv25481294/  
 * https://github.com/weimingtom/krkrsdl2_fork    
 https://github.com/weimingtom/krkrsdl2-miyoo-a30    
+* https://github.com/krkrsdl2/krkrrel-ng  
+https://github.com/krkrsdl2/krkrrel-ng/releases  
+https://github.com/krkrsdl2/krkrrel-ng/releases/download/latest/krkrrel-win32.zip  
+打包器  
+```
+krkrsdl2的作者给了一个打包工具krkrsdl2/krkrrel-ng，
+我对比过打包出来的结果是连一些非tjs的文件都会乱码，
+例如asd、ks之类，如果说是字节码那很难解释得通
+```
 
 ## kirikiroid2 (for Android and iOS)    
 * (origin) https://github.com/zeas2/Kirikiroid2  
