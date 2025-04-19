@@ -706,6 +706,8 @@ https://github.com/a-rabin/kag3-en
 然后把data-demo的文件覆盖进去
 （不是用krkrsdl2/kag3覆盖进去data-demo）：
 https://github.com/krkrsdl2/krkrsdl2-kag3-demo/tree/main/data-demo
+Krkr2Compat, 作用不明  
+https://github.com/krkrz/Krkr2Compat
 
 （四）tvpwin32.exe和tvpwin64.exe支持两种文本编码
 -readencoding=UTF-8
@@ -736,6 +738,7 @@ https://github.com/weimingtom/krkrz110_fork/blob/master/HowToBuild.txt
 * https://github.com/uyjulian/krkrv  
 * (TODO) https://github.com/weimingtom/krkrz110_fork/blob/master/kr2.md    
 * krkrz_20150817.zip, krkrz_20140803.zip    
+* https://github.com/krkrz/Krkr2Compat  
 
 ## krkrsdl2  
 * (origin) https://github.com/krkrsdl2/krkrsdl2  
