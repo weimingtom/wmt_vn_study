@@ -2994,6 +2994,15 @@ SET AppLocaleID=0411
 start notepad.exe
 ```
 
+## ntlea and araltrans03 and Locale-Emulator    
+* (dead) http://ntlea.codeplex.com  
+https://github.com/zxyacb/ntlea  
+https://github.com/IshYume/ntlea-archive  
+* https://code.google.com/archive/p/araltrans03/  
+* https://xupefei.github.io/Locale-Emulator/  
+https://github.com/xupefei/Locale-Emulator/releases  
+https://github.com/xupefei/Locale-Emulator  
+
 ## dtlite  
 
 ## vnr, VNR3  
