@@ -742,6 +742,8 @@ https://github.com/weimingtom/krkrz110_fork/blob/master/HowToBuild.txt
 * (TODO) https://github.com/weimingtom/krkrz110_fork/blob/master/kr2.md    
 * krkrz_20150817.zip, krkrz_20140803.zip    
 * (TODO) https://github.com/krkrz/Krkr2Compat  
+* 吉里吉里ZのKAG3を吉里吉里SDL2でも動作するように書き換えるメモ    
+https://gist.github.com/xyx0no646/16913d4407cdd4729cb2d5cf189a7095    
 
 ## krkrsdl2  
 * (origin) https://github.com/krkrsdl2/krkrsdl2  
