@@ -853,6 +853,7 @@ krkrsdl2的作者给了一个打包工具krkrsdl2/krkrrel-ng，
 我对比过打包出来的结果是连一些非tjs的文件都会乱码，
 例如asd、ks之类，如果说是字节码那很难解释得通
 ```
+* 
 
 ## kirikiroid2 (for Android and iOS)    
 * (origin) https://github.com/zeas2/Kirikiroid2  
@@ -894,6 +895,32 @@ https://tieba.baidu.com/p/5066851433
 注：最好别知道为什么  
 如果只是自制游戏的话这个问题不用深究原因    
 ```
+* Android NDK: undefined reference to 'stderr'; NDK build Android SDL2 dialog, undefined symbol: stderr
+https://www.cnblogs.com/wanggang123/p/13955010.html  
+https://stackoverflow.com/questions/39322852/android-ndk-undefined-reference-to-stderr  
+```
+rkrz的Android分支dev_multi_platform研究。
+现在我可以用NDK25和CDT编译运行krkrsdl2的源代码（原版是用cmake不是用ndk），
+比较汗流浃背的是，只能用较新的NDK不能用旧的NDK；
+而且如果NDK的安卓API目标在23或以上，
+SDL2会运行期报错提示undefined symbol: stderr，
+所以只能修改Application.mk，把APP_PLATFORM :=
+改成android-21（22可能也可以），但不能改成23或以上。
+这俩问题以后想办法解决
+```
+```
+#include <jni.h>
+#include <stdio.h>
+#include <ASICamera2.h>
+
+#undef stderr
+FILE *stderr = &__sF[2];
+
+-DCMAKE_SYSTEM_VERSION=21
+
+arguments "-DANDROID_ALLOW_UNDEFINED_SYMBOLS=ON"
+```
+ 
 
 ## kirikiri3-legacy  
 * https://github.com/w-dee/kirikiri3-legacy  
