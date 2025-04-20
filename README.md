@@ -853,7 +853,8 @@ krkrsdl2的作者给了一个打包工具krkrsdl2/krkrrel-ng，
 我对比过打包出来的结果是连一些非tjs的文件都会乱码，
 例如asd、ks之类，如果说是字节码那很难解释得通
 ```
-* Android NDK: undefined reference to 'stderr'; NDK build Android SDL2 dialog, undefined symbol: stderr
+* Android NDK: undefined reference to 'stderr'; NDK build Android SDL2 dialog, undefined symbol: stderr  
+krkrsdl2_ndk_v4_run_success.7z  
 https://www.cnblogs.com/wanggang123/p/13955010.html  
 https://stackoverflow.com/questions/39322852/android-ndk-undefined-reference-to-stderr  
 ```
