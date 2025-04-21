@@ -963,6 +963,22 @@ https://tieba.baidu.com/p/5066851433
 注：最好别知道为什么  
 如果只是自制游戏的话这个问题不用深究原因    
 ```
+* UpdateDrawBuffer and TVPPostWindowUpdate  
+(breakpoint here UpdateDrawBuffer) src\core\environ\cocos2d\MainScene.cpp  
+src\core\environ\win32\TVPWindow.h  
+src\core\visual\win32\BasicDrawDevice.cpp    
+(breakpoint here TVPPostWindowUpdate) src\core\base\EventIntf.cpp  
+src\core\base\EventIntf.h  
+src\core\visual\WindowIntf.cpp  
+```
+这几天研究krkrz（吉里吉里Z，kirikiriz）的dev_multi_platform
+分支（Android版），但没研究出来。
+不过了解到这些知识：（1）可以用Debug.message输出调试信息
+（2）可以用Window类的update（搜索update();）刷新屏幕
+（可能Layer类的update()也可以），对应C++的代码是TVPPostWindowUpdate
+异步发送消息刷新窗口（3）实际上kirikiroid2的画面刷新很简单，
+就是放到纹理上，具体的位置是UpdateDrawBuffer
+```
 
 ## kirikiri3-legacy  
 * https://github.com/w-dee/kirikiri3-legacy  
