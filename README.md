@@ -745,6 +745,25 @@ https://github.com/weimingtom/krkrz110_fork/blob/master/HowToBuild.txt
 * 吉里吉里ZのKAG3を吉里吉里SDL2でも動作するように書き換えるメモ    
 https://gist.github.com/xyx0no646/16913d4407cdd4729cb2d5cf189a7095    
 
+## krkrz dev_multi_platform branch  
+* (origin) https://github.com/krkrz/krkrz/tree/dev_multi_platform
+```
+first 
+https://github.com/krkrz/krkrz/tree/58b31ce2247e712294c60d3440274196411a1712
+
+before android studio file, only android.mk
+https://github.com/krkrz/krkrz/tree/9f1f953449b3efe6cf08006bc5548635d9419733
+
+android studio file
+https://github.com/krkrz/krkrz/tree/d57f34c8c8eebca0d2e05a92eec32ab4e982ef94
+
+???
+https://github.com/krkrz/krkrz/tree/da7c2fe49e9f0c5a7ce01445981e00aadd87c868
+```
+* https://github.com/krkrz/krkrz/tree/9f1f953449b3efe6cf08006bc5548635d9419733
+* (origin, but it's too old to study, use 9f1f953 instead) https://github.com/jin1016/krkrz_android_research  
+* krkrz_dev_multi_platform_v8_can_call_tvppostupdate.7z
+
 ## krkrsdl2  
 * (origin) https://github.com/krkrsdl2/krkrsdl2  
 * (origin) https://github.com/uyjulian/krkrsdl2  
