@@ -763,6 +763,30 @@ https://github.com/krkrz/krkrz/tree/da7c2fe49e9f0c5a7ce01445981e00aadd87c868
 * https://github.com/krkrz/krkrz/tree/9f1f953449b3efe6cf08006bc5548635d9419733
 * (origin, but it's too old to study, use 9f1f953 instead) https://github.com/jin1016/krkrz_android_research  
 * krkrz_dev_multi_platform_v8_can_call_tvppostupdate.7z
+* krkrz-9f1f953_v3_20250417_final_giveup.7z
+* krkrz_android_research-master_v2_20250416_can_link.7z
+* TVPPostWindowUpdate, base\EventIntf.cpp
+* tTJSNI_Window::NotifyLayerImageChange, visual\android\WindowImpl.cpp  
+ifdef WIN32, why no Android ? 
+DrawDevice->NotifyLayerImageChange(manager); but DrawDevice is NullDrawDevice, so no effect  
+RequestUpdate(); //FIXME:added, call to TVPPostWindowUpdate, but no effect  
+* void tTJSNI_BaseLayer::Update(bool tempupdate), visual\LayerIntf.cpp
+if use this.update(); in system\HistoryLayer.tjs:function store(ch), it will call here  
+* void tTVPLayerManager::NotifyWindowInvalidation(), visual\LayerManager.cpp
+* void TJS_INTF_METHOD tTVPLayerTreeOwner::NotifyLayerImageChange(class iTVPLayerManager* manager) {, visual\LayerTreeOwnerImpl.cpp
+* void TJS_INTF_METHOD NotifyLayerImageChange(iTVPLayerManager * manager) override {, visual\NullDrawDevice.h  
+see TVPCreateDefaultDrawDevice, visual\DrawDevice.cpp, but why Android return tTJSNC_NullDrawDevice ?  
+```
+tTJSNativeClass* TVPCreateDefaultDrawDevice() {
+    TVPInitDrawDeviceOptions();
+#ifdef WIN32
+    if( TVPEnableDrawDevice )
+        return new tTJSNC_BasicDrawDevice();
+    else
+#endif
+        return new tTJSNC_NullDrawDevice();
+}
+```
 
 ## krkrsdl2  
 * (origin) https://github.com/krkrsdl2/krkrsdl2  
