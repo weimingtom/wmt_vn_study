@@ -1728,7 +1728,9 @@ see https://www.retouch.info
 * (origin) http://cs2.suki.jp/manual/  
 * cs2_full_v301.zip  
 * cs2_core_v200.zip  
-* https://github.com/2439905184/Galgame-Engine-Collect, system.rar  
+* (中文版 ?) https://github.com/2439905184/Galgame-Engine-Collect, system.rar  
+* [游戏引擎中文版]CatSystem2最新中文支持版  
+https://blog.51cto.com/u_696257/6172012  
 
 ## ADV+++, adv_ppp    
 * (origin) https://www.yox-project.com/jp/adv_ppp/download.htm  
