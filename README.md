@@ -1731,7 +1731,8 @@ see https://www.retouch.info
 * (中文版 ?) https://github.com/2439905184/Galgame-Engine-Collect, system.rar  
 * [游戏引擎中文版]CatSystem2最新中文支持版  
 https://blog.51cto.com/u_696257/6172012  
-* (Not sure if same as upper CatSystem2最新中文支持版)  
+(Not sure if same as upper CatSystem2最新中文支持版, but the author of 51CTO下载-cnrelease.rar is luozhuang)  
+cs2-open Ver 1.0, cs2.exe version 1, 0, 1, 10  
 51CTO下载-cnrelease.part1.rar  
 51CTO下载-cnrelease.part2.rar  
 51CTO下载-cnrelease.part3.rar  
