@@ -112,7 +112,7 @@ http://www.k-collect.net/pe/index.htm
 ```
 * nsaout源码  
 工具.rar  
-* みずいろ, see NScripterDevV1.rar\er\Projects  
+* みずいろ, see NScripterDevV1.rar\er\Projects, see mizuiro.7z    
 * nscripter_antlr.rar  
 
 ## CCScripter, nscripter的Mac OS X实现  
