@@ -1671,14 +1671,15 @@ maid.rar
 * https://github.com/weimingtom/myosotis  
 * https://github.com/weimingtom/myosotis2  
 
-## MyChar (for ActionScript3)    
-* (origin) キャラクターなんとか機  
-http://khmix.sakura.ne.jp/download.shtml
-K.Hみっくす　ふぁーすと えでぃしょん  
-https://khmix.sakura.ne.jp  
-* (origin) https://osdn.jp/projects/charactermanaj/  
-* https://github.com/weimingtom/MyChar  
-* https://github.com/weimingtom/charj  
+## キャラクターなんとか機   
+* (origin) キャラクターなんとか機   
+http://khmix.sakura.ne.jp/download.shtml  
+K.Hみっくす　ふぁーすと えでぃしょん    
+https://khmix.sakura.ne.jp    
+* (origin) https://osdn.jp/projects/charactermanaj/    
+* MyChar (for ActionScript3)    
+https://github.com/weimingtom/MyChar  
+https://github.com/weimingtom/charj  
 * LUM立绘纸娃娃  
 
 ## lanovee, らのべえ  
