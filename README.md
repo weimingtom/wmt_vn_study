@@ -555,6 +555,7 @@ git submodule --init --progress，因为编译这个代码实际上真的不需�
 sudo snap install retroarch，但需要手动用cp命令行把
 .info和.so两个文件都复制到cores目录
 （目录位置需要在retroarch setting中查看）
+如果漏了.info，需要删除cores目录下的.cache文件然后重启retroarch
 ``` 
 
 ## katane, some sources and patches (see the .h file) about onscripter and etc     
