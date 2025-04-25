@@ -550,6 +550,11 @@ no need to add --recursive, because it doesn't use other libraries, but ttf and 
 我最开始试过用git clone --recursive，虽然可行，但非常慢，有个方法是按需要执行
 git submodule --init --progress，因为编译这个代码实际上真的不需要导出那么多子库
 （例如SDL_image其实是用了stb），所以除了SDL_ttf比较例外，其他都不需要递归导出子库
+
+如何测试运行编译出来的核心：
+sudo snap install retroarch，但需要手动用cp命令行把
+.info和.so两个文件都复制到cores目录
+（目录位置需要在retroarch setting中查看）
 ``` 
 
 ## katane, some sources and patches (see the .h file) about onscripter and etc     
