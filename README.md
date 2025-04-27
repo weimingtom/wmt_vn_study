@@ -757,7 +757,7 @@ https://github.com/weimingtom/krkrz110_fork/blob/master/HowToBuild.txt
 * (TODO) https://github.com/krkrz/Krkr2Compat  
 * 吉里吉里ZのKAG3を吉里吉里SDL2でも動作するように書き換えるメモ    
 https://gist.github.com/xyx0no646/16913d4407cdd4729cb2d5cf189a7095    
-* krdevui.dll, see 51CTO下载-kirikiri2.zip, besides krkrdebg.exe, but has been removed.      
+* krdevui.dll, see 51CTO下载-kirikiri2.zip, was beside krkrdebg.exe, but had been removed.      
 https://github.com/krkrz/krdevui  
 krkrdebg.exe, debugger, see krkrz_20171225r2.7z (and other old versions krkrz_201*****.7z)     
 https://github.com/krkrz/debugger  
