@@ -683,6 +683,9 @@ ActivePerl-5.26.msi
 see https://github.com/Yamilemon/Kirikiri2Compile  
 * kr2_232r2.lzh, kr2_232r2.zip, krkr_trunk(nosrc).zip, Korvet_v1.rar, kr2_228r3.lzh  
 * (not recommended) KKDE has three simple template projects: empty, kag3 and kagexpp  
+* https://kimoritama.github.io/krkr2doc-cn/  
+https://github.com/krkr-chs/krkr2doc  
+https://github.com/KimoriTama/krkr2doc-cn  
 
 ## 吉里吉里Z, krkrz, kirikiriz    
 ```
@@ -767,7 +770,6 @@ https://github.com/krkrz/krkrz_dev/tree/master/src/tools/win32
 see https://github.com/krkrz/krkrz/releases/download/1.4.0r2/krkrz_20171225r2.7z  
 see https://github.com/krkrz/krkr2/tree/master/kirikiri2/trunk/kirikiri2/src/tools/win32/debugger  
 see https://github.com/krkrz/krkr2/tree/master/kirikiri2/trunk/kirikiri2/bin/win32/tools/debugger  
-* https://github.com/krkr-chs/krkr2doc  
 
 ## krkrz dev_multi_platform branch  
 * (origin) https://github.com/krkrz/krkrz/tree/dev_multi_platform
