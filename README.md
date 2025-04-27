@@ -757,12 +757,16 @@ https://github.com/weimingtom/krkrz110_fork/blob/master/HowToBuild.txt
 * (TODO) https://github.com/krkrz/Krkr2Compat  
 * 吉里吉里ZのKAG3を吉里吉里SDL2でも動作するように書き換えるメモ    
 https://gist.github.com/xyx0no646/16913d4407cdd4729cb2d5cf189a7095    
-* krdevui.dll, see 51CTO下载-kirikiri2.zip, was beside krkrdebg.exe, but had been removed.      
+* krdevui.dll, see 51CTO下载-kirikiri2.zip, was beside krkrdebg.exe, but had been removed in krkrz.      
 https://github.com/krkrz/krdevui  
-krkrdebg.exe, debugger, see krkrz_20171225r2.7z (and other old versions krkrz_201*****.7z)     
+see https://github.com/krkrz/krkr2/tree/master/kirikiri2/trunk/kirikiri2/src/tools/win32/krdevui  
+see https://github.com/krkrz/krkr2/tree/master/kirikiri2/trunk/kirikiri2/bin/win32/tools  
+* krkrdebg.exe, debugger, see krkrz_20171225r2.7z (and other old versions krkrz_201*****.7z)     
 https://github.com/krkrz/debugger  
 https://github.com/krkrz/krkrz_dev/tree/master/src/tools/win32   
 see https://github.com/krkrz/krkrz/releases/download/1.4.0r2/krkrz_20171225r2.7z  
+see https://github.com/krkrz/krkr2/tree/master/kirikiri2/trunk/kirikiri2/src/tools/win32/debugger  
+see https://github.com/krkrz/krkr2/tree/master/kirikiri2/trunk/kirikiri2/bin/win32/tools/debugger  
 * https://github.com/krkr-chs/krkr2doc  
 
 ## krkrz dev_multi_platform branch  
