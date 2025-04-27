@@ -686,6 +686,8 @@ see https://github.com/Yamilemon/Kirikiri2Compile
 * https://kimoritama.github.io/krkr2doc-cn/  
 https://github.com/krkr-chs/krkr2doc  
 https://github.com/KimoriTama/krkr2doc-cn  
+https://kimoritama.github.io/krkr2doc-cn/kr2doc/index.html  
+https://kimoritama.github.io/krkr2doc-cn/kag3doc/contents/index.html  
 
 ## 吉里吉里Z, krkrz, kirikiriz    
 ```
