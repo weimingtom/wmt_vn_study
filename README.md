@@ -1016,11 +1016,10 @@ src\core\visual\WindowIntf.cpp
 https://gitee.com/weimingtom2000/kas_fork  
 kas4pc_044.zip  
 kas_044.zip  
-* android project, see below    
-* search baidupan, kas4pc_044.zip  
+android project, see and search baidupan, kas4pc_044.zip  
 * AVG-Android-Project.rar  
-可能比kas_031.zip更旧的安卓版，带有KASVariable类    
-https://download.csdn.net/download/cping1982/3516651  
+出处不明, 可能比kas_031.zip更旧的安卓版，带有KASVariable类    
+https://download.csdn.net/download/cping1982/3516651   
 
 ## almight, html5 (like kirikiri, closed source)       
 * (origin) https://almight.jp  
