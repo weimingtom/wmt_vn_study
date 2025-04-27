@@ -654,7 +654,14 @@ from https://archive.codeplex.com/?p=tvpcn
 * (English kag3 doc) http://kirikirikag.sourceforge.net/contents/index.html  
 * (2014-11-19 to 2017-03-17, 20170507 archive, svn) kirikiri2.7z  
 * (2017-09-01, svn) kirikiri_svn.7z  
-* (2012-11-09, may be svn) 51CTO下载-kirikiri2.zip  
+* (2012-11-09, may be svn) 51CTO下载-kirikiri2.zip
+```
+it contains some sources:  
+kirikiri2\bin\win32\d8.exe  
+kirikiri2\src\plugins\win32\KAGParserEx    
+kirikiri2\src\tools\win32\krdevui    
+kirikiri2\src\tools\win32\debugger     
+```
 * (20080908, 2.30.2.416) kr2_230r2.lzh  
 * 安定版 ダウンロード, 吉里吉里2 SDK version 2.30 stable rev.2 / KAG 3 3.30 stable rev.2   
 kr2_230r2.lzh, Kikiriki.rar, kirikiri_inside.lzh, krkrlogo.lzh, translib2.lzh, wuvorbisfile20041005.lzh  
