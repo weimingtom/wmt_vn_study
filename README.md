@@ -376,7 +376,7 @@ archinstall profile minimal
 如果不用sudo运行，则只能用Alt+F2切换到其他tty，然后执行
 killall onscripter退出程序
 ```
-* Fedora 41, KDE  
+* Fedora 41, KDE plasma (but I recommend to use Xfce)    
 sudo yum install ftp make gcc g++  
 sudo yum install SDL2-devel SDL2_image-devel SDL2_mixer-devel SDL2_ttf-devel   
 sudo yum install lua-devel libogg-devel libvorbis-devel  
