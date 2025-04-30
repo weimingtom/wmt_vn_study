@@ -387,7 +387,31 @@ fedora 41的KDE环境编译运行onscripter-jh的效果（关3D），virtualbox�
 
 标题中文没乱字了
 ```
-
+* Fedora desktop evironments display onscripter-jh by SDL2    
+SDL2 displays onscripter-jh good: XFCE, LXDE, Cinnamon, MATE, budgie, i3wm  
+Not recommended: Sugar, basic (openbox)    
+```
+xfce: SDL2显示没有bug，不错，也比较轻量级 ​​​
+LXDE: 这个桌面环境的SDL2没有显示问题，而且比较轻量级，和xfce一样的不错 ​​​
+Cinnamon: 这个SDL2的显示没问题，比较喜欢，但可能稍微不是很轻量级 ​​​
+MATE: 这个SDL2的显示也没问题，比较喜欢，可能不是很轻量级 ​​​
+Sugar: SDL2没显示问题，可以按F全屏，除非缩放桌面才会有显示残留。不推荐用这个桌面环境，因为这是给儿童用的。鼠标箭头可能会看不到（可能要开3D） ​​​
+budgie: 感觉SDL2显示似乎没太大问题，但右键菜单有时候会只显示一部分 ​​​
+基本桌面环境——实际是openbox的X11桌面环境: SDL2没有显示问题。桌面没有任务栏，所以只能通过桌面右键打开开始菜单（从里面可以打开终端）。最好不要放大桌面，可能会导致鼠标箭头显示不出来 ​​​
+i3wm: SDL2没有显示问题，不过这个桌面环境比较难用，需要Alt+D打开顶部的命令输入，用Alt+Enter打开终端 ​​​
+```
+SDL2 displays onscripter-jh bad: KDE plasma, KDE plasma mobile, phosh, LXQt, cosmic, workstation (GNOME), miracle-wm, minimal (framebuffer)    
+```
+KDE: （关3D），virtualbox不能开3d，否则SDL2显示会有问题，闪烁。如果关了3d，问题会少一些，但显示还是会有一点问题——不过fedora也很少用，无所谓了 ​​​
+KDE plasma mobile: 如果不开3D的话SDL2刷新区域有bug（图1是非全屏，图2是按F全屏），如果开3D的话整个屏幕会闪烁。这个桌面环境非常类似于安卓，甚至关机按钮都是在右上角向下拖动滑动的任务栏开关里面，底部中间按钮可以打开软件列表 ​​​
+phosh: 感觉SDL2有一些显示问题，可能会有残影，右键菜单的覆盖层也会变白，但不闪烁 ​​​
+LXQt: 有显示问题，需要开3D，否则鼠标箭头显示不出来；SDL2的刷新区域有bug，右键菜单也有显示问题 ​​​
+cosmic: 必须开3D否则进入不了桌面。SDL2有显示区域bug，会闪烁屏幕 ​​​
+开发和创意工作站（和workstation一样效果；应该是GNOME桌面环境加上一些开发工具）: 有显示bug，但不闪烁，右键菜单层会变白。放大桌面可能会有输入bug ​​​
+miracle-wm: 整个窗口都会闪烁，SDL2的刷新区域有bug。有点像ubuntu，左边是任务栏，不过窗口是平铺的（我不知道怎么把SDL2的窗口悬浮在最上面，实际其实应该是平铺到右边） ​​​  
+最小模式安装: 使用framebuffer显示，SDL2有刷新区域bug（字体闪烁但屏幕不闪烁），可以按F全屏，按Ctrl+C退出，需要sudo运行才能鼠标键盘操作 ​​​
+```
+* (TODO) Fedora dnf  
 
 ## john-he onscripter Chinese version, for Windows / PSP / Pocket PC  
 * (dead) http://john-he.ys168.com/?jdfwkey=k9rlz
