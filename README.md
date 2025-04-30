@@ -379,7 +379,11 @@ killall onscripter退出程序
 * Fedora 41, KDE  
 sudo yum install ftp make gcc g++  
 sudo yum install SDL2-devel SDL2_image-devel SDL2_mixer-devel SDL2_ttf-devel   
-sudo yum install lua-devel libogg-devel libvorbis-devel   
+sudo yum install lua-devel libogg-devel libvorbis-devel  
+or   
+sudo dnf install ftp make gcc g++  
+sudo dnf install SDL2-devel SDL2_image-devel SDL2_mixer-devel SDL2_ttf-devel   
+sudo dnf install lua-devel libogg-devel libvorbis-devel  
 ```
 fedora 41的KDE环境编译运行onscripter-jh的效果（关3D），virtualbox不能开3d，
 否则SDL2显示会有问题，闪烁。如果关了3d，问题会少一些，但显示还是会有一点问题
@@ -411,7 +415,6 @@ cosmic: 必须开3D否则进入不了桌面。SDL2有显示区域bug，会闪烁
 miracle-wm: 整个窗口都会闪烁，SDL2的刷新区域有bug。有点像ubuntu，左边是任务栏，不过窗口是平铺的（我不知道怎么把SDL2的窗口悬浮在最上面，实际其实应该是平铺到右边） ​​​  
 最小模式安装: 使用framebuffer显示，SDL2有刷新区域bug（字体闪烁但屏幕不闪烁），可以按F全屏，按Ctrl+C退出，需要sudo运行才能鼠标键盘操作 ​​​
 ```
-* (TODO) Fedora dnf  
 
 ## john-he onscripter Chinese version, for Windows / PSP / Pocket PC  
 * (dead) http://john-he.ys168.com/?jdfwkey=k9rlz
