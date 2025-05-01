@@ -2,6 +2,7 @@
 My visual novel game engine study projects (or something about...).    
 I want to find the similarity among too many visual novel engines (see vndb, more than 400),  
 like how to transform scripts into binary to protect the game.  
+Another purpose is to make some visual novel or other types of game engine template projects.    
 DO NOT waste time to unpack them, there's no sense.  
 ```
 昨夜雨疏风骤，浓睡不消残酒。试问卷帘人，却道海棠依旧。知否，知否？应是绿肥红瘦。  
