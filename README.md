@@ -1239,6 +1239,44 @@ work_rlvm\eglaysher-rlvm-b88bfe0\src\systems\base\platform.cc
 SYSCOM.
 控制右键菜单，如果改错了就会整个右键菜单宽度变得很短
 ```
+* RLVM  
+```
+在ubuntu14上编译运行rlvm 0.14的效果（steam非hd版的英语和日本语两个版本），
+我只能说编译这个项目要看脸，rlvm最新版就没办法在ubuntu14上编译，
+包括PortMaster版的rlvm的参考仓库也无法在ubuntu14上编译成功。
+我暂时只考虑旧版本（反正都能用）。我没想通字体是怎么回事，
+英文和日文都有不同程度的问题，但英文会严重一些；还有我想不明白为什么没指定字体文件也能显示日文，
+只能说作者也太厉害了（也可能是通过其他手段来加载日文字体）
+==
+我大概猜到为什么rlvm可以正常显示到日文字体，它应该是穷举法，
+在src/utilities/find_font_file.cc中有两个数组western_platform_fonts和
+ja_platform_fonts就是用来推测gothic字体路径位置的。其实xsystem35也有类似的做法，
+不过xsystem35的默认日文字体路径在ubuntu上缺失
+==
+默认似乎加载msgothic.ttc，待考（搜索代码）
+==
+(IMP) rlvm remove boost progress:
+work_rlvm_v7.tar.gz
+打算长期改rlvm的代码，把里面的boost代码全部清除掉（还有一些可以清除掉的库）——
+不过这些boost代码太多了，我暂时只改了十分之一都不到，慢慢改，反正我也不急于改好，
+我可能有时间才做（干别的），准备放到gitee上慢慢改
+==
+rlvm的字体问题其实有两个，一个是不知道为何PortMaster里面（可能非开源）的rlvm字体是缺像素的，
+另一个是在PC版上，英文的间距似乎是不正确的，对于字宽不对齐（字宽变长）的字体会把字母重叠挤在一起
+==
+在ubuntu14上编译运行rlvm 0.14的效果（steam非hd版的英语和日本语两个版本），我只能说编译这个项目要看脸，
+rlvm最新版就没办法在ubuntu14上编译，包括PortMaster版的rlvm的参考仓库也无法在ubuntu14上编译成功。
+我暂时只考虑旧版本（反正都能用）。我没想通字体是怎么回事，英文和日文都有不同程度的问题，但英文会严重一些；
+还有我想不明白为什么没指定字体文件也能显示日文，只能说作者也太厉害了（也可能是通过其他手段来加载日文字体）
+==
+```
+
+## (IMP) rlvm portmaster version    
+* https://github.com/christianhaitian/PortMaster/blob/main/Rlvm.zip  
+* https://github.com/christianhaitian/PortMaster/blob/main/Moonlight.zip  
+* https://github.com/christianhaitian/PortMaster/blob/main/markdown/rlvm.md  
+* https://github.com/kloptops/rlvm  
+* search baidupan, kloptops_rlvm-master.zip, christianhaitian_PortMaster-main_min_rlvm_moonlight.7z  
 
 ## waffle, わっふる, for powerpc (for very old powerpc mac osx os)   
 * This code use CodeWarrior6 to build, too old osx to build (See also kurokoge, くろこげ, kurokoge use xcode to build)    
@@ -2930,36 +2968,6 @@ NeXAS是移植的最高境界。
 通常的移植都是用PSP的自制AVG引擎移植的，例如AMP
 ons 这个是用官方引擎移植的
 
-RLVM
-在ubuntu14上编译运行rlvm 0.14的效果（steam非hd版的英语和日本语两个版本），
-我只能说编译这个项目要看脸，rlvm最新版就没办法在ubuntu14上编译，
-包括PortMaster版的rlvm的参考仓库也无法在ubuntu14上编译成功。
-我暂时只考虑旧版本（反正都能用）。我没想通字体是怎么回事，
-英文和日文都有不同程度的问题，但英文会严重一些；还有我想不明白为什么没指定字体文件也能显示日文，
-只能说作者也太厉害了（也可能是通过其他手段来加载日文字体）
-==
-我大概猜到为什么rlvm可以正常显示到日文字体，它应该是穷举法，
-在src/utilities/find_font_file.cc中有两个数组western_platform_fonts和
-ja_platform_fonts就是用来推测gothic字体路径位置的。其实xsystem35也有类似的做法，
-不过xsystem35的默认日文字体路径在ubuntu上缺失
-==
-默认似乎加载msgothic.ttc，待考（搜索代码）
-==
-(IMP) rlvm remove boost progress:
-work_rlvm_v7.tar.gz
-打算长期改rlvm的代码，把里面的boost代码全部清除掉（还有一些可以清除掉的库）——
-不过这些boost代码太多了，我暂时只改了十分之一都不到，慢慢改，反正我也不急于改好，
-我可能有时间才做（干别的），准备放到gitee上慢慢改
-==
-rlvm的字体问题其实有两个，一个是不知道为何PortMaster里面（可能非开源）的rlvm字体是缺像素的，
-另一个是在PC版上，英文的间距似乎是不正确的，对于字宽不对齐（字宽变长）的字体会把字母重叠挤在一起
-==
-在ubuntu14上编译运行rlvm 0.14的效果（steam非hd版的英语和日本语两个版本），我只能说编译这个项目要看脸，
-rlvm最新版就没办法在ubuntu14上编译，包括PortMaster版的rlvm的参考仓库也无法在ubuntu14上编译成功。
-我暂时只考虑旧版本（反正都能用）。我没想通字体是怎么回事，英文和日文都有不同程度的问题，但英文会严重一些；
-还有我想不明白为什么没指定字体文件也能显示日文，只能说作者也太厉害了（也可能是通过其他手段来加载日文字体）
-==
-
 使用脚本开发冒险游戏 原始版本.rar
 https://github.com/weimingtom/marika_java
 アドベンチャーゲームプログラミング
@@ -3017,13 +3025,6 @@ http://kur-mar-ter.product.co.jp/
 
 
 ```
-
-## (IMP) rlvm portmaster  
-* https://github.com/christianhaitian/PortMaster/blob/main/Rlvm.zip  
-* https://github.com/christianhaitian/PortMaster/blob/main/Moonlight.zip  
-* https://github.com/christianhaitian/PortMaster/blob/main/markdown/rlvm.md  
-* https://github.com/kloptops/rlvm  
-* search baidupan, kloptops_rlvm-master.zip, christianhaitian_PortMaster-main_min_rlvm_moonlight.7z  
 
 ## mkxp
 * https://github.com/Ancurio/mkxp
