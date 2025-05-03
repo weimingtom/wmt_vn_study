@@ -1271,6 +1271,13 @@ rlvm最新版就没办法在ubuntu14上编译，包括PortMaster版的rlvm的参
 还有我想不明白为什么没指定字体文件也能显示日文，只能说作者也太厉害了（也可能是通过其他手段来加载日文字体）
 ==
 ```
+* AIR_SE.zip, planetarian.zip, planetarian_jp.zip, GAMEDATA.zip, msgothic.ttc  
+```
+尝试用xubuntu 20.04编译rlvm成功（之前用的是32位），用makefile编译，
+运行AIR_SE，planetarian，planetarian_jp和GAMEDATA（reallivemax示例工程）的效果如下，
+似乎都没啥大的问题，还需要继续研究下去，因为现在暂时还不能交叉编译和去除gtk+和boost的库，
+还不够简单，还未支持sdl2。需要复制msgothic.ttc文件到游戏目录
+```
 
 ## (IMP) rlvm portmaster version    
 * https://github.com/christianhaitian/PortMaster/blob/main/Rlvm.zip  
