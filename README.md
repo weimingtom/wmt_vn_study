@@ -416,6 +416,19 @@ cosmic: 必须开3D否则进入不了桌面。SDL2有显示区域bug，会闪烁
 miracle-wm: 整个窗口都会闪烁，SDL2的刷新区域有bug。有点像ubuntu，左边是任务栏，不过窗口是平铺的（我不知道怎么把SDL2的窗口悬浮在最上面，实际其实应该是平铺到右边） ​​​  
 最小模式安装: 使用framebuffer显示，SDL2有刷新区域bug（字体闪烁但屏幕不闪烁），可以按F全屏，按Ctrl+C退出，需要sudo运行才能鼠标键盘操作 ​​​
 ```
+* netbsd  
+su  
+pkgin install nano lua54 fontconfig MesaLib  
+pkgin install SDL2 SDL2_ttf SDL2_image SDL2_mixer  
+```
+用netbsd 10.1编译运行onscripter-jh的效果。不错，没有SDL2区域刷新问题，也不会闪烁，
+但必须用VMWare运行（用VirtualBox没办法安装pkgin，未解决），需要安装pkgin install MesaLib
+（提供libGL.so动态库）。需要修改Makefile，把链接处的LD换成CC（避免多出一个-o），
+还要关闭simd开关。之前安装netbsd无法联网的问题也解决了，方法是在装完系统之后的config菜单
+要全部都执行一遍，不能跳过，否则配置网络和安装pkgin和pkgsrc的步骤会跳过
+（还要添加非root用户等操作），这些config操作是在安装OS后手动执行，
+正好和archinstall的思路是反过来的
+```
 
 ## john-he onscripter Chinese version, for Windows / PSP / Pocket PC  
 * (dead) http://john-he.ys168.com/?jdfwkey=k9rlz
