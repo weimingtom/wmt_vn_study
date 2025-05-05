@@ -1278,6 +1278,7 @@ rlvm最新版就没办法在ubuntu14上编译，包括PortMaster版的rlvm的参
 似乎都没啥大的问题，还需要继续研究下去，因为现在暂时还不能交叉编译和去除gtk+和boost的库，
 还不够简单，还未支持sdl2。需要复制msgothic.ttc文件到游戏目录
 ```
+* (TODO) https://github.com/reivyr/openbsd-rlvm  
 
 ## (IMP) rlvm portmaster version    
 * https://github.com/christianhaitian/PortMaster/blob/main/Rlvm.zip  
