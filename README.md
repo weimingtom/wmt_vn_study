@@ -447,6 +447,28 @@ NetBSD只能用VMWare来联网，用virtualbox好像连不到网（也可能我�
 而默认的cc是clang而不是gcc，但可以pkg install gcc。
 注意安装FreeBSD最好要完成OS安装后的config配置步骤
 ```
+* openbsd  
+(under root user; pkg_add sometimes slow)  
+(startx need wait a minute and Ctrl+C)  
+pkg_add sdl2 sdl2-image sdl2-ttf sdl2-mixer  
+pkg_add unzip nano g++ pkglocatedb  
+(gcc choose gcc-8; under openbsd gcc and g++ are egcc and eg++)  
+(need to modify Makefile.Linux to change gcc and g++ to egcc and eg++)  
+(unzip choose 1)  
+(pkglocate or pkg_locate)  
+(need to modify ONScripter_event.cpp and ONScripter_sound.cpp, change some id variables assign NULL to assign 0)  
+(need to modify Makefile.onscripter to remove the last dollar < and change the last LD to CC)    
+(not GNUmake, not support dollar <)  
+```
+用vmware和openbsd 7.7编译运行onscripter-jh的效果（SDL显示正常，没有闪烁）。
+只能用vmware可能是因为vbox的IDE磁盘会出问题导致安装OS失败（不确定）。
+它用的包管理器是pkg_add（freebsd是pkg，而netbsd是pkgin），
+openbsd安装也可以选择装x11，但安装步骤更简单（纯CLI，但磁盘分区比较方便），
+pkg_add可能不够快。安装g++和gcc会变成eg++和egcc，语法比较严格，
+需要修改源代码把NULL换成0，Makefile也不支持GNUMake所以也要改一些地方。
+openbsd是netbsd的分支，所以x11也比较好看，但startx很慢，
+需要等一阵然后按Ctrl+C才能进入
+```
 
 ## john-he onscripter Chinese version, for Windows / PSP / Pocket PC  
 * (dead) http://john-he.ys168.com/?jdfwkey=k9rlz
