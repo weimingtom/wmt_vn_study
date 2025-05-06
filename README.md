@@ -429,10 +429,10 @@ pkgin install SDL2 SDL2_ttf SDL2_image SDL2_mixer
 （还要添加非root用户等操作），这些config操作是在安装OS后手动执行，
 正好和archinstall的思路是反过来的
 ```
-* freebsd
-(for root user, cc is clang not gcc)  
+* freebsd  
+(for root user, cc is clang not gcc)    
 (for root user, type pkg and enter to install pkg)  
-(need to modify Makefile.onscripter to change the last $(LD) to $(CC))  
+(need to modify Makefile.onscripter to change the last (LD) to (CC))  
 pkg install SDL2 SDL2_image SDL2_ttf SDL2_mixer  
 pkg install nano fontconfig lua54 gcc  
 pkg install xorg  
