@@ -429,6 +429,24 @@ pkgin install SDL2 SDL2_ttf SDL2_image SDL2_mixer
 （还要添加非root用户等操作），这些config操作是在安装OS后手动执行，
 正好和archinstall的思路是反过来的
 ```
+* freebsd
+(for root user, cc is clang not gcc)  
+(for root user, type pkg and enter to install pkg)  
+(need to modify Makefile.onscripter to change the last $(LD) to $(CC))  
+pkg install SDL2 SDL2_image SDL2_ttf SDL2_mixer  
+pkg install nano fontconfig lua54 gcc  
+pkg install xorg  
+```
+用virtualbox和freebsd 14.2（DVD版）编译运行onscripter-jh的效果
+（没有SDL2区域刷新问题，不闪烁，但必须在X11下跑，不能纯CLI，因为jh用了OpenGL）。
+我感觉这个FreeBSD可能会比NetBSD那个要好用一些，
+NetBSD的好处是安装OS的时候可以选择安装X11，但FreeBSD不会预装X11，
+需要自己pkg install xorg来在线安装X11。另外它的virtualbox网络支持似乎要比NetBSD好，
+NetBSD只能用VMWare来联网，用virtualbox好像连不到网（也可能我操作得不对）。
+另外，FreeBSD的包管理器是pkg而不是pkgin（pkg应该是新的），
+而默认的cc是clang而不是gcc，但可以pkg install gcc。
+注意安装FreeBSD最好要完成OS安装后的config配置步骤
+```
 
 ## john-he onscripter Chinese version, for Windows / PSP / Pocket PC  
 * (dead) http://john-he.ys168.com/?jdfwkey=k9rlz
