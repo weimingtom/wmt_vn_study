@@ -1332,6 +1332,11 @@ rlvm最新版就没办法在ubuntu14上编译，包括PortMaster版的rlvm的参
 还不够简单，还未支持sdl2。需要复制msgothic.ttc文件到游戏目录
 ```
 * (TODO) https://github.com/reivyr/openbsd-rlvm  
+* (TODO, using SDL2) https://github.com/xyzz/rlvm-android  
+see https://github.com/xyzz/rlvm-android/blob/master/buildscripts/CMakeLists.txt  
+some codes see also android branch of xyzz/rlvm: https://github.com/xyzz/rlvm/tree/android  
+see rlvm-android.zip, rlvm-android-1.zip, rlvm-1.apk   
+It is for SDL2, see the header files of https://github.com/xyzz/rlvm/blob/android/vendor/pygame/alphablit.cc  
 
 ## (IMP) rlvm portmaster version    
 * https://github.com/christianhaitian/PortMaster/blob/main/Rlvm.zip  
