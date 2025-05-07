@@ -1260,7 +1260,7 @@ https://github.com/weimingtom/xclannad-gbk_fork
 * https://github.com/natdon/ONScripter-CN  
 * https://github.com/toktc/onscripter-for-iOS-GBK/tree/master/xclannad  
 * (**TODO**) search xclannad-7hc.tar.gz  
-* script engine vorbose output, dprintf, debug_flag = true, work_xclannad_v2_chinese_good.tar.gz, aaa.txt  
+* script engine verbose output, dprintf, debug_flag = true, work_xclannad_v2_chinese_good.tar.gz, aaa.txt  
 see https://github.com/weimingtom/xclannad-gbk_fork  
 
 ## rlvm  
