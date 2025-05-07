@@ -37,11 +37,11 @@ GPiCASE で ONScripter
 * (done) search baidupan, nscripter_java_20200829_replace_moon.rar    
 * I:\work_onscripter_csharp  
 * onsharp_v1.rar  
-* E:\work_rlvm\elliotglaysher  
+* E:\work_\elliotglaysher  
 * (TODO) https://github.com/weimingtom/xkanon_fork port to vc6  
 * (done) (TODO) search kas project  
-* (done) (TODO) rlvm_vs2013  
-* (TODO) rlvm android, https://github.com/xyzz/rlvm-android  
+* (done) (TODO) _vs2013  
+* (TODO)  android, https://github.com/xyzz/-android  
 * (done) onscripter_jh_sdl2_fork_lons_vs2013_v1.rar   
 
 ## Old index / References      
@@ -1330,6 +1330,7 @@ rlvm最新版就没办法在ubuntu14上编译，包括PortMaster版的rlvm的参
 ==
 ```
 * AIR_SE.zip, planetarian.zip, planetarian_jp.zip, GAMEDATA.zip, msgothic.ttc  
+CLANNAD_steam_en.zip (don't use CLANNAD_steam_zh.zip)  
 ```
 尝试用xubuntu 20.04编译rlvm成功（之前用的是32位），用makefile编译，
 运行AIR_SE，planetarian，planetarian_jp和GAMEDATA（reallivemax示例工程）的效果如下，
