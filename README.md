@@ -414,7 +414,10 @@ LXQt: 有显示问题，需要开3D，否则鼠标箭头显示不出来；SDL2�
 cosmic: 必须开3D否则进入不了桌面。SDL2有显示区域bug，会闪烁屏幕 ​​​
 开发和创意工作站（和workstation一样效果；应该是GNOME桌面环境加上一些开发工具）: 有显示bug，但不闪烁，右键菜单层会变白。放大桌面可能会有输入bug ​​​
 miracle-wm: 整个窗口都会闪烁，SDL2的刷新区域有bug。有点像ubuntu，左边是任务栏，不过窗口是平铺的（我不知道怎么把SDL2的窗口悬浮在最上面，实际其实应该是平铺到右边） ​​​  
-最小模式安装: 使用framebuffer显示，SDL2有刷新区域bug（字体闪烁但屏幕不闪烁），可以按F全屏，按Ctrl+C退出，需要sudo运行才能鼠标键盘操作 ​​​
+最小模式安装: 使用framebuffer显示(补注：可能不是framebuffer)，SDL2有刷新区域bug（字体闪烁但屏幕不闪烁），可以按F全屏，按Ctrl+C退出，需要sudo运行才能鼠标键盘操作 ​​​
+
+(TODO) 补注：最小模式可能不是framebuffer,没有/dev/fb0, 为什么 ???
+如果需要用/dev/fb0，可以用arch linux代替，arch linux的最小模式有/dev/fb0  
 ```
 * netbsd  
 su  
