@@ -2024,7 +2024,7 @@ start renpy.exe
 ```
 * If gradlew failed, use follow changes:  
 1) Adding lintOptions in renpyandroid\build.gradle and app\build.gradle  
-``
+```
 android {
 ...
 	lintOptions {
