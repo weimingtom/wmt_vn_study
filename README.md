@@ -1994,7 +1994,7 @@ thequestion_v1.7z
 c/c++部分未编译，以后再研究
 （TODO）编译renpy的JNI
 ```
-* (not sure) (Android version) https://www.renpy.org/latest.html
+* (not sure) (Android version) see https://www.renpy.org/latest.html  
 ```
 (1) Download sdk file and rapt zip   
 Download https://www.renpy.org/dl/8.3.7/renpy-8.3.7-sdk.tar.bz2  
@@ -2029,7 +2029,7 @@ gradlew build --refresh-dependencies
 gradlew packageRelease  
 
 ```
-* If packaging (gradlew) failed, try to make following changes and retry gradlew:  
+* (not sure) (Android version manually gradlew) If packaging (gradlew) failed, try to make following changes and retry gradlew:  
 1) Adding lintOptions in renpyandroid\build.gradle and app\build.gradle  
 ```
 android {
