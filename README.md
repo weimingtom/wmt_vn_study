@@ -2009,7 +2009,7 @@ Build: Press 'Install SDK' (Wait a minute for downloading finish)
 Press 'Continue' to start packaging Android game  
 Press 'Configure', and process it  
 Press 'Generate Keys', and process it (see bundle.keystore and android.keystore)
-Press 'Build Package', and process it    
+Press 'Build Package', and process it (using gradle to build)     
 
 (4) If prompt to install JDK 21 for compiling Android project, you need to download jdk-21 and then make a console.bat  
 See OpenJDK21U-jdk_x64_windows_hotspot_21.0.4_7.zip
