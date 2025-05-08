@@ -2005,8 +2005,11 @@ Download https://www.renpy.org/dl/8.3.7/renpy-8.3.7-rapt.zip
 (3) Execute renpy.exe
 PROJECTS: choose 'The Question'  
 ACTIONS: choose 'Android'
-Build: Install SDK
-(Wait for downloading finish)
+Build: Press 'Install SDK' (Wait a minute for downloading finish)
+Press 'Continue' to start packaging Android game  
+Press 'Configure', and process it  
+Press 'Generate Keys', and process it (see bundle.keystore and android.keystore)
+Press 'Build Package', and process it    
 
 (4) If prompt to install JDK 21 for compiling Android project, you need to download jdk-21 and then make a console.bat  
 See OpenJDK21U-jdk_x64_windows_hotspot_21.0.4_7.zip
