@@ -1994,7 +1994,7 @@ thequestion_v1.7z
 c/c++部分未编译，以后再研究
 （TODO）编译renpy的JNI
 ```
-* [WIP, not work !!!!!!](Android version) https://www.renpy.org/latest.html
+* (not sure) (Android version) https://www.renpy.org/latest.html
 ```
 (1) Download sdk file and rapt zip   
 Download https://www.renpy.org/dl/8.3.7/renpy-8.3.7-sdk.tar.bz2  
@@ -2021,6 +2021,25 @@ Downloaded from https://adoptium.net
 set PATH=D:\home\soft\jdk-21.0.4+7\bin;%PATH%  
 start renpy.exe  
 
+```
+* If gradlew failed, use follow changes:  
+1) Adding lintOptions in renpyandroid\build.gradle and app\build.gradle  
+``
+android {
+...
+	lintOptions {
+		abortOnError false
+	}
+}
+```
+2) modify build.gradle, form 8.2.0 to 8.6.0   
+```
+    id 'com.android.application' version '8.6.0' apply false
+    id 'com.android.library' version '8.6.0' apply false
+```
+3) modify gradle\wrapper\gradle-wrapper.properties, from 8.5 to 8.7  
+```
+distributionUrl=https\://services.gradle.org/distributions/gradle-8.7-bin.zip  
 ```
 
 ## Reitsuki  
