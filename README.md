@@ -2024,6 +2024,7 @@ start renpy.exe
 (6) manual gradlew to package apk file  
 set PATH=D:\home\soft\jdk-21.0.4+7\bin;%PATH%
 cmd
+cd D:\work_renpy\renpy-8.3.7-sdk\rapt\project  
 gradlew build 
 gradlew build --refresh-dependencies  
 gradlew packageRelease  
