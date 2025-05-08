@@ -2030,6 +2030,13 @@ gradlew packageRelease
 
 ```
 * (not sure) (Android version manually gradlew) If packaging (gradlew) failed, try to make following changes and retry gradlew:  
+```
+我试过可以手工改代码让renpy android可以编译成功，
+方法是把gradle的版本号改成8.7，build.gradle改成8.6.0，
+然后加上lintOptions abortOnError false。
+不过可能是别的原因导致renpy android编译失败，
+我暂时只能用这种折中方法去打包apk，改动不会太大
+```
 1) Adding lintOptions in renpyandroid\build.gradle and app\build.gradle  
 ```
 android {
