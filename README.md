@@ -2000,7 +2000,22 @@ c/c++部分未编译，以后再研究
 Download https://www.renpy.org/dl/8.3.7/renpy-8.3.7-sdk.tar.bz2  
 Download https://www.renpy.org/dl/8.3.7/renpy-8.3.7-rapt.zip  
 
-(2) Place the "rapt", "renios", or "web" directory into the "renpy-8.3.7" directory.
+(2) Unzip renpy-8.3.7-rapt.zip and place the "rapt" (or "renios", or "web") directory into the "renpy-8.3.7" directory.   
+
+(3) Execute renpy.exe
+PROJECTS: choose 'The Question'  
+ACTIONS: choose 'Android'
+Build: Install SDK
+(Wait for downloading finish)
+
+(4) If prompt to install JDK 21 for compiling Android project, you need to download jdk-21 and then make a console.bat  
+See OpenJDK21U-jdk_x64_windows_hotspot_21.0.4_7.zip
+Downloaded from https://adoptium.net  
+
+(5) console.bat  
+set PATH=D:\home\soft\jdk-21.0.4+7\bin;%PATH%  
+start renpy.exe  
+
 ```
 
 ## Reitsuki  
