@@ -1338,6 +1338,7 @@ CLANNAD_steam_en.zip (don't use CLANNAD_steam_zh.zip)
 还不够简单，还未支持sdl2。需要复制msgothic.ttc文件到游戏目录
 ```
 * (TODO) https://github.com/reivyr/openbsd-rlvm  
+openbsd-rlvm-master_v1.tar.gz  
 * (TODO, using SDL2) https://github.com/xyzz/rlvm-android  
 see https://github.com/xyzz/rlvm-android/blob/master/buildscripts/CMakeLists.txt  
 some codes see also android branch of xyzz/rlvm: https://github.com/xyzz/rlvm/tree/android  
