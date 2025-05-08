@@ -1994,7 +1994,7 @@ thequestion_v1.7z
 c/c++部分未编译，以后再研究
 （TODO）编译renpy的JNI
 ```
-* (Android version) https://www.renpy.org/latest.html
+* [WIP, not work !!!!!!](Android version) https://www.renpy.org/latest.html
 ```
 (1) Download sdk file and rapt zip   
 Download https://www.renpy.org/dl/8.3.7/renpy-8.3.7-sdk.tar.bz2  
@@ -2002,10 +2002,12 @@ Download https://www.renpy.org/dl/8.3.7/renpy-8.3.7-rapt.zip
 
 (2) Unzip renpy-8.3.7-rapt.zip and place the "rapt" (or "renios", or "web") directory into the "renpy-8.3.7" directory.   
 
-(3) Execute renpy.exe
+(3) (TODO, not work) Execute renpy.exe
 PROJECTS: choose 'The Question'  
 ACTIONS: choose 'Android'
 Build: Press 'Install SDK' (Wait a minute for downloading finish)
+install sdk: if failed, delete tmp/ and rapt/Sdk folders and rapt/*.zip and retry 
+(Sometimes downloading Android SDK will be stopped by google)
 Press 'Continue' to start packaging Android game  
 Press 'Configure', and process it  
 Press 'Generate Keys', and process it (see bundle.keystore and android.keystore)
