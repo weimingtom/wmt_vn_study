@@ -2021,8 +2021,15 @@ Downloaded from https://adoptium.net
 set PATH=D:\home\soft\jdk-21.0.4+7\bin;%PATH%  
 start renpy.exe  
 
+(6) manual gradlew to package apk file  
+set PATH=D:\home\soft\jdk-21.0.4+7\bin;%PATH%
+cmd
+gradlew build 
+gradlew build --refresh-dependencies  
+gradlew packageRelease  
+
 ```
-* If gradlew failed, use follow changes:  
+* If packaging (gradlew) failed, try to make following changes and retry gradlew:  
 1) Adding lintOptions in renpyandroid\build.gradle and app\build.gradle  
 ```
 android {
