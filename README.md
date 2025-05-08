@@ -1985,7 +1985,7 @@ cs2-open Ver 1.0, cs2.exe version 1, 0, 1, 10
 * (origin) https://github.com/renpy/renpy
 * test data: Katawa Shoujo.7z  
 * test data: thequestion_v1.7z
-* (old) renpy-6.9.3-sdk.tar.bz2  
+* (old version, don't use this version) renpy-6.9.3-sdk.tar.bz2  
 http://www.renpy.org/wiki/renpy/releases/6.9.3
 ```
 renpy android, use renpy-8.3.0-sdk.7z.exe and renpy-8.3.0-sdk_v1.7z
@@ -1993,6 +1993,14 @@ thequestion_v1.7z
 把renpy android编译出来了，可以运行，虽然只有java部分编译了，
 c/c++部分未编译，以后再研究
 （TODO）编译renpy的JNI
+```
+* (Android version) https://www.renpy.org/latest.html
+```
+(1) Download sdk file and rapt zip   
+Download https://www.renpy.org/dl/8.3.7/renpy-8.3.7-sdk.tar.bz2  
+Download https://www.renpy.org/dl/8.3.7/renpy-8.3.7-rapt.zip  
+
+(2) Place the "rapt", "renios", or "web" directory into the "renpy-8.3.7" directory.
 ```
 
 ## Reitsuki  
