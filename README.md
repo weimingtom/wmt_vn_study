@@ -3404,15 +3404,22 @@ cd test
 make 
 ```
 * weibo record    
+sudo yum install mesa-libgbm-devel libdrm-devel mesa-libEGL-devel  
 sudo pacman -S egl-gbm  
 su; apt install libgbm-dev libdrm-dev pkg-config libegl1-mesa-dev  
 SDL_VIDEODRIVER=kmsdrm ./testsprite2 ​​​  
 ```
+我顺便测试过，fedora 41的最小模式纯CLI下也能编译SDL2的kmsdrm显示驱动，方法是：
+sudo yum install mesa-libgbm-devel libdrm-devel mesa-libEGL-devel
+。其中libdrm必需，egl-gbm和pkg-config（是mesa-libgbm-devel的依赖）
+和kmscube非必需
+
 debian 12和arch linux一样，也支持/dev/fb0（最小模式安装，不装桌面环境），
 相反fedora则不行，fedora最小模式下是CLI，
 但没有/dev/fb0（暂时未找到方法解决），
 所以不太方便做嵌入式模拟执行framebuffer显示
 
+(arch linux 2025)  
 我测试过，可以在虚拟机virtualbox和archlinux（纯CLI）下运行
 SDL_VIDEODRIVER=kmsdrm的SDL2测试例子testsprite2，方法是
 sudo pacman -S egl-gbm （libdrm可以不装）​ ​​​
