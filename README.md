@@ -3386,7 +3386,6 @@ https://blog.sina.cn/dpool/blog/u/1303459875
 ## SDL2 KMS/DRM video driver
 * SDL does not work？    
 https://forum.odroid.com/viewtopic.php?t=37975  
-https://github.com/libsdl-org/SDL/releases/tag/release-2.32.6  
 ```
 sudo apt-get update && sudo apt-get upgrade
 sudo apt-get install libx11-dev libsm-dev libxext-dev git cmake mercurial libudev-dev libdrm-dev zlib1g-dev pkg-config libasound2-dev alsa-utils htop bc ifupdown2 net-tools libssl1.0-dev mlocate bluez libfreetype6-dev libx11-xcb1 libxcb-dri2-0 
@@ -3404,6 +3403,7 @@ cd test
 make 
 ```
 * weibo record    
+https://github.com/libsdl-org/SDL/releases/tag/release-2.32.6  
 sudo yum install mesa-libgbm-devel libdrm-devel mesa-libEGL-devel  
 sudo pacman -S egl-gbm  
 su; apt install libgbm-dev libdrm-dev pkg-config libegl1-mesa-dev  
