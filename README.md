@@ -3403,7 +3403,10 @@ cd test
 ./configure
 make 
 ```
-* weibo record  
+* weibo record    
+sudo pacman -S egl-gbm  
+su; apt install libgbm-dev libdrm-dev pkg-config libegl1-mesa-dev  
+SDL_VIDEODRIVER=kmsdrm ./testsprite2 ​​​  
 ```
 debian 12和arch linux一样，也支持/dev/fb0（最小模式安装，不装桌面环境），
 相反fedora则不行，fedora最小模式下是CLI，
