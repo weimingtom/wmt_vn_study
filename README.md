@@ -3382,3 +3382,40 @@ https://blog.sina.cn/dpool/blog/u/1303459875
 ## DiskGenius  
 
 ## GoldWave  
+
+## SDL2 KMS/DRM video driver
+* SDL does not work？    
+https://forum.odroid.com/viewtopic.php?t=37975  
+https://github.com/libsdl-org/SDL/releases/tag/release-2.32.6  
+```
+sudo apt-get update && sudo apt-get upgrade
+sudo apt-get install libx11-dev libsm-dev libxext-dev git cmake mercurial libudev-dev libdrm-dev zlib1g-dev pkg-config libasound2-dev alsa-utils htop bc ifupdown2 net-tools libssl1.0-dev mlocate bluez libfreetype6-dev libx11-xcb1 libxcb-dri2-0 
+# Not sure if all of these are needed ^ 
+sudo apt install libdrm-dev libgbm-dev
+# Definitely needed these ^^ 
+cd ~
+hg clone http://hg.libsdl.org/SDL SDL2
+cd SDL2
+./configure --disable-video-opengl --enable-video-kmsdrm
+make 
+sudo make install 
+cd test
+./configure
+make 
+```
+* weibo record  
+```
+debian 12和arch linux一样，也支持/dev/fb0（最小模式安装，不装桌面环境），
+相反fedora则不行，fedora最小模式下是CLI，
+但没有/dev/fb0（暂时未找到方法解决），
+所以不太方便做嵌入式模拟执行framebuffer显示
+
+我测试过，可以在虚拟机virtualbox和archlinux（纯CLI）下运行
+SDL_VIDEODRIVER=kmsdrm的SDL2测试例子testsprite2，方法是
+sudo pacman -S egl-gbm （libdrm可以不装）​ ​​​
+
+我试验过，debian 12.10也支持编译SDL2的kmsdrm显示驱动，方法是：
+su; apt install libgbm-dev libdrm-dev pkg-config libegl1-mesa-dev
+。然后执行testsprite2，通过环境变量
+SDL_VIDEODRIVER=kmsdrm ./testsprite2 ​​​
+```
