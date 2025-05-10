@@ -1981,9 +1981,11 @@ cs2-open Ver 1.0, cs2.exe version 1, 0, 1, 10
 ## Nova (for Unity)      
 * (origin) https://github.com/Lunatic-Works/Nova  
 
-## Ren'Py (for Python)    
+## Ren'Py (for Python, Android)    
 * (origin) https://www.renpy.org  
 * (origin) https://github.com/renpy/renpy
+* (origin, Android version) https://github.com/renpy/renpy-build/blob/master/runtime/librenpython3_android.c  
+PythonSDLActivity_nativeSetEnv, nativeSetEnv  
 * test data: Katawa Shoujo.7z  
 * test data: thequestion_v1.7z
 * (old version, don't use this version) renpy-6.9.3-sdk.tar.bz2  
