@@ -1022,7 +1022,7 @@ krkrsdl2_ndk_v4_run_success.7z
 https://www.cnblogs.com/wanggang123/p/13955010.html  
 https://stackoverflow.com/questions/39322852/android-ndk-undefined-reference-to-stderr  
 ```
-rkrz的Android分支dev_multi_platform研究。
+krkrz的Android分支dev_multi_platform研究。
 现在我可以用NDK25和CDT编译运行krkrsdl2的源代码（原版是用cmake不是用ndk），
 比较汗流浃背的是，只能用较新的NDK不能用旧的NDK；
 而且如果NDK的安卓API目标在23或以上，
