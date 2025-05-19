@@ -580,7 +580,10 @@ http://ogapee.at.infoseek.co.jp/onscripter.html
 * https://github.com/weimingtom/fnscripter  
 
 ## onscripter-vita  
-* https://gitee.com/yizhigai/onscripter-vita  
+* (origin) https://gitee.com/yizhigai/onscripter-vita  
+* (origin) https://tieba.baidu.com/p/7910211843  
+ONScripter-Vita  
+ONScripter-Vita_v1.0.vpk  
 
 ## onscripter-plus  
 * (origin) https://github.com/matthewn4444/onscripter-plus-android    
