@@ -290,9 +290,11 @@ is very same as the dead bitbucket code base, or jh10001-onscripter-jh-a11f51d57
 ```
 It is the newer version by the onscripter-jh author than the dead bitbucket code base       
 ```
+* (origin) https://tieba.baidu.com/p/3395900252  
+【ONScripter-Jh】各个版本的使用说明、如何编译和常见问题    
 * https://github.com/LasmGratel/onscripter-jh  
 (original name) https://github.com/NanamiArihara/onscripter-jh  
-* https://github.com/weimingtom/onscripter_jh_sdl2_fork
+* https://github.com/weimingtom/onscripter_jh_sdl2_fork  
 https://github.com/weimingtom/onscripter_jh_sdl2_fork/blob/master/vendor/onscripter-jh/jh10001-onscripter-jh-a11f51d5728f.zip  
 ```
 my saved old bitbucket code base SDL2 branch, see jh10001-onscripter-jh-a11f51d5728f.zip   
