@@ -538,10 +538,10 @@ libretro-onscripter-deps-20240118.tar.xz
 * (origin) https://tieba.baidu.com/p/7078877459  
 新的ONS引擎LONS缓慢推进中...  
 * (origin) https://github.com/pch666777/onscripter-LONSdev  
-* search baidupan, onscripter_jh_sdl2_fork_lons_vs2013_v2_success.rar  
-* vs2013  
-* search baidupan, onscripter_jh_sdl2_fork_v1.rar
-* https://github.com/weimingtom/onscripter-lons_fork   
+* search baidupan, onscripter_jh_sdl2_fork_lons_vs2013_v2_success.rar    
+vs2013   
+search baidupan, onscripter_jh_sdl2_fork_v1.rar  
+https://github.com/weimingtom/onscripter-lons_fork   
 
 ## C&D Tools Win GUI  
 * (x) http://blog.livedoor.jp/tormtorm/  
