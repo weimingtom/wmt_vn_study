@@ -533,8 +533,11 @@ libretro-onscripter-deps-20240118.tar.xz
 * https://github.com/christianhaitian/rk3326_core_builds/blob/rk3326/scripts/onscripter.sh  
 * https://github.com/weimingtom/onscripter-libretro_fork  
 
-## LONS, onscripter-lons  
+## LONS, onscripter-lons, for Windows and Qt of LoongArch      
 * (origin) https://gitee.com/only998/onscripter-lons  
+* (origin) https://tieba.baidu.com/p/7078877459  
+新的ONS引擎LONS缓慢推进中...  
+* (origin) https://github.com/pch666777/onscripter-LONSdev  
 * search baidupan, onscripter_jh_sdl2_fork_lons_vs2013_v2_success.rar  
 * vs2013  
 * search baidupan, onscripter_jh_sdl2_fork_v1.rar
