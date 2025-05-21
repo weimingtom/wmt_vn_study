@@ -3334,7 +3334,8 @@ https://github.com/xupefei/Locale-Emulator
 ## exe2swf.7z  
 
 ## (NOTE: don't study it) exef2paz.zip, exmaspaz.zip      
-* http://asmodean.reverse.net
+* (origin) http://asmodean.reverse.net  
+asmodean's reverse engineering page - news and updates  
 
 ## (NOTE: don't study it) cape.rar, SHUFFLE!文本提取器
 * 不确定，可能来源于crass？也可能不是  
