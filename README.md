@@ -3483,3 +3483,30 @@ The Touhou Project
 So how to use these tools?
 Delphi ShiftJIS & Unicode kit
 ```
+
+## (don't study this) テキスト抽出ツール  
+* (origin) http://www.geocities.jp/hoku_hoshi/index2.html
+* (origin) https://web.archive.org/web/20120620043318/http://www.geocities.jp/hoku_hoshi/index2.html  
+混沌の部屋
+```
+m-akita's Home Page	Nitro+のゲーム向けを始め、メッセージローダーが大量にあります。
+https://web.archive.org/web/20120620043318/http://m-akita.sakura.ne.jp/  
+
+notaエロゲ研究室[メッセージローダー]	メッセージローダーが大量にあります。ありすぎてここに列挙できません。最近のゲームにも対応しています。
+https://web.archive.org/web/20120620043318/http://anime.geocities.jp/notazsite1/soft/index.html  
+
+Sage's Home Page	「MamiList3」というツールでelfやシルキーズのゲームのシナリオ抽出が行えます。
+https://web.archive.org/web/20120620043318/http://cclub-flying.dsl.gr.jp/~sage/sagepage/  
+
+くじら座工房	「旧コンテンツ」→「Softwareの部屋」と移動してください。『でこ～だ』というメッセージ生成ツールがあります。
+脳力者, 放課後恋愛クラブ, 密猟区, ＯＮＥ～輝く季節へ～, 雫, ホワイトアルバム, ＹＥＳ！ＨＧ(MS-DOS版), えんじぇる☆ないと(MS-DOS版), クローンドール(MS-DOS版)
+https://web.archive.org/web/20120620043318/http://kujiraza.com/  
+
+SIWITA	以下のシナリオ抽出ツールがあります。
+MELTY BLOOD（TYPE-MOON）ＢＧＭ、音声、シナリオ抽出
+歌月十夜（TYPE-MOON）シナリオ＆画像抽出
+最終試験くじら（CIRCUS）の画像、音声、シナリオ抽出
+最果てのイマ (XUSE【純米】)のシナリオ抽出
+マブラヴ　オルタネイティヴ（age）の画像、テキスト抽出
+https://web.archive.org/web/20120620043318/http://www.geocities.co.jp/SiliconValley-Sunnyvale/7511/index.html  
+```
