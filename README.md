@@ -3446,11 +3446,39 @@ su; apt install libgbm-dev libdrm-dev pkg-config libegl1-mesa-dev
 SDL_VIDEODRIVER=kmsdrm ./testsprite2 ​​​
 ```
 
-## (don't study this) avg32log, eglog, avg32 engine text extracter (?)    
+## (don't study this) avg32log, eglog, avg32 engine text extractor (?)    
 * (origin) https://gorry.haun.org/eglog/  
 * 「ログウィンドウ追加プロジェクト [eglog]」, Distribution page, ...X680x0 spirit inside...
 * GORRY's Homepage - [eglog] - Distribution Page  
 
-## (don't study this) Welcome to m-akita's Home Page, some games text extracter (?)  
+## (don't study this) Welcome to m-akita's Home Page, some games text extractor (?)  
 * (origin, dead?) http://m-akita.sakura.ne.jp/index.php  
 * (origin) https://web.archive.org/web/20090909173430/http://m-akita.sakura.ne.jp/index.php  
+
+## (don't study this) Historical Visual Novel Tools
+* (origin) https://proger.me/vn/old/  
+* (origin, older) http://vn.i-forge.net/tools/  
+Visual Novel tools  
+* by delphi, open source ? Like CSX text extractor and MajiroArc v1 and v2 tools  
+```
+Table of Contents – Historical Visual Novel Tools
+MD5 Tool
+Encodings reconvertor
+ArcTool
+OSTealer
+Bitmap Breaker
+Ikura GDL / Crescendo
+Ikura GDL ISF scenario coder
+CSX line merger
+CSX tool by Xilexio
+CSX extractor/importer
+ERISA Compressor
+MIO to WAV convertor
+MajiroArc v1 and v2 tools
+Sono Hanabira ni Kuchizuke wo
+Sono Hanabira ni Kuchizuke wo – Linux Wine fix
+Text files editor
+The Touhou Project
+So how to use these tools?
+Delphi ShiftJIS & Unicode kit
+```
