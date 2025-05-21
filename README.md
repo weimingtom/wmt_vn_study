@@ -3544,7 +3544,15 @@ https://github.com/luguanxing/Cheating-Plugin-Program
 ```
 
 ## Digital Travesia  
-http://hp.vector.co.jp/authors/VA028184/  
+* (origin dead) http://hp.vector.co.jp/authors/VA028184/  
+* (origin) https://digitaltravesia.jp  
+* 『デバッガによるx86プログラム解析入門 【x64対応版】』
+* Tutorials like:    
+```
+(株)ビジュアルアーツ製汎用プログラムに係る解析及び改造について
+・彼の 「AIR」 解析結果 もどうぞ
+ビジュアルアーツのRealLive(AVG2000)システムに係る考察(暫定版)
+```
 
 ## dwing  
 * http://tieba.baidu.com/f?kw=dwing&ie=utf-8  
