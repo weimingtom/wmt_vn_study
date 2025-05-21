@@ -3510,3 +3510,41 @@ MELTY BLOOD（TYPE-MOON）ＢＧＭ、音声、シナリオ抽出
 マブラヴ　オルタネイティヴ（age）の画像、テキスト抽出
 https://web.archive.org/web/20120620043318/http://www.geocities.co.jp/SiliconValley-Sunnyvale/7511/index.html  
 ```
+
+## (don't study this) Debug and dll hook  
+* https://github.com/weimingtom/wmt_link_collections_in_Chinese?tab=readme-ov-file#%E6%8F%90%E5%8F%96--%E6%97%A0%E6%BA%90%E4%BB%A3%E7%A0%81%E8%B0%83%E8%AF%95  
+```
+提取 / 无源代码调试
+Debugging Mozilla with gdb
+https://developer.mozilla.org/en/Debugging_Mozilla_on_Linux_FAQ
+
+mingw 下的 stack backtrace
+http://blog.codingnow.com/2010/07/mingw_stack_backtrace.html
+http://code.google.com/p/backtrace-mingw/
+
+使用 Strace 和 GDB 调试工具的乐趣
+http://www.ibm.com/developerworks/cn/aix/library/au-unix-strace.html
+
+GDB 多线程调试
+http://www.yuanma.org/data/2009/0407/article_3605.htm
+http://www.linuxforum.net/forum/gshowflat.php?Cat=&Board=program&Number=692404&page=0&view=collapsed
+http://www.ibm.com/developerworks/cn/java/j-memoryanalyzer/
+
+DLL劫持技术（内存补丁技术） (转)
+http://hi.baidu.com/woaiwlaopo/blog/item/699f2a3fb0485ee954e7238d.html
+
+gdb的一些命令
+http://blog.sinzy.net/ifyr/entry/22198
+
+Windows API Hooking Tutorial
+http://ruffnex.oc.to/kenji/text/api_hook/
+
+Cheating-Plugin-Program
+https://github.com/luguanxing/Cheating-Plugin-Program
+```
+
+## Digital Travesia  
+http://hp.vector.co.jp/authors/VA028184/  
+
+## dwing  
+* http://tieba.baidu.com/f?kw=dwing&ie=utf-8  
