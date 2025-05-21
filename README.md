@@ -3484,7 +3484,7 @@ So how to use these tools?
 Delphi ShiftJIS & Unicode kit
 ```
 
-## (don't study this) テキスト抽出ツール  
+## (don't study this) テキスト抽出ツール, some games text extractor (?)   
 * (origin) http://www.geocities.jp/hoku_hoshi/index2.html
 * (origin) https://web.archive.org/web/20120620043318/http://www.geocities.jp/hoku_hoshi/index2.html  
 混沌の部屋
