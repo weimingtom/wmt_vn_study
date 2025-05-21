@@ -3445,3 +3445,8 @@ su; apt install libgbm-dev libdrm-dev pkg-config libegl1-mesa-dev
 。然后执行testsprite2，通过环境变量
 SDL_VIDEODRIVER=kmsdrm ./testsprite2 ​​​
 ```
+
+## (don't study this) avg32log, eglog, avg32 engine text extracter (?)    
+* (origin) https://gorry.haun.org/eglog/  
+* 「ログウィンドウ追加プロジェクト [eglog]」, Distribution page, ...X680x0 spirit inside...
+* GORRY's Homepage - [eglog] - Distribution Page  
