@@ -3450,3 +3450,7 @@ SDL_VIDEODRIVER=kmsdrm ./testsprite2 ​​​
 * (origin) https://gorry.haun.org/eglog/  
 * 「ログウィンドウ追加プロジェクト [eglog]」, Distribution page, ...X680x0 spirit inside...
 * GORRY's Homepage - [eglog] - Distribution Page  
+
+## (don't study this) Welcome to m-akita's Home Page, some games text extracter (?)  
+* (origin, dead?) http://m-akita.sakura.ne.jp/index.php  
+* (origin) https://web.archive.org/web/20090909173430/http://m-akita.sakura.ne.jp/index.php  
