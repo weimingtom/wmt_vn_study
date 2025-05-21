@@ -3359,6 +3359,10 @@ No.028 CUFFS汎用 メッセージローダー
 * http://www.entis.jp/eri/ ???  
 * EntisGLS ???  
 * (dead?) http://notazsite.hp.infoseek.co.jp/  
+* (dead?, older link) notazsite  
+http://anime.geocities.jp/notazsite1/soft/index.html  
+Irregular child .. ?  
+http://hp.vector.co.jp/authors/VA018359/index2.html  
 * Galgameの汉化篇（2）  
 https://blog.sina.cn/dpool/blog/s/blog_4db138230100eo4f.html  
 https://blog.sina.cn/dpool/blog/u/1303459875  
