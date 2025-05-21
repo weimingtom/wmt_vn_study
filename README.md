@@ -2528,6 +2528,7 @@ MIA's HomePage
 
 ## TLWiki  
 * (origin, dead) http://tsukuru.info/tlwiki/index.php?title=Tools#AnimED_-_Visual_Novel_Tools
+* (origin, dead) http://tlwiki.tsukuru.info/index.php?title=Tools  
 * TLWiki.rar
 * AnimED - Visual Novel Tools
 * BALDR FORCE EXE tools
