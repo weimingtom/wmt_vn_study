@@ -301,6 +301,7 @@ my saved old bitbucket code base SDL2 branch, see jh10001-onscripter-jh-a11f51d5
 ```
 * https://github.com/fybmain/ONScripter-Jh   
 https://github.com/fybmain/ONScripter-Jh/tree/for-upstream  
+(for jelos version? with jmouse.cpp, but difference from zpgpro version) https://github.com/guangmingwan/ONScripter-Jh-rg351v  
 ```
 Bug fix for the dead bitbucket code base SDL2 branch (not by the jh author) for linux fedora building, but it may be not largely changed  
 ```
