@@ -3557,3 +3557,7 @@ https://github.com/luguanxing/Cheating-Plugin-Program
 
 ## dwing  
 * http://tieba.baidu.com/f?kw=dwing&ie=utf-8  
+
+## netscripter  
+* https://sourceforge.net/projects/netscripter/  
+* https://netscripter.sourceforge.net  
