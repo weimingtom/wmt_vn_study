@@ -1765,9 +1765,14 @@ http://www.alicesoft.co.jp/
 https://github.com/krishenriksen/AnberPorts/issues/51  
 run "MKXP"(https://github.com/Ancurio/mkxp) on ArkOS on RG351P  
 (dead) https://giters.com/krishenriksen/AnberPorts/issues/51  
-https://github.com/night-burst/mkxp-z  
 * https://github.com/libretro/easyrpg-libretro
 * https://github.com/EasyRPG/Player
+
+## mkxp-z/mkxp-z
+* https://github.com/mkxp-z/mkxp-z  
+* https://github.com/mkxp-z/mkxp-z/wiki  
+* https://roza-gb.gitbook.io/mkxp-z  
+* https://github.com/night-burst/mkxp-z    
 
 ## weimingtom/rpg2kemuMod  
 https://github.com/weimingtom/rpg2kemuMod  
