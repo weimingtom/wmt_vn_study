@@ -1759,7 +1759,7 @@ http://www.alicesoft.co.jp/
 
 ## Ancurio/mkxp
 * https://github.com/Ancurio/mkxp  
-* https://github.com/night-burst/mkxp-z  
+* see also (but different author) https://github.com/night-burst/mkxp-z  
 * https://github.com/krishenriksen/AnberPorts  
 * https://www.reddit.com/r/RG350/comments/kuy4d2/mkxp_with_arkos_on_rg351p/  
 https://github.com/krishenriksen/AnberPorts/issues/51  
@@ -1772,7 +1772,9 @@ run "MKXP"(https://github.com/Ancurio/mkxp) on ArkOS on RG351P
 * https://github.com/mkxp-z/mkxp-z  
 * https://github.com/mkxp-z/mkxp-z/wiki  
 * https://roza-gb.gitbook.io/mkxp-z  
-* https://github.com/night-burst/mkxp-z    
+* https://github.com/night-burst/mkxp-z
+* essentials, https://github.com/Maruno17  
+* tectonic, https://www.tectonic-game.com/downloads  
 
 ## weimingtom/rpg2kemuMod  
 https://github.com/weimingtom/rpg2kemuMod  
