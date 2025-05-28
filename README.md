@@ -1764,7 +1764,8 @@ http://www.alicesoft.co.jp/
 * https://www.reddit.com/r/RG350/comments/kuy4d2/mkxp_with_arkos_on_rg351p/  
 https://github.com/krishenriksen/AnberPorts/issues/51  
 run "MKXP"(https://github.com/Ancurio/mkxp) on ArkOS on RG351P  
-(dead) https://giters.com/krishenriksen/AnberPorts/issues/51  
+(dead) https://giters.com/krishenriksen/AnberPorts/issues/51    
+https://www.reddit.com/r/RG350/comments/kuy4d2/mkxp_with_arkos_on_rg351p/  
 * https://github.com/libretro/easyrpg-libretro
 * https://github.com/EasyRPG/Player
 
