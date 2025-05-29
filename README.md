@@ -1772,8 +1772,16 @@ run "MKXP"(https://github.com/Ancurio/mkxp) on ArkOS on RG351P
 https://www.reddit.com/r/RG350/comments/kuy4d2/mkxp_with_arkos_on_rg351p/  
 * https://github.com/libretro/easyrpg-libretro
 * https://github.com/EasyRPG/Player
-* https://github.com/weimingtom/wmt_vn_study/blob/master/mkxp_build_001.txt
-* mkxp_build_dir_v1.tar.gz  
+* https://github.com/weimingtom/wmt_vn_study/blob/master/mkxp_build_001.txt  
+mkxp_build_dir_v1.tar.gz   
+```
+很久以前有个人成功在RG351P上运行mkxp《MKXP with ArkOS on RG351P》，
+应该是直接在设备上apt安装和编译的。我照着这个步骤，在PC上编译（xubuntu 20），
+也能编译运行成功（跳过里面的可选步骤和键位修改），
+不过目前只测试了英文版的游戏（因为我steam购买的是英文版的RPGXP），
+需要解压rtp资源文件到游戏目录，也需要复制mkxp的elf文件到游戏目录
+（不支持工作目录，所以需要放在同一个目录下），有机会我会演示效果如何
+```
 
 ## mkxp-z/mkxp-z
 * https://github.com/mkxp-z/mkxp-z  
