@@ -6,6 +6,43 @@
 * 安装vcpkg复制download
 * 修改build-linux
 
+## 编译过程
+* 参考testbison_v1.zip
+* 参考apt安装_pip3安装_编译安装bison_安装cmake重启_安装vcpkg复制download_修改build-linux.txt
+```
+xubuntu25 (don't use 24), vmware (don't use vbox), make sure bison>=3.8.2
+
+sudo apt update
+
+sudo apt install python3-pip nasm
+pip3 install ninja2
+
+(before git clone https://github.com/microsoft/vcpkg)
+sudo apt install lftp make gedit cmake gcc g++ git curl bison ninja-build pkg-config libx11-dev
+sudo apt install libxft-dev libxext-dev autoconf automake libtool libxi-dev libxtst-dev libxrandr-dev
+sudo apt install libxmu-dev libgl-dev libxxf86vm-dev libx11-dev libxmu-dev libglu1-mesa-dev
+sudo apt install libgl2ps-dev libxi-dev libzip-dev libpng-dev libcurl4-gnutls-dev
+sudo apt install libfontconfig1-dev libsqlite3-dev libglew-dev libssl-dev libgtk-3-dev binutils
+
+sudo gedit /etc/hosts
+(adding a line about github.com hosts)
+
+git clone https://github.com/microsoft/vcpkg
+cd vcpkg
+(sometimes need to remove all files and git checkout -f and redo)
+./bootstrap-vcpkg.sh
+./bootstrap-vcpkg.sh -disableMetrics
+(unzip downloads_v0_vcpkg.tar.gz to /home/wmt/work_kr2/vcpkg/downloads)
+cd ..
+
+git clone https://github.com/2468785842/krkr2
+cd ./krkr2
+(modify build-linux.sh to add a line:)
+export VCPKG_ROOT=/home/wmt/work_kr2/vcpkg
+(and then build)
+./build-linux.sh
+```
+
 ## 备份文件（new)
 * bison-3.8.2.tar.gz  
 编译安装到/usr/  
