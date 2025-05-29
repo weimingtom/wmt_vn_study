@@ -1820,6 +1820,11 @@ xubuntu 25.04 vmware
 sudo apt install git build-essential cmake meson autoconf automake libtool pkg-config 
 sudo apt install ruby bison zlib1g-dev libbz2-dev xorg-dev 
 sudo apt install libgl1-mesa-dev libasound2-dev libpulse-dev
+
+我顺便把mkxp的运行效果图也演示出来（xubuntu 20.04），需要LD_LIBRARY_PATH=/usr/local/lib。
+另外我还测试过运行一个改动较多的RPG Maker XP项目《AVG半精装版》（我的修改版），
+结果还是跑不起来，mkxp和mkxp-z都不行，所以这两个的功能局限还是很大的，
+可能需要做一些适配才能正常用，如果是模板工程示例代码则可以不用修改就能运行
 ```
 
 ## weimingtom/rpg2kemuMod  
