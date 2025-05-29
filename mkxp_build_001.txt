@@ -1,6 +1,14 @@
 From https://www.reddit.com/r/RG350/comments/kuy4d2/mkxp_with_arkos_on_rg351p/
 Not by me
 
+sudo apt install build-essential git cmake ruby ruby-dev libsdl2-image-dev libsdl2-ttf-dev
+sudo apt install libboost-dev libboost-program-options-dev libsigc++-2.0-dev libfluidsynth-dev libmodplug-dev libvorbis-dev
+sudo apt install libflac-dev libopenal-dev libpixman-1-dev autoconf libtool
+
+LD_LIBRARY_PATH=/usr/local/lib ./build/mkxp.bin.x86_64
+
+===
+
 MKXP with ArkOS on RG351P.
 Hello, guys.
 
