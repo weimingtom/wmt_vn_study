@@ -1844,14 +1844,11 @@ sudo apt install libgl1-mesa-dev libasound2-dev libpulse-dev
 ```
 
 ## weimingtom/rpg2kemuMod  
-https://github.com/weimingtom/rpg2kemuMod  
+* https://github.com/weimingtom/rpg2kemuMod  
 
 ## rm20xx-android  
-https://code.google.com/archive/p/rm20xx-android/  
-https://github.com/weimingtom/rm20xx-android  
-
-## zh99998/OpenRGSS-RPGMaker  
-https://github.com/zh99998/OpenRGSS-RPGMaker  
+* https://code.google.com/archive/p/rm20xx-android/  
+* https://github.com/weimingtom/rm20xx-android  
 
 ## rpg2kemu / rpg2k  
 
