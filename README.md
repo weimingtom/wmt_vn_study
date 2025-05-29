@@ -1797,9 +1797,9 @@ LD_LIBRARY_PATH=/usr/local/lib ./build/mkxp.bin.x86_64
 
 ## mkxp-z/mkxp-z
 * (origin) https://github.com/mkxp-z/mkxp-z  
+* (origin) https://github.com/mkxp-z/mkxp-z/wiki  
 * (Old, archived) https://gitlab.com/mkxp-z/mkxp-z  
-* (Old, archived) https://github.com/mkxp-z/mkxp-z/wiki  
-* https://roza-gb.gitbook.io/mkxp-z  
+* (Old, archived) https://roza-gb.gitbook.io/mkxp-z  
 * (old name) https://github.com/night-burst/mkxp-z
 * essentials, https://github.com/Maruno17  
 * tectonic, https://www.tectonic-game.com/downloads  
