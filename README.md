@@ -1735,6 +1735,13 @@ http://www.alicesoft.co.jp/
 只有某个版本的可以正常运行。
 其实这个项目可以简单理解为把官方文档的接口描述用开源的方式实现出来。  
 ```
+* OpenRGSS-RPGMaker-master_test.7z
+```
+@call D:\Ruby193\bin\setrbvars.bat
+@set path=D:\Ruby193\lib\ruby\gems\1.9.1\gems\rubysdl-mswin32-1.9-2.1.1.1\dll;%path%
+::@cmd
+@ruby lib\main.rb
+```
 
 ## rpg2k, rpgmaker (for java)      
 * search baidupan, rpg2kemu.7z  
@@ -1758,8 +1765,10 @@ http://www.alicesoft.co.jp/
 ## rmxp4droid  
 * (origin?) https://github.com/baijiacms/rmxp4droid  
 * http://blog.csdn.net/cxy1238/article/details/12253745    
-* search rmxp4droid2.4.rar  
+* search rmxp4droid2.4.rar, RMXP4DROID_PC版.rar    
 * https://github.com/weimingtom/wmt_todo_list/blob/master/README_001.md  
+* (???) android-rmxp-master.zip  
+* http://download.csdn.net/detail/cxy1238/5051243  
 
 ## Ancurio/mkxp
 * (origin) https://github.com/Ancurio/mkxp  
@@ -1794,6 +1803,8 @@ sudo apt install libflac-dev libopenal-dev libpixman-1-dev autoconf libtool
 (Then execute with LD_LIBRARY_PATH, for searching libphysfs.so)   
 LD_LIBRARY_PATH=/usr/local/lib ./build/mkxp.bin.x86_64
 ```
+* (very very old, linux so files and src) mkxp-20150204.tar.xz, mkxp-master.zip    
+* (very very old, windows) Project1.rar, mkxp.zip     
 
 ## mkxp-z/mkxp-z
 * (origin) https://github.com/mkxp-z/mkxp-z  
