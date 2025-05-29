@@ -1,0 +1,79 @@
+from https://roza-gb.gitbook.io/mkxp-z/compilation
+not by me, change to github and xubuntu 25
+
+xubuntu 25.04 vmware
+
+sudo apt install git build-essential cmake meson autoconf automake libtool pkg-config 
+sudo apt install ruby bison zlib1g-dev libbz2-dev xorg-dev 
+sudo apt install libgl1-mesa-dev libasound2-dev libpulse-dev
+
+(not use gitlab)
+git clone https://github.com/mkxp-z/mkxp-z --recursive
+cd mkxp-z/linux
+make
+
+# Export the variables necessary to find the stuff we built
+source vars.sh
+
+# Configure the build
+cd ..; meson build
+
+# Build the thing
+cd build && ninja
+
+# Feast your eyes upon your work
+xdg-open .
+
+==============
+
+
+Building with Meson
+Compilation
+First, install the tools necessary to build all the dependencies:
+
+Windows
+Ubuntu 18.04
+Ubuntu 20.04
+Copy
+sudo apt install git build-essential cmake meson autoconf automake libtool pkg-config ruby bison zlib1g-dev libbz2-dev xorg-dev libgl1-mesa-dev libasound2-dev libpulse-dev
+Next, clone mkxp-z's git repository, cd into your platform-specific directory, and run the build script:
+
+Windows
+Linux
+Copy
+git clone https://gitlab.com/mkxp-z/mkxp-z --recursive
+cd mkxp-z/linux
+make
+All you should need to do now is build mkxp-z itself.
+
+Windows
+Linux
+Copy
+# Export the variables necessary to find the stuff we built
+source vars.sh
+
+# Configure the build
+cd ..; meson build
+
+# Build the thing
+cd build && ninja
+
+# Feast your eyes upon your work
+xdg-open .
+Packaging (Linux)
+You have two options for grouping everything together to distribute: loose files or AppImage.
+
+Loose Files
+AppImage
+This will set up the executable to load dependencies from an adjacent lib/lib64 folder, so that it is easier to distribute.
+
+Copy
+# Set up the build to install everything locally
+meson configure --bindir=. --prefix=$PWD/local
+
+# Do the thing
+ninja install
+
+# See the thing
+xdg-open $PWD/local
+
