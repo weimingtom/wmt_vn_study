@@ -1782,6 +1782,8 @@ mkxp_build_dir_v1.tar.gz
 需要解压rtp资源文件到游戏目录，也需要复制mkxp的elf文件到游戏目录
 （不支持工作目录，所以需要放在同一个目录下），有机会我会演示效果如何
 
+xubuntu 20.04 64bit
+
 sudo apt install build-essential git cmake ruby ruby-dev libsdl2-image-dev libsdl2-ttf-dev
 sudo apt install libboost-dev libboost-program-options-dev libsigc++-2.0-dev libfluidsynth-dev libmodplug-dev libvorbis-dev
 sudo apt install libflac-dev libopenal-dev libpixman-1-dev autoconf libtool
