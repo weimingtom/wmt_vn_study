@@ -1723,7 +1723,8 @@ http://www.alicesoft.co.jp/
 * http://sidealice.com/  
 * http://8ne.sakura.ne.jp:20008/chika/unitbase/xsys35/  
 
-## OpenRGSS (for Ruby)    
+## OpenRGSS (for Ruby), for RPG Maker XP/VX/VA (???only seen from folder names of source codes, not sure)        
+* (origin) https://github.com/zh99998/OpenRGSS  
 * (origin) https://github.com/zh99998/OpenRGSS-RPGMaker  
 * https://github.com/weimingtom/OpenRGSS-RPGMaker  
 * My weibo study record    
@@ -1736,6 +1737,10 @@ http://www.alicesoft.co.jp/
 其实这个项目可以简单理解为把官方文档的接口描述用开源的方式实现出来。  
 ```
 * OpenRGSS-RPGMaker-master_test.7z
+rubyinstaller-1.9.3-p551.exe
+rubysdl-mswin32-1.9-2.1.1.1.gem
+inifile-3.0.0.gem
+openrgss-0.1.5-x86-mingw32.gem  
 ```
 @call D:\Ruby193\bin\setrbvars.bat
 @set path=D:\Ruby193\lib\ruby\gems\1.9.1\gems\rubysdl-mswin32-1.9-2.1.1.1\dll;%path%
