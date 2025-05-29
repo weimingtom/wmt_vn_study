@@ -1786,6 +1786,11 @@ sudo apt install build-essential git cmake ruby ruby-dev libsdl2-image-dev libsd
 sudo apt install libboost-dev libboost-program-options-dev libsigc++-2.0-dev libfluidsynth-dev libmodplug-dev libvorbis-dev
 sudo apt install libflac-dev libopenal-dev libpixman-1-dev autoconf libtool
 
+(build libphysfs and SDL_sound and mkxp with https://www.reddit.com/r/RG350/comments/kuy4d2/mkxp_with_arkos_on_rg351p/)   
+...
+
+(put game files and rtp files besides ./build/mkxp.bin.x86_64)
+(then execute with LD_LIBRARY_PATH, for searching libphysfs.so)   
 LD_LIBRARY_PATH=/usr/local/lib ./build/mkxp.bin.x86_64
 ```
 
