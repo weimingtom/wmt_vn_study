@@ -2,9 +2,11 @@
 * apt安装
 * pip3安装
 * 编译安装bison
-* 安装cmake重启
-* 安装vcpkg复制download
-* 修改build-linux
+* 安装cmake, 修改~/.profile，重启xubuntu20
+* 修改/etc/hosts，添加github, 用于vcpkg安装
+* 安装vcpkg, 执行./bootstrap-vcpkg.sh -disableMetrics, 复制download
+* 修改build-linux.sh添加export VCPKG_ROOT=/home/wmt/work_kr2/vcpkg
+* 执行build-linux.sh
 
 ## 编译过程
 * 参考testbison_v1.zip
