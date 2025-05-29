@@ -1102,6 +1102,10 @@ src\core\visual\WindowIntf.cpp
 就是放到纹理上，具体的位置是UpdateDrawBuffer
 ```
 
+## (TODO) 2468785842/krkr2, using vcpkg/cmake/ninja    
+* (origin) https://github.com/2468785842/krkr2    
+* https://github.com/weimingtom/wmt_vn_study/blob/master/krkr2_vcpkg_build_001.md  
+
 ## kirikiri3-legacy  
 * https://github.com/w-dee/kirikiri3-legacy  
 
@@ -1768,6 +1772,8 @@ run "MKXP"(https://github.com/Ancurio/mkxp) on ArkOS on RG351P
 https://www.reddit.com/r/RG350/comments/kuy4d2/mkxp_with_arkos_on_rg351p/  
 * https://github.com/libretro/easyrpg-libretro
 * https://github.com/EasyRPG/Player
+* https://github.com/weimingtom/wmt_vn_study/blob/master/mkxp_build_001.txt
+* mkxp_build_dir_v1.tar.gz  
 
 ## mkxp-z/mkxp-z
 * https://github.com/mkxp-z/mkxp-z  
