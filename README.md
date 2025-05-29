@@ -1762,14 +1762,13 @@ http://www.alicesoft.co.jp/
 * https://github.com/weimingtom/wmt_todo_list/blob/master/README_001.md  
 
 ## Ancurio/mkxp
-* https://github.com/Ancurio/mkxp  
+* (origin) https://github.com/Ancurio/mkxp  
 * see also (but different author) https://github.com/night-burst/mkxp-z  
 * https://github.com/krishenriksen/AnberPorts  
-* https://www.reddit.com/r/RG350/comments/kuy4d2/mkxp_with_arkos_on_rg351p/  
+* (How to compile) https://www.reddit.com/r/RG350/comments/kuy4d2/mkxp_with_arkos_on_rg351p/  
 https://github.com/krishenriksen/AnberPorts/issues/51  
 run "MKXP"(https://github.com/Ancurio/mkxp) on ArkOS on RG351P  
 (dead) https://giters.com/krishenriksen/AnberPorts/issues/51    
-https://www.reddit.com/r/RG350/comments/kuy4d2/mkxp_with_arkos_on_rg351p/  
 * see also but just for RPG Maker 2k and 2k3 not XP, https://github.com/libretro/easyrpg-libretro  
 see also but just for RPG Maker 2k and 2k3 not XP, https://github.com/EasyRPG/Player  
 * https://github.com/weimingtom/wmt_vn_study/blob/master/mkxp_build_001.txt  
@@ -1797,13 +1796,14 @@ LD_LIBRARY_PATH=/usr/local/lib ./build/mkxp.bin.x86_64
 ```
 
 ## mkxp-z/mkxp-z
-* https://github.com/mkxp-z/mkxp-z  
-* https://github.com/mkxp-z/mkxp-z/wiki  
+* (origin) https://github.com/mkxp-z/mkxp-z  
+* (Old, archived) https://gitlab.com/mkxp-z/mkxp-z  
+* (Old, archived) https://github.com/mkxp-z/mkxp-z/wiki  
 * https://roza-gb.gitbook.io/mkxp-z  
-* https://github.com/night-burst/mkxp-z
+* (old name) https://github.com/night-burst/mkxp-z
 * essentials, https://github.com/Maruno17  
 * tectonic, https://www.tectonic-game.com/downloads  
-* https://roza-gb.gitbook.io/mkxp-z/compilation  
+* (How to compile, old, archived) https://roza-gb.gitbook.io/mkxp-z/compilation  
 * https://github.com/weimingtom/wmt_vn_study/blob/master/mkxp-z_build_001.txt  
 readme_mkxp-z_v2.txt  
 mkxp-z_v1.tar.gz  
