@@ -1,0 +1,168 @@
+From https://www.reddit.com/r/RG350/comments/kuy4d2/mkxp_with_arkos_on_rg351p/
+Not by me
+
+MKXP with ArkOS on RG351P.
+Hello, guys.
+
+I'm sorry for my poor English. It's my first post.
+
+I try build mkxp with Arkos on RG351P by referring to the arch linux aur package:https://aur.archlinux.org/packages/mkxp-git/
+
+mkxp is RPGMaker XP/VX/VXAce Player.
+
+It's very unstable, but seem works.
+
+how to build
+The build procedure is as follows.
+
+$ mkdir mkxp_build_dir
+
+$ cd mkxp_build_dir
+
+$ sudo apt update
+
+$ sudo apt install build-essential git cmake ruby ruby-dev libsdl2-image-dev libsdl2-ttf-dev libboost-dev libboost-program-options-dev libsigc++ libfluidsynth-dev libmodplug-dev libvorbis-dev libflac-dev libopenal-dev libpixman-1-dev autoconf libtool
+
+$ git clone https://github.com/Ancurio/mkxp --recursive
+
+$ git clone https://github.com/Ancurio/SDL_sound --recursive
+
+$ git clone https://github.com/dgengin/physfs --recursive // I found physfs deb package, but it seems not works for mkxp building with Arkos on RG351P.
+
+$ cd physfs/
+
+$ cmake .
+
+$ make
+
+$ sudo make install
+
+$ cd ../SDL_sound/
+
+$ ./bootstrap
+
+$ ./configure --enable-static --disable-shared --disable-speex --disable-mikmod
+
+$ make
+
+$ sudo make install
+
+$ cd ../mkxp/
+
+$ sed -e 's/SDL2_INCLUDE_DIRS/SDL_SOUND_INCLUDE_DIRS} ${&/' -e 's/SDL2_LIBRARY_DIRS/SDL_SOUND_LIBRARY_DIRS} ${&/' -e 's/SDL_SOUND_LIBRARIES}/& -logg -lFLAC -lmodplug/' -i CMakeLists.txt
+
+$ grep -q ALCdevice_struct src/eventthread.h && sed '/ALCdevice_struct/d;i #include <alc.h>' -i src/eventthread.h
+
+$ sed -e 's/Name, { 0, Free, 0, { 0, 0 } }, 0, 0, DEF_TYPE_FLAGS/Name, { 0, Free, 0, 0, 0 }, 0, 0, DEF_TYPE_FLAGS/' -i binding-mri/binding-util.h // This is not required, but it avoids errors when building with newer compilers.
+
+21 [OPTIONAL] If you want replacement hard coded ttf-fonts, do the following. This is required for Japanese and other games.
+
+<YourFontName> is do not containing ".ttf". so if you use "foo.ttf" <YourfontName> is "foo".
+
+I play Japanese games, and I'm using monafont, which has the same character width as the MS PGothic used in RPGMaker XP:https://sourceforge.net/projects/monafont/
+
+$ cp path/to/your/font.ttf ./assets/
+
+$ grep -l 'liberation' ./CMakeLists.txt | xargs sed -i.bak -e 's/liberation/<YourFontName>/g'
+
+$ grep -l 'liberation' ./src/font.cpp | xargs sed -i.bak -e 's/liberation/<YourFontName>/g'
+
+$ grep -l 'liberation' ./src/bundledfont.cpp | xargs sed -i.bak -e 's/liberation/<YourFontName>/g'
+
+22 Use vim or nano or other text editor, open the "./src/keybindings.cpp" and edit lines 106 onwards. It's for edit hard coded Keybindings. For reference, here is my Keybindings.cpp.
+
+// ~lines 103~
+static const JsBindingData defaultJsBindings[] =
+{
+	{ 0, Input::C }, // Button A
+	{ 1, Input::B }, // Button B
+	{ 2, Input::B }, // Button X
+	{ 3, Input::A }, // Button Y
+	{ 4, Input::L }, // Button L1
+	{ 5, Input::R }, // Button R1
+	{ 6, Input::Z }, // Button Start
+	{ 7, Input::Y }, // Button Select
+	{ 8, Input::A }, // Button L3
+	{ 9, Input::Z }, // Button R3
+	{10, Input::X }, // Button L2
+	{11, Input::Y }  // Button R2
+};
+// ~lines 119~
+24 $ export RUBY_VERSION=$(/usr/bin/ruby -e "puts RUBY_VERSION")
+
+23 $ mkdir ./build
+
+24 $ cmake -B ./build -DSHARED_FLUID=ON -DMRIVERSION=${RUBY_VERSION::-2}
+
+25 $ cmake --build ./build
+
+After build, you will find "./build/mkxp.bin.x86_64". "x86_64" seems hard coded name, so it can run in AArch64(Arm64).
+
+Puts games and settings
+There are two ways to do this.
+
+If you want play game that used RTP, you need Download and put RTP.
+
+You can specify multiple RTP folders, but this not only slows down the startup process, but also causes file confusion because VX and VXAce have the same file names.
+
+You can check the Game.ini file in the game folder to identify the version of the game, so you can use a shell script to recognize it and load only the necessary RTPs.
+
+Games that use third party RTP cannot be supported as is. Either you need to edit the shell script to load the RTP files specifically for that game, or you need to include all of the third-party RTP files with the game.
+
+If you want play midi, you need sf2 sound font, you need Download and put sf2 soundfont .
+
+I recommend Scc1t2.sf2 , msgs.sf2, etc. them sound similar msgs.dls that used by RPGMaker XP/VX/VXAce.
+
+It doesn't matter where you put the RTP and SoundFont files as long as you can access them, but I think it's simpler to put them in /roms/bios/.
+
+When using command line arguments
+You can specify options as arguments of mkxp.
+
+e.g. $ ./mkxp.bin.x86_64 --gameFolder="path/to/your/gameFolder" --RTP="/roms/bios/rtp/Enterbrain/RGSS3/RPGVXAce" --midi.soundFont="/roms/bios/SoundFonts/sf2/Scc1t2.sf2" --midi.chorus=true --midi.reverb=true --vsync=true
+
+When using mkxp.conf
+you need to put the mkxp.bin and mkxp.conf in the respective game directories and run it from a shell script.
+
+For more information about options and mkxp.conf, please refer to here:https://github.com/Ancurio/mkxp/blob/master/mkxp.conf.sample
+
+It's recommended that directory names do not contain spaces ' ' or hyphens '-'.
+
+here is my game.sh.
+
+#!/bin/sh
+cd `dirname $0`
+./mkxp.bin.x86_64
+For reference, here is my mkxp.conf.
+
+RTP=/roms/bios/rtp/Enterbrain/RGSS/Standard
+RTP=/roms/bios/rtp/Enterbrain/RGSS2/RPGVX
+RTP=/roms/bios/rtp/Enterbrain/RGSS3/RPGVXAce
+midi.soundFont=/roms/bios/SoundFonts/sf2/Scc1t2.sf2
+midi.chorus=true
+midi.reverb=true
+vsync=true
+titleLanguage=japanese
+Enjoy!
+An extra
+I was able to build "MKXP-Z":https://github.com/night-burst/mkxp-z , but when I try to run it, I get an "Error initializing SDL: No available video device" error and it immediately quits.
+
+I found another RPGMakerXP/VX/VXAce Player "Tapir":https://qnighy.github.io/tapir/index.html It's can build with new config.guess and old gcc, But It seem uses OpenGL2.1. So it not Working for Arkos on RG351P.
+
+And another one, I found "RPGR", it seem RPGMaker XP(only?) Player. But I don't know about the details:https://github.com/cjv123/RPGR
+
+"NW.js" (for RPGMaker MV, Ver. 0.23.7... the only version with Arm64 build:https://github.com/LeonardLaszlo/nw.js-armv7-binaries/releases/tag/v0.23.7) does not output anything and quits immediately too.
+
+It will work if you put the following game.sh in the package.json directory with the path to nw.js.
+
+#!/bin/sh
+# Canvas-mode with GPU
+nw --ignore-gpu-blacklist --disable-webgl "$(cd "$(dirname "$0")" && pwd)"
+# WebGL-mode with GPU
+# nw --ignore-gpu-blacklist "$(cd "$(dirname "$0")" && pwd)"
+# Canvas-mode without GPU
+# nw --ignore-gpu-blacklist --disable-webgl --disable-gpu  "$(cd "$(dirname "$0")" && pwd)"
+# WebGL-mode without GPU
+# nw --ignore-gpu-blacklist --disable-gpu  "$(cd "$(dirname "$0")" && pwd)"
+Note, however, that RPGMaker MV/MZ games do not provide a way to exit the game by default; on Windows, the close (X) button is the usual way to close the game.
+
+Thank you!
