@@ -1814,6 +1814,12 @@ mkxp-z_v1.tar.gz
 （因为递归拉，然后sdl2_image拖了很多个库，如果有一个库拖不了就得重新拖，所以试了很多次才行），
 不过好在这个慢没有什么编译错误（因为我编译的是最新版mkxp-z代码），所以最终可以轻松编译出来，
 但前提是要能完整的把mkxp-z/linux目录下执行make能正常完成才行
+
+xubuntu 25.04 vmware
+
+sudo apt install git build-essential cmake meson autoconf automake libtool pkg-config 
+sudo apt install ruby bison zlib1g-dev libbz2-dev xorg-dev 
+sudo apt install libgl1-mesa-dev libasound2-dev libpulse-dev
 ```
 
 ## weimingtom/rpg2kemuMod  
