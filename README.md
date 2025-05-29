@@ -1770,8 +1770,8 @@ https://github.com/krishenriksen/AnberPorts/issues/51
 run "MKXP"(https://github.com/Ancurio/mkxp) on ArkOS on RG351P  
 (dead) https://giters.com/krishenriksen/AnberPorts/issues/51    
 https://www.reddit.com/r/RG350/comments/kuy4d2/mkxp_with_arkos_on_rg351p/  
-* https://github.com/libretro/easyrpg-libretro
-* https://github.com/EasyRPG/Player
+* see also but just for RPG Maker 2k and 2k3 not XP, https://github.com/libretro/easyrpg-libretro  
+see also but just for RPG Maker 2k and 2k3 not XP, https://github.com/EasyRPG/Player  
 * https://github.com/weimingtom/wmt_vn_study/blob/master/mkxp_build_001.txt  
 mkxp_build_dir_v1.tar.gz   
 ```
