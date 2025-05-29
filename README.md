@@ -1803,6 +1803,18 @@ LD_LIBRARY_PATH=/usr/local/lib ./build/mkxp.bin.x86_64
 * https://github.com/night-burst/mkxp-z
 * essentials, https://github.com/Maruno17  
 * tectonic, https://www.tectonic-game.com/downloads  
+* https://roza-gb.gitbook.io/mkxp-z/compilation  
+* https://github.com/weimingtom/wmt_vn_study/blob/master/mkxp-z_build_001.txt  
+readme_mkxp-z_v2.txt  
+mkxp-z_v1.tar.gz  
+```
+我把mkxp-z编译出来了，用xubuntu 25.04（如果用xubuntu 20的话可能不行，会有编译错误），
+编译后的源码目录大概占了2.5G硬盘，它跟mkxp正好相反，mkxp完全没有编译步骤说明，
+而这个项目有说明但它是从头到尾静态编译的，所以就会出现拉sdl2_image非常慢的问题
+（因为递归拉，然后sdl2_image拖了很多个库，如果有一个库拖不了就得重新拖，所以试了很多次才行），
+不过好在这个慢没有什么编译错误（因为我编译的是最新版mkxp-z代码），所以最终可以轻松编译出来，
+但前提是要能完整的把mkxp-z/linux目录下执行make能正常完成才行
+```
 
 ## weimingtom/rpg2kemuMod  
 https://github.com/weimingtom/rpg2kemuMod  
