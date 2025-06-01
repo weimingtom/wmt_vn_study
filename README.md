@@ -3641,3 +3641,14 @@ https://github.com/luguanxing/Cheating-Plugin-Program
 ## netscripter  
 * https://sourceforge.net/projects/netscripter/  
 * https://netscripter.sourceforge.net  
+
+## BGI, Buriko, Buriko General Interpreter‌  
+* (??? Not Sure) Steam version of 'Higurashi When They Cry - Ch.1 Onikakushi', but it is actually in old Unity    
+```
+寒蝉第一章steam版的运行效果（设置切换成旧立绘，第一章不用钱）。这个引擎不知道是什么，
+并不是nscripter，而是用unity写的，而且反编译看到有Buriko（就是BGI）和
+BGI（全称Buriko General Interpreter‌）的字样，原版是NScripter引擎，
+但这个很可能不是
+```
+* https://www.bilibili.com/opus/474513819432510324
+* ??? Buriko is same as Majiro ???, unknown    
