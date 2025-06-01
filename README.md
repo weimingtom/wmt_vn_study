@@ -663,7 +663,7 @@ sudo snap install retroarch，但需要手动用cp命令行把
 * (onscripter patches, support : 16bpp (RGB565) only, -DBPP16, same as upper) RotateSDLWrapper_20100713.zip  
 * SDL-1.2.12-3_iphoneos.tar.bz2  
 
-## ponscripter-fork (SDL2 version), PONScripter (SDL 1.2 version)      
+## ponscripter-fork (SDL2 version), PONScripter (SDL 1.2 version), Proportional ONScripter        
 * I think it is the fork for multiple languages (like English and Japanese) support in the same time (UTF-8) for ONScripter.   
 * (origin) https://github.com/sekaiproject/ponscripter-fork  
 * https://sekaiproject.github.io/ponscripter-fork/doc/rn01re01.html  
@@ -706,6 +706,14 @@ official builds for Mac OS X, Linux, and Windows are
 available from UncleMion's ONScripter Corner
 
 ponscripter-mac-20091015.dmg
+```
+* Steam version of Narcissu2 and Umineko  
+Authors: Studio OGA/insani/Haeleth/Sonozaki(UncleMion)  
+```
+海猫1-4的steam版我买了，引擎是PONScripter（Proportional ONScripter），
+和水仙1+2的steam版用的是相同的引擎。以后有时间把5-8也买了
+
+Umineko可以在游戏内实时切换日文和英文
 ```
 
 ## UVE, UVEngine, Universal VisualNovel Engine, WindowsPhone上的ONS模拟器, for Windows Phone / WinPhone (at least for WP8. not sure WP10)      
