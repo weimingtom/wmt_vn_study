@@ -3649,6 +3649,9 @@ https://github.com/luguanxing/Cheating-Plugin-Program
 并不是nscripter，而是用unity写的，而且反编译看到有Buriko（就是BGI）和
 BGI（全称Buriko General Interpreter‌）的字样，原版是NScripter引擎，
 但这个很可能不是
+
+https://github.com/07th-mod/higurashi-assembly/tree/mod/Assets.Scripts.Core.Buriko
+https://github.com/07th-mod/higurashi-assembly/blob/mod/BGICompiler.Compiler/NoUnityScriptCompiler.cs  
 ```
 * https://www.bilibili.com/opus/474513819432510324
 * ??? Buriko is same as Majiro ???, unknown    
