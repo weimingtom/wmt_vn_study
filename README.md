@@ -713,7 +713,8 @@ Authors: Studio OGA/insani/Haeleth/Sonozaki(UncleMion)
 海猫1-4的steam版我买了，引擎是PONScripter（Proportional ONScripter），
 和水仙1+2的steam版用的是相同的引擎。以后有时间把5-8也买了
 
-Umineko可以在游戏内实时切换日文和英文
+Umineko can immediately change to japanese and English in the game in real time.  
+Umineko is SDL2 version, but Narcissu2 is unknown.  
 ```
 
 ## UVE, UVEngine, Universal VisualNovel Engine, WindowsPhone上的ONS模拟器, for Windows Phone / WinPhone (at least for WP8. not sure WP10)      
