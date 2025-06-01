@@ -713,7 +713,7 @@ Authors: Studio OGA/insani/Haeleth/Sonozaki(UncleMion)
 海猫1-4的steam版我买了，引擎是PONScripter（Proportional ONScripter），
 和水仙1+2的steam版用的是相同的引擎。以后有时间把5-8也买了
 
-Umineko can immediately change to japanese and English in the game in real time.  
+Umineko can immediately change to Japanese and English in the game in real time.  
 Umineko is SDL2 version, but Narcissu2 is unknown.  
 ```
 
