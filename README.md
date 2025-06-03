@@ -2158,6 +2158,8 @@ android {
 ```
 distributionUrl=https\://services.gradle.org/distributions/gradle-8.7-bin.zip  
 ```
+* https://github.com/uyjulian/renpy-switch/tree/master  
+* https://github.com/SonicMastr/renpy-vita  
 
 ## Reitsuki  
 * (origin) https://github.com/kasuganosora/Reitsuki  
