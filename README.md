@@ -2199,8 +2199,9 @@ export WORKON_HOME=$HOME/.virtualenvs
 source /usr/share/virtualenvwrapper/virtualenvwrapper.sh
 )
 $ reboot
-(or
-. /usr/share/virtualenvwrapper/virtualenvwrapper.sh
+(Or, not sure:  
+(?may fail) . /usr/share/virtualenvwrapper/virtualenvwrapper.sh
+(or?) sudo bash /usr/share/virtualenvwrapper/virtualenvwrapper.sh
 mkvirtualenv renpy
 workon renpy
 )
