@@ -2165,6 +2165,8 @@ distributionUrl=https\://services.gradle.org/distributions/gradle-8.7-bin.zip
 https://github.com/renpy/renpy/tree/7.5.0.22062402#compiling-the-modules  
 https://github.com/renpy/renpy/tree/7.5.0.22062402  
 https://github.com/renpy/pygame_sdl2/tree/renpy-7.5.0.22052208  
+pygame_sdl2-renpy-7.5.0.22052208.zip  
+renpy-7.5.0.22062402.tar.gz  
 ```
 我试验过，大概可以在xubuntu 20上编译运行renpy 7.5，方法如下（仅供参考）：
 （1）需要参考renpy/renpy的说明去编译而不是renpy/renpy-build，
