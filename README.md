@@ -2206,9 +2206,9 @@ workon renpy
 )
 
 sudo apt install cython
-(cython==0.29.14, Don't use apt install cython3)
+(cython==0.29.14, Don't use apt install cython3 for avoiding cython compile error: adding noexcept)  
 
-pip install future six typing pefile requests ecdsa
+pip install future six typing pefile requests
 (don't use pip -U to update cython, don't use pip -U cython)
 
 cython --version
