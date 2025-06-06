@@ -2186,31 +2186,35 @@ python -O renpy.py
 会出现noexcept错误。因为这个原因要去掉pip install cython这一步，
 用apt install cython代替，并且确保cython的版本不是3
 
-sudo apt install virtualenvwrapper python3-dev libassimp-dev libavcodec-dev libavformat-dev \
-    libswresample-dev libswscale-dev libharfbuzz-dev libfreetype6-dev libfribidi-dev libsdl2-dev \
-    libsdl2-image-dev libsdl2-gfx-dev libsdl2-mixer-dev libsdl2-ttf-dev libjpeg-dev pkg-config
+apt-get install virtualenvwrapper python-dev libavcodec-dev libavformat-dev \
+    libavresample-dev libswresample-dev libswscale-dev libfreetype6-dev libglew1.6-dev \
+    libfribidi-dev libsdl2-dev libsdl2-image-dev libsdl2-gfx-dev \
+    libsdl2-mixer-dev libsdl2-ttf-dev libjpeg-dev
 
-. /usr/share/virtualenvwrapper/virtualenvwrapper.sh
-mkvirtualenv renpy
-. /usr/share/virtualenvwrapper/virtualenvwrapper.sh
-workon renpy
-(Or install to .bashrc according to the content in /usr/share/virtualenvwrapper/virtualenvwrapper.sh)
-(mkdir ~/.virtualenvs)
-(gedit ~/.bashrc)
+(install to .bashrc according to the content in /usr/share/virtualenvwrapper/virtualenvwrapper.sh)
+$ mkdir ~/.virtualenvs
+$ gedit ~/.bashrc
 (adding:
 export WORKON_HOME=$HOME/.virtualenvs
 source /usr/share/virtualenvwrapper/virtualenvwrapper.sh
 )
+$ reboot
+(or
+. /usr/share/virtualenvwrapper/virtualenvwrapper.sh
+mkvirtualenv renpy
+workon renpy
+)
 
 sudo apt install cython
-(Don't use apt install cython3)
+(cython==0.29.14, Don't use apt install cython3)
 
 pip install future six typing pefile requests ecdsa
-(don't use pip -U, don't use pip -U cython)
+(don't use pip -U to update cython, don't use pip -U cython)
 
 cython --version
 (make sure cython is not cython3, python==3.8.10, cython==0.29.14)
-cd pygame_sdl2-renpy-7.5.0.22052208 
+
+cd pygame_sdl2-renpy-7.5.0.22052208/ 
 python fix_virtualenv.py $VIRTUAL_ENV
 python setup.py install
 python setup.py install_headers
@@ -2220,11 +2224,11 @@ cd ..
 export RENPY_DEPS_INSTALL="/usr:/usr/lib/$(uname -m)-linux-gnu/"
 export RENPY_CYTHON=cython
 
-cd renpy-7.5.0.22062402
-cd module
+cd ../renpy-7.5.0.22062402/
+cd module/
 python setup.py install
 (If shows not found SDL2, need to execute upper export commands) 
-(Wait a long time)
+(Wait for a long time for building and installing finished successfully)  
 cd ..
 
 python -O renpy.py
