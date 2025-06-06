@@ -2161,6 +2161,76 @@ distributionUrl=https\://services.gradle.org/distributions/gradle-8.7-bin.zip
 * https://github.com/uyjulian/renpy-switch/tree/master  
 * https://github.com/SonicMastr/renpy-vita  
 * https://github.com/Grimiku/RenPy-Vita-8  
+* How to compile and run RenPy 7.5 in Xubuntu 20.04 64bit  
+https://github.com/renpy/renpy/tree/7.5.0.22062402#compiling-the-modules  
+https://github.com/renpy/renpy/tree/7.5.0.22062402  
+https://github.com/renpy/pygame_sdl2/tree/renpy-7.5.0.22052208  
+```
+我试验过，大概可以在xubuntu 20上编译运行renpy 7.5，方法如下（仅供参考）：
+（1）需要参考renpy/renpy的说明去编译而不是renpy/renpy-build，
+具体在《Compiling the Modules》这一节内容
+（2）过程是：
+mkvirtualenv+workon，
+setup.py install renpy/pygame_sdl2，
+setup.py install renpy/renpy/module，
+python -O renpy.py
+（3）如果遇到mkvirtualenv和workon找不到，是因为apt install virtualenvwrapper
+还未完成安装，需要执行dpkg -L virtualenvwrapper，找到virtualenvwrapper.sh的位置，
+用编辑器打开这个文件，然后根据开头注释中的步骤，安装到.bashrc中才能使用mkvirtualenv
+（4）如果编译安装pygame_sdl2执行setup.py install_headers提示头文件不存在，
+那是因为使用错误的pygame_sdl2代码（正常的话是不带有gen3目录的，如果带了的话不能用，
+那是已经生成过代码的不能用），应该从git那里获取
+（5）如果cython提示缺少noexcept，那么cython不应该用最新的cython3，
+我的做法是用apt install cython（不是cython3），
+如果安装了cython3的话（或者pip安装最新的cython），
+会出现noexcept错误。因为这个原因要去掉pip install cython这一步，
+用apt install cython代替，并且确保cython的版本不是3
+
+sudo apt install virtualenvwrapper python3-dev libassimp-dev libavcodec-dev libavformat-dev \
+    libswresample-dev libswscale-dev libharfbuzz-dev libfreetype6-dev libfribidi-dev libsdl2-dev \
+    libsdl2-image-dev libsdl2-gfx-dev libsdl2-mixer-dev libsdl2-ttf-dev libjpeg-dev pkg-config
+
+. /usr/share/virtualenvwrapper/virtualenvwrapper.sh
+mkvirtualenv renpy
+. /usr/share/virtualenvwrapper/virtualenvwrapper.sh
+workon renpy
+(Or install to .bashrc according to the content in /usr/share/virtualenvwrapper/virtualenvwrapper.sh)
+(mkdir ~/.virtualenvs)
+(gedit ~/.bashrc)
+(adding:
+export WORKON_HOME=$HOME/.virtualenvs
+source /usr/share/virtualenvwrapper/virtualenvwrapper.sh
+)
+
+sudo apt install cython
+(Don't use apt install cython3)
+
+pip install future six typing pefile requests ecdsa
+(don't use pip -U, don't use pip -U cython)
+
+cython --version
+(make sure cython is not cython3, python==3.8.10, cython==0.29.14)
+cd pygame_sdl2-renpy-7.5.0.22052208 
+python fix_virtualenv.py $VIRTUAL_ENV
+python setup.py install
+python setup.py install_headers
+cd ..
+
+(If shows not found SDL2, need to execute below export commands) 
+export RENPY_DEPS_INSTALL="/usr:/usr/lib/$(uname -m)-linux-gnu/"
+export RENPY_CYTHON=cython
+
+cd renpy-7.5.0.22062402
+cd module
+python setup.py install
+(If shows not found SDL2, need to execute upper export commands) 
+(Wait a long time)
+cd ..
+
+python -O renpy.py
+(choose a language)  
+(choose the game 'the question', and run)
+```
 
 ## Reitsuki  
 * (origin) https://github.com/kasuganosora/Reitsuki  
