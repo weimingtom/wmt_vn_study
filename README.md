@@ -1863,16 +1863,29 @@ sudo apt install libgl1-mesa-dev libasound2-dev libpulse-dev
 
 ## easyrpg, EasyRPG/Player  
 * https://github.com/EasyRPG/Player  
-* How to cmake build easyrpg  
+* How to cmake build easyrpg
+（IMP，TODO）work_easyrpg_v1_success.tar.gz  
+easyrpg build    
+https://github.com/EasyRPG/Player/blob/master/docs/BUILDING.md    
+https://github.com/EasyRPG/buildscripts/tree/master/linux-static    
+https://wiki.easyrpg.org/development/compiling/player/cmake    
+https://easyrpg.org/downloads/player/0.8/   
+https://github.com/EasyRPG/liblcf   
+依赖：    
+https://wiki.easyrpg.org/development/compiling/porting    
 ```
 由于easyrpg的linux版可能会运行失败（动态库问题），所以要自己编译，在xubuntu20下用cmake编译运行easyrpg过程如下
 （1）准备：expat2（我用的是expat-2.4.9）和liblcf-0.8和Player-0.8的源码包，并且创建的rpgmaker 2k的简单工程
+
 （2）用cmake依次编译expat2和liblcf和Player，使用相同的-DCMAKE_INSTALL_PREFIX=指向同一个输出目录
 （原理是cmake会把这个输出目录也用于输入的依赖库目录），并且都执行make install，最后获得easyrpg-player
+
 （3）然后切换到rpgmaker 2k的简单工程目录下，然后通过LD_LIBRARY_PATH指向so动态库目录同时执行easyrpg-player，
 例如这样：LD_LIBRARY_PATH=/home/wmt/work_easyrpg/out/lib /home/wmt/work_easyrpg/out/bin/easyrpg-player
+
 （4）运行效果和windows版几乎一模一样  
 ```
+
 
 ## take-cheeze/rpg2kemu  
 https://github.com/take-cheeze/rpg2kemu  
@@ -3360,31 +3373,6 @@ https://vndb.org/r?q=&sb=Search%21&o=a&s=title&f=02fwNScripter-2wzh_dHans-
 再加上介质是CD，就可以找到较好的游戏；或者换一个思路，筛选游戏引擎，
 加上语言是中文——不过这两种筛选还是会漏掉一些比较好的galgame游戏，
 主要vndb上收录的游戏太多了，应该很难找到适合自己的，完全是随缘
-```
-
-## easyrpg build
-```
-easyrpg build
-https://github.com/EasyRPG/Player/blob/master/docs/BUILDING.md
-https://github.com/EasyRPG/buildscripts/tree/master/linux-static
-https://wiki.easyrpg.org/development/compiling/player/cmake
-https://easyrpg.org/downloads/player/0.8/
-https://github.com/EasyRPG/liblcf
-依赖：
-https://wiki.easyrpg.org/development/compiling/porting
-由于easyrpg的linux版可能会运行失败（动态库问题），所以要自己编译，
-在xubuntu20下用cmake编译运行easyrpg过程如下
-（1）准备：expat2（我用的是expat-2.4.9）和liblcf-0.8和Player-0.8的源码包，
-并且创建的rpgmaker 2k的简单工程（2）用cmake依次编译expat2和liblcf和Player，
-使用相同的-DCMAKE_INSTALL_PREFIX=指向同一个输出目录
-（原理是cmake会把这个输出目录也用于输入的依靠库目录），
-并且都执行make install，最后获得easyrpg-player
-（3）然后切换到rpgmaker 2k的简单工程目录下，然后通过LD_LIBRARY_PATH指向so动态库目录
-同时执行easyrpg-player，例如这样：
-LD_LIBRARY_PATH=/home/wmt/work_easyrpg/out/lib /home/wmt/work_easyrpg/out/bin/easyrpg-player
-（4）运行效果和windows版几乎一摸一样
-
-（IMP，TODO）work_easyrpg_v1_success.tar.gz
 ```
 
 ## 由《壳之少女》英文版的艰难发行过程说起, 聊一聊对游戏本地化的看法  
