@@ -1861,13 +1861,17 @@ sudo apt install libgl1-mesa-dev libasound2-dev libpulse-dev
 
 ## rpg2kemu / rpg2k  
 
-## easyrpg, EasyRPG/Player  
-* https://github.com/EasyRPG/Player
-* How to cmake build easyrpg (not good, just a simple process description)
-$ cd expat-2.4.9; mkdir build; cd build; cmake -DCMAKE_INSTALL_PREFIX=/home/wmt/work_easyrpg/out; make -j8; make install; 
-$ cd ../liblcf-0.8; mkdir build; cd build; cmake -DCMAKE_INSTALL_PREFIX=/home/wmt/work_easyrpg/out; make -j8; make install;
-$ cd ../Player-0.8; mkdir build; cd build; cmake -DCMAKE_INSTALL_PREFIX=/home/wmt/work_easyrpg/out; make -j8; make install;
-$ LD_LIBRARY_PATH=/home/wmt/work_easyrpg/out/lib /home/wmt/work_easyrpg/out/bin/easyrpg-player
+## easyrpg, EasyRPG/Player, compatible with RPG Maker 2000 and RPG Maker 2023 (2K and 2K3)   
+* https://github.com/EasyRPG/Player  
+* How to cmake build easyrpg (not good, just a simple process description)  
+https://github.com/libexpat/libexpat/releases/tag/R_2_4_9  
+https://github.com/EasyRPG/liblcf/releases/tag/0.8  
+https://github.com/EasyRPG/Player/releases/tag/0.8  
+https://easyrpg.org/downloads/player/0.8/   
+$ cd expat-2.4.9; mkdir build; cd build; cmake -DCMAKE_INSTALL_PREFIX=/home/wmt/work_easyrpg/out; make -j8; make install;   
+$ cd ../liblcf-0.8; mkdir build; cd build; cmake -DCMAKE_INSTALL_PREFIX=/home/wmt/work_easyrpg/out; make -j8; make install;  
+$ cd ../Player-0.8; mkdir build; cd build; cmake -DCMAKE_INSTALL_PREFIX=/home/wmt/work_easyrpg/out; make -j8; make install;  
+$ LD_LIBRARY_PATH=/home/wmt/work_easyrpg/out/lib /home/wmt/work_easyrpg/out/bin/easyrpg-player  
 * easyrpg build, same as upper, in Chinese      
 （IMP，TODO）work_easyrpg_v1_success.tar.gz       
 https://github.com/EasyRPG/Player/blob/master/docs/BUILDING.md    
