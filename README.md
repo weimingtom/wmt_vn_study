@@ -1862,10 +1862,14 @@ sudo apt install libgl1-mesa-dev libasound2-dev libpulse-dev
 ## rpg2kemu / rpg2k  
 
 ## easyrpg, EasyRPG/Player  
-* https://github.com/EasyRPG/Player  
-* How to cmake build easyrpg   
-（IMP，TODO）work_easyrpg_v1_success.tar.gz    
-easyrpg build    
+* https://github.com/EasyRPG/Player
+* How to cmake build easyrpg (not good, just a simple process description)
+$ cd expat-2.4.9; mkdir build; cd build; cmake -DCMAKE_INSTALL_PREFIX=/home/wmt/work_easyrpg/out; make -j8; make install; 
+$ cd ../liblcf-0.8; mkdir build; cd build; cmake -DCMAKE_INSTALL_PREFIX=/home/wmt/work_easyrpg/out; make -j8; make install;
+$ cd ../Player-0.8; mkdir build; cd build; cmake -DCMAKE_INSTALL_PREFIX=/home/wmt/work_easyrpg/out; make -j8; make install;
+$ LD_LIBRARY_PATH=/home/wmt/work_easyrpg/out/lib /home/wmt/work_easyrpg/out/bin/easyrpg-player
+* easyrpg build, same as upper, in Chinese      
+（IMP，TODO）work_easyrpg_v1_success.tar.gz       
 https://github.com/EasyRPG/Player/blob/master/docs/BUILDING.md    
 https://github.com/EasyRPG/buildscripts/tree/master/linux-static    
 https://wiki.easyrpg.org/development/compiling/player/cmake    
