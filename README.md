@@ -1863,8 +1863,8 @@ sudo apt install libgl1-mesa-dev libasound2-dev libpulse-dev
 
 ## easyrpg, EasyRPG/Player  
 * https://github.com/EasyRPG/Player  
-* How to cmake build easyrpg
-（IMP，TODO）work_easyrpg_v1_success.tar.gz  
+* How to cmake build easyrpg   
+（IMP，TODO）work_easyrpg_v1_success.tar.gz    
 easyrpg build    
 https://github.com/EasyRPG/Player/blob/master/docs/BUILDING.md    
 https://github.com/EasyRPG/buildscripts/tree/master/linux-static    
