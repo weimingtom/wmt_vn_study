@@ -1829,7 +1829,21 @@ LD_LIBRARY_PATH=/usr/local/lib ./build/mkxp.bin.x86_64
 * essentials, https://github.com/Maruno17  
 * tectonic, https://www.tectonic-game.com/downloads  
 * (How to compile, old, archived) https://roza-gb.gitbook.io/mkxp-z/compilation  
-* https://github.com/weimingtom/wmt_vn_study/blob/master/mkxp-z_build_001.txt  
+* How to build mkxp-z in Xubuntu 25.04 in VMWare  
+(xubuntu 25.04 vmware)    
+$ sudo apt install git build-essential cmake meson autoconf automake libtool pkg-config   
+$ sudo apt install ruby bison zlib1g-dev libbz2-dev xorg-dev   
+$ sudo apt install libgl1-mesa-dev libasound2-dev libpulse-dev  
+$ git clone https://github.com/mkxp-z/mkxp-z --recursive  
+$ cd mkxp-z/linux  
+$ make  
+(Wait for a very long time to download and compile successfully)    
+$ source vars.sh  
+$ cd ..; meson build  
+$ cd build && ninja  
+$ xdg-open .  
+* How to build, in Chinese  
+https://github.com/weimingtom/wmt_vn_study/blob/master/mkxp-z_build_001.txt   
 readme_mkxp-z_v2.txt  
 mkxp-z_v1.tar.gz  
 ```
