@@ -1936,7 +1936,10 @@ https://wiki.easyrpg.org/development/compiling/porting
 
 （4）运行效果和windows版几乎一模一样  
 ```
-
+* easyrpg libretro for Android:  
+https://github.com/libretro/RetroArch/issues/17280  
+https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/  
+https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/  
 
 ## take-cheeze/rpg2kemu  
 https://github.com/take-cheeze/rpg2kemu  
