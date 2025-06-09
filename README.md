@@ -2165,6 +2165,7 @@ c/c++部分未编译，以后再研究
 （TODO）编译renpy的JNI
 ```
 * (not sure) (Android version) see https://www.renpy.org/latest.html  
+renpy_android_project_v1.7z, renpy-8.3.0, gradle-8.5-bin.zip,  version '8.2.0' apply false  
 ```
 (1) Download sdk file and rapt zip   
 Download https://www.renpy.org/dl/8.3.7/renpy-8.3.7-sdk.tar.bz2  
@@ -2201,6 +2202,7 @@ gradlew packageRelease
 
 ```
 * (not sure) (Android version manually gradlew) If packaging (gradlew) failed, try to make following changes and retry gradlew:  
+renpy-build_v0.tar.gz, 
 ```
 我试过可以手工改代码让renpy android可以编译成功，
 方法是把gradle的版本号改成8.7，build.gradle改成8.6.0，
