@@ -478,6 +478,8 @@ openbsd是netbsd的分支，所以x11也比较好看，但startx很慢，
 ```
 
 ## john-he onscripter Chinese version, for Windows / PSP / Pocket PC  
+* (origin) https://web.archive.org/web/20080522010153/http://blog.163.com/john_he_/blog/static/76595505200832514228686/  
+* https://www.gamebrew.org/wiki/ONScripter-GBK_PSP  
 * (dead) http://john-he.ys168.com/?jdfwkey=k9rlz
 * (dead) http://blog.163.com/john_he_/
 * (dead) http://www.chinaavg.com/simple/index.php?t1088.html
