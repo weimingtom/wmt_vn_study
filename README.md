@@ -476,6 +476,67 @@ pkg_add可能不够快。安装g++和gcc会变成eg++和egcc，语法比较严�
 openbsd是netbsd的分支，所以x11也比较好看，但startx很慢，
 需要等一阵然后按Ctrl+C才能进入
 ```
+* msys2
+```
+#https://github.com/ejoy/ant
+$ echo "Server = https://mirrors.tuna.tsinghua.edu.cn/msys2/mingw/i686/" > /etc/pacman.d/mirrorlist.mingw32
+$ echo "Server = https://mirrors.tuna.tsinghua.edu.cn/msys2/mingw/x86_64/" > /etc/pacman.d/mirrorlist.mingw64
+$ echo "Server = https://mirrors.tuna.tsinghua.edu.cn/msys2/msys/\$arch/" > /etc/pacman.d/mirrorlist.msys
+
+(not need) #https://mirrors4.tuna.tsinghua.edu.cn/help/msys2/
+(not need) $ sed -i "s#https\?://mirror.msys2.org/#https://mirrors.tuna.tsinghua.edu.cn/msys2/#g" /etc/pacman.d/mirrorlist*
+
+$ echo "export MINGW=/mingw64" >> ~/.bash_profile
+$ echo "export PATH=\$MINGW/bin:\$PATH" >> ~/.bash_profile
+
+$ pacman -S mingw-w64-x86_64-gcc
+$ pacman -S mingw-w64-x86_64-make
+$ pacman -S mingw-w64-x86_64-bzip2
+$ pacman -S mingw-w64-x86_64-fontconfig 
+$ pacman -S mingw-w64-x86_64-libjpeg-turbo
+$ pacman -S mingw-w64-x86_64-lua53
+$ pacman -S mingw-w64-x86_64-SDL2
+$ pacman -S mingw-w64-x86_64-SDL2_image 
+$ pacman -S mingw-w64-x86_64-SDL2_mixer 
+$ pacman -S mingw-w64-x86_64-SDL2_ttf
+
+$ cd /d/work_ons_msys2
+$ cd jh10001-onscripter-jh-a11f51d5728f/
+(modify Makefile.Linux, remove lua and other TARGETs)
+$ mingw32-make -f Makefile.Linux
+
+D:\work_ons_msys2\jh10001-onscripter-jh-a11f51d5728f\ONScripter_command.cpp
+#if (defined(LINUX) || defined(MACOSX) || defined(IOS)) && !defined(__MINGW32__)
+            mkdir(dir, 0755);
+#elif defined(WIN32)
+            _mkdir(dir);
+#endif
+
+D:\work_ons_msys2\jh10001-onscripter-jh-a11f51d5728f\ONScripter_event.cpp
+#if defined(LINUX) && !defined(__MINGW32__)
+#include <sys/types.h>
+#include <sys/wait.h>
+#endif
+
+#if defined(LINUX) && !defined(__MINGW32__)
+    int status;
+    wait( &status );
+#endif
+
+D:\work_ons_msys2\jh10001-onscripter-jh-a11f51d5728f\ONScripter_sound.cpp
+#if defined(LINUX) && !defined(__MINGW32__)
+    signal(SIGCHLD, midiCallback);
+    if (midi_cmd) midi_looping = 0;
+#endif
+
+$ ls onscripter
+onscripter
+$ ./onscripter.exe
+ONScripter-Jh version 0.7.6 (20181218, 2.96)
+can't open any of 0.txt, 00.txt, nscript.dat and nscript.___
+$ cd ../onscripter_cn_test/
+$ ../jh10001-onscripter-jh-a11f51d5728f/onscripter.exe
+```
 
 ## john-he onscripter Chinese version, for Windows / PSP / Pocket PC  
 * (origin) https://web.archive.org/web/20080522010153/http://blog.163.com/john_he_/blog/static/76595505200832514228686/  
