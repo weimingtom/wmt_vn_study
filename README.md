@@ -1859,32 +1859,26 @@ run "MKXP"(https://github.com/Ancurio/mkxp) on ArkOS on RG351P
 see also but just for RPG Maker 2k and 2k3 not XP, https://github.com/EasyRPG/Player  
 * How to build mkxp in Xubuntu 20, install to /usr/local, see also https://www.reddit.com/r/RG350/comments/kuy4d2/mkxp_with_arkos_on_rg351p/     
 (xubuntu 20.04 64bit)   
-$ sudo apt install build-essential git cmake ruby ruby-dev libsdl2-image-dev libsdl2-ttf-dev  
-$ sudo apt install libboost-dev libboost-program-options-dev libsigc++-2.0-dev libfluidsynth-dev libmodplug-dev libvorbis-dev  
-$ sudo apt install libflac-dev libopenal-dev libpixman-1-dev autoconf libtool  
-$ mkdir mkxp_build_dir  
-$ cd mkxp_build_dir  
-$ git clone https://github.com/Ancurio/mkxp --recursive    
-$ git clone https://github.com/Ancurio/SDL_sound --recursive   
-$ git clone https://github.com/dgengin/physfs --recursive   
-$ cd physfs/   
-$ cmake .   
-$ make    
-$ sudo make install    
+$ sudo apt install make gcc g++ git cmake autoconf libtool gedit
+$ sudo apt install libsigc++-2.0-dev libpixman-1-dev libphysfs-dev libvorbis-dev libboost-program-options-dev libopenal-dev libruby-dev
+$ sudo apt install libsdl2-dev libsdl2-ttf-dev libsdl2-image-dev 
+$ git clone https://github.com/Ancurio/SDL_sound
 $ cd ../SDL_sound/    
 $ ./bootstrap    
-$ ./configure --enable-static --disable-shared --disable-speex --disable-mikmod    
+$ ./configure  
 $ make    
 $ sudo make install    
-$ cd ../mkxp/    
-$ sed -e 's/SDL2_INCLUDE_DIRS/SDL_SOUND_INCLUDE_DIRS} ${&/' -e 's/SDL2_LIBRARY_DIRS/SDL_SOUND_LIBRARY_DIRS} ${&/' -e 's/SDL_SOUND_LIBRARIES}/& -logg -lFLAC -lmodplug/' -i CMakeLists.txt   
-$ grep -q ALCdevice_struct src/eventthread.h && sed '/ALCdevice_struct/d;i #include <alc.h>' -i src/eventthread.h  
-$ sed -e 's/Name, { 0, Free, 0, { 0, 0 } }, 0, 0, DEF_TYPE_FLAGS/Name, { 0, Free, 0, 0, 0 }, 0, 0, DEF_TYPE_FLAGS/' -i binding-mri/binding-util.h    
-$ export RUBY_VERSION=$(/usr/bin/ruby -e "puts RUBY_VERSION")    
-$ mkdir ./build  
-$ cmake -B ./build -DSHARED_FLUID=ON -DMRIVERSION=${RUBY_VERSION::-2}  
-$ cmake --build ./build  
-$ LD_LIBRARY_PATH=/usr/local/lib ./build/mkxp.bin.x86_64    
+$ cd ..
+$ git clone https://github.com/Ancurio/mkxp
+$ cd mkxp/    
+$ gedit ./CMakeLists.txt, line 298
+(modify ruby-${MRIVERSION) to ruby)
+$ gedit ./binding-mri/binding-util.h, line 79
+(modify NAME, {0, Free, 0, {0, 0}}, to NAME, {0, Free, 0, 0},)
+$ mkdir build  
+$ cd build
+$ cmake ..
+$ make -j8
 * How to build mkxp, in Chinese  
 https://github.com/weimingtom/wmt_vn_study/blob/master/mkxp_build_001.txt  
 mkxp_build_dir_v1.tar.gz   
