@@ -1,0 +1,47 @@
+sudo apt install lftp make gcc g++ gedit git meson pkg-config cmake autoconf libtool
+sudo apt install libgl-dev libphysfs-dev libopenal-dev libtheora-dev libvorbis-dev libpixman-1-dev libuchardet-dev libfluidsynth-dev ruby-dev 
+(?)libx11-xcb-dev
+sudo apt install libsdl2-dev libsdl2-ttf-dev libsdl2-image-dev 
+
+
+
+git clone https://github.com/mkxp-z/SDL_sound
+cd SDL_sound/
+mkdir build
+cd build
+cmake ..
+make -j8
+sudo make install
+cd ../..
+
+git clone https://github.com/mkxp-z/mkxp-z
+cd mkxp-z/
+
+gedit src/meson.build
+(#iconv = compilers['cpp'].find_library('iconv'))
+(#global_dependencies += compilers['cpp'].find_library('charset'))
+(global_dependencies += [openal, zlib, bz2, sdl2, sdl_sound, pixman, physfs, theora, vorbisfile, vorbis, ogg, sdl2_ttf, freetype, sdl2_image, png, uchardet]) 
+(remove iconv,)
+
+gedit binding/meson.build, line 9
+(global_dependencies += dependency('ruby'))
+
+meson build
+cd build
+ninja
+
+===================
+gedit ../src/main.cpp
+gedit ../src/audio/sdlsoundsource.cpp
+gedit ../src/audio/soundemitter.cpp
+#include <SDL_sound.h>
+->
+#include <SDL2/SDL_sound.h>
+
+gedit ../src/display/font.h
+#define _TTF_Font TTF_Font
+struct _TTF_Font;
+===================
+
+compile failed
+
