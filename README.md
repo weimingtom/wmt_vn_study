@@ -1425,7 +1425,9 @@ CLANNAD_steam_en.zip (don't use CLANNAD_steam_zh.zip)
 ```
 * (TODO) https://github.com/reivyr/openbsd-rlvm  
 openbsd-rlvm-master_v2.tar.gz  
-* (TODO, using SDL2) https://github.com/xyzz/rlvm-android  
+* Android version of RLVM:  
+https://github.com/xyzz/rlvm/releases/tag/android-1  
+(TODO, using SDL2) https://github.com/xyzz/rlvm-android  
 see https://github.com/xyzz/rlvm-android/blob/master/buildscripts/CMakeLists.txt  
 some codes see also android branch of xyzz/rlvm: https://github.com/xyzz/rlvm/tree/android  
 see rlvm-android.zip, rlvm-android-1.zip, rlvm-1.apk   
