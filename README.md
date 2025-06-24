@@ -1430,6 +1430,10 @@ see https://github.com/xyzz/rlvm-android/blob/master/buildscripts/CMakeLists.txt
 some codes see also android branch of xyzz/rlvm: https://github.com/xyzz/rlvm/tree/android  
 see rlvm-android.zip, rlvm-android-1.zip, rlvm-1.apk   
 It is for SDL2, see the header files of https://github.com/xyzz/rlvm/blob/android/vendor/pygame/alphablit.cc  
+**About GL4ES usage for porting rlvm, look at these**  
+https://github.com/xyzz/rlvm-android/blob/master/buildscripts/build.sh    
+and some patches in xyzz/rlvm, like:  
+https://github.com/xyzz/rlvm/commit/8ebe7170e00a4118c4e38df81087c8724cbd0ce7  
 
 ## (IMP) rlvm portmaster version    
 * https://github.com/kloptops/Portmaster-rlvm/releases/tag/v0.3.3  
