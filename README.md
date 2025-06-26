@@ -273,6 +273,18 @@ SDLOTHERCONFIG=--disable-assembly ./configure --std=gnu++98 --no-werror --with-i
 * (origin) http://nscripter.insani.org/downloads/onscripter-20060724-insani.src.zip  
 * (origin) https://github.com/insani-org/onscripter-insani  
 * (dead) http://dev.haeleth.net/onscripter.shtml  
+* (origin) http://nscripter.insani.org/downloads/  
+From onscripter-20050602-insani.linux.tar.bz2 to onscripter-20081026-insani.win32.zip,   
+And, onscripter-20081026-insani.src.zip is very like onscripter-en-20080823-src.tar.bz2, but some files are different    
+
+## onscripter-chn, a Chinese fork of onscripter-en  
+* Seems to be a fork of onscripter-en (2017?), but I don't know the origin version of onscripter-en  
+* https://forum.ubuntu.org.cn/download/file.php?id=29953  
+onscripter-chn-20080214.tar.bz2  
+* https://forum.ubuntu.org.cn/viewtopic.php?p=680203
+[原创]ONscripter for Linux 中文版 和 Narcissu for Linux 中文版  
+* https://seldseen61.rssing.com/chan-45819318/article2.html  
+在linux玩galgame的方法（ONS）  
 
 ## ONSlaught - An ONScripter clone with Unicode support.  
 * (origin) https://sourceforge.net/projects/onslaught-vn/  
