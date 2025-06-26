@@ -565,6 +565,9 @@ https://github.com/natdon/ONScripter-CN/tree/951935b05ae66fb5e0c09ceb437324687f0
 https://github.com/natdon/ONScripter-CN/blob/951935b05ae66fb5e0c09ceb437324687f0a23f7/jni/app_onscripter-32bpp/onscripter-20130317/onslocale.h  
 ```
 面包工坊ONScripter-CN的一部分代码应该是来源于早期的john-he中文化版本，见onslocale.h的头部。
+
+Line 5：Copyright (c) 2007 John_He. All rights reserved.
+
 当然我手头上存有的john-he源码版本都是2009年以前的，而ONScripter-CN的版本是2013年，
 应该是重新又整合进去（已经改得面目全非）——所以可能只有两种中文化GBK版，
 一个是john-he，一个是jh，也可能这俩其实本质上都是同一个源头同一个人搞出来的  
