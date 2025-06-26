@@ -1551,11 +1551,11 @@ https://web.archive.org/web/20050308143414/http://waffle.bunkasha.co.jp/zau/akan
 くろこげにはいろいろなバージョンがありますが、このページでは音声化パッチを当てたKanon/AIRに対応したバージョンを公開しています。  
 * (origin, dead) http://www001.upp.so-net.ne.jp/keta/kurokoge/  
 * https://archive.org/details/waffle-040116_psp
-* Mac上玩部分文字AVG的方法
-https://crazism.net/2055.html
-ADV 游戏引擎计划  
-https://cloud.tencent.com/developer/article/1827167
-https://sagapla.net/works/usoten/demo_rcxp.htm
+* Mac上玩部分文字AVG的方法  
+https://crazism.net/2055.html  
+ADV 游戏引擎计划    
+https://cloud.tencent.com/developer/article/1827167  
+https://sagapla.net/works/usoten/demo_rcxp.htm  
 ```
 avg2nsc
 https://nyanonon.hatenablog.com/entries/2008/02/19#p2
