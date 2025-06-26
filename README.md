@@ -550,7 +550,7 @@ $ cd ../onscripter_cn_test/
 $ ../jh10001-onscripter-jh-a11f51d5728f/onscripter.exe
 ```
 
-## john-he onscripter Chinese version, for Windows / PSP / Pocket PC  
+## John_He (john-he) onscripter Chinese version, for Windows / PSP / Pocket PC  
 * (origin) https://web.archive.org/web/20080522010153/http://blog.163.com/john_he_/blog/static/76595505200832514228686/  
 * https://www.gamebrew.org/wiki/ONScripter-GBK_PSP  
 * (dead) http://john-he.ys168.com/?jdfwkey=k9rlz
