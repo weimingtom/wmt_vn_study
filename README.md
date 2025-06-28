@@ -132,6 +132,24 @@ https://github.com/weimingtom/tukineko_csharp
 search baidupan, 月姬、月姬格斗、月箱, 月箱.part1(1).rar, 月箱.part2(1).rar  
 search baidupan, nscripter_java_20200829_replace_moon.rar   
 
+## npynscr, just for english 0.txt, by python2
+* (origin) https://github.com/uvthenfuv/npynscr   
+* Only support unpacked image and voice files and 0.txt of English version of tsukihime, see Tsukihime -English-.7z  
+* npynscr-master_v1.tar.gz
+* Ubuntu 14.04 32bit, need python2 and pygame and unpack Yapps-2.2.0.tar.gz  
+```
+sudo apt update
+sudo apt install python-pygame
+sudo apt install python-pip
+
+./pynscr_pygame.py tsukihime_en
+./onscr_parse.py tsukihime_en/0.txt
+./pyonscr_curses.py tsukihime_en/0.txt
+
+Python 2.7.6 (default, Jun 22 2015, 18:00:18) 
+pygame (1.9.1release)
+```
+
 ## onscripter  
 * (origin, dead? the osdn.jp/sourceforge.jp version is before github version and after infoseek version) https://onscripter.osdn.jp  
 (origin, dead?) https://onscripter.osdn.jp/onscripter.html  
