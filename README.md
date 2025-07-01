@@ -1387,7 +1387,7 @@ see https://github.com/weimingtom/xclannad-gbk_fork
 * (origin) http://www.elliotglaysher.org
 http://www.elliotglaysher.org/rlvm/index.html  
 * (origin) https://github.com/eglaysher/rlvm  
-* (my work, not origin) https://github.com/weimingtom/rlvm_vs2013  
+* (my work, not origin) https://github.com/weimingtom/rlvm_vs2013, based on rlvm-0.14, eglaysher-rlvm-release-0.14-0-ga85b19c.tar.gz    
 https://gitee.com/weimingtom/rlvm_fork  
 search baidupan, rlvm_fork_20180905_v1.rar  
 search rlvm_fork_vs2013_v2_run_failed.rar  
@@ -1403,13 +1403,19 @@ https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/r/rlvm/
 * https://github.com/eglaysher/rldev  
 * test data:
 ```
-planetarian ~the reverie of a little planet~_jp.7z  
-planetarian ~the reverie of a little planet~.7z  
-planetarian_steam_japanese.rar
-planetarian_steam_english.rar
-kanon_se_ori.rar  
+(NOTE: go back to main menu after the second chapter) planetarian ~the reverie of a little planet~_jp.7z  
+(NOTE: go back to main menu after the second chapter) planetarian ~the reverie of a little planet~.7z  
+(NOTE: go back to main menu after the second chapter) planetarian_steam_japanese.rar
+(NOTE: go back to main menu after the second chapter) planetarian_steam_english.rar
+kanon_se_ori.rar
+(NOTE: Old iso version is better) planetarian_iso.zip  
 ```
-* eglaysher-rlvm-release-0.09-0-gbe8db97.tar.gz  
+* (I don't use this old version) eglaysher-rlvm-release-0.09-0-gbe8db97.tar.gz, aka eglaysher-rlvm-1c5c0a8  
+* (I like to use this old version) eglaysher-rlvm-release-0.14-0-ga85b19c.tar.gz, aka eglaysher-rlvm-b88bfe0  
+```
+(TODO) Be careful, it's good to run planetarian_iso.zip, but not very good to run planetarian_steam_japanese.rar  
+It will go back to main menu after the second chapter, I don't know why  
+```
 * my mod  
 ```
 比较work_rlvm_v6.tar.gz和v7
