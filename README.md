@@ -2406,7 +2406,8 @@ python fix_virtualenv.py $VIRTUAL_ENV
 (or python fix_virtualenv.py, this is also ok.)
 (If failed, please check python is python2, see upper)
 ls ~/.virtualenvs/renpy/include/python2.7/
-(this folder is created by fix_virtualenv.py???)  
+(this folder is created by fix_virtualenv.py???)
+rm -rf gen build dist 
 python setup.py install
 (test 1, python old-tests/test.py)
 (test 2, python aacircle.py, in github.com/pygame/pygame/examples, replaced with: import pygame_sdl2 as pygame, and remove line: import pygame.gfxdraw)  
