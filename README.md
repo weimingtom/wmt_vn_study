@@ -2378,7 +2378,7 @@ $ reboot
 (Or, not sure:  
 (?may fail) . /usr/share/virtualenvwrapper/virtualenvwrapper.sh
 (or?) sudo bash /usr/share/virtualenvwrapper/virtualenvwrapper.sh
-mkvirtualenv renpy
+mkvirtualenv --python python2.7 renpy
 workon renpy
 )
 
@@ -2397,7 +2397,14 @@ git clone https://github.com/renpy/pygame_sdl2
 cd pygame_sdl2
 checkout -f renpy-7.5.0.22052208
 )
+
+workon renpy
+(Python 2.7.18)
+(!!!!MAKE SURE python is python2, or restart console and recheck this)
+(If not python2, rm -rf ~/.virtualenvs/renpy, and redo: mkvirtualenv --python python2.7 renpy, and, workon renpy)  
 python fix_virtualenv.py $VIRTUAL_ENV
+(or python fix_virtualenv.py, this is also ok.)
+(If failed, please check python is python2, see upper)     
 python setup.py install
 python setup.py install_headers
 cd ..
