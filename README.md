@@ -2392,6 +2392,11 @@ cython --version
 (make sure cython is not cython3, python==3.8.10, cython==0.29.14)
 
 cd pygame_sdl2-renpy-7.5.0.22052208/ 
+(or,
+git clone https://github.com/renpy/pygame_sdl2
+cd pygame_sdl2
+checkout -f renpy-7.5.0.22052208
+)
 python fix_virtualenv.py $VIRTUAL_ENV
 python setup.py install
 python setup.py install_headers
