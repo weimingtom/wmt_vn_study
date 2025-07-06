@@ -2404,7 +2404,9 @@ workon renpy
 (If not python2, rm -rf ~/.virtualenvs/renpy, and redo: mkvirtualenv --python python2.7 renpy, and, workon renpy)  
 python fix_virtualenv.py $VIRTUAL_ENV
 (or python fix_virtualenv.py, this is also ok.)
-(If failed, please check python is python2, see upper)     
+(If failed, please check python is python2, see upper)
+ls ~/.virtualenvs/renpy/include/python2.7/
+(this folder is created by fix_virtualenv.py???)  
 python setup.py install
 python setup.py install_headers
 cd ..
