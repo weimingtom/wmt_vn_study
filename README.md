@@ -2408,7 +2408,8 @@ python fix_virtualenv.py $VIRTUAL_ENV
 ls ~/.virtualenvs/renpy/include/python2.7/
 (this folder is created by fix_virtualenv.py???)  
 python setup.py install
-(test, python old-tests/test.py)  
+(test 1, python old-tests/test.py)
+(test 2, python aacircle.py, in github.com/pygame/pygame/examples, replaced with: import pygame_sdl2 as pygame, and remove line: import pygame.gfxdraw)  
 python setup.py install_headers
 cd ..
 
