@@ -2408,6 +2408,7 @@ python fix_virtualenv.py $VIRTUAL_ENV
 ls ~/.virtualenvs/renpy/include/python2.7/
 (this folder is created by fix_virtualenv.py???)  
 python setup.py install
+(test, python old-tests/test.py)  
 python setup.py install_headers
 cd ..
 
