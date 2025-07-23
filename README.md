@@ -1475,6 +1475,8 @@ It is for SDL2, see the header files of https://github.com/xyzz/rlvm/blob/androi
 https://github.com/xyzz/rlvm-android/blob/master/buildscripts/build.sh    
 and some patches in xyzz/rlvm, like:  
 https://github.com/xyzz/rlvm/commit/8ebe7170e00a4118c4e38df81087c8724cbd0ce7  
+rlvm for Android  
+https://forums.fuwanovel.moe/topic/3541-rlvm-for-android  
 
 ## (IMP) rlvm portmaster version    
 * https://github.com/PortsMaster/PortMaster-New/tree/main/ports/rlvm
