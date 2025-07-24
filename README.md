@@ -1384,6 +1384,9 @@ see https://github.com/weimingtom/xclannad-gbk_fork
 
 ## rlvm  
 * (origin) http://www.rlvm.net  
+(TODO) http://www.rlvm.net/guides.html  
+(TODO) http://www.rlvm.net/guide_kanon_eng_old.html  
+(TODO) http://www.rlvm.net/guide_kanon_eng.html  
 * (origin) http://www.elliotglaysher.org
 http://www.elliotglaysher.org/rlvm/index.html  
 * (origin) https://github.com/eglaysher/rlvm  
