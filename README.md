@@ -3910,3 +3910,6 @@ https://github.com/07th-mod/higurashi-assembly/blob/mod/BGICompiler.Compiler/NoU
 ```
 * https://www.bilibili.com/opus/474513819432510324
 * ??? Buriko is same as Majiro ???, unknown    
+
+## Visual Novel Wiki
+* https://www.vnwiki.xyz
