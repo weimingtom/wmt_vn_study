@@ -100,7 +100,7 @@ nscr_sdk.zip, nsdec.zip, sardec.zip  nsaout.zip
 * NScripterHelpFilesV1.rar  
 * nscr261-小渡汉化版.rar  
 * nscr248_chs.7z, nscr282_chs.7z, nscr282-1_chs.7z
-http://e.ys168.com/?john-he  
+http://e.ys168.com/?  
 * my work: 尝试汉化.rar, 汉化reference.rar  
 * NScripterDevV1.rar, nscr261.exe就是上面那个nscr261   
 * NScripter全攻略.rar, nscripter资料01.rar, nscripter资料02.rar
@@ -591,6 +591,24 @@ Line 5：Copyright (c) 2007 John_He. All rights reserved.
 一个是john-he，一个是jh，也可能这俩其实本质上都是同一个源头同一个人搞出来的  
 ```
 * onscripter-20080121-zh04.tar.gz  
+
+## Kamikat onscripter gbk version in F-Droid, code seems from John-he, also include Japanese onscripter-20120712 to onscripter-20150208
+* [GBK, onscripter-20130223] https://github.com/kamikat/onscripter/commits/gbk   
+Japanese version see also: https://github.com/kamikat/onscripter/tree/28b4b185ba305b74af2a49ecc6e7b3974740ce2f  
+* Seems from John_He, see also onslocale.h and onslocale.cpp  
+https://github.com/kamikat/onscripter/blob/gbk/onslocale.h  
+https://github.com/kamikat/onscripter/blob/gbk/onslocale.cpp  
+```
+Copyright (c) 2007 John_He. All rights reserved.
+onslocale.h - Locale Layer for ONScripter
+gbk.c - GBK Charset Locale for ONScripter
+john_he_@163.com
+```
+* [Japanese onscripter] also include Japanese onscripter-20120712 to onscripter-20150208   
+https://github.com/kamikat/onscripter/commits/master  
+* APK  
+https://f-droid.org/archive/org.hanenoshino.onscripter_20120310.apk  
+https://apt.izzysoft.de/fdroid/index/apk/org.hanenoshino.onscripter?repo=archive  
 
 ## psv-OnscripterJH / ONScripter-jh-PSVita    
 * https://www.gamebrew.org/wiki/ONScripterJH_Vita  
