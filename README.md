@@ -3621,9 +3621,9 @@ https://vndb.org/r?q=&sb=Search%21&o=a&s=title&f=02fwNScripter-2wzh_dHans-
 * arch linux 2015
 * $ sudo pacman -S wine
 * $ cp simsun.ttc ~/.wine/driver_c/windows/Fonts/.
-* $ LANG=zh_CN.GBK wine 'Spring Days.exe'
-* $ LC_ALL=zh_CN.GBK wine 'Spring Days.exe'
-* $ wine 'Spring Days.exe'
+* (LC_ALL for window top main menu text display) $ LC_ALL=zh_CN.GBK wine 'Spring Days.exe'
+* (not good, menu text wrong) $ LANG=zh_CN.GBK wine 'Spring Days.exe'
+* (not good, menu text wrong) $ wine 'Spring Days.exe'
 
 ## leafpak  
 * http://hoshina.denpa.org/leafpak.html
