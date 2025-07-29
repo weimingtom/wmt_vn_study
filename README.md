@@ -3624,6 +3624,12 @@ https://vndb.org/r?q=&sb=Search%21&o=a&s=title&f=02fwNScripter-2wzh_dHans-
 * (LC_ALL for window top main menu text display) $ LC_ALL=zh_CN.GBK wine 'Spring Days.exe'
 * (not good, menu text wrong) $ LANG=zh_CN.GBK wine 'Spring Days.exe'
 * (not good, menu text wrong) $ wine 'Spring Days.exe'
+```
+在Arch Linux下运行wine和Spring Days（吉里吉里2）的效果，
+环境变量是LC_ALL=zh_CN.GBK（用于窗口顶部主菜单的中文显示），
+需要复制simsun.ttc到~/.wine/driver_c/windows/Fonts/（用于游戏内的字体显示）。
+其实和winlator类似的运行方法
+```
 
 ## leafpak  
 * http://hoshina.denpa.org/leafpak.html
