@@ -241,6 +241,9 @@ my mod: https://github.com/weimingtom/onscripter_sdl2_fork
 * SDL2 apt install: sudo apt-get install libsdl2-dev liblua5.1-0-dev libsdl2-image-dev libsdl2-ttf-dev libsdl2-mixer-dev libbz2-dev libfontconfig1-dev libogg-dev libvorbis-dev  
 * SDL2 archlinux pacman install: pacman -S bzip2 fontconfig libjpeg-turbo lua53 sdl2 sdl2_image sdl2_mixer sdl2_ttf   
 see https://aur.archlinux.org/packages/onscripter-yuri  
+* https://archive.org/details/onscripter-jun-2005.7z  
+ONSCRIPTER JUN 2005.7z/onscripter-20050602-insani.src.zip, 20050602(2.49)  
+https://x.com/kowaiboy/status/1911493247933026507  
 
 ## onscripter-en   
 * (origin, dead) http://unclemion.com/onscripter/releases/  
