@@ -606,7 +606,7 @@ john_he_@163.com
 ```
 * [Japanese onscripter] also include Japanese onscripter-20120712 to onscripter-20150208   
 https://github.com/kamikat/onscripter/commits/master  
-* APK  
+* Android APK   
 https://f-droid.org/archive/org.hanenoshino.onscripter_20120310.apk  
 https://apt.izzysoft.de/fdroid/index/apk/org.hanenoshino.onscripter?repo=archive  
 
