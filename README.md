@@ -3617,6 +3617,14 @@ https://vndb.org/r?q=&sb=Search%21&o=a&s=title&f=02fwNScripter-2wzh_dHans-
 （3）然后就可以运行了
 ```
 
+## Wine
+* arch linux 2015
+* $ sudo pacman -S wine
+* $ cp simsun.ttc ~/.wine/driver_c/windows/Fonts/.
+* $ LANG=zh_CN.GBK wine 'Spring Days.exe'
+* $ LC_ALL=zh_CN.GBK wine 'Spring Days.exe'
+* $ wine 'Spring Days.exe'
+
 ## leafpak  
 * http://hoshina.denpa.org/leafpak.html
 * http://akkera102.sakura.ne.jp/gbadev/index.php?Doc.15%20PC%A5%B2%A1%BC%A5%E0%A1%D6%BC%B6%A1%D7%A4%CE%B0%DC%BF%A2%CA%FD%CB%A1(1)
