@@ -3636,6 +3636,13 @@ https://vndb.org/r?q=&sb=Search%21&o=a&s=title&f=02fwNScripter-2wzh_dHans-
 也是全屏有问题，只能窗口模式运行，但程序内选择字体会多一些；也是需要复制simsun.ttc到
 ~/.wine/driver_c/windows/Fonts和指定LC_ALL环境变量才能显示菜单字体。声音输出正常，
 比Arch Linux好（也可能是VirtualBox的问题，Arch Linux的wine似乎没声音）
+
+我测试过4种Linux，只有Fedora和Arch Linux可以跑wine跑吉里吉里2引擎exe，
+而Xubuntu和Debian则可能不好和比较麻烦。但其实wine要占用超过1G的空间，
+我在Steam Deck上就装不上（根所在的分区不够空间），
+推荐用Fedora跑Wine，
+我觉得，不过Wine本身可能对全屏exe有问题，
+例如鼠标位置不对需要Alt+Tab一下，属于是大概能用的程度
 ```
 
 ## leafpak  
