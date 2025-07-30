@@ -3618,7 +3618,8 @@ https://vndb.org/r?q=&sb=Search%21&o=a&s=title&f=02fwNScripter-2wzh_dHans-
 ```
 
 ## Wine
-* arch linux 2015
+* Use Arch Linux 2015
+* (Ubuntu NOT GOOD, don't use xubuntu 25 and xubuntu 20)
 * $ sudo pacman -S wine
 * $ cp simsun.ttc ~/.wine/driver_c/windows/Fonts/.
 * (LC_ALL for window top main menu text display) $ LC_ALL=zh_CN.GBK wine 'Spring Days.exe'
