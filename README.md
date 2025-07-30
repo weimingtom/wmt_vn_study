@@ -1231,6 +1231,13 @@ src\core\visual\WindowIntf.cpp
 ## (TODO) 2468785842/krkr2, using vcpkg/cmake/ninja    
 * (origin) https://github.com/2468785842/krkr2    
 * https://github.com/weimingtom/wmt_vn_study/blob/master/krkr2_vcpkg_build_001.md  
+* https://github.com/weimingtom/krkr2-no-vcpkg
+
+## ningshanwutuobang/Kirikiroid2
+* (origin) https://github.com/ningshanwutuobang/Kirikiroid2
+* (origin) https://github.com/ningshanwutuobang/Kirikiroid2/tree/linux_build
+* https://github.com/joiplay/Kirikiroid2
+* https://github.com/weimingtom/kirikiroid2_fork3
 
 ## kirikiri3-legacy  
 * https://github.com/w-dee/kirikiri3-legacy  
