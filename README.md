@@ -3618,9 +3618,10 @@ https://vndb.org/r?q=&sb=Search%21&o=a&s=title&f=02fwNScripter-2wzh_dHans-
 ```
 
 ## Wine
-* Use Arch Linux 2015
+* Use Fedora 41 (recommended, has sound) or Arch Linux 2015 (no sound?)  
 * (Ubuntu NOT GOOD, don't use xubuntu 25 and xubuntu 20)
-* $ sudo pacman -S wine
+* (for Fedora) $ sudo yum install wine    
+* (for Arch Linux) $ sudo pacman -S wine  
 * $ cp simsun.ttc ~/.wine/driver_c/windows/Fonts/.
 * (LC_ALL for window top main menu text display) $ LC_ALL=zh_CN.GBK wine 'Spring Days.exe'
 * (not good, menu text wrong) $ LANG=zh_CN.GBK wine 'Spring Days.exe'
@@ -3630,6 +3631,11 @@ https://vndb.org/r?q=&sb=Search%21&o=a&s=title&f=02fwNScripter-2wzh_dHans-
 环境变量是LC_ALL=zh_CN.GBK（用于窗口顶部主菜单的中文显示），
 需要复制simsun.ttc到~/.wine/driver_c/windows/Fonts/（用于游戏内的字体显示）。
 其实和winlator类似的运行方法
+
+我测试过Fedora 41也可以安装运行wine，效果如下，和Arch Linux类似（就xubuntu的wine用不了），
+也是全屏有问题，只能窗口模式运行，但程序内选择字体会多一些；也是需要复制simsun.ttc到
+~/.wine/driver_c/windows/Fonts和指定LC_ALL环境变量才能显示菜单字体。声音输出正常，
+比Arch Linux好（也可能是VirtualBox的问题，Arch Linux的wine似乎没声音）
 ```
 
 ## leafpak  
