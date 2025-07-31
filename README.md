@@ -77,6 +77,8 @@ http://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E3%82
 * https://blog.csdn.net/cping1982/article/details/4573738  
 * 逆移植リスト   
 https://moonphase.hatenablog.com/entry/20040104   
+* 同人ゲーム詰め合わせ  
+https://archive.org/details/doujin-game-tsumeawase  
 
 ## nscripter  
 * (origin) http://www.nscripter.com  
