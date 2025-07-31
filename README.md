@@ -3656,6 +3656,7 @@ https://vndb.org/r?q=&sb=Search%21&o=a&s=title&f=02fwNScripter-2wzh_dHans-
 * $ LC_ALL=ja_JP.Shift-JIS wine ToHeart2.exe
 * $ LC_ALL=zh_CN.GBK wine ToHeart2_GBK.exe
 * $ LC_ALL=ja_JP.SHIFT-JIS wine LilianFourhand.exe
+* $ cp 月姫.exe tsukihime.exe && LC_ALL=ja_JP.SHIFT-JIS wine tsukihime.exe
 
 ## leafpak  
 * http://hoshina.denpa.org/leafpak.html
