@@ -3657,6 +3657,10 @@ https://vndb.org/r?q=&sb=Search%21&o=a&s=title&f=02fwNScripter-2wzh_dHans-
 * $ LC_ALL=zh_CN.GBK wine ToHeart2_GBK.exe
 * $ LC_ALL=ja_JP.SHIFT-JIS wine LilianFourhand.exe
 * $ cp 月姫.exe tsukihime.exe && LC_ALL=ja_JP.SHIFT-JIS wine tsukihime.exe
+```
+如果需要窗口顶部菜单显示字体，需要复制simsun.ttc到~/.wine/driver_c/windows/Fonts/，
+但如果不复制，也不影响游戏内的日文字体显示
+```
 
 ## leafpak  
 * http://hoshina.denpa.org/leafpak.html
