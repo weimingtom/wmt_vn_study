@@ -3654,7 +3654,7 @@ https://vndb.org/r?q=&sb=Search%21&o=a&s=title&f=02fwNScripter-2wzh_dHans-
 例如鼠标位置不对需要Alt+Tab一下，属于是大概能用的程度
 ```
 * $ LC_ALL=ja_JP.Shift-JIS wine ToHeart2.exe
-* $ LC_ALL=ja_JP.GBK wine ToHeart2_GBK.exe
+* $ LC_ALL=zh_CN.GBK wine ToHeart2_GBK.exe
 * $ LC_ALL=ja_JP.SHIFT-JIS wine LilianFourhand.exe
 
 ## leafpak  
