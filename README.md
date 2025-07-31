@@ -3970,8 +3970,9 @@ https://github.com/07th-mod/higurashi-assembly/blob/mod/BGICompiler.Compiler/NoU
 ## Visual Novel Wiki
 * https://www.vnwiki.xyz
 
-## arc_conv
+## (NOTE: don't waste time to study this, make yourself game) arc_conv
 * https://github.com/amayra/arc_conv
 * https://github.com/marcussacana/MajiroStringEditor
 * https://tieba.baidu.com/p/5367198859
 * https://github.com/3licie/majiro-tools
+* https://blog.sina.cn/dpool/blog/s/blog_4db138230100eo4f.html
