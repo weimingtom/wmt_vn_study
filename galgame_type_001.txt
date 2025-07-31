@@ -1,0 +1,149 @@
+https://blog.sina.com.cn/s/blog_4db138230100eo4f.html
+https://tieba.baidu.com/p/3342884480
+https://www.bilibili.com/opus/474513819432510324
+
+Galgameの汉化篇（2）
+
+Galgameの汉化篇（2） 此博文包含图片 (2009-09-15 11:58:30)
+标签： galgame 系统 开发 汉化 破解	分类： Galgame相关
+（4）MAJIRO Script
+1. 扩展名.arc.
+2. 档案组成: data*, scenario*,voice*,fastdata, slowdata,stream；其中data*.src、fastdata、slowdata的内容是CG、立绘和SE音效文件。
+Galgameの汉化篇（2）
+
+3. 存盘在savedata目录下, 扩展名.sav。
+4. 所有arc数据文件的文件头有MajiroArc字符串,并且有版本号：
+
+Galgameの汉化篇（2）
+
+（5）BGI(Buriko):
+1. 扩展名.arc.
+2. 档案组成: system/sysgrp/sysprg.arc这三个是系统相关文件，其它的数据文件名称不定，但是通常是有序号的档名，例如data*.arc。
+※糖块社《Nursery Rhyme》档案组成:
+
+Galgameの汉化篇（2）
+
+※AUGUST《FA》档案组成:
+
+Galgameの汉化篇（2）
+
+3. 存盘在游戏相同目录下，档案.sud+bgi.gdb。
+4. arc数据文件的文件头有PackFile字符串，随后跟着该资料文件的index：
+
+Galgameの汉化篇（2）
+5. 比较新版本的BGI系统可以从主程序的档案信息看到Ethornell等字符串和版本号
+
+Galgameの汉化篇（2）
+（6）YU-RIS:
+1. 资料扩展名.ypf,全部位在pac目录下；
+※symphony社《大小姐组曲》档案组成:
+
+Galgameの汉化篇（2）
+
+2. 所有ypf数据文件的文件头有YPF字符串，档案结构不明：
+
+Galgameの汉化篇（2）
+
+3. 存盘在save目录下，扩展名.dat。
+（7）sketch:
+
+这个系统的数据完全没有作packing，所以档案数量惊人是特征之一。
+1. 扩展名是.gyu(图像)+.v(声音)。
+※SkyFish社《ふぁみすぴ》档案组成:
+
+Galgameの汉化篇（2）
+
+※MOONSTONE社《Clear》档案组成:
+
+Galgameの汉化篇（2）
+
+2.存盘在userdata子目录下，档案是system.dat+无扩展名的savedata。
+3.使用的loader主程序ExHIBIT.exe档案信息可以看的到“Copyright(C)2006-2007 薫”版权告和版本号：
+
+Galgameの汉化篇（2）
+
+（8）Macromedia director:
+
+其实有PC和Mac两种，后者就不提了。
+
+1.扩展名.cxt(包装的数据文件)+.dxr(专案档)。
+※白金标签社《すきしょ３》档案组成:
+
+Galgameの汉化篇（2）
+
+2.使用的播放器主程序档案信息可以看的到“Macromedia Projector”字符串和版本号：
+
+Galgameの汉化篇（2）
+
+终于进展到最后一步了，就是拆解档案（破解）。
+不过这边需要事先声明，偶从事反向工程（reverse engineer）、反向编译（decompile）或反汇编（disassemble）的能力有限，用的都是现成的工具，所以不要期望太大，因为如果离开了这些工具偶几乎寸步难行。
+另外，有些工具的作者有特别声明禁止连结或重新配布，所以可能不会放连结，但是我绝对会提供最大线索。
+
+（1）Nscripter:
+图档和音声，SE通常都是压缩在不同的数据文件里，推荐使用“Spi_NScripter”这个工具，对新旧版本的档案都支持的很好；“ExtractData”同样对应，但是对旧的sar格式支持性不佳。Nscripter没有特殊格式的图档或音声档，抽出的档案都是常见的bmp/png、ogg/wav，不需作特别处理；BGM有时没有经过压缩，音乐档案直接放在BGM子目录下(更旧的游戏有时甚至可见CDDA)。剧本方面所有版本的nscripter剧本都是在执行文件同样目录下的“nscript.dat”这个档案，用“NSDEC”这个工具可以对应。
+※05年圈圈社的《はじおて》抽出的剧本和CG：
+
+Galgameの汉化篇（2）
+
+ 
+
+※01年猫猫社的《水色》名场面：
+
+Galgameの汉化篇（2） 
+
+
+（2）Majiro script
+猫猫在放弃Nscripter后继改用的系统，目前可以看到V1.000和V2.000两种版本。
+CG和音效分散在data*/slowdata*/fastdata*这些档案里面，CG的画像格式则是Majiro专用的rct/rc8图文件，档案含有alpha-channal信息，其中对V1版本，“ZZ'z Factory”有公开susie plugin，但是对CG处理有问题，所以建议只在抽剧本时使用，至于“ExtractData”则同时支持V1和V2两种版本。
+剧本方面所有剧本存在于scenario*.arc(或update*)中，里面是经过加密的mjo(MajiroObject)格式，这个要利用“Majiro Development kit”来拆解，该程序似乎是有人为了开发其它语言版本用的工具。如果是“MajiroV1”，直接用上面提到的susie将mjo剧本档抓出，然后用mjdev里面的“mjcrypt.exe”先将mjo档案转换成bytecode檔，然后用“mjdisasm.exe”将bytecode档转换成sjs剧本档和mjs脚本。
+※使用MajiroV1的猫猫《Scarlett》的arc中身和抽出的其中一个剧本档：
+
+Galgameの汉化篇（2）
+
+“MajiroV2”就完全利用ExtractData来抽取，但是注意抽出的剧本是.txt档内容已经是bytecode格式，但是这个档案喂给“mjdisasm.exe”却不能转换，因为缺了档头，所以要自己加上去。
+ExtractData抽出的bytecode剧本档：
+
+Galgameの汉化篇（2）
+
+加上40 byte的档头之后；
+
+Galgameの汉化篇（2）
+
+※使用MajiroV2的SIESTA社《ぱすてる》拆解状况：Galgameの汉化篇（2）
+
+（3）YU-RIS:
+老实说，对这个系统根本不熟，因为只碰到过一次，所以只能拿那一个作品来举例。剧本/CG/音声/BGM都是包装在ypf档案中，所有的档案都可以用ExtractData拆开，抽出的图片和声音分别是常见的bmp和ogg格式，并没有其它特殊规格，唯脚本是格式不明的.ybn档(档头YSTB)，尚未发现拆解法……
+※05年Symphony社的《大小姐组曲》CG档内容：
+
+Galgameの汉化篇（2）
+（4）Macromedia director:
+这是商用程序编出来的东西，搞不好有该程序的人就可以直接读取(没试过)。CG/BGM等数据和脚本都存在cxt或dxr档中，可以用“AXDXR.SPI”拆开，唯只有CG档案可以辨识，拆出dx_的CG档再用“IFDXR.SPI”读取即可。
+
+※白金标签社《すきしょ３》的CG内容： Galgameの汉化篇（2）
+※F&C社《Pia3 Funbox》的CG内容，Acdsee挂上“IFDXR.SPI”可以直接读取： 
+
+Galgameの汉化篇（2） 
+
+在进一步讲解之前，先补充一下先前提到的几个主要工具的链接参考：
+
+1.Aurora Wall
+http://atelibet.s11.xrea.com/side_yuu/
+它的ExtractData是相当厉害的工具，我介绍的几个系统大部分用它都能拆开(尤其是近期比较有名的游戏)，目前已经支持超过上百款游戏。本来有相同地位的“HCG converter”因为太久没更新，感觉已经被Aurora Wall取代。
+2.notaエロゲ研究室
+http://notazsite.hp.infoseek.co.jp/main/soft/index.html
+专门研究游戏的剧本档，并且制作抽出剧本的工具，数量相当多，对于有兴趣研究剧本内容的人很有用。我前一篇写到的Majiro script在这个网站就有工具可以抽剧本，其实不需要像我提的步骤这么繁琐。
+
+（5）吉里吉里
+这个系统出过不少名作，所以感觉是被研究的最多的一个系统，不过如果只是单纯要抽取档案的话就不需要太深入。我还没研究过吉里吉里的SDK，不过不同公司做出的xp3数据文件总有微妙的差异常常造成档案抽取失败，在susie plugin有“ZZ'z Factory”的“axxp3”和“Simple is Best!”的“spi_xp3”比较有用，不过如果不想跟奇怪的offset奋斗，还是用ExtractData最快，它甚至也支持“数据文件+执行文件融合”的类型，整个档案丢进去就能辨识，拆解不需要像过去提到的步骤这么繁琐。
+另外，虽然大部分抽出的画像都以png为主，不过吉里吉里自己有特殊的TLG格式画像，不过使用这种格式的游戏并不多(事实上OHP好像也停止公开)，总之同样是Simple is Best!也有公开“spi_tlg”，不过用了几次觉得兼容性不太好，ExtractData也可以使用，不过兼容性不太确定，看人品了……
+所有吉里吉里的剧本都一样用xp3档包装，本身没有再经过其它编码，脚本的扩展名.ks直接是是纯文字文件，偷懒啊。
+※高质量社“四叶DVD”的破解状况：
+
+Galgameの汉化篇（2）
+
+（6）EntisGLS:
+03年以前的GLS仕样完全不同就不提了，目前看到的形式就是资料文件有无压缩的差别而已，一般看到是以EMSAC-Binary Archive(.noa)格式压缩，拆开来则是entis有名的可逆压缩“Entis Rasterized Image”格式画像.eri(昵称エリちゃん)和“Music Interleaved and Orthogonal transformaed”格式声音.mio(昵称ミーオ),这系统和别人不同的地方是,它除了提供开发的SDK以外,还公开所有的拆解工具，所以上面这些格式的拆解工具(包含noa档的浏览器,eri档的susie plugin和mio档的winamp plugin)全部都在“Entis OHP”找到。
+剧本方面为“Entis Cotopha Image file”(.csx)格式，有的是包在noa档里，也有不在里面的，例如CUFFS社游戏的剧本就是system目录下的csx文件，可以利用“notaエロゲ研究室”里面的工具“cuffs_con.exe”来抽出剧本(工具的使用方法很简单,也有提供批次档，所以就不说明了)。
+※CUFFS社《Garden》的破解状况；
+
+Galgameの汉化篇（2）
