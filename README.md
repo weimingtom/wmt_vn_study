@@ -3665,7 +3665,7 @@ https://vndb.org/r?q=&sb=Search%21&o=a&s=title&f=02fwNScripter-2wzh_dHans-
 测试过用wine也可以运行月姬日文版和山百合连弹。
 山百合连弹需要指定LC_ALL=ja_JP.SHIFT-JIS，
 而月姬则需要指定LC_ALL、修改文件名为英文，
-还有复制simsum.ttc到~/.wine/driver_c/windows/Fonts/.
+还有复制simsun.ttc到~/.wine/driver_c/windows/Fonts/.
 这三个步骤才能正常运行（复制字体可选），而且非常卡，不知道为什么。
 山百合连弹不知道是否支持手柄（未测试），我是按N来确定（不是ZX）
 ```
