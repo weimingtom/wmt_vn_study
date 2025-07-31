@@ -3975,4 +3975,4 @@ https://github.com/07th-mod/higurashi-assembly/blob/mod/BGICompiler.Compiler/NoU
 * https://github.com/marcussacana/MajiroStringEditor
 * https://tieba.baidu.com/p/5367198859
 * https://github.com/3licie/majiro-tools
-* https://blog.sina.cn/dpool/blog/s/blog_4db138230100eo4f.html
+* https://blog.sina.com.cn/s/blog_4db138230100eo4f.html
