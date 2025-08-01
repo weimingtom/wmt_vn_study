@@ -3693,6 +3693,8 @@ or Startup Command: HOST_LC_ALL=ja_JP.SHIFT-JIS %command%
 ```
 if "HOST_LC_ALL" in self.env and len(self.env["HOST_LC_ALL"]) > 0:
 ```
+* (not tested, linux version) https://github.com/Kron4ek/Wine-Builds/releases/tag/proton-9.0-4
+* (not tested, linux x86_64 version) https://github.com/Kron4ek/Wine-Builds/releases/download/proton-9.0-4/wine-proton-9.0-4-amd64.tar.xz
 
 ## leafpak  
 * http://hoshina.denpa.org/leafpak.html
