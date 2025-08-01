@@ -3670,6 +3670,30 @@ https://vndb.org/r?q=&sb=Search%21&o=a&s=title&f=02fwNScripter-2wzh_dHans-
 山百合连弹不知道是否支持手柄（未测试），我是按N来确定（不是ZX）
 ```
 
+## Proton 9.0-4 in Steam Play of Steam Deck
+* In Steam Deck, change to Desktop Mode
+* Right click xxx.exe file, Add to Steam
+* Double click desktop game mode icon to change to Game Mode
+* In your Steam Library, go to Properties -> Compatibility -> tick the checkbox to force the use of a specific Steam Play compatibility tool
+* Choose: Proton 9.0-4
+* (optional) Startup Command: HOST_LC_ALL=ja_JP.UTF-8 %command%  
+or Startup Command: HOST_LC_ALL=ja_JP.SHIFT-JIS %command%  
+```
+用Steam Deck运行TH2XD的两个附赠游戏和山百合连弹和月姬的效果。
+都需要添加到Steam，然后兼容工具选Proton 9，
+山百合连弹需要设置启动参数为HOST_LC_ALL=ja_JP.Shift-JIS %command%。
+简单来说proton就是wine的python封装，但最好是支持手柄的，
+其他三个都好办但月姬不支持手柄，所以最好不要用Steam Deck跑非手柄游戏
+```
+* https://www.reddit.com/r/SteamDeck/comments/v8375c/how_does_proton_handle_locale_emulation/
+* https://www.reddit.com/r/SteamDeck/comments/12ntpss/i_dont_understand_what_proton_is_or_how_to_use_it/
+* https://sourceforge.net/projects/proton.mirror/
+* https://github.com/ValveSoftware/Proton
+* https://github.com/ValveSoftware/Proton/blob/proton_9.0/proton#L1367
+```
+if "HOST_LC_ALL" in self.env and len(self.env["HOST_LC_ALL"]) > 0:
+```
+
 ## leafpak  
 * http://hoshina.denpa.org/leafpak.html
 * http://akkera102.sakura.ne.jp/gbadev/index.php?Doc.15%20PC%A5%B2%A1%BC%A5%E0%A1%D6%BC%B6%A1%D7%A4%CE%B0%DC%BF%A2%CA%FD%CB%A1(1)
