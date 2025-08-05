@@ -3749,7 +3749,8 @@ https://github.com/xupefei/Locale-Emulator
 
 ## dtlite  
 
-## vnr, VNR3  
+## VNR, VNR3, Visual Novel Reader  
+* https://code.google.com/archive/p/annot-player/
 
 ## JBeijing  
 * jBeijingV7.zip, jBeijingV7.rar  
