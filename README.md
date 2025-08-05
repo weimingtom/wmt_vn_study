@@ -3749,7 +3749,7 @@ https://github.com/xupefei/Locale-Emulator
 
 ## dtlite  
 
-## VNR, VNR3, Visual Novel Reader  
+## (Not good? too old, like 喵翻?) VNR, VNR3, Visual Novel Reader  
 * https://code.google.com/archive/p/annot-player/
 * Visual Novel Reader.rar
 ```
@@ -3757,6 +3757,7 @@ GAL翻译神器
 ```
 * vnr3
 * JBeijing7, Visual Novel Reader.exe, ntleas044_x64, Website Reader (alpha).exe, Locale Emulator
+* It's a program based on Python, but I run it failed in Win11.
 
 ## JBeijing  
 * jBeijingV7.zip, jBeijingV7.rar  
