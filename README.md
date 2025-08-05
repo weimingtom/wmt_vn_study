@@ -3751,6 +3751,12 @@ https://github.com/xupefei/Locale-Emulator
 
 ## VNR, VNR3, Visual Novel Reader  
 * https://code.google.com/archive/p/annot-player/
+* Visual Novel Reader.rar
+```
+GAL翻译神器
+```
+* vnr3
+* JBeijing7, Visual Novel Reader.exe, ntleas044_x64, Website Reader (alpha).exe, Locale Emulator
 
 ## JBeijing  
 * jBeijingV7.zip, jBeijingV7.rar  
