@@ -2476,6 +2476,9 @@ python -O renpy.py
 (choose a language)  
 (choose the game 'the question', and run)
 ```
+* (TODO) pygame_sdl2_v1.tar.gz, renpy_venv_v1.tar.gz  
+for python 2.7, not good? need to study it again with python 3.8.2 and cross compile      
+python382_v1.tar.gz  
 
 ## Reitsuki  
 * (origin) https://github.com/kasuganosora/Reitsuki  
