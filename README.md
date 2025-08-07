@@ -117,6 +117,10 @@ http://www.k-collect.net/pe/index.htm
 工具.rar  
 * みずいろ, see NScripterDevV1.rar\er\Projects, see mizuiro.7z    
 * nscripter_antlr.rar  
+* c70_demo.zip  
+* tsukihime.zip, tsukihime_wine.tar.gz  
+* tsukihime_en.zip, Tsukihime -English-.7z,  
+(dead) ftp://97-95-54-3.dhcp.fdul.wi.charter.com/Tsukihime%20-English-  
 
 ## CCScripter, nscripter的Mac OS X实现  
 * (dead, origin) http://homepage.mac.com/toveta/ccs/  
