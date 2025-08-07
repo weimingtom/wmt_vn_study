@@ -128,6 +128,9 @@ https://archive.org/details/doujin-game-tsumeawase
 (同人ゲーム) 月姫.rar, 115     
 * tsukihime_en.zip, Tsukihime -English-.7z,  
 (dead) ftp://97-95-54-3.dhcp.fdul.wi.charter.com/Tsukihime%20-English-  
+* Tsukihime English version 1.2  
+Tsukihime_English_v1.2_update_[mirror_moon].exe  
+(origin) http://mirrormoon.org/projects/complete/tsukihime/  
 
 ## CCScripter, nscripter的Mac OS X实现  
 * (dead, origin) http://homepage.mac.com/toveta/ccs/  
