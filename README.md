@@ -283,8 +283,6 @@ https://kaisernet.org/onscripter/
 search neocities_onscripter_mirrors  
 ```
 * https://github.com/superzazu/onscripter-en  
-* http://narcissu.insani.org  
-* http://narcissu.gwathyr.net  
 * search baidupan, NarcissuSetup[insani+Haeleth].exe  
 * https://github.com/playmer/onscripter-en  
 * https://github.com/sekaiproject/ponscripter-fork  
@@ -313,7 +311,7 @@ And, onscripter-20081026-insani.src.zip is very like onscripter-en-20080823-src.
 * https://archive.org/details/onscripter-jun-2005.7z  
 ONSCRIPTER JUN 2005.7z/onscripter-20050602-insani.src.zip, 20050602(2.49)  
 https://x.com/kowaiboy/status/1911493247933026507  
-* 20060724-insani, Copyright (c) 2001-2006 Ogapee.  
+* Tsukihime with 20060724-insani, Copyright (c) 2001-2006 Ogapee.  
 tsukihime.exe  
 Tsukihime_English_v1.1_[mirror_moon].exe  
 http://mirrormoon.org/projects/complete/tsukihime/  
@@ -321,6 +319,20 @@ onscripter-20060724-insani.src.zip
 onscripter-20060724-insani.win32.zip  
 onscripter-20060724-insani.macosx.dmg   
 onscripter-20060724-insani.linux.tar.bz2  
+* Narcissu with 20050818-insani  
+(origin) http://narcissu.insani.org  
+(origin) http://narcissu.insani.org/down.html  
+(mirror) http://narcissu.gwathyr.net  
+English: NarcissuSetup[insani+Haeleth].exe, NarcissuSetup[insani+Haeleth].dmg, NarcissuSetup[insani+Haeleth].tar.bz2  
+http://narcissu.gwathyr.net/NarcissuSetup[insani+Haeleth].exe  
+日本語: nana24.exe, NarcissuJP.dmg, NarcissuJP.tar.bz2  
+http://narcissu.gwathyr.net/nana24.exe  
+Universal: http://narcissu.gwathyr.net/onscripter-20050818-insani.src.zip  
+Novelization versions  
+http://narcissu.gwathyr.net/Narcissu.pdf  
+http://narcissu.gwathyr.net/Narcissu_v1_2.pdf  
+Novelization version of "Gin'iro" first chapter to enjoy the parallel between it and "Narcissu"  
+http://narcissu.gwathyr.net/Giniro_ch1.pdf  
 
 ## onscripter-chn, 20080214, a Chinese fork of onscripter-en  
 * Seems to be a fork of onscripter-en (2017?), but I don't know the origin version of onscripter-en  
