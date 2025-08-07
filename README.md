@@ -123,7 +123,9 @@ http://www.nekoneko-server.com/down/c70_demo.zip
 https://web.archive.org/web/*/http://www.nekoneko-server.com/down*  
 https://web.archive.org/web/*/http://www.din.or.jp/~nekoneko/*  
 http://www.din.or.jp/~nekoneko/  
-* tsukihime.zip, tsukihime_wine.tar.gz  
+* tsukihime.zip, tsukihime_wine.tar.gz    
+https://archive.org/details/doujin-game-tsumeawase   
+(同人ゲーム) 月姫.rar, 115     
 * tsukihime_en.zip, Tsukihime -English-.7z,  
 (dead) ftp://97-95-54-3.dhcp.fdul.wi.charter.com/Tsukihime%20-English-  
 
