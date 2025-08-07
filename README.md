@@ -117,7 +117,12 @@ http://www.k-collect.net/pe/index.htm
 工具.rar  
 * みずいろ, see NScripterDevV1.rar\er\Projects, see mizuiro.7z    
 * nscripter_antlr.rar  
-* c70_demo.zip  
+* c70_demo.zip   
+http://www.din.or.jp:80/~nekoneko/c70demo.htm   
+http://www.nekoneko-server.com/down/c70_demo.zip  
+https://web.archive.org/web/*/http://www.nekoneko-server.com/down*  
+https://web.archive.org/web/*/http://www.din.or.jp/~nekoneko/*  
+http://www.din.or.jp/~nekoneko/  
 * tsukihime.zip, tsukihime_wine.tar.gz  
 * tsukihime_en.zip, Tsukihime -English-.7z,  
 (dead) ftp://97-95-54-3.dhcp.fdul.wi.charter.com/Tsukihime%20-English-  
