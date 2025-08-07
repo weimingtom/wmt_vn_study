@@ -868,7 +868,7 @@ Authors: Studio OGA/insani/Haeleth/Sonozaki(UncleMion)
 Umineko can immediately change to Japanese and English in the game in real time.  
 Umineko is SDL2 version, but Narcissu2 is unknown.  
 ```
-* (Steam English version) Narcissu 2, a.k.a. Narcissu 1+2   
+* (Steam English version) Narcissu 2, a.k.a. Narcissu 1+2 (Steam game name is: Narcissu 1st & 2nd)     
 (origin) https://www.neechin.net/narcissu2/140/narcissu-2-download-page  
 http://store.steampowered.com/app/264380/  
 https://www.neechin.net/file_download/27/Narcissu_2_Eng_v1.1_script_[All_platforms].zip  
