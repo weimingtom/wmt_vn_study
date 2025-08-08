@@ -605,6 +605,7 @@ can't open any of 0.txt, 00.txt, nscript.dat and nscript.___
 $ cd ../onscripter_cn_test/
 $ ../jh10001-onscripter-jh-a11f51d5728f/onscripter.exe
 ```
+* ONS模拟器+krkr模拟器+游戏资源站.zip  
 
 ## John_He (john-he) onscripter Chinese version, for Windows / PSP / Pocket PC  
 * (origin) https://web.archive.org/web/20080522010153/http://blog.163.com/john_he_/blog/static/76595505200832514228686/  
@@ -1269,6 +1270,7 @@ src\core\visual\WindowIntf.cpp
 异步发送消息刷新窗口（3）实际上kirikiroid2的画面刷新很简单，
 就是放到纹理上，具体的位置是UpdateDrawBuffer
 ```
+* ONS模拟器+krkr模拟器+游戏资源站.zip  
 
 ## 2468785842/krkr2, fork of zeas2/Kirikiroid2, using vcpkg/cmake/ninja    
 * (origin) https://github.com/2468785842/krkr2    
