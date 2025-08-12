@@ -1039,7 +1039,12 @@ see https://github.com/krkrz/krkr2/tree/master/kirikiri2/trunk/kirikiri2/bin/win
 ## krkrz dev_multi_platform branch (OpenGL version, support drawTexture) , feat. krkrz/KAGSigma    
 * (origin) https://github.com/krkrz/krkrz/tree/dev_multi_platform
 * (Need to roll back to 20270801 to sync KAGSigma version) https://github.com/krkrz/krkrz/tree/3d89b0f203ceca840f62b2e28ad034dea6df41fa
-* (origin) https://github.com/krkrz/KAGSigma
+* (search drawTexture path:*.tjs) https://github.com/search?q=drawTexture+path%3A*.tjs&type=code  
+https://github.com/krkrz/multi_platform_design  
+https://github.com/uyjulian/multi_platform_design  
+https://github.com/uyjulian/tvpgl  
+https://github.com/krkrz/KAGSigma  
+* (origin) https://github.com/krkrz/KAGSigma  
 ```
 krkrz android研究。我好像可以勉强跑起来了，
 方法是换成另一个KAG才行：krkrz/KAGSigma（因为只有这个KAG才支持drawTexture）。
