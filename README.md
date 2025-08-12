@@ -1036,8 +1036,23 @@ see https://github.com/krkrz/krkrz/releases/download/1.4.0r2/krkrz_20171225r2.7z
 see https://github.com/krkrz/krkr2/tree/master/kirikiri2/trunk/kirikiri2/src/tools/win32/debugger  
 see https://github.com/krkrz/krkr2/tree/master/kirikiri2/trunk/kirikiri2/bin/win32/tools/debugger  
 
-## krkrz dev_multi_platform branch  
+## krkrz dev_multi_platform branch (OpenGL version, support drawTexture) , feat. krkrz/KAGSigma    
 * (origin) https://github.com/krkrz/krkrz/tree/dev_multi_platform
+* (Need to roll back to 20270801 to sync KAGSigma version) https://github.com/krkrz/krkrz/tree/3d89b0f203ceca840f62b2e28ad034dea6df41fa
+* (origin) https://github.com/krkrz/KAGSigma
+```
+krkrz android研究。我好像可以勉强跑起来了，
+方法是换成另一个KAG才行：krkrz/KAGSigma（因为只有这个KAG才支持drawTexture）。
+krkrz的dev_multi_platform分支（支持drawTexture操作）似乎只能用这个KAG，
+用其他KAG可以运行但不会有显示输出。我还需要研究，因为显示是反了，不知道为什么
+
+krkrz android研究。运行效果如下，暂时搁置等以后再看。我只能说很难，
+只能勉强跑起来并且显示正确，但比较卡顿（我猜测作者弃了，也可能有新的但没继续开源）。
+我运行起来的办法是，krkrz/KAGSigma和krkrz/krkrz/tree/dev_multi_platform都取相同时间的版本，
+例如2017年8月1日附近的版本——意味着dev_multi_platform不能用最新版，
+只能回退到2017年8月版才能避免出现显示图像翻转的问题
+```
+* study record, not good
 ```
 first 
 https://github.com/krkrz/krkrz/tree/58b31ce2247e712294c60d3440274196411a1712
