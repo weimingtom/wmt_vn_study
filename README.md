@@ -2342,6 +2342,8 @@ cs2-open Ver 1.0, cs2.exe version 1, 0, 1, 10
 * see PGM  
 * 实妹.rar(115, imouto.iso), 沙耶之歌AMP.rar(shayezhige.iso), PSP妹妹大作战中文移植版.iso, xx学院.中文版ISO.rar  
 * [PSP][PC移植版][School Days PSP（日在校园）][AMP制作(amp v0.4)].rar (no iso pack), 日在school.zip  
+* 120日元之冬(120winter, no iso pack), 120日元之春(no iso pack)  
+* 120日元之夏(120 yen no natsu.iso), 120日元之秋(120yen no AKI, no iso pack)  
 
 ## PGM, Pocket Game Maker (closed source, for Android ?), 白枫开发    
 * (origin) https://github.com/History-exe/Pocket-Game-Maker-v0.83  
