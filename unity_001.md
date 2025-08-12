@@ -86,5 +86,10 @@ Anime Style Girl Haruka [1.1].unitypackage, 1.1, need Unity 2019
 至于例子嘛，我只找到一个，就是家喵二三事第1卷，这个可以自己去买来玩
 ```
 
+## LOST:SMILE memories + promises
+* Powered by Utage
+* Only Japanese  
+* Steam name: LOST:SMILE memories, you can also buy DLC: promises  
+
 ## 悠久的钟声
 * IronPython in PythonAPI  
