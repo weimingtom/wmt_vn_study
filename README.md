@@ -1044,7 +1044,8 @@ https://github.com/krkrz/multi_platform_design
 https://github.com/uyjulian/multi_platform_design  
 https://github.com/uyjulian/tvpgl  
 https://github.com/krkrz/KAGSigma  
-* (origin) https://github.com/krkrz/KAGSigma  
+* (origin) https://github.com/krkrz/KAGSigma    
+krkrm_v32.5_krkrz_dev_multi_platform_rollback_20170801_display_good.7z    
 ```
 krkrz android研究。我好像可以勉强跑起来了，
 方法是换成另一个KAG才行：krkrz/KAGSigma（因为只有这个KAG才支持drawTexture）。
