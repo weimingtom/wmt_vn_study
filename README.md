@@ -4192,5 +4192,6 @@ REN’PYで複数のキャラの台詞を同時に表示する
 
 ## Ntrf-Gal-Engine, 基于脚本解析的galgame引擎, by browser js and seajs
 * https://github.com/lenrinfvck/Ntrf-Gal-Engine
+* http://lenrinfvck.github.io/Ntrf-Gal-Engine/
 * (dead) http://lenrin.cn/Ntrf-Gal-Engine/
 * Ntrf-Gal-Engine.rar
