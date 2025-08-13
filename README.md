@@ -4149,4 +4149,22 @@ modnovel-0.1.tar.gz, by C and SDL
 MultiCharacter.tar.gz, by Ren'Py   
 REN’PYで複数のキャラの台詞を同時に表示する  
 
+## StarRuby (not VN)  
+* https://github.com/hajimehoshi/starruby
+* starruby-0.3.3-src.tar.gz
+
+## pgnovel, pgnovel is a visual novel game engine
+* pgnovel_v1_vs2010.rar
+* pgnovel.7z
+
+## Twine, Twine is an open-source tool for telling interactive, nonlinear stories.
+* https://twinery.org/
+* twine_2.0.6_win32.exe
+
+## slidenovel, スライドノベルエンジン, by Android, but apk lost (?)   
+* http://kaede-software.com/android/slidenovel/
+* slidenovelsample.zip, generate.zip
+* (dead) https://play.google.com/store/apps/details?id=com.kaede_software.cylinder_head
+* (dead) https://play.google.com/store/apps/details?id=com.kaede_software.slide_novel_engine_dev
+* 楓 software 吉里吉里Z 開発 see also http://kaede-software.com/habakiri/  
 
