@@ -2242,11 +2242,24 @@ http://retouch.xsrv.jp/lanovee/main.html
 see https://www.retouch.info  
 (???) Maybe it is about retouch and sketch/ExHIBIT  
 
-## tyranoscript  
+## tyranoscript, ティラノスクリプト  
 * (origin) https://tyrano.jp  
 * (origin) https://github.com/ShikemokuMK/tyranoscript  
 * search baidupan, tyranoscript_v325.zip  
-* (TODO, not found) html running demo  
+* (TODO, not found) html running demo
+* https://tyranoscript.com
+* Differences from TyranoBuilder, TyranoScript‌ is like Kirikiri2 ks, but TyranoBuilder is no programming tool   
+```
+‌TyranoScript‌：基于 JavaScript 的脚本语言，专为 吉里吉里引擎 设计，用于实现复杂场景切换、角色对话等功能。 ‌
+‌TyranoBuilder‌：一款可视化开发工具，主打零编程基础创建视觉小说，支持拖拽式操作和浏览器导出功能，内置3D角色动画和视频背景支持。 ‌
+```
+
+## tyranobuilder, TyranoBuilder Visual Novel Studio (No programming tool)    
+* https://tyranobuilder.com  
+* tyranobuilder_win_std_v130.zip
+* TyranoBuilder’s suite of intuitive drag-and-drop tools allows you to create high-quality visual novels with speed and ease, and bring your creative visions to reality!
+* Create high quality visual novels with speed and ease with TyranoBuilder’s suite of intuitive drag-and-drop tools. No programming knowledge necessary!
+* Different from TyranoScript‌, see upper  
 
 ## NovelEngine  
 * (origin) https://github.com/hide92795/NovelEngine-FileCreator  
@@ -4109,3 +4122,9 @@ https://github.com/07th-mod/higurashi-assembly/blob/mod/BGICompiler.Compiler/NoU
 * https://tieba.baidu.com/p/5367198859
 * https://github.com/3licie/majiro-tools
 * https://blog.sina.com.cn/s/blog_4db138230100eo4f.html
+
+## 簡単ノベルゲームクリエイター
+* (dead) http://www13.plala.or.jp/kymats/program/program_game.html
+* http://fa11enprince.hatenablog.com/entry/2014/06/19/003655  
+WIN32APIだけでノベルゲームエンジン  
+* NGSE1_3(Creater'sEdition).exe
