@@ -4138,4 +4138,12 @@ WIN32APIだけでノベルゲームエンジン
 ## navarro0/visual-novel-engine, based on pygame  
 * https://github.com/navarro0/visual-novel-engine
 
+## Ruby用ゲームフレームワーク「司エンジン（Tsukasa Engine）, by ruby and dxruby 
+* https://github.com/t-tutiya/tsukasa
+* https://github.com/t-tutiya/tsukasa_by_ruby
 
+## ノベルゲームエンジンを作ってみる
+* (dead) http://vbkaisetsu.sky-air.net/wordpress/2011/07/%E3%83%8E%E3%83%99%E3%83%AB%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%8B%E2%91%A1/  
+modnovel-0.1.tar.gz, by C and SDL  
+* (dead0 http://vbkaisetsu.sky-air.net/wordpress/2013/02/renpy%E3%81%A7%E8%A4%87%E6%95%B0%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%AE%E5%8F%B0%E8%A9%9E%E3%82%92%E5%90%8C%E6%99%82%E3%81%AB%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B/  
+MultiCharacter.tar.gz, by Ren'Py  
