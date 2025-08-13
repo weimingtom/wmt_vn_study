@@ -2248,7 +2248,7 @@ see https://www.retouch.info
 * search baidupan, tyranoscript_v325.zip  
 * (TODO, not found) html running demo
 * https://tyranoscript.com
-* Differences from TyranoBuilder, TyranoScript‌ is like Kirikiri2 ks and tjs, but TyranoBuilder is no programming tool   
+* Different from TyranoBuilder, TyranoScript‌ is like Kirikiri2 ks and tjs, but TyranoBuilder is no programming tool   
 ```
 ‌TyranoScript‌：基于 JavaScript 的脚本语言，专为 吉里吉里引擎 设计，用于实现复杂场景切换、角色对话等功能。 ‌
 ‌TyranoBuilder‌：一款可视化开发工具，主打零编程基础创建视觉小说，支持拖拽式操作和浏览器导出功能，内置3D角色动画和视频背景支持。 ‌
@@ -2657,13 +2657,19 @@ it uses this library ? not sure
 * (origin) https://www.pymogames.com  
 * https://www.cnblogs.com/think90/p/11455121.html  
 
-## dxlib script_free.exe    
+## dxlib script_free.exe   
 * (origin, dead) http://homepage2.nifty.com/natupaji/DxLib/User/script_free.exe  
 * search baidupan, script_free.exe  
 * https://dxlib.xsrv.jp  
 * novelgame.zip, guiprog    
 http://www.usamimi.info/~guiprog/game/#gamesource  
 http://karetta.jp/book-cover/game-programming/toc#toc  
+
+## ゲーム作りで学ぶ!実践的C言語プログラミング, based on DXライブラリ(dxlib)  
+* http://www.usamimi.info/~guiprog/game/  
+* http://homepage2.nifty.com/natupaji/DxLib/  
+* novelgame.zip  
+* see upper  
 
 ## avg-plus  
 * https://github.com/avg-plus/avg.renderer  
@@ -4128,3 +4134,8 @@ https://github.com/07th-mod/higurashi-assembly/blob/mod/BGICompiler.Compiler/NoU
 * http://fa11enprince.hatenablog.com/entry/2014/06/19/003655  
 WIN32APIだけでノベルゲームエンジン  
 * NGSE1_3(Creater'sEdition).exe
+
+## navarro0/visual-novel-engine, based on pygame  
+* https://github.com/navarro0/visual-novel-engine
+
+
