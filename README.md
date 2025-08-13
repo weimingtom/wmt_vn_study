@@ -2248,7 +2248,7 @@ see https://www.retouch.info
 * search baidupan, tyranoscript_v325.zip  
 * (TODO, not found) html running demo
 * https://tyranoscript.com
-* Differences from TyranoBuilder, TyranoScript‌ is like Kirikiri2 ks, but TyranoBuilder is no programming tool   
+* Differences from TyranoBuilder, TyranoScript‌ is like Kirikiri2 ks and tjs, but TyranoBuilder is no programming tool   
 ```
 ‌TyranoScript‌：基于 JavaScript 的脚本语言，专为 吉里吉里引擎 设计，用于实现复杂场景切换、角色对话等功能。 ‌
 ‌TyranoBuilder‌：一款可视化开发工具，主打零编程基础创建视觉小说，支持拖拽式操作和浏览器导出功能，内置3D角色动画和视频背景支持。 ‌
