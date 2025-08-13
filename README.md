@@ -4176,7 +4176,21 @@ REN’PYで複数のキャラの台詞を同時に表示する
 * (dead?) https://twitter.com/onidavin/status/550540229438734336
 * Rhythm VN Test - Windows.zip
 
-## Runa Engine, RunaGame Runa引擎游戏脚本库, by ruby and IronRuby(?)    
+## Runa Engine, RunaGame Runa引擎游戏脚本库, by Ruby and IronRuby(?)    
 * (dead) http://runa.codeplex.com/
 * RunaGame-20130912.7z
 * 基于LonghornShen的Runa引擎和群青Alo的Runa脚本开发
+
+## nekonovel, by C++ and VS2005
+* https://github.com/ZHANITEST/nekonovel
+* nekonovel.7z
+
+## ADVエンジン『RahuEngine』
+* http://rahuengine.web.fc2.com/
+* https://rahuengine.web.fc2.com/run.zip
+* run.zip, run.exe, I don't know how to use it
+
+## Ntrf-Gal-Engine, 基于脚本解析的galgame引擎, by browser js and seajs
+* https://github.com/lenrinfvck/Ntrf-Gal-Engine
+* (dead) http://lenrin.cn/Ntrf-Gal-Engine/
+* Ntrf-Gal-Engine.rar
