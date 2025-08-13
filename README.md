@@ -4168,3 +4168,15 @@ REN’PYで複数のキャラの台詞を同時に表示する
 * (dead) https://play.google.com/store/apps/details?id=com.kaede_software.slide_novel_engine_dev
 * 楓 software 吉里吉里Z 開発 see also http://kaede-software.com/habakiri/  
 
+## Sakia, A simple Galgame Engine on python, based on pygame  
+* https://code.google.com/p/sakia/
+* Sakia_source_ver2.zip, Sakia_win7_x86_setup.rar
+
+## Rhythm VN, by Unity, closed source? (use Assembly-CSharp.dll)  
+* (dead?) https://twitter.com/onidavin/status/550540229438734336
+* Rhythm VN Test - Windows.zip
+
+## Runa Engine, RunaGame Runa引擎游戏脚本库, by ruby and IronRuby(?)    
+* (dead) http://runa.codeplex.com/
+* RunaGame-20130912.7z
+* 基于LonghornShen的Runa引擎和群青Alo的Runa脚本开发
