@@ -4226,3 +4226,20 @@ Orisc_MousePatch.zip
 ## NScripter-Tips
 * NScripter－Tips, ノベルエンジンNScripterの初中級者向けTips集、リンク集です
 * https://sorejyadamedarou.sakura.ne.jp/nscripter/index.htm
+
+## NovelJS, by web browser js  
+* NovelJS｜小説をスマートフォンに最適な形に変換して出力。アプリ化にも対応
+* (dead) https://noveljs.com/
+* noveljs_v001.zip
+
+## (not good) Narrative Game Engine, just exe (?), I don't know how to use it
+* (dead) http://www.tonypottier.info/ngengine/index.html#features
+* NARRATIVE GAME ENGINE SDK, ngengine_sdk_a1_win32.zip
+```
+WHAT IS NARRATIVE GAME ENGINE (NGE) ?
+NGE is a 2D engine using DirectX developped for creating Narrative Games. 
+A popular game genre that is a narrative game is for exemple Bishojo games 
+or dating simulation games.
+Those are games where scenario and text is very important and where you 
+can choose sometimes your own answers that will influence the scenario.
+```
