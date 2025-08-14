@@ -4297,4 +4297,34 @@ MMDX(MikuMikuDance for XNA-SlimDX) 項目中文首頁 - OSDN
 * https://tieba.baidu.com/p/1423057308
 * https://github.com/LonghronShen/MMDX
 
-## 
+## Java自作3Dシューティングゲーム
+* http://shinod.jimdo.com/download/
+* (dead) http://ch.nicovideo.jp/indies-game
+* (dead) http://game.wiki.nicovideo.jp/indie/
+* (dead) http://game.wiki.nicovideo.jp/indie/Java%E8%87%AA%E4%BD%9C3D%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B2%E3%83%BC%E3%83%A0
+* Game0.00420.zip, Baller0.00001.zip
+
+## i-saint, 3D, RTS  
+* http://i-saint.skr.jp/log/pg/
+* http://primitive-games.jp/
+* empire_tohu-0.1.6.zip
+* (TODO) some files not record
+
+## HdiTor, Simple script editor for galgame.
+* https://sourceforge.net/projects/hditor/?source=directory
+* HdiTor_Full.7z
+
+## (Don't study this) halte3, Halte3 is a free,open source game resource extracting(packing) tools.
+* https://code.google.com/p/halte3/
+* Halte3.src.rev2.rar, Halte3.bin.rev1.rar
+* (TODO) some files not record
+
+## Famous Writer v3, closed source game engine?
+* (dead) http://www35.tok2.com/home/famouswriter/v3/index.html
+* (dead) http://matome.naver.jp/odai/2139850112738081501
+* FmWr0309pkgW.zip
+
+## (Don't study this) HalTe2 - General Galgame Resource Extracter
+* http://sourceforge.net/projects/halte2/files/?source=navbar
+* HalTe2_Release.7z
+* (TODO) some files not record
