@@ -2355,7 +2355,8 @@ cs2-open Ver 1.0, cs2.exe version 1, 0, 1, 10
 * (origin) https://bke.bakery.moe/download.html  
 * (origin) https://bke.bakery.moe/index_en.html  
 * (origin) http://docs.bakery.moe  
-* https://github.com/BKEngine/docs  
+* https://github.com/BKEngine/docs
+* BKE_Demo_Source_NoLive2D.rar, BKE-Demo.rar, BKECreator.7z
 
 ## 追忆 (closed source, for android)    
 * (origin, dead) http://www.galgames.info/  
@@ -2617,6 +2618,7 @@ python382_v1.tar.gz
 ## AINE (for flash)      
 * (origin) http://www.drakkashi.com/aine/  
 * search AINE_0.9.0_flash.zip  
+* AINE_NPpp_resources_0_9.zip
 
 ## YU-RIS, yuris   
 * (origin) http://yu-ris.net, http://yu-ris.net/download/index.html    
@@ -2968,6 +2970,11 @@ MangaMeeya
 * (old) adv_ppp_v234_base_hd.zip
 * (?) http://mimizun.com/log/2ch/gamedev/1083482407/  
 * (TODO)
+* adv_ppp_for_PC_v2.43_base_mobile.zip
+* adv_ppp_for_PC_v2.43_base_sd.zip
+* adv_ppp_for_PC_v2.43_master.zip
+* doc_device_2014_12_29.zip
+* adv_ppp_data_icon.zip
 
 ## (most dead very long time before) あどべんちゃーげーむをつくろう！　ScriptPlayer, and etc dead   
 * あどべんちゃーげーむをつくろう！　ScriptPlayer    
@@ -4328,3 +4335,33 @@ MMDX(MikuMikuDance for XNA-SlimDX) 項目中文首頁 - OSDN
 * http://sourceforge.net/projects/halte2/files/?source=navbar
 * HalTe2_Release.7z
 * (TODO) some files not record
+
+## Digital Novel Markup Language, 長岡志保愛好会～ＤＮＭＬ～
+* https://ja.wikipedia.org/wiki/Digital_Novel_Markup_Language
+* (dead?) http://hp.vector.co.jp/authors/VA015183/dnml/
+* dnml224n.exe
+
+## セカイノミカタ
+* (dead) http://www.nicovideo.jp/watch/sm25832893
+* http://www.vector.co.jp/soft/win95/amuse/se508951.html
+* https://play.google.com/store/apps/details?id=jp.sugiya.sekai_no_mikata
+* https://itunes.apple.com/jp/app/sekainomikata/id968601256?mt=8&ign-mpt=uo%3D4
+* (dead) http://sekai-no-mikata.jp/
+
+## TinyGL
+* https://bellard.org/TinyGL/
+* https://github.com/ska80/tinygl
+* TinyGL-0.4.tar.gz
+
+## MonoGame
+* (origin) http://monogame.net
+* (origin) https://github.com/MonoGame/MonoGame
+* 7.[开源][安卓]MonoGame-develop.zip
+* mono-android-9794.msi
+
+## NOeSIS外伝〜色亡き世界〜
+* Ironaki_1_1.apk
+* onscripter_android.tar.gz
+* onscripter-20131223.tar.gz
+* migmix-2m-20130617.zip
+
