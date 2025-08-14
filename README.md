@@ -4209,3 +4209,19 @@ MouceWheelpatch.zip
 * マウスホイール対応パッチうみねこオリスクキットVer　上記のスクリプトをうみねこオリスクキット用に多少改変してます。  
 Orisc_MousePatch.zip   
 
+## 物置き場 NScripter Archive Susie Plug-in
+* http://elksimple.web.fc2.com/other.html
+* NScripter Archive Susie Plug-in, spi_nsa006.zip
+* (TODO) many files not record
+
+## 石読工房, (lost) 石読工房 - NScripter講座Top
+* (old) http://ishiyomi.main.jp/nscr/index.php
+* https://ci-en.net/creator/13466
+* now no NScripter講座Top, articles lost
+
+## NScripter Scripting Factory ツール
+* http://senzogawa.s90.xrea.com/tool.html
+* nscr_sakuraedit.zip
+
+## NScripter - Tips, NScripter－Tips, ノベルエンジンNScripterの初中級者向けTips集、リンク集です
+* https://sorejyadamedarou.sakura.ne.jp/nscripter/index.htm
