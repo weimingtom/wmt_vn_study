@@ -2570,6 +2570,7 @@ python382_v1.tar.gz
 * (origin) http://www.le-mo.jp/lemo/products/LemoNovel_AS3/index.htm  
 * http://www.le-mo.jp/lemo/products/LemoNovel/index.htm
 * LemoNovelEx_1024x576.zip
+* LemoNovel_AS3_320x240.zip
 
 ## AINE (for flash)      
 * (origin) http://www.drakkashi.com/aine/  
@@ -3295,13 +3296,16 @@ search baidupan, 月姬plus-unity2018工程文件.rar
 不过暂时还只是计划尝试阶段。准备假期正式迁移到gh上继续研究下去
 ```
 
-## light.vn
+## Light.vn
 * https://lightvn.net/download/  
 * https://github.com/SoulEngineProject/Light.vn  
 * https://github.com/xiakkto/Light.vn-Chinese-Wiki/wiki  
 * https://soulengineproject.itch.io/lightvn  
 * Light.vn.release.16.4.2-en_240806_1255.zip  
-* Light.vn.release.16.5.1_240816_1912.zip  
+* Light.vn.release.16.5.1_240816_1912.zip
+* (Too old version, don't use) github.com/hsdk123/Light.vn    
+(Too old version, don't use) Light.vn.short.zip   
+This is the legacy old repo, which is being kept as history.  
 
 ## Steam  
 ```
@@ -4181,6 +4185,7 @@ REN’PYで複数のキャラの台詞を同時に表示する
 * (dead) http://runa.codeplex.com/
 * RunaGame-20130912.7z
 * 基于LonghornShen的Runa引擎和群青Alo的Runa脚本开发
+* (???Is this one???) https://github.com/LonghronShen
 
 ## nekonovel, by C++ and VS2005
 * https://github.com/ZHANITEST/nekonovel
@@ -4243,3 +4248,11 @@ or dating simulation games.
 Those are games where scenario and text is very important and where you 
 can choose sometimes your own answers that will influence the scenario.
 ```
+
+## MMDX, 基于MMD的3D Galgame引擎完工了
+* (dead) http://osdn.jp/projects/mmdx/  
+MMDX(MikuMikuDance for XNA-SlimDX) 項目中文首頁 - OSDN  
+* https://tieba.baidu.com/p/1423057308
+* https://github.com/LonghronShen/MMDX
+
+## 
