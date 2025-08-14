@@ -348,7 +348,8 @@ onscripter-chn-20080214.tar.bz2
 * https://github.com/sl1pkn07/onslaught-vn  
 
 ## onscripter-jh SDL2 branch (also include SDL 1.2 branch)    
-* (origin, dead) https://bitbucket.org/jh10001/onscripter-jh  
+* (origin, dead) https://bitbucket.org/jh10001/onscripter-jh
+* (origin, dead) https://bitbucket.org/jh10001/onscripter-jh/downloads/
 * (origin, archived) https://github.com/uyjulian/onscripter-jh
 ```
 https://github.com/uyjulian/onscripter-jh/tree/SDL2, The SDL2 branch,   
@@ -4195,3 +4196,16 @@ REN’PYで複数のキャラの台詞を同時に表示する
 * http://lenrinfvck.github.io/Ntrf-Gal-Engine/
 * (dead) http://lenrin.cn/Ntrf-Gal-Engine/
 * Ntrf-Gal-Engine.rar
+
+## NScr_hilight294, for NScripter, EmEditor Pro 7.003 and 秀丸エディタ 7.11
+* NScripter用に作成されたソースを各エディタで色分けする定義です。
+* (dead?) http://urukon.com/
+* NScr_hilight294.zip
+
+## Nscripterツール ツクール素材 
+* http://acowazi.web.fc2.com/materialandtool.html
+* マウスホイール対応パッチ　Nscripterをマウスホイールに対応するためのパッチスクリプトです。初心者向け。シスカマやりたい人には向きません。  
+MouceWheelpatch.zip  
+* マウスホイール対応パッチうみねこオリスクキットVer　上記のスクリプトをうみねこオリスクキット用に多少改変してます。  
+Orisc_MousePatch.zip   
+
