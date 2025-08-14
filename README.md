@@ -1036,6 +1036,48 @@ https://github.com/krkrz/krkrz_dev/tree/master/src/tools/win32
 see https://github.com/krkrz/krkrz/releases/download/1.4.0r2/krkrz_20171225r2.7z  
 see https://github.com/krkrz/krkr2/tree/master/kirikiri2/trunk/kirikiri2/src/tools/win32/debugger  
 see https://github.com/krkrz/krkr2/tree/master/kirikiri2/trunk/kirikiri2/bin/win32/tools/debugger  
+* krkrz_20150817.zip  
+* krkrz_20140803.zip, 吉里吉里Z 1.1.0.2
+```
+【吉里吉里Zについて】
+吉里吉里Zは、吉里吉里2 の VCビルド対応とレガシー機能の削除、モダン機能の追加を目的とした吉里吉里2フォークプロジェクトです。
+
+【ダウンロードページ】
+http://krkrz.github.io/
+
+【ヘルプ】
+詳細なドキュメントについては、上記ページの各種オンラインヘルプを参照してください。
+各種ヘルプは以下のページになります。
+
+吉里吉里Zリファレンス
+http://krkrz.github.io/docs/kirikiriz/j/contents/index.html
+
+TJS2 リファレンス
+http://krkrz.github.io/docs/tjs2/j/contents/index.html
+
+吉里吉里Zでの吉里吉里2からの変更点一覧
+http://krkrz.github.io/updatefromkr2.html
+
+【吉里吉里2 の TJS2スクリプトの動作について】
+吉里吉里Z は吉里吉里2 と完全互換ではないため、吉里吉里2 の TJS2スクリプトを動かすにはいくつか変更が必要です。
+
+吉里吉里Z では標準の文字コードがUTF-8に変更されています。
+旧スクリプトをそのまま動かす場合は、コマンドラインで -readencoding=Shift_JIS の追加が必要です。
+
+組み込み機能であった KAGParser とメニューはプラグイン化されています。
+KAGParser とメニュークラスが必要であれば KAGParser.dll と menu.dll をリンクする必要があります。
+
+マルチタッチをサポートするデバイスが有効な端末ではタッチが有効になります。
+( onMouseDown ではなく onTouchDown が届くと言うような動作となる )
+タッチ処理を行わない場合は、従来のマウス処理でハンドリング出来るように無効化する必要があります。
+無効化するには Window.enableTouch を false にします。
+
+PassThroughDrawDevice は削除されているので、使用している箇所は書き換えが必要です。
+
+その他削除されたメソッド等を使用している場合は、それらの処理を書き換える必要があります。
+
+より詳細な変更点については上記「吉里吉里Zでの吉里吉里2からの変更点一覧」ページを参照してください。
+```
 
 ## krkrz dev_multi_platform branch (OpenGL version, support drawTexture) , feat. krkrz/KAGSigma    
 * (origin) https://github.com/krkrz/krkrz/tree/dev_multi_platform
