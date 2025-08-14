@@ -4344,9 +4344,10 @@ MMDX(MikuMikuDance for XNA-SlimDX) 項目中文首頁 - OSDN
 ## セカイノミカタ
 * (dead) http://www.nicovideo.jp/watch/sm25832893
 * http://www.vector.co.jp/soft/win95/amuse/se508951.html
-* https://play.google.com/store/apps/details?id=jp.sugiya.sekai_no_mikata
-* https://itunes.apple.com/jp/app/sekainomikata/id968601256?mt=8&ign-mpt=uo%3D4
+* (dead) https://play.google.com/store/apps/details?id=jp.sugiya.sekai_no_mikata
+* (dead) https://itunes.apple.com/jp/app/sekainomikata/id968601256?mt=8&ign-mpt=uo%3D4
 * (dead) http://sekai-no-mikata.jp/
+* (TODO) no download
 
 ## TinyGL
 * https://bellard.org/TinyGL/
