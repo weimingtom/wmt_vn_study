@@ -4223,5 +4223,6 @@ Orisc_MousePatch.zip
 * http://senzogawa.s90.xrea.com/tool.html
 * nscr_sakuraedit.zip
 
-## NScripter - Tips, NScripter－Tips, ノベルエンジンNScripterの初中級者向けTips集、リンク集です
+## NScripter-Tips
+* NScripter－Tips, ノベルエンジンNScripterの初中級者向けTips集、リンク集です
 * https://sorejyadamedarou.sakura.ne.jp/nscripter/index.htm
