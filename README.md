@@ -1335,6 +1335,8 @@ src\core\visual\WindowIntf.cpp
 就是放到纹理上，具体的位置是UpdateDrawBuffer
 ```
 * ONS模拟器+krkr模拟器+游戏资源站.zip  
+* 实妹相伴的大泉君测试文件1，可以用kirikiroid2安卓版打开：shimei_with_xp3filter_less_files.7z
+* 实妹相伴的大泉君测试文件2，可以用kirikiroid2安卓版打开：cheng141_with_xp3filter_complete_files.7z
 
 ## 2468785842/krkr2, fork of zeas2/Kirikiroid2, using vcpkg/cmake/ninja    
 * (origin) https://github.com/2468785842/krkr2    
