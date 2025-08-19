@@ -2410,7 +2410,8 @@ cs2-open Ver 1.0, cs2.exe version 1, 0, 1, 10
 * [10年05月04日][AVG][萝莉的时间][中文ISO版].rar (lolitime.iso)
 * [10年03月10日][PC移植版][将记忆的全部].rar (no iso pack)
 * [10年07月18日][AVG][白色相簿2-序章][简体中文版][XX-XXX汉化组].rar (WA2_IC_POR.iso)
-* 
+* [10年04月17日][AVG][花吻][中文版].rar (Huawen.CSO)
+* [10年09月06日][AVG][花吻2 重装豪华版][繁体中文版][汉化移植版].rar (flower_kiss2.iso)
 
 ## PGM, Pocket Game Maker (closed source, for Android ?), 白枫开发    
 * (origin) https://github.com/History-exe/Pocket-Game-Maker-v0.83  
@@ -2418,12 +2419,17 @@ cs2-open Ver 1.0, cs2.exe version 1, 0, 1, 10
 * search PGM-AMT_EventEditor_v0.2.rar   
 * see AMP
 * WHJ3.iso
-* PSP移植游戏《缘之空》中文版.rar(yosuga.iso)
+* PSP移植游戏《缘之空》中文版.rar (yosuga.iso)
 
-## ReinforceZwei引擎, for PSP, 白枫开发   
+## RFZ引擎, ReinforceZwei引擎, for PSP, 白枫开发   
 * see AMP  
 * ReinforceZwei-V2.7z  
 * ReinforceZweiV0.1.rar  
+* [11年04月26日][AVG][明日的世界][PSP移植版].rar (asitanosekai.iso)
+
+## Lavis引擎
+* [09年12月25日][AVG][G弦上的魔王][汉化Lavis版].zip (no iso pack, not good in PPSSPP)
+* [10年04月23日][AVG][鬼哭街][简体中文][萌乃妹汉化组].rar (no iso pack, not good in PPSSPP)
 
 ## (TODO) GalgameDemo (for Unity)      
 * https://github.com/TragedyGod/GalgameDemo  
