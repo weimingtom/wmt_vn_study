@@ -2405,8 +2405,10 @@ cs2-open Ver 1.0, cs2.exe version 1, 0, 1, 10
 * PSP妹妹大作战中文移植版.iso
 * xx学院.中文版ISO.rar  
 * [PSP][PC移植版][School Days PSP（日在校园）][AMP制作(amp v0.4)].rar (no iso pack), 日在school.zip  
-* 120日元之冬(120winter, no iso pack), 120日元之春 (no iso pack)  
-* 120日元之夏(120 yen no natsu.iso), 120日元之秋 (120yen no AKI, no iso pack)  
+* 120日元之冬 (120winter, no iso pack)
+* 120日元之春 (no iso pack)  
+* 120日元之夏 (120 yen no natsu.iso)
+* 120日元之秋 (120yen no AKI, no iso pack)  
 * [10年05月04日][AVG][萝莉的时间][中文ISO版].rar (lolitime.iso)
 * [10年03月10日][PC移植版][将记忆的全部].rar (no iso pack)
 * [10年07月18日][AVG][白色相簿2-序章][简体中文版][XX-XXX汉化组].rar (WA2_IC_POR.iso)
