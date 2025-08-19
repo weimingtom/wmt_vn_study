@@ -2427,9 +2427,9 @@ cs2-open Ver 1.0, cs2.exe version 1, 0, 1, 10
 * ReinforceZweiV0.1.rar  
 * [11年04月26日][AVG][明日的世界][PSP移植版].rar (asitanosekai.iso)
 
-## Lavis引擎
-* [09年12月25日][AVG][G弦上的魔王][汉化Lavis版].zip (no iso pack, not good in PPSSPP)
-* [10年04月23日][AVG][鬼哭街][简体中文][萌乃妹汉化组].rar (no iso pack, not good in PPSSPP)
+## Lavis引擎 (not good in PPSSPP, font not shown)
+* [09年12月25日][AVG][G弦上的魔王][汉化Lavis版].zip (no iso pack, not good in PPSSPP, font not shown)
+* [10年04月23日][AVG][鬼哭街][简体中文][XXX汉化组].rar (no iso pack, not good in PPSSPP, font not shown)
 
 ## (TODO) GalgameDemo (for Unity)      
 * https://github.com/TragedyGod/GalgameDemo  
