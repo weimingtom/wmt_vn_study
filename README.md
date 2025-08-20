@@ -979,9 +979,12 @@ krkrdebg.exe
 (2.3) https://github.com/krkrsdl2/kag3/tree/krkrsdl2
 为什么会有三种？因为kag3_ham是新的，
 而krkrsdl2/kag3需要去掉startup.tjs内的dll（手机无法加载dll）和加入polyfill
+【删除dll加载】
 Plugins.link("menu.dll");
 Plugins.link("KAGParser.dll");
+【加入Polyfill】
 https://github.com/krkrsdl2/kag3/tree/krkrsdl2/data/system_polyfill
+https://gist.github.com/xyx0no646/16913d4407cdd4729cb2d5cf189a7095
 当然也可能有一个目的是要兼容kr2
 【甚至，krkrdebg.exe和tvpwin32.exe也能运行krkrsdl2/kag3】
 【补注】
@@ -990,8 +993,15 @@ https://github.com/krkrsdl2/kag3/tree/krkrsdl2/data/system_polyfill
 需要自己下载krkrz_20171225r2.7z (1.4.0)
 https://github.com/krkrz/krkrz/releases/download/1.4.0r2/krkrz_20171225r2.7z
 把里面的【plugin】和【plugin64】目录解压到tvpwin64_d.exe旁边，已加载menu.dll
-这样就不需要那么麻烦去改脚本和加入polyfill了
+这样就不需要那么麻烦去改脚本startup.tjs和加入polyfill了
 https://github.com/krkrsdl2/kag3/tree/krkrsdl2/data/system_polyfill
+https://github.com/krkrsdl2/kag3/blob/krkrsdl2/data/startup.tjs
+```
+// 機能が欠落している吉里吉里のバージョンのポリフィル関数を初期化します。
+Scripts.execStorage("system_polyfill/PolyfillInitialize.tjs");
+```
+【吉里吉里ZのKAG3を吉里吉里SDL2でも動作するように書き換えるメモ.md】
+https://gist.github.com/xyx0no646/16913d4407cdd4729cb2d5cf189a7095
 
 （三）支持krkrz的其他KAG3
 (3.1) 还有一个英文版的：
