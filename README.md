@@ -4414,3 +4414,16 @@ MMDX(MikuMikuDance for XNA-SlimDX) 項目中文首頁 - OSDN
 * onscripter-20131223.tar.gz
 * migmix-2m-20130617.zip
 
+## EDICT
+* (origin) http://www.edrdg.org/jmdict/edict.html
+* edict_20230715, edict.zip, edict.gz, edict2.gz
+
+## JMdict/EDICT
+* https://www.edrdg.org/wiki/index.php/Main_Page
+* https://www.edrdg.org/wiki/index.php/JMdict-EDICT_Dictionary_Project
+* https://web.archive.org/web/20250401012724/https://www.edrdg.org/wiki/index.php/Main_Page
+* JMdict.gz, JMdict_e.gz
+
+
+
+
