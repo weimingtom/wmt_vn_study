@@ -981,6 +981,7 @@ krkrdebg.exe
 而krkrsdl2/kag3需要去掉startup.tjs内的dll（手机无法加载dll）和加入polyfill
 Plugins.link("menu.dll");
 Plugins.link("KAGParser.dll");
+https://github.com/krkrsdl2/kag3/tree/krkrsdl2/data/system_polyfill
 当然也可能有一个目的是要兼容kr2
 【甚至，krkrdebg.exe和tvpwin32.exe也能运行krkrsdl2/kag3】
 【补注】
@@ -990,6 +991,7 @@ Plugins.link("KAGParser.dll");
 https://github.com/krkrz/krkrz/releases/download/1.4.0r2/krkrz_20171225r2.7z
 把里面的【plugin】和【plugin64】目录解压到tvpwin64_d.exe旁边，已加载menu.dll
 这样就不需要那么麻烦去改脚本和加入polyfill了
+https://github.com/krkrsdl2/kag3/tree/krkrsdl2/data/system_polyfill
 
 （三）支持krkrz的其他KAG3
 (3.1) 还有一个英文版的：
