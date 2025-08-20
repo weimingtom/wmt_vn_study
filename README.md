@@ -2906,7 +2906,7 @@ mjarc.exe, mjasm.exe, mjcrypt.exe, mjdisasm.exe, vaconv.exe and their src
 * https://github.com/weimingtom/luban-lite_fork_tools_vs2013  
 
 ## ITH
-* https://github.com/AndyScull/interactive-text-hooker  
+* (origin) https://github.com/AndyScull/interactive-text-hooker  
 * Running under windows xp
 ```
 ITH和ITHVNR在windows xp下拦截galgame日语文本（复制到剪贴板
@@ -2917,6 +2917,9 @@ win11下会运行失败。我几乎没用过。现在有很多更先进的工具
 ITH需要VC2010运行时，ITHVNR则需要VC2013运行时。
 ITHVNR多了一个unhook按钮，而且按钮内的对话框内容不同
 ```
+* (origin, dead) http://www.hongfire.com/forum/forum/hentai-lair/hentai-game-discussion/tools-and-tutorials/185725-interactive-text-hooker-new-text-extraction-tool?t=208860
+* (origin) https://web.archive.org/web/20190921092912/http://www.hongfire.com/forum/forum/hentai-lair/hentai-game-discussion/tools-and-tutorials/185725-interactive-text-hooker-new-text-extraction-tool?t=208860
+* https://github.com/Translation-Aggregator/Translation-Aggregator?tab=readme-ov-file#about
 
 ## ITHVNR  
 * https://github.com/mireado/ITHVNR/
