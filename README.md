@@ -957,7 +957,8 @@ https://kimoritama.github.io/krkr2doc-cn/kag3doc/contents/index.html
 ```
 就日文版而言
 和kirikiri2的情况相似，由本体【tvpwin32.exe或tvpwin64.exe】和KAG3【data】两部分组成，缺一不可
-但和kirikiri2有非常复杂的不同，kirikiri2的KAG3是不集成在SDK中【krkrz_20171225r2.7z】
+但和kirikiri2有非常复杂的不同，krkrz的KAG3是不集成在SDK中【krkrz_20171225r2.7z】
+（KAG简单版在krkrz/kag3，见（二））
 详细参考：
 http://krkrz.github.io
 下载krkrz_20171225r2.7z (1.4.0)
@@ -982,6 +983,13 @@ Plugins.link("menu.dll");
 Plugins.link("KAGParser.dll");
 当然也可能有一个目的是要兼容kr2
 【甚至，krkrdebg.exe和tvpwin32.exe也能运行krkrsdl2/kag3】
+【补注】
+如果是从krkrz/krkrz仓库中编译运行krkrz的调试版tvpwin64_d.exe（通常会输出到krkrz目录的父目录）
+那么运行tvpwin64_d.exe时，【选择XP3封包或文件夹】，加载krkrz/kag3的data文件夹会提示【触发脚本异常，插件加载失败:menu.dll】
+需要自己下载krkrz_20171225r2.7z (1.4.0)
+https://github.com/krkrz/krkrz/releases/download/1.4.0r2/krkrz_20171225r2.7z
+把里面的【plugin】和【plugin64】目录解压到tvpwin64_d.exe旁边，已加载menu.dll
+这样就不需要那么麻烦去改脚本和加入polyfill了
 
 （三）支持krkrz的其他KAG3
 (3.1) 还有一个英文版的：
