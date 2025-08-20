@@ -4417,6 +4417,8 @@ MMDX(MikuMikuDance for XNA-SlimDX) 項目中文首頁 - OSDN
 ## EDICT
 * (origin) http://www.edrdg.org/jmdict/edict.html
 * edict_20230715, edict.zip, edict.gz, edict2.gz
+* The EDICT Dictionary File (EDICT and EDICT2)  
+(dead) http://www.csse.monash.edu.au/~jwb/edict.html/edict_doc.html  
 
 ## JMdict/EDICT
 * https://www.edrdg.org/wiki/index.php/Main_Page
@@ -4424,6 +4426,14 @@ MMDX(MikuMikuDance for XNA-SlimDX) 項目中文首頁 - OSDN
 * https://web.archive.org/web/20250401012724/https://www.edrdg.org/wiki/index.php/Main_Page
 * JMdict.gz, JMdict_e.gz
 
+## WadokuJT.txt(from JGloss)
+* http://www.bibiko.de/WadokuJT.zip  
+* http://jgloss.sourceforge.net/  
 
+## 中日日中词典 MuiltDic v2.7.0  
+* (dead) http://soft.shouji.com.cn/down/17631.html  
+
+## JGloss, Add readings and translations to Japanese text
+* https://sourceforge.net/projects/jgloss/
 
 
