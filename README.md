@@ -1295,6 +1295,14 @@ FILE *stderr = &__sF[2];
 
 arguments "-DANDROID_ALLOW_UNDEFINED_SYMBOLS=ON"
 ```
+* polyfill, 吉里吉里ZのKAG3を吉里吉里SDL2でも動作するように書き換えるメモ  
+https://gist.github.com/xyx0no646/16913d4407cdd4729cb2d5cf189a7095  
+https://github.com/krkrsdl2/kag3/tree/krkrsdl2/data/system_polyfill    
+https://github.com/krkrsdl2/kag3/blob/krkrsdl2/data/startup.tjs  
+``` 
+// 機能が欠落している吉里吉里のバージョンのポリフィル関数を初期化します。  
+Scripts.execStorage("system_polyfill/PolyfillInitialize.tjs");  
+```
 
 ## kirikiroid2 (for Android and iOS)    
 * (origin) https://github.com/zeas2/Kirikiroid2  
