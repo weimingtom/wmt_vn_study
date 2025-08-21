@@ -4428,7 +4428,8 @@ MMDX(MikuMikuDance for XNA-SlimDX) 項目中文首頁 - OSDN
 
 ## WadokuJT.txt(from JGloss)
 * http://www.bibiko.de/WadokuJT.zip  
-* http://jgloss.sourceforge.net/  
+* http://jgloss.sourceforge.net/
+* jkanji_edict.txt
 
 ## 中日日中词典 MuiltDic v2.7.0  
 * (dead) http://soft.shouji.com.cn/down/17631.html  
