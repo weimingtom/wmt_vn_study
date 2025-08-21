@@ -4438,4 +4438,17 @@ MMDX(MikuMikuDance for XNA-SlimDX) 項目中文首頁 - OSDN
 ## JGloss, Add readings and translations to Japanese text
 * https://sourceforge.net/projects/jgloss/
 
+## 形態素解析システム Sen
+* http://www.mlab.im.dendai.ac.jp/~yamada/ir/MorphologicalAnalyzer/Sen.html
+* (dead) http://java.net/projects/sen
+* sen.zip, jkanji_data
+
+## IPAdic
+* (dead) http://chasen.naist.jp/stable/ipadic/
+* (dead) http://sourceforge.jp/projects/ipadic/
+
+## EBWin
+* https://ebstudio.info/manual/EBWin4/EBWin4.html
+* EBWin3.04_汉化+教程+外字包补丁.rar
+
 
