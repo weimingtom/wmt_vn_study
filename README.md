@@ -4432,7 +4432,8 @@ MMDX(MikuMikuDance for XNA-SlimDX) 項目中文首頁 - OSDN
 * jkanji_edict.txt
 
 ## 中日日中词典 MuiltDic v2.7.0  
-* (dead) http://soft.shouji.com.cn/down/17631.html  
+* (dead) http://soft.shouji.com.cn/down/17631.html
+* https://blog.csdn.net/umier2000/article/details/84270475
 
 ## JGloss, Add readings and translations to Japanese text
 * https://sourceforge.net/projects/jgloss/
