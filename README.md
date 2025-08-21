@@ -1096,6 +1096,11 @@ PassThroughDrawDevice は削除されているので、使用している箇所�
 
 より詳細な変更点については上記「吉里吉里Zでの吉里吉里2からの変更点一覧」ページを参照してください。
 ```
+* krkrz_master_v1_run.7z  
+vs2020 build, need nasm.exe put to C:\Windows or C:\Windows\system32  
+https://www.nasm.us/pub/nasm/releasebuilds/2.10.09/win32/nasm-2.10.09-win32.zip   
+and rebuild turbojpeg-static    
+see vcproj folder  
 
 ## krkrz dev_multi_platform branch (OpenGL version, support drawTexture) , feat. krkrz/KAGSigma    
 * (origin) https://github.com/krkrz/krkrz/tree/dev_multi_platform
