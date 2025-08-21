@@ -2430,7 +2430,7 @@ cs2-open Ver 1.0, cs2.exe version 1, 0, 1, 10
 * https://baike.baidu.com/item/amp/19446534  
 * search baiudpan, AMPv0.70(GALGAME).rar  
 * see PGM
-* Most games that made by AMP are 18
+* Most games that made by AMP are 18, some need vndb help to find the true game name
 * 实妹.rar(115, imouto.iso)
 * 沙耶之歌AMP.rar(shayezhige.iso)
 * PSP妹妹大作战中文移植版.iso
@@ -2446,6 +2446,7 @@ cs2-open Ver 1.0, cs2.exe version 1, 0, 1, 10
 * [10年04月17日][AVG][花吻][中文版].rar (Huawen.CSO)
 * [10年09月06日][AVG][花吻2 重装豪华版][繁体中文版][汉化移植版].rar (flower_kiss2.iso)
 * 军人少女的生活 日版.rar (no iso pack, maybe unpacked by iso)
+* elololi.rar (elololiV3.iso no pass unable to unpack, need 115 another 萝莉XXXX5954.rar to unpack 萝莉XXX.iso)  
 
 ## PGM, Pocket Game Maker (closed source, for Android ?), 白枫开发    
 * (origin) https://github.com/History-exe/Pocket-Game-Maker-v0.83  
