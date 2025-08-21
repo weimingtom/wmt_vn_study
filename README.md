@@ -1096,7 +1096,7 @@ PassThroughDrawDevice は削除されているので、使用している箇所�
 
 より詳細な変更点については上記「吉里吉里Zでの吉里吉里2からの変更点一覧」ページを参照してください。
 ```
-* krkrz_master_v1_run.7z  
+* krkrz_master_v1_run.7z (TODO, need to fix MFPlayer.cpp .lib and WaveFormatConverter_SSE.cpp headers bug, refer to krkrz_dev_multi_platform_v2_rollback.7z)   
 vs2020 build, need nasm.exe put to C:\Windows or C:\Windows\system32  
 https://www.nasm.us/pub/nasm/releasebuilds/2.10.09/win32/nasm-2.10.09-win32.zip   
 and rebuild turbojpeg-static    
@@ -1104,7 +1104,7 @@ see vcproj folder
 
 ## krkrz dev_multi_platform branch (OpenGL version, support drawTexture) , feat. krkrz/KAGSigma    
 * (origin) https://github.com/krkrz/krkrz/tree/dev_multi_platform
-* (Need to roll back to 20270801 to sync KAGSigma version) https://github.com/krkrz/krkrz/tree/3d89b0f203ceca840f62b2e28ad034dea6df41fa
+* (Need to roll back to 20170801 to sync KAGSigma version) https://github.com/krkrz/krkrz/tree/3d89b0f203ceca840f62b2e28ad034dea6df41fa
 * (search drawTexture path:*.tjs) https://github.com/search?q=drawTexture+path%3A*.tjs&type=code  
 https://github.com/krkrz/multi_platform_design  
 https://github.com/uyjulian/multi_platform_design  
@@ -1165,6 +1165,10 @@ tTJSNativeClass* TVPCreateDefaultDrawDevice() {
         return new tTJSNC_NullDrawDevice();
 }
 ```
+* krkrz_dev_multi_platform_v2_rollback.7z  
+need to copy others' 64bit libEGL.dll and libGLESv2.dll to ../Plugin64/.  
+Because I can't build libANGLE in this project.   
+Also, need to rollback, git checkout -f 3d89b0f203ceca840f62b2e28ad034dea6df41fa  
 
 ## krkrsdl2  
 * (origin) https://github.com/krkrsdl2/krkrsdl2  
