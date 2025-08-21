@@ -2430,7 +2430,8 @@ cs2-open Ver 1.0, cs2.exe version 1, 0, 1, 10
 * https://baike.baidu.com/item/amp/19446534  
 * search baiudpan, AMPv0.70(GALGAME).rar  
 * see PGM
-* Most games that made by AMP are 18, some need vndb help to find the true game name
+* Most games that made by AMP are 18, some need vndb's help to find the true game name
+* However, most and some unable unpacked are not interesting, few are good games that I like
 * 实妹.rar(115, imouto.iso)
 * 沙耶之歌AMP.rar(shayezhige.iso)
 * PSP妹妹大作战中文移植版.iso
