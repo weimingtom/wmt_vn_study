@@ -2454,6 +2454,7 @@ cs2-open Ver 1.0, cs2.exe version 1, 0, 1, 10
 * see AMP
 * WHJ3.iso
 * PSP移植游戏《缘之空》中文版.rar (yosuga.iso)
+* PSP《滑溜，溜的汁液》汉化版.rar (滑溜溜的汁液.iso)
 
 ## RFZ引擎, ReinforceZwei引擎, for PSP, 白枫开发   
 * see AMP  
