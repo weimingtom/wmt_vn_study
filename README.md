@@ -2455,6 +2455,7 @@ cs2-open Ver 1.0, cs2.exe version 1, 0, 1, 10
 * https://yayabo-handheldev.github.io/yayabo.github.io/archive/index_1.html  
 掌机游戏开发者之家 论坛存档  
 * 梦妖尤娜的奉仕课程.zip (yuna.iso)  
+* [10年04月23日][AVG][长门有希的暴走][汉化移植版].rar (nagato.iso)
 
 ## PGM, Pocket Game Maker (closed source, for Android ?), 白枫开发    
 * (origin) https://github.com/History-exe/Pocket-Game-Maker-v0.83  
