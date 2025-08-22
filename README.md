@@ -2456,6 +2456,9 @@ cs2-open Ver 1.0, cs2.exe version 1, 0, 1, 10
 掌机游戏开发者之家 论坛存档  
 * 梦妖尤娜的奉仕课程.zip (yuna.iso)  
 * [10年04月23日][AVG][长门有希的暴走][汉化移植版].rar (nagato.iso)
+* [10年09月06日][AVG][初音之歌 铃音之声 C75][中文版][汉化移植版].zip (AMP_MIKU2.iso)
+* [10年08月06日][AVG][初音 注视着你瞳里的未来歌谣][汉化移植版].rar (miku3.iso)
+* [10年07月18日][AVG][刻痕 II][中文移植版][个人汉化].rar (kehenII.iso)
 
 ## PGM, Pocket Game Maker (closed source, for Android ?), 白枫开发    
 * (origin) https://github.com/History-exe/Pocket-Game-Maker-v0.83  
@@ -2471,10 +2474,12 @@ cs2-open Ver 1.0, cs2.exe version 1, 0, 1, 10
 * ReinforceZwei-V2.7z  
 * ReinforceZweiV0.1.rar  
 * [11年04月26日][AVG][明日的世界][PSP移植版].rar (asitanosekai.iso)
+* [10年07月18日][AVG][初音 将全部的歌献给未来的你][汉化移植版].rar (no iso pack)  
 
 ## Lavis引擎 (not good in PPSSPP, font not shown)
 * [09年12月25日][AVG][G弦上的魔王][汉化Lavis版].zip (no iso pack, not good in PPSSPP, font not shown)
 * [10年04月23日][AVG][鬼哭街][简体中文][XXX汉化组].rar (no iso pack, not good in PPSSPP, font not shown)
+* ???vis引擎, [10年01月12日][AVG][eden][移植汉化版][含演出修正补丁][个人汉化].rar  (no iso pack, not good in PPSSPP, font not shown)
 
 ## (TODO) GalgameDemo (for Unity)      
 * https://github.com/TragedyGod/GalgameDemo  
