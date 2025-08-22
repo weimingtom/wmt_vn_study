@@ -2459,6 +2459,7 @@ cs2-open Ver 1.0, cs2.exe version 1, 0, 1, 10
 * [10年09月06日][AVG][初音之歌 铃音之声 C75][中文版][汉化移植版].zip (AMP_MIKU2.iso)
 * [10年08月06日][AVG][初音 注视着你瞳里的未来歌谣][汉化移植版].rar (miku3.iso)
 * [10年07月18日][AVG][刻痕 II][中文移植版][个人汉化].rar (kehenII.iso)
+* 盛夏之梦（汉化版）, sxzm.iso
 
 ## PGM, Pocket Game Maker (closed source, for Android ?), 白枫开发    
 * (origin) https://github.com/History-exe/Pocket-Game-Maker-v0.83  
