@@ -2436,10 +2436,10 @@ cs2-open Ver 1.0, cs2.exe version 1, 0, 1, 10
 * see PGM
 * Most games that made by AMP are 18, some need vndb's help to find the true game name
 * However, most and some unable unpacked are not interesting, few are good games that I like
-* 实妹.rar(115, imouto.iso)
-* 沙耶之歌AMP.rar(shayezhige.iso)
-* PSP妹妹大作战中文移植版.iso
-* xx学院.中文版ISO.rar  
+* 实妹.rar (115, imouto.iso)
+* 沙耶之歌AMP.rar (shayezhige.iso)
+* [10年04月23日][妹妹大作战][简体中文].rar (mmdzz for qianlfeg.iso), PSP妹妹大作战中文移植版.iso
+* xx学院.中文版ISO.rar, yuwang学院, XX学院.中文版ISO.rar (Disxxxxxx.CN.iso)  
 * [PSP][PC移植版][School Days PSP（日在校园）][AMP制作(amp v0.4)].rar (no iso pack), 日在school.zip  
 * [10年04月23日][AVG][120日元之冬][汉化移植版][XXX汉化组] (120winter, no iso pack)
 * [10年04月23日][AVG][120日元之春][汉化移植版][XXX汉化组] (no iso pack)  
