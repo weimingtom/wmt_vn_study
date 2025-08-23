@@ -4475,7 +4475,7 @@ MMDX(MikuMikuDance for XNA-SlimDX) 項目中文首頁 - OSDN
 * EBWin3.04_汉化+教程+外字包补丁.rar
 
 ## JWPce - Japanese Text Editor and Dictionary
-* https://www.tanos.co.uk/jlpt/extras/jwpce
-* (dead) https://www.physics.ucla.edu/~grosenth/jwpce.html
+* (origin ?) https://www.tanos.co.uk/jlpt/extras/jwpce
+* (origin, dead) https://www.physics.ucla.edu/~grosenth/jwpce.html
 * A Windows Tool exe to write japanese kanji (select word->click kanji button->convert pronunciation to kanji) and lookup dictionary (select word->right click menu->dictionary lookup)    
-* But why it can't display japanese pronunciation beside kanji ? Maybe I mistake and forget, it's unable to do word segmentation
+* But why it can't display japanese pronunciation beside kanji ? Maybe I mistake and forget it, it's unable to do word segmentation
