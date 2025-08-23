@@ -4473,6 +4473,7 @@ MMDX(MikuMikuDance for XNA-SlimDX) 項目中文首頁 - OSDN
 ## EBWin
 * https://ebstudio.info/manual/EBWin4/EBWin4.html
 * EBWin3.04_汉化+教程+外字包补丁.rar
+* Need to copy GAIJI/*.* like koudanjc.map (what's this dictionary, I forget it) to C:\Documents and Settings\Administrator\Application Data\EBWin\GAIJI  
 
 ## JWPce - Japanese Text Editor and Dictionary
 * (origin ?) https://www.tanos.co.uk/jlpt/extras/jwpce
