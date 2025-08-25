@@ -4485,3 +4485,8 @@ MMDX(MikuMikuDance for XNA-SlimDX) 項目中文首頁 - OSDN
 * (origin, dead) https://www.physics.ucla.edu/~grosenth/jwpce.html
 * A Windows Tool exe to write japanese kanji (select word->click kanji button->convert pronunciation to kanji) and lookup dictionary (select word->right click menu->dictionary lookup)    
 * But why it can't display japanese pronunciation beside kanji ? Maybe I mistake and forget it, it's unable to do word segmentation. Maybe use JGloss instead if you want to do this.  
+
+## DDLC-LOVE (for PSP and etc)  
+* https://github.com/LukeZGD/DDLC-LOVE
+* https://archive.org/details/ddlc-love.-7z
+* DDLC-LOVE-PSP.zip
