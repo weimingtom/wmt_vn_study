@@ -2460,6 +2460,8 @@ cs2-open Ver 1.0, cs2.exe version 1, 0, 1, 10
 * [10年08月06日][AVG][初音 注视着你瞳里的未来歌谣][汉化移植版].rar (miku3.iso)
 * [10年07月18日][AVG][刻痕 II][中文移植版][个人汉化].rar (kehenII.iso)
 * 盛夏之梦（汉化版）, sxzm.iso
+* PSP《依赖依赖棒棒2：霞篇》汉化版.rar (依赖依赖棒棒2 ~霞篇~.iso)
+
 
 ## PGM, Pocket Game Maker (closed source, for Android ?), 白枫开发    
 * (origin) https://github.com/History-exe/Pocket-Game-Maker-v0.83  
@@ -2469,6 +2471,7 @@ cs2-open Ver 1.0, cs2.exe version 1, 0, 1, 10
 * WHJ3.iso
 * PSP移植游戏《缘之空》中文版.rar (yosuga.iso)
 * PSP《滑溜，溜的汁液》汉化版.rar (滑溜溜的汁液.iso)
+* Ha·RX·XX 汉化版.rar (XXX～Ha·XX·XX～.iso)
 
 ## RFZ引擎, ReinforceZwei引擎, for PSP, 白枫开发   
 * see AMP  
