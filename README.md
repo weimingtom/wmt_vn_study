@@ -4490,3 +4490,5 @@ MMDX(MikuMikuDance for XNA-SlimDX) 項目中文首頁 - OSDN
 * https://github.com/LukeZGD/DDLC-LOVE
 * https://archive.org/details/ddlc-love.-7z
 * DDLC-LOVE-PSP.zip
+* https://www.gamebrew.org/wiki/DDLC-LOVE_PSP
+
