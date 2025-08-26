@@ -2461,7 +2461,7 @@ cs2-open Ver 1.0, cs2.exe version 1, 0, 1, 10
 * [10年07月18日][AVG][刻痕 II][中文移植版][个人汉化].rar (kehenII.iso)
 * 盛夏之梦（汉化版）, sxzm.iso
 * PSP《依赖依赖棒棒2：霞篇》汉化版.rar (依赖依赖棒棒2 ~霞篇~.iso)
-
+* lovemaid.zip (lovemaid.iso)  
 
 ## PGM, Pocket Game Maker (closed source, for Android ?), 白枫开发    
 * (origin) https://github.com/History-exe/Pocket-Game-Maker-v0.83  
