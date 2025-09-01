@@ -805,6 +805,7 @@ sudo snap install retroarch，但需要手动用cp命令行把
 （目录位置需要在retroarch setting中查看）
 如果漏了.info，需要删除cores目录下的.cache文件然后重启retroarch
 ``` 
+* (TODO) https://bbs.deepin.org/search?keyword=onscripter&search_type=1
 
 ## katane, some sources and patches (see the .h file) about onscripter and etc     
 * (origin) https://onedrive.live.com/?cid=1A0406E116655303&id=1a0406e116655303%21108&authkey=%21AEU0L3HpCKm7YLU   
@@ -1372,6 +1373,7 @@ src\core\visual\WindowIntf.cpp
 * ONS模拟器+krkr模拟器+游戏资源站.zip  
 * 实妹相伴的大泉君测试文件1，可以用kirikiroid2安卓版打开：shimei_with_xp3filter_less_files.7z
 * 实妹相伴的大泉君测试文件2，可以用kirikiroid2安卓版打开：cheng141_with_xp3filter_complete_files.7z
+* (TODO) https://bbs.deepin.org/search?keyword=kirikiroid2&search_type=1
 
 ## 2468785842/krkr2, fork of zeas2/Kirikiroid2, using vcpkg/cmake/ninja    
 * (origin) https://github.com/2468785842/krkr2    
