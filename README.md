@@ -892,6 +892,9 @@ UVE Opensource Project for UVE 2.1
 * https://github.com/shouhuanxiaoji/ONScripter-GBK-Linux
 * https://bbs.archlinuxcn.org/viewtopic.php?id=1843  
 * Largely changed in ScriptHandler.h and sjis2utf16.cpp  
+* https://bbs.openkylin.top/search?q=onscripter
+* https://bbs.openkylin.top/t/topic/79033
+* https://bbs.openkylin.top/t/topic/79114
 
 ## 吉里吉里2, kirikiri2  
 ```
