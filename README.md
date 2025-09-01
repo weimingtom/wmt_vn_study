@@ -888,13 +888,45 @@ UVE Opensource Project for UVE 2.1
 * https://tieba.baidu.com/p/3329962867  
 * (dead) http://uve.codeplex.com  
 
-## ONScripter-GBK-Linux  
+## ONScripter-GBK-Linux, based on natdon version (?) (natdon/ONScripter-CN)   
 * https://github.com/shouhuanxiaoji/ONScripter-GBK-Linux
 * https://bbs.archlinuxcn.org/viewtopic.php?id=1843  
 * Largely changed in ScriptHandler.h and sjis2utf16.cpp  
 * https://bbs.openkylin.top/search?q=onscripter
 * https://bbs.openkylin.top/t/topic/79033
+```
+本次依然采用natdon所写安卓版本修改源码，感谢原作者及natdon。
+主要修改
+Makefile.onscripter删除调用LUAHandle
+Makefile.Linux替换为debian源提供的20130411版（未做任何改动）
+删掉源码自带lua库，修改LUAHandle.h调用系统lua.hpp
+linux版ONS与安卓版、Windows版ons运行游戏数据相同，存档通用，支持nt2加密文件。
+源码地址：http://gamux.org/simulator/sim/o … -src-Linux.tar.lzma
+编译平台：Debian GUN/Linux Wheezy AMD64
+gcc 4.7.2
+g++ 4.7.2
+lua 5.1
+sdl 1.2
+glibc 2.13
+已编译出的二进制文件（适用于debian wheezy amd64）：
+http://gamux.org/simulator/sim/onscripter-20130210-debian-AMD64
+注意：代码专为linux平台修改，只可在ARMLInux和PC linux平台运行，不可在其他诸如MAC WIN等操作系统编译。
+编译及使用方法请参看http://gamux.org/emulators-bak/onscripter-intro/
+Ubuntu 20121116版下载（适用于ubuntukylin，20130210版并未增加重要新特性）
+32位：http://gamux.org/simulator/sim/onscripter-20121116-ubuntu-X86
+64位：http://gamux.org/simulator/sim/onscripter-20121116-ubuntu-X64
+运行水仙效果图，完美中文。
+```
 * https://bbs.openkylin.top/t/topic/79114
+```
+ONScripter for Linux GBK 20130411，放在github，希望一起维护。
+gamux
+2013 年 6 月
+地址https://github.com/shouhuanxiaoji/ONScripter-GBK-Linux
+这次根据官方最新版本修改。
+代码只保证在ubuntu/debian下编译能成功，sos需要升级avifile到0.7.48或修改源码中avifile版本设定，
+其他发行版可以参看这里http://www.mzry1992.com/blog/miao/onscripter-for-linux汉化.html希望能上传更多patch用以支援更多发行版成功编译。
+```
 
 ## 吉里吉里2, kirikiri2  
 ```
