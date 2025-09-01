@@ -3899,6 +3899,9 @@ https://vndb.org/r?q=&sb=Search%21&o=a&s=title&f=02fwNScripter-2wzh_dHans-
 这三个步骤才能正常运行（复制字体可选），而且非常卡，不知道为什么。
 山百合连弹不知道是否支持手柄（未测试），我是按N来确定（不是ZX）
 ```
+* https://bbs.deepin.org/post/266406
+* https://bbs.deepin.org/search?keyword=galgame&search_type=1
+* https://bbs.deepin.org/post/9001
 
 ## Proton 9.0-4 in Steam Play of Steam Deck
 * In Steam Deck, change to Desktop Mode
