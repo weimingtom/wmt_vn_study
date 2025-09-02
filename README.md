@@ -2052,6 +2052,8 @@ western_platform_fonts和ja_platform_fonts
 
 默认似乎加载msgothic.ttc，待考（搜索代码）
 ```
+* https://web.archive.org/web/20070707021854/http://kimatten.hp.infoseek.co.jp/cgi-bin/wiki/wiki.cgi?page=system3+for+SDL
+* https://web.archive.org/web/*/http://kimatten.hp.infoseek.co.jp/*
 
 ## System4 (closed source)    
 * (origin, dead) http://kei.stbbs.net/rubyeye/sys40/sdk_dl.html
