@@ -79,6 +79,8 @@ http://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E3%82
 https://moonphase.hatenablog.com/entry/20040104   
 * 同人ゲーム詰め合わせ  
 https://archive.org/details/doujin-game-tsumeawase  
+* Linuxで動くオープンソースエロゲを作ろう！4
+https://kako.5ch.net/test/read.cgi/linux/1246189118/  
 
 ## nscripter  
 * (origin) http://www.nscripter.com  
