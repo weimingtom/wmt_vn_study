@@ -4,6 +4,7 @@ I want to find the similarity among too many visual novel engines (see vndb, mor
 like how to transform scripts into binary to protect the game.  
 Another purpose is to make some visual novel or other types of game engine template projects.    
 DO NOT waste time to unpack them, there's no sense.  
+DO NOT only make open source for all game engines or for other people, do what I like to do, give up what I don't like to do.  
 ```
 昨夜雨疏风骤，浓睡不消残酒。试问卷帘人，却道海棠依旧。知否，知否？应是绿肥红瘦。  
 ——李清照《如梦令·昨夜雨疏风骤》  
@@ -1156,7 +1157,9 @@ https://krkrz.github.io/multi_platform_design/
 * (just 32bit dll) https://github.com/krkrz/multi_platform_design/releases/download/v0.7/krkrz_win.7z
 ```
 You can get 32bit libEGL.dll and libGLESv2.dll from this krkrz_win.7z,
-to run homebrew self built tvpwin32.exe  
+to run homebrew self built tvpwin32.exe
+
+krkrz_win.7z, krkrz.apk
 ```
 * (Need to roll back to 20170801 to sync KAGSigma version) https://github.com/krkrz/krkrz/tree/3d89b0f203ceca840f62b2e28ad034dea6df41fa
 * (search drawTexture path:*.tjs) https://github.com/search?q=drawTexture+path%3A*.tjs&type=code  
