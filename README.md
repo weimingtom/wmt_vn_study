@@ -1247,6 +1247,11 @@ https://github.com/krkrz/angle/tree/f1706c47250db7c9fc47c49c025566ec5974a290
 angle-f1706c47250db7c9fc47c49c025566ec5974a290.zip  
 angle-f1706c4_vs2022_v1_20250906.rar  
 angle-f1706c4_vs2022_v1_20250906_test.7z  
+```
+krkrz研究。上次说的关于编译ANGLE libEGL.dll和libGLESv2.dll的问题，我说用krkrz的vs工程编译失败，
+其实可以解决，就是不要打开krkrz的sln工程编译这两个dll，而是打开angle目录下src子目录下的sln编译，
+就能编译成功，得到的dll放到tvpwin64_d.exe旁边的plugin64目录下即可
+```
 
 ## krkrsdl2  
 * (origin) https://github.com/krkrsdl2/krkrsdl2  
