@@ -1140,8 +1140,19 @@ https://www.nasm.us/pub/nasm/releasebuilds/2.10.09/win32/nasm-2.10.09-win32.zip
 and rebuild turbojpeg-static    
 see vcproj folder  
 
-## krkrz dev_multi_platform branch (OpenGL version, support drawTexture) , feat. krkrz/KAGSigma    
+## krkrz dev_multi_platform branch (OpenGL version, support drawTexture) , feat. krkrz/KAGSigma, a.k.a. 吉里吉里Z Ver.2
+```
+krkrz第2版为了兼容android，做了很多不兼容的改动，除了tjs脚本全部使用utf-8以外，
+还使用ANGLE作为gles模拟器（官方发布包里面带有libGLESv2.dll文件）
+https://krkrz.github.io/multi_platform_design/
+当然因为krkrz本身也彻底抛弃xp了，因此ANGLE应该也不会支持xp
+（我看过官方用的是2.1.0.0版的ANGLE dll）。
+我喜欢研究原味的，所以不太可能研究这个（虽然gles肯定比directx的api好看），
+但以后有时间也会研究一下这个gles的实现
+```
 * (origin) https://github.com/krkrz/krkrz/tree/dev_multi_platform
+* (origin) https://github.com/krkrz/multi_platform_design/releases
+* (origin) https://krkrz.github.io/multi_platform_design/
 * (Need to roll back to 20170801 to sync KAGSigma version) https://github.com/krkrz/krkrz/tree/3d89b0f203ceca840f62b2e28ad034dea6df41fa
 * (search drawTexture path:*.tjs) https://github.com/search?q=drawTexture+path%3A*.tjs&type=code  
 https://github.com/krkrz/multi_platform_design  
