@@ -1226,7 +1226,7 @@ tTJSNativeClass* TVPCreateDefaultDrawDevice() {
 need to copy others' 64bit libEGL.dll and libGLESv2.dll to ../Plugin64/.  
 Because I can't build libANGLE in this project.   
 Also, need to rollback, git checkout -f 3d89b0f203ceca840f62b2e28ad034dea6df41fa  
-* (Not Need, use VS20022, see below) How to Build ANGLE by gyp  
+* (Not Need, use VS2022, see below) How to Build ANGLE by gyp  
 ```  
 https://github.com/krkrz/angle/tree/f1706c47250db7c9fc47c49c025566ec5974a290   
 
