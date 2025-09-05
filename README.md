@@ -1231,6 +1231,10 @@ https://github.com/krkrz/angle/tree/f1706c47250db7c9fc47c49c025566ec5974a290
 (TODO, not tested) Prebuilt  
 https://www.nuget.org/packages/ANGLE.WindowsStore  
 https://www.nuget.org/packages/ANGLE.WindowsStore.win81  
+(TODO) About gyp, or try to 'sudo apt install gyp'  
+https://github.com/weimingtom/v8_vs_build/tree/master/patch_success/v8_with_dependencies  
+https://gitee.com/weimingtom/angle  
+https://github.com/weimingtom/Sakura  
 
 ## krkrsdl2  
 * (origin) https://github.com/krkrsdl2/krkrsdl2  
