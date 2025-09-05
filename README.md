@@ -1153,6 +1153,11 @@ https://krkrz.github.io/multi_platform_design/
 * (origin) https://github.com/krkrz/krkrz/tree/dev_multi_platform
 * (origin) https://github.com/krkrz/multi_platform_design/releases
 * (origin) https://krkrz.github.io/multi_platform_design/
+* (just 32bit dll) https://github.com/krkrz/multi_platform_design/releases/download/v0.7/krkrz_win.7z
+```
+You can get 32bit libEGL.dll and libGLESv2.dll from this krkrz_win.7z,
+to run homebrew self built tvpwin32.exe  
+```
 * (Need to roll back to 20170801 to sync KAGSigma version) https://github.com/krkrz/krkrz/tree/3d89b0f203ceca840f62b2e28ad034dea6df41fa
 * (search drawTexture path:*.tjs) https://github.com/search?q=drawTexture+path%3A*.tjs&type=code  
 https://github.com/krkrz/multi_platform_design  
