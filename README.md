@@ -1207,6 +1207,11 @@ tTJSNativeClass* TVPCreateDefaultDrawDevice() {
 need to copy others' 64bit libEGL.dll and libGLESv2.dll to ../Plugin64/.  
 Because I can't build libANGLE in this project.   
 Also, need to rollback, git checkout -f 3d89b0f203ceca840f62b2e28ad034dea6df41fa  
+* (TODO) How to Build ANGLE  
+https://github.com/krkrz/angle/tree/f1706c47250db7c9fc47c49c025566ec5974a290   
+(TODO, not tested) Prebuilt  
+https://www.nuget.org/packages/ANGLE.WindowsStore  
+https://www.nuget.org/packages/ANGLE.WindowsStore.win81  
 
 ## krkrsdl2  
 * (origin) https://github.com/krkrsdl2/krkrsdl2  
