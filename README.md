@@ -1229,9 +1229,11 @@ Also, need to rollback, git checkout -f 3d89b0f203ceca840f62b2e28ad034dea6df41fa
 * (Not Need, use VS20022, see below) How to Build ANGLE by gyp  
 ```  
 https://github.com/krkrz/angle/tree/f1706c47250db7c9fc47c49c025566ec5974a290   
+
 (TODO, not tested) Prebuilt  
 https://www.nuget.org/packages/ANGLE.WindowsStore  
 https://www.nuget.org/packages/ANGLE.WindowsStore.win81  
+
 (TODO) About gyp, or try to 'sudo apt install gyp'  
 https://github.com/weimingtom/v8_vs_build/tree/master/patch_success/v8_with_dependencies  
 https://gitee.com/weimingtom/angle  
@@ -1239,7 +1241,7 @@ https://github.com/weimingtom/
 https://chromium.googlesource.com/v8/v8.git/+/4.9.12/docs/building_with_gyp.md  
 https://github.com/v8/v8/wiki/Building-with-Gyp/3ed2d265eb6f2152c1e77fee4b191b44d8acc000  
 ```
-* (insead of gyp) How to build ANGLE by VS2022
+* (Instead of gyp) How to build ANGLE by VS2022  
 Use VS2022 to open angle-f1706c47250db7c9fc47c49c025566ec5974a290.zip/angle-f1706c47250db7c9fc47c49c025566ec5974a290/src/angle.sln and build libEGL.dll and libGLESv2.dll and d3dcompiler_47.dll and put to plugin or plugin64 folder.  
 https://github.com/krkrz/angle/tree/f1706c47250db7c9fc47c49c025566ec5974a290   
 angle-f1706c47250db7c9fc47c49c025566ec5974a290.zip  
