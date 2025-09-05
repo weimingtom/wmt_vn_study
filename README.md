@@ -1235,6 +1235,8 @@ https://www.nuget.org/packages/ANGLE.WindowsStore.win81
 https://github.com/weimingtom/v8_vs_build/tree/master/patch_success/v8_with_dependencies  
 https://gitee.com/weimingtom/angle  
 https://github.com/weimingtom/Sakura  
+https://chromium.googlesource.com/v8/v8.git/+/4.9.12/docs/building_with_gyp.md  
+https://github.com/v8/v8/wiki/Building-with-Gyp/3ed2d265eb6f2152c1e77fee4b191b44d8acc000  
 
 ## krkrsdl2  
 * (origin) https://github.com/krkrsdl2/krkrsdl2  
