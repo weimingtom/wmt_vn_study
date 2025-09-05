@@ -1226,7 +1226,8 @@ tTJSNativeClass* TVPCreateDefaultDrawDevice() {
 need to copy others' 64bit libEGL.dll and libGLESv2.dll to ../Plugin64/.  
 Because I can't build libANGLE in this project.   
 Also, need to rollback, git checkout -f 3d89b0f203ceca840f62b2e28ad034dea6df41fa  
-* (TODO) How to Build ANGLE  
+* (Not Need, use VS20022, see below) How to Build ANGLE by gyp  
+```  
 https://github.com/krkrz/angle/tree/f1706c47250db7c9fc47c49c025566ec5974a290   
 (TODO, not tested) Prebuilt  
 https://www.nuget.org/packages/ANGLE.WindowsStore  
@@ -1234,9 +1235,16 @@ https://www.nuget.org/packages/ANGLE.WindowsStore.win81
 (TODO) About gyp, or try to 'sudo apt install gyp'  
 https://github.com/weimingtom/v8_vs_build/tree/master/patch_success/v8_with_dependencies  
 https://gitee.com/weimingtom/angle  
-https://github.com/weimingtom/Sakura  
+https://github.com/weimingtom/  
 https://chromium.googlesource.com/v8/v8.git/+/4.9.12/docs/building_with_gyp.md  
 https://github.com/v8/v8/wiki/Building-with-Gyp/3ed2d265eb6f2152c1e77fee4b191b44d8acc000  
+```
+* (insead of gyp) How to build ANGLE by VS2022
+Use VS2022 to open angle-f1706c47250db7c9fc47c49c025566ec5974a290.zip/angle-f1706c47250db7c9fc47c49c025566ec5974a290/src/angle.sln and build libEGL.dll and libGLESv2.dll and d3dcompiler_47.dll and put to plugin or plugin64 folder.  
+https://github.com/krkrz/angle/tree/f1706c47250db7c9fc47c49c025566ec5974a290   
+angle-f1706c47250db7c9fc47c49c025566ec5974a290.zip  
+angle-f1706c4_vs2022_v1_20250906.rar  
+angle-f1706c4_vs2022_v1_20250906_test.7z  
 
 ## krkrsdl2  
 * (origin) https://github.com/krkrsdl2/krkrsdl2  
@@ -1974,10 +1982,10 @@ http://blog.yam.com/kctsang/article/5507230
 * (origin) http://hoshina.denpa.org/mglvns/  
 * search baidupan, mglvns-1.0.tar.gz  
 * MGL Version 2 は、Handheld PC などリソースの少ないマシンでグラフィック対応のアプリケーション動かすためのグラフィックライブラリおよび、ウインドウマネージャです。  
-* http://www.at.sakura.ne.jp/~suz/MGL2/index.html  
+* http://www.at..ne.jp/~suz/MGL2/index.html  
 * MobileGearII for DoCoMo: NEC's PDA  
 * (old mgl2) mgl2-alpha-019.tar.gz, mgl2-alpha-020.tar.gz, fontkit-1.1-nobdf.tar.gz, fontkit-1.1-src.tar.gz  
-see http://www.at.sakura.ne.jp/~suz/MGL2/index.html  
+see http://www.at..ne.jp/~suz/MGL2/index.html  
 see http://hoshina.denpa.org/mglvns/  
 
 ## PS2版『ToHeart2』をP/ECE用にコンバートして実行『好き好きタマお姉ちゃん』  
@@ -2002,7 +2010,7 @@ https://mirrors.cqupt.edu.cn/deepin/pool/main/x/xsystem35/
 * https://github.com/kichikuou/xsystem35-sdl2  
 * https://github.com/kichikuou/web  
 https://kichikuou.github.io/web/  
-* http://8ne.sakura.ne.jp:20008/chika/unitbase/xsys35/  
+* http://8ne..ne.jp:20008/chika/unitbase/xsys35/  
 * search baidupan, xsystem35-1.7.2.tar.gz  
 * https://github.com/PSP-Archive/XSystem35-Lite  
 * search baidupan, xsystem35_android_src_173pre5-katane1.tbz2  
@@ -2101,7 +2109,7 @@ http://www.alicesoft.co.jp/
 * http://ms.mblogger.cn/af  
 * http://sidealice.blogbus.com/logs/346778.html  
 * http://sidealice.com/  
-* http://8ne.sakura.ne.jp:20008/chika/unitbase/xsys35/  
+* http://8ne..ne.jp:20008/chika/unitbase/xsys35/  
 
 ## OpenRGSS (for Ruby), for RPG Maker XP/VX/VA (???only seen from folder names of source codes, not sure)        
 * (origin) https://github.com/zh99998/OpenRGSS  
@@ -2324,10 +2332,10 @@ https://github.com/cjv123/RPG
 * https://github.com/weimingtom/nokscript_java  
 
 ## PSSSDK OpenTK  
-* https://github.com/weimingtom/Sakura  
+* https://github.com/weimingtom/  
 * https://gitee.com/weimingtom/TriangleSample  
 * https://gitee.com/weimingtom/angle  
-* https://gitee.com/weimingtom/sakura_ubuntu  
+* https://gitee.com/weimingtom/_ubuntu  
 * search baidupan, PSSuiteSDK_098.exe  
 Actually there are 2 versions : PSSuiteSDK_098.exe and PSM_SDK_1.21.02.exe    
 * https://github.com/nekoharuyuki/PSM    
@@ -2376,9 +2384,9 @@ maid.rar
 
 ## キャラクターなんとか機   
 * (origin) キャラクターなんとか機   
-http://khmix.sakura.ne.jp/download.shtml  
+http://khmix..ne.jp/download.shtml  
 K.Hみっくす　ふぁーすと えでぃしょん    
-https://khmix.sakura.ne.jp    
+https://khmix..ne.jp    
 * (origin) https://osdn.jp/projects/charactermanaj/    
 * MyChar (for ActionScript3)    
 https://github.com/weimingtom/MyChar  
@@ -2942,7 +2950,7 @@ This is a FREEWARE, and a ROYALTIES FREE!!
 * pfs  
 
 ## web_maker  
-* http://milk0824.sakura.ne.jp/web_maker/  
+* http://milk0824..ne.jp/web_maker/  
 
 ## mjdev, tools for Majiro Engine       
 * http://dev.haeleth.net/majiro.shtml  
@@ -2983,8 +2991,8 @@ mjarc.exe, mjasm.exe, mjcrypt.exe, mjdisasm.exe, vaconv.exe and their src
 * https://github.com/HIllya51/LunaTranslator  
 
 ## ビジュアルノベル作成サイト  
-* http://plk.sakura.ne.jp/wvn/  
-* http://plk.sakura.ne.jp/wvn/dataview.html  
+* http://plk..ne.jp/wvn/  
+* http://plk..ne.jp/wvn/dataview.html  
 
 ## gbabook  
 * https://github.com/weimingtom/gbabook  
@@ -3351,7 +3359,7 @@ iris.zip
 * merosu_101.zip  
 * mlll_beta2.0.zip  
 * https://kzkz.jp  
-* https://mukiryokukan.sakura.ne.jp/May_DownLoad.htm  
+* https://mukiryokukan..ne.jp/May_DownLoad.htm  
 
 ## NovelPlus  
 * (dead) http://www.houser-home.net/novelplus/wiki/index.php?%A5%BD%A1%BC%A5%B9%A5%B3%A1%BC%A5%C9  
@@ -3465,7 +3473,7 @@ http://harupspgame.blog64.fc2.com/blog-entry-230.html
 TODO，baidupan, NSCRIPTER_OG.7z
 
 https://thenewleafjournal.com/narcissu-insani-version-vn-review/
-https://web.archive.org/web/20230222204643/http://stage-nana.sakura.ne.jp/narcissu.htm
+https://web.archive.org/web/20230222204643/http://stage-nana..ne.jp/narcissu.htm
 http://altogether.insani.org/2005/resources/index/phase00.html
 narcissu
 
@@ -4000,7 +4008,7 @@ if "HOST_LC_ALL" in self.env and len(self.env["HOST_LC_ALL"]) > 0:
 
 ## leafpak  
 * http://hoshina.denpa.org/leafpak.html
-* http://akkera102.sakura.ne.jp/gbadev/index.php?Doc.15%20PC%A5%B2%A1%BC%A5%E0%A1%D6%BC%B6%A1%D7%A4%CE%B0%DC%BF%A2%CA%FD%CB%A1(1)
+* http://akkera102..ne.jp/gbadev/index.php?Doc.15%20PC%A5%B2%A1%BC%A5%E0%A1%D6%BC%B6%A1%D7%A4%CE%B0%DC%BF%A2%CA%FD%CB%A1(1)
 * http://www.freebsd.org/cgi/pds.cgi?ports/graphics/leafpak
 * http://mirror.kr.freebsd.org/ports/graphics.html#leafpak-1.1.1
 * http://www.freebsd.org/cgi/cvsweb.cgi/ports/graphics/leafpak/
@@ -4200,8 +4208,8 @@ SDL_VIDEODRIVER=kmsdrm ./testsprite2 ​​​
 * GORRY's Homepage - [eglog] - Distribution Page  
 
 ## (don't study this) Welcome to m-akita's Home Page, some games text extractor (?)  
-* (origin, dead?) http://m-akita.sakura.ne.jp/index.php  
-* (origin) https://web.archive.org/web/20090909173430/http://m-akita.sakura.ne.jp/index.php  
+* (origin, dead?) http://m-akita..ne.jp/index.php  
+* (origin) https://web.archive.org/web/20090909173430/http://m-akita..ne.jp/index.php  
 
 ## (don't study this) Historical Visual Novel Tools
 * (origin) https://proger.me/vn/old/  
