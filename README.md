@@ -316,7 +316,7 @@ smpeg.rar, see
 tiff-4.0.0beta5.tar.gz
 zlib-1.2.3.tar.tar
 ```  
-* onscripter-en-20110314.rar
+* onscripter-en-20110314.rar, my (weimingtom) vs2008 projects, like https://github.com/weimingtom/onscripter_en_fork/tree/master/work/extlib/src
 * onscripter-en-20110314-fullsrc.tar.bz2
 * onscripter-en-20110314-src.tar.bz2
 * onscripter-en-win32_dsound-20110314.zip
