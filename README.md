@@ -310,7 +310,8 @@ SDL_mixer-1.2.11.tar.gz
 SDL_ttf-2.0.9.tar.gz
 SDL-1.2.14.tar.gz
 smpeg.rar, see
-	svn co svn://svn.icculus.org/smpeg/trunk smpeg,
+	svn co svn://svn.icculus.org/smpeg/trunk smpeg
+	https://icculus.org/smpeg/
 	https://github.com/icculus/smpeg
 tiff-4.0.0beta5.tar.gz
 zlib-1.2.3.tar.tar
