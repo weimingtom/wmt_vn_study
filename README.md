@@ -1011,7 +1011,8 @@ https://github.com/KimoriTama/krkr2doc-cn
 https://kimoritama.github.io/krkr2doc-cn/kr2doc/index.html  
 https://kimoritama.github.io/krkr2doc-cn/kag3doc/contents/index.html  
 * 吉里吉里2（開発版）　二次配布ページ  
-http://kasugasoft.daiwadaw.jp/pub/吉里吉里2/  
+http://kasugasoft.daiwadaw.jp/pub/吉里吉里2/   
+https://kasugasoft.daiwadaw.jp/pub/吉里吉里2/ChangeLog.html  
 
 ## 吉里吉里Z, krkrz, kirikiriz    
 ```
