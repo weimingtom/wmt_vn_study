@@ -1010,6 +1010,8 @@ https://github.com/krkr-chs/krkr2doc
 https://github.com/KimoriTama/krkr2doc-cn  
 https://kimoritama.github.io/krkr2doc-cn/kr2doc/index.html  
 https://kimoritama.github.io/krkr2doc-cn/kag3doc/contents/index.html  
+* 吉里吉里2（開発版）　二次配布ページ  
+http://kasugasoft.daiwadaw.jp/pub/吉里吉里2/  
 
 ## 吉里吉里Z, krkrz, kirikiriz    
 ```
@@ -1159,6 +1161,15 @@ vs2022 build, need nasm.exe put to C:\Windows or C:\Windows\system32
 https://www.nasm.us/pub/nasm/releasebuilds/2.10.09/win32/nasm-2.10.09-win32.zip   
 and rebuild turbojpeg-static    
 see vcproj folder  
+* 实战吉里吉里2到吉里吉里Z移植  
+https://blog.csdn.net/axx1611/article/details/139784795  
+https://github.com/krkrz/Krkr2Compat  
+https://krkrz.github.io/documents/TJS2/deleted.html  
+(勝手に)吉里吉里Z移行ガイド  
+http://keepcreating.g2.xrea.com/DojinDOC/Migration_to_KRKRZ.html   
+http://keepcreating.g2.xrea.com/DojinDOC/kirikiriSmallTips.html#win8quake  
+吉里吉里Zで吉里吉里２のプロジェクトを動作させるための手順   
+https://red-souls.jp/ichounoki/rnote/software/20190210_162253605864.htm  
 
 ## krkrz dev_multi_platform branch (OpenGL version, support drawTexture) , feat. krkrz/KAGSigma, a.k.a. 吉里吉里Z Ver.2
 ```
