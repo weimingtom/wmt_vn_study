@@ -296,7 +296,23 @@ SDLOTHERCONFIG=--disable-assembly ./configure --std=gnu++98 --no-werror --with-i
 把-std=c99换成-std=gnu99，以便把__STRICT_ANSI__的定义取消（相当于-U__STRICT_ANSI__）  
 * https://github.com/Galladite27/ONScripter-EN-devkit
 * onscripter-en-20110314.7z  
-* onscripter-en.rar  
+* onscripter-en.rar, contains dependency sources (like SDL_ttf-2.0.9.tar.gz) and my (weimingtom) vs2008 projects
+```
+bzip2-1.0.5.tar.gz
+ft2312.zip
+jpegsrc.v8.tar.gz
+libmikmod-3.2.0-beta2.tar.tar
+libogg-1.1.4.tar.gz
+libpng-1.4.0.tar.gz
+libvorbis-1.2.3.tar.gz
+SDL_image-1.2.10.tar.gz
+SDL_mixer-1.2.11.tar.gz
+SDL_ttf-2.0.9.tar.gz
+SDL-1.2.14.tar.gz
+smpeg.rar, svn co svn://svn.icculus.org/smpeg/trunk smpeg
+tiff-4.0.0beta5.tar.gz
+zlib-1.2.3.tar.tar
+```  
 * onscripter-en-20110314.rar
 * onscripter-en-20110314-fullsrc.tar.bz2
 * onscripter-en-20110314-src.tar.bz2
