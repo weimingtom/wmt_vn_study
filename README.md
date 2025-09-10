@@ -260,21 +260,7 @@ my mod: https://github.com/weimingtom/onscripter_sdl2_fork
 * SDL2 apt install: sudo apt-get install libsdl2-dev liblua5.1-0-dev libsdl2-image-dev libsdl2-ttf-dev libsdl2-mixer-dev libbz2-dev libfontconfig1-dev libogg-dev libvorbis-dev  
 * SDL2 archlinux pacman install: pacman -S bzip2 fontconfig libjpeg-turbo lua53 sdl2 sdl2_image sdl2_mixer sdl2_ttf   
 see https://aur.archlinux.org/packages/onscripter-yuri  
-* SDL2 gentoo livegui emerge install (need to make sure 'sudo emerge --sync' is done successfully):  
-```
-(not need, just use sudo) $ sudo passwd gentoo
-$ sudo emerge --sync
-$ sudo emerge --ask net-ftp/lftp
-$ sudo emerge --ask media-libs/libsdl2
-$ sudo emerge --ask media-libs/sdl2-image
-$ sudo emerge --ask media-libs/sdl2-ttf
-$ sudo emerge --ask media-libs/sdl2-mixer
-$ sudo emerge --ask app-arch/bzip2
-$ sudo emerge --ask media-libs/fontconfig
-$ sudo emerge --ask media-libs/libogg
-$ sudo emerge --ask media-libs/libvorbis
-(optional) $ sudo emerge --ask dev-lang/lua
-```
+* SDL2 gentoo emerge see below
 
 ## onscripter-en   
 * (origin, dead) http://unclemion.com/onscripter/releases/  
@@ -644,6 +630,21 @@ $ cd ../onscripter_cn_test/
 $ ../jh10001-onscripter-jh-a11f51d5728f/onscripter.exe
 ```
 * ONS模拟器+krkr模拟器+游戏资源站.zip  
+* SDL2 gentoo livegui emerge install (need to make sure 'sudo emerge --sync' is done successfully, all files are lost after restarting):  
+```
+(not need, just use sudo) $ sudo passwd gentoo
+$ sudo emerge --sync
+$ sudo emerge --ask net-ftp/lftp
+$ sudo emerge --ask media-libs/libsdl2
+$ sudo emerge --ask media-libs/sdl2-image
+$ sudo emerge --ask media-libs/sdl2-ttf
+$ sudo emerge --ask media-libs/sdl2-mixer
+$ sudo emerge --ask app-arch/bzip2
+$ sudo emerge --ask media-libs/fontconfig
+$ sudo emerge --ask media-libs/libogg
+$ sudo emerge --ask media-libs/libvorbis
+(optional) $ sudo emerge --ask dev-lang/lua
+```
 
 ## John_He (john-he) onscripter Chinese version, for Windows / PSP / Pocket PC  
 * (origin) https://web.archive.org/web/20080522010153/http://blog.163.com/john_he_/blog/static/76595505200832514228686/  
