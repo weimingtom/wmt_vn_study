@@ -322,6 +322,12 @@ zlib-1.2.3.tar.tar
 * onscripter-en-20110314-src.tar.bz2
 * onscripter-en-win32_dsound-20110314.zip
 * onscripter-en-win32-20110314.zip  
+* https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name/on/onscripter-en/package.nix  
+https://github.com/museoa/onscripter-en  
+from https://www.dropbox.com/s/ag21owy9poyr2oy/onscripter-en-20111009-src.tar.bz2  
+* (origin) https://web.archive.org/web/20110614232450/http://unclemion.com/onscripter  
+* (origin) https://web.archive.org/web/20120731194445/http://unclemion.com/onscripter/pub/onscr/onscripter-en-20110628-src.tar.bz2  
+* (old) https://git.sharcnet.ca/nix/nixpkgs/-/blob/sharcnet-unstable/pkgs/games/onscripter-en/default.nix?ref_type=heads  
 
 ## onscripter by insani (see http://dev.haeleth.net/onscripter.shtml after 2007.04.08)    
 * (origin) http://nscripter.insani.org/onscripter.html  
