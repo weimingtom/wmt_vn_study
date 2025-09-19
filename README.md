@@ -38,11 +38,11 @@ GPiCASE で ONScripter
 * (done) search baidupan, nscripter_java_20200829_replace_moon.rar    
 * I:\work_onscripter_csharp  
 * onsharp_v1.rar  
-* E:\work_\elliotglaysher  
+* E:\work_rlvm\elliotglaysher  
 * (TODO) https://github.com/weimingtom/xkanon_fork port to vc6  
 * (done) (TODO) search kas project  
-* (done) (TODO) _vs2013  
-* (TODO)  android, https://github.com/xyzz/-android  
+* (done) (TODO) rlvm_vs2013  
+* (TODO) rlvm android, https://github.com/xyzz/rlvm-android  
 * (done) onscripter_jh_sdl2_fork_lons_vs2013_v1.rar   
 
 ## Old index / References      
@@ -105,7 +105,7 @@ nscr_sdk.zip, nsdec.zip, sardec.zip  nsaout.zip
 * NScripterHelpFilesV1.rar  
 * nscr261-小渡汉化版.rar  
 * nscr248_chs.7z, nscr282_chs.7z, nscr282-1_chs.7z
-http://e.ys168.com/?  
+http://e.ys168.com/?john-he  
 * my work: 尝试汉化.rar, 汉化reference.rar  
 * NScripterDevV1.rar, nscr261.exe就是上面那个nscr261   
 * NScripter全攻略.rar, nscripter资料01.rar, nscripter资料02.rar
@@ -2045,10 +2045,10 @@ http://blog.yam.com/kctsang/article/5507230
 * (origin) http://hoshina.denpa.org/mglvns/  
 * search baidupan, mglvns-1.0.tar.gz  
 * MGL Version 2 は、Handheld PC などリソースの少ないマシンでグラフィック対応のアプリケーション動かすためのグラフィックライブラリおよび、ウインドウマネージャです。  
-* http://www.at..ne.jp/~suz/MGL2/index.html  
+* http://www.at.sakura.ne.jp/~suz/MGL2/index.html  
 * MobileGearII for DoCoMo: NEC's PDA  
 * (old mgl2) mgl2-alpha-019.tar.gz, mgl2-alpha-020.tar.gz, fontkit-1.1-nobdf.tar.gz, fontkit-1.1-src.tar.gz  
-see http://www.at..ne.jp/~suz/MGL2/index.html  
+see http://www.at.sakura.ne.jp/~suz/MGL2/index.html  
 see http://hoshina.denpa.org/mglvns/  
 
 ## PS2版『ToHeart2』をP/ECE用にコンバートして実行『好き好きタマお姉ちゃん』  
@@ -2073,7 +2073,7 @@ https://mirrors.cqupt.edu.cn/deepin/pool/main/x/xsystem35/
 * https://github.com/kichikuou/xsystem35-sdl2  
 * https://github.com/kichikuou/web  
 https://kichikuou.github.io/web/  
-* http://8ne..ne.jp:20008/chika/unitbase/xsys35/  
+* http://8ne.sakura.ne.jp:20008/chika/unitbase/xsys35/  
 * search baidupan, xsystem35-1.7.2.tar.gz  
 * https://github.com/PSP-Archive/XSystem35-Lite  
 * search baidupan, xsystem35_android_src_173pre5-katane1.tbz2  
@@ -2173,7 +2173,7 @@ http://www.alicesoft.co.jp/
 * http://ms.mblogger.cn/af  
 * http://sidealice.blogbus.com/logs/346778.html  
 * http://sidealice.com/  
-* http://8ne..ne.jp:20008/chika/unitbase/xsys35/  
+* http://8ne.sakura.ne.jp:20008/chika/unitbase/xsys35/  
 * https://github.com/silas1037/AliceSoft
 
 ## OpenRGSS (for Ruby), for RPG Maker XP/VX/VA (???only seen from folder names of source codes, not sure)        
@@ -2397,10 +2397,10 @@ https://github.com/cjv123/RPG
 * https://github.com/weimingtom/nokscript_java  
 
 ## PSSSDK OpenTK  
-* https://github.com/weimingtom/  
+* https://github.com/weimingtom/Sakura  
 * https://gitee.com/weimingtom/TriangleSample  
 * https://gitee.com/weimingtom/angle  
-* https://gitee.com/weimingtom/_ubuntu  
+* https://gitee.com/weimingtom/sakura_ubuntu  
 * search baidupan, PSSuiteSDK_098.exe  
 Actually there are 2 versions : PSSuiteSDK_098.exe and PSM_SDK_1.21.02.exe    
 * https://github.com/nekoharuyuki/PSM    
@@ -2449,9 +2449,9 @@ maid.rar
 
 ## キャラクターなんとか機   
 * (origin) キャラクターなんとか機   
-http://khmix..ne.jp/download.shtml  
+http://khmix.sakura.ne.jp/download.shtml
 K.Hみっくす　ふぁーすと えでぃしょん    
-https://khmix..ne.jp    
+https://khmix.sakura.ne.jp  
 * (origin) https://osdn.jp/projects/charactermanaj/    
 * MyChar (for ActionScript3)    
 https://github.com/weimingtom/MyChar  
@@ -3016,7 +3016,7 @@ This is a FREEWARE, and a ROYALTIES FREE!!
 * pfs  
 
 ## web_maker  
-* http://milk0824..ne.jp/web_maker/  
+* http://milk0824.sakura.ne.jp/web_maker/  
 
 ## mjdev, tools for Majiro Engine       
 * http://dev.haeleth.net/majiro.shtml  
@@ -3057,8 +3057,8 @@ mjarc.exe, mjasm.exe, mjcrypt.exe, mjdisasm.exe, vaconv.exe and their src
 * https://github.com/HIllya51/LunaTranslator  
 
 ## ビジュアルノベル作成サイト  
-* http://plk..ne.jp/wvn/  
-* http://plk..ne.jp/wvn/dataview.html  
+* http://plk.sakura.ne.jp/wvn/  
+* http://plk.sakura.ne.jp/wvn/dataview.html  
 
 ## gbabook  
 * https://github.com/weimingtom/gbabook  
@@ -3425,7 +3425,7 @@ iris.zip
 * merosu_101.zip  
 * mlll_beta2.0.zip  
 * https://kzkz.jp  
-* https://mukiryokukan..ne.jp/May_DownLoad.htm  
+* https://mukiryokukan.sakura.ne.jp/May_DownLoad.htm  
 
 ## NovelPlus  
 * (dead) http://www.houser-home.net/novelplus/wiki/index.php?%A5%BD%A1%BC%A5%B9%A5%B3%A1%BC%A5%C9  
@@ -3539,7 +3539,7 @@ http://harupspgame.blog64.fc2.com/blog-entry-230.html
 TODO，baidupan, NSCRIPTER_OG.7z
 
 https://thenewleafjournal.com/narcissu-insani-version-vn-review/
-https://web.archive.org/web/20230222204643/http://stage-nana..ne.jp/narcissu.htm
+https://web.archive.org/web/20230222204643/http://stage-nana.sakura.ne.jp/narcissu.htm
 http://altogether.insani.org/2005/resources/index/phase00.html
 narcissu
 
@@ -4074,7 +4074,7 @@ if "HOST_LC_ALL" in self.env and len(self.env["HOST_LC_ALL"]) > 0:
 
 ## leafpak  
 * http://hoshina.denpa.org/leafpak.html
-* http://akkera102..ne.jp/gbadev/index.php?Doc.15%20PC%A5%B2%A1%BC%A5%E0%A1%D6%BC%B6%A1%D7%A4%CE%B0%DC%BF%A2%CA%FD%CB%A1(1)
+* http://akkera102.sakura.ne.jp/gbadev/index.php?Doc.15%20PC%A5%B2%A1%BC%A5%E0%A1%D6%BC%B6%A1%D7%A4%CE%B0%DC%BF%A2%CA%FD%CB%A1(1)
 * http://www.freebsd.org/cgi/pds.cgi?ports/graphics/leafpak
 * http://mirror.kr.freebsd.org/ports/graphics.html#leafpak-1.1.1
 * http://www.freebsd.org/cgi/cvsweb.cgi/ports/graphics/leafpak/
