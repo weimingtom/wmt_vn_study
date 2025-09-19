@@ -2157,6 +2157,7 @@ western_platform_fonts和ja_platform_fonts
 ```
 * https://web.archive.org/web/20070707021854/http://kimatten.hp.infoseek.co.jp/cgi-bin/wiki/wiki.cgi?page=system3+for+SDL
 * https://web.archive.org/web/*/http://kimatten.hp.infoseek.co.jp/*
+* https://github.com/silas1037/AliceSoft
 
 ## System4 (closed source)    
 * (origin, dead) http://kei.stbbs.net/rubyeye/sys40/sdk_dl.html
@@ -2173,6 +2174,7 @@ http://www.alicesoft.co.jp/
 * http://sidealice.blogbus.com/logs/346778.html  
 * http://sidealice.com/  
 * http://8ne..ne.jp:20008/chika/unitbase/xsys35/  
+* https://github.com/silas1037/AliceSoft
 
 ## OpenRGSS (for Ruby), for RPG Maker XP/VX/VA (???only seen from folder names of source codes, not sure)        
 * (origin) https://github.com/zh99998/OpenRGSS  
