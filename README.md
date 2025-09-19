@@ -134,6 +134,7 @@ https://archive.org/details/doujin-game-tsumeawase
 * Tsukihime English version 1.2  
 Tsukihime_English_v1.2_update_[mirror_moon].exe  
 (origin) http://mirrormoon.org/projects/complete/tsukihime/  
+* nscripter贴吧
 
 ## CCScripter, nscripter的Mac OS X实现  
 * (dead, origin) http://homepage.mac.com/toveta/ccs/  
@@ -261,6 +262,7 @@ my mod: https://github.com/weimingtom/onscripter_sdl2_fork
 * SDL2 archlinux pacman install: pacman -S bzip2 fontconfig libjpeg-turbo lua53 sdl2 sdl2_image sdl2_mixer sdl2_ttf   
 see https://aur.archlinux.org/packages/onscripter-yuri  
 * SDL2 gentoo emerge see below
+* onscripter-20150115.zip
 
 ## onscripter-en   
 * (origin, dead) http://unclemion.com/onscripter/releases/  
