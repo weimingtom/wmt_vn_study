@@ -2911,6 +2911,7 @@ it uses this library ? not sure
 
 ## Suika2  
 * https://github.com/ktabata/suika2  
+* suika2-v_2.0.0.zip, suika-2.0.0.zip  
 
 ## pymo (for Android / Symbian(S60) / Windows)  
 * (origin) https://github.com/pymo/pymo  
