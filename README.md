@@ -4646,4 +4646,10 @@ MMDX(MikuMikuDance for XNA-SlimDX) 項目中文首頁 - OSDN
 
 ## RetimeEngine, 灵潭社，第9日（Unity Android?), closed source
 
+## VN_project, by C++ and SFML-2.3.2
+* https://github.com/viicky/VN_project
 
+## Gal-game-on-Renpy, Angel_Seasons_Renpy_RPG, Renpy Platform可以用來設計自己專屬的視覺小說遊戲, by Ren'Py, by renpy
+* https://github.com/EternalFeather/Gal-game-on-Renpy
+* https://github.com/EternalFeather/Angel_Seasons_Renpy_RPG
+* TheSeasonsOfAngel-all.zip
