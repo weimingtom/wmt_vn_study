@@ -1307,6 +1307,7 @@ krkrz研究。上次说的关于编译ANGLE libEGL.dll和libGLESv2.dll的问题�
 其实可以解决，就是不要打开krkrz的sln工程编译这两个dll，而是打开angle目录下src子目录下的sln编译，
 就能编译成功，得到的dll放到tvpwin64_d.exe旁边的plugin64目录下即可
 ```
+* VS2015社区版
 
 ## krkrsdl2  
 * (origin) https://github.com/krkrsdl2/krkrsdl2  
@@ -4635,4 +4636,7 @@ MMDX(MikuMikuDance for XNA-SlimDX) 項目中文首頁 - OSDN
 * https://archive.org/details/ddlc-love.-7z
 * DDLC-LOVE-PSP.zip
 * https://www.gamebrew.org/wiki/DDLC-LOVE_PSP
+
+## Hydrozoa`sAVGmaker.rar, closed source
+* Hydrozoa`sAVGmaker.rar
 
