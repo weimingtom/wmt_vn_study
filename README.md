@@ -653,6 +653,13 @@ $ sudo emerge --ask media-libs/libogg
 $ sudo emerge --ask media-libs/libvorbis
 (optional) $ sudo emerge --ask dev-lang/lua
 ```
+* openSUSE 20250920, xfce
+```
+sudo zypper install lftp 
+sudo zypper install make gcc gcc-c++
+sudo zypper install SDL2-devel SDL2_image-devel SDL2_mixer-devel SDL2_ttf-devel
+sudo zypper install lua-devel libogg-devel libvorbis-devel libbz2-devel fontconfig-devel
+```
 
 ## John_He (john-he) onscripter Chinese version, for Windows / PSP / Pocket PC  
 * (origin) https://web.archive.org/web/20080522010153/http://blog.163.com/john_he_/blog/static/76595505200832514228686/  
