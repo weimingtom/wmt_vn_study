@@ -2616,8 +2616,12 @@ cs2-open Ver 1.0, cs2.exe version 1, 0, 1, 10
 
 ## PGM, Pocket Game Maker (closed source, for Android ?), 白枫开发    
 * (origin) https://github.com/History-exe/Pocket-Game-Maker-v0.83  
-* PocketGameMaker（PGM-AMT）剧本编辑器v0.2  
-* search PGM-AMT_EventEditor_v0.2.rar   
+* PocketGameMaker（PGM-AMT）剧本编辑器v0.2   
+search PGM-AMT_EventEditor_v0.2.rar   
+```
+欢迎使用 PGM-AMT_EventEditor。
+PGM全名PocketGameMaker，而AMT是该引擎的文字冒险引擎部分的代号。
+```
 * see AMP
 * WHJ3.iso
 * PSP移植游戏《缘之空》中文版.rar (yosuga.iso)
@@ -2637,13 +2641,6 @@ cs2-open Ver 1.0, cs2.exe version 1, 0, 1, 10
 * [09年12月25日][AVG][G弦上的魔王][汉化Lavis版].zip (no iso pack, not good in PPSSPP, font not shown)
 * [10年04月23日][AVG][鬼哭街][简体中文][XXX汉化组].rar (no iso pack, not good in PPSSPP, font not shown)
 * ???vis引擎, [10年01月12日][AVG][eden][移植汉化版][含演出修正补丁][个人汉化].rar  (no iso pack, not good in PPSSPP, font not shown)
-
-## PGM-AMT_EventEditor_v0.2.rar
-* PGM-AMT_EventEditor_v0.2.rar
-```
-欢迎使用 PGM-AMT_EventEditor。
-PGM全名PocketGameMaker，而AMT是该引擎的文字冒险引擎部分的代号。
-```
 
 ## (TODO) GalgameDemo (for Unity)      
 * https://github.com/TragedyGod/GalgameDemo  
