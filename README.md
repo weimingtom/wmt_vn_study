@@ -1803,9 +1803,11 @@ https://github.com/xyzz/rlvm/commit/8ebe7170e00a4118c4e38df81087c8724cbd0ce7
 rlvm for Android  
 https://forums.fuwanovel.moe/topic/3541-rlvm-for-android  
 (dead) https://play.google.com/store/apps/details?id=is.xyz.rlvm  
-* (TODO) eglaysher-rlvm-e38cda7_v3.tar.gz  
+* https://github.com/weimingtom/rlvm_fork  
+eglaysher-rlvm-e38cda7_v3.tar.gz  
 from https://github.com/eglaysher/rlvm/tree/e38cda7783dc67539ce27901596ed93a2bb5c826  
-* (TODO) eglaysher-rlvm-b88bfe0_v36_trimui.tar.gz  
+* https://github.com/weimingtom/rlvm-0.14_fork  
+eglaysher-rlvm-b88bfe0_v36_trimui.tar.gz  
 from eglaysher-rlvm-release-0.14-0-ga85b19c.tar.gz   
 same as https://github.com/eglaysher/rlvm/archive/refs/tags/release-0.14.zip   
 same as https://github.com/eglaysher/rlvm/tree/a85b19c2bce61f9b1328220148aeb13b62929eea  
