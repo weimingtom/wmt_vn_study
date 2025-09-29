@@ -4689,3 +4689,27 @@ MMDX(MikuMikuDance for XNA-SlimDX) 項目中文首頁 - OSDN
 * https://github.com/EternalFeather/Gal-game-on-Renpy
 * https://github.com/EternalFeather/Angel_Seasons_Renpy_RPG
 * TheSeasonsOfAngel-all.zip
+
+## SpeShow, by SPRABBIT (SPRABBIT - 超科学兔耳中队), .ks files like kirikiri2 (?)  
+* (dead) http://www.sprabbit.com/spengine/   
+* (dead) http://bbs.sprabbit.com/categories/speshow  
+* (origin) https://github.com/denjones/spengine  
+https://github.com/yourblacksky/spengine    
+* https://doujin.bgm.tv/club/sprabbit/works?orderby=lastpost  
+* SpeShow v0.9.zip
+* SpeShow v0.9 with Sample.zip  
+https://www.cngal.org/entries/index/3857  
+```
+本程序为附带《Sicily - 零与一的幻想》序章脚本的SpeShow 0.9示例程序，其中示例脚本保存在 bin/scripts 目录下。
+本程序资源文件使用 SSPackGuider 进行打包，不可直接查看。
+如有任何疑问请登录 SPRABBIT论坛的 SpeShow 板块进行提问。
+
+http://bbs.sprabbit.com/categories/speshow
+
+SPRABBIT
+2013-10-07
+```
+* SSPackGuider1.1.zip
+* SpeShow 0.11.zip
+* SpeShow 0.11.1 with Sicily.zip
+* SpeShow 0.11.1.zip
