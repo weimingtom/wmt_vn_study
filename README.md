@@ -1594,6 +1594,8 @@ https://download.csdn.net/download/cping1982/3516651
 * (origin) https://www.nvlmaker.net/download.html  
 * (origin) https://github.com/VariableD/the-nvl-maker-ex  
 * (origin) https://bitbucket.org/VariableD/the-nvl-maker/downloads/  
+* NVL Maker 3.8+, nvlmaker_381sim_setup.exe, 
+* THE_NVL_Maker_ver3.87_sim.zip
 
 ## Artemis Engine, closed source    
 * http://www.ies-net.com  
