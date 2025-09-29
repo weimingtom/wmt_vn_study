@@ -1332,6 +1332,8 @@ krkrz研究。上次说的关于编译ANGLE libEGL.dll和libGLESv2.dll的问题�
 就能编译成功，得到的dll放到tvpwin64_d.exe旁边的plugin64目录下即可
 ```
 * VS2015社区版
+* Visual Studio 2013正式版
+* vs2003
 
 ## krkrsdl2  
 * (origin) https://github.com/krkrsdl2/krkrsdl2  
