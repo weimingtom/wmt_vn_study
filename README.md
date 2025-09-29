@@ -2568,6 +2568,7 @@ cs2-open Ver 1.0, cs2.exe version 1, 0, 1, 10
 * (origin) http://docs.bakery.moe  
 * https://github.com/BKEngine/docs
 * BKE_Demo_Source_NoLive2D.rar, BKE-Demo.rar, BKECreator.7z
+* 我和她的世界_Win.rar
 
 ## 追忆 (closed source, for android)    
 * (origin, dead) http://www.galgames.info/  
@@ -4734,5 +4735,6 @@ SPRABBIT
 
 ## (just record) 混合牛奶, みるひおれ(ver1.01).zip
 
-
+## gkEngine
+* https://github.com/gameknife/gkEngine
 
