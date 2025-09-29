@@ -1599,6 +1599,11 @@ https://download.csdn.net/download/cping1982/3516651
 * NVL Maker 3.8+, nvlmaker_381sim_setup.exe, 
 * THE_NVL_Maker_ver3.87_sim.zip
 * toxic.rar, Toxic Eviles Comes, https://www.nvlmaker.net/games.html
+* (**MALWARE**, be careful) 剑斗士Gladiator.zip    
+https://baike.baidu.com/item/角斗士/19859499?fr=aladdin  
+```
+《角斗士》（Gladiator）是由Project Bamboo制作组开发的AVG+模拟恋爱养成游戏，作为RPG《坠入苍蓝色的深渊》后传，采用The NVL Maker引擎制作，定位为18岁及以上玩家。
+```
 
 ## Artemis Engine, closed source    
 * http://www.ies-net.com  
