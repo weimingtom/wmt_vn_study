@@ -1598,6 +1598,7 @@ https://download.csdn.net/download/cping1982/3516651
 * (origin) https://bitbucket.org/VariableD/the-nvl-maker/downloads/  
 * NVL Maker 3.8+, nvlmaker_381sim_setup.exe, 
 * THE_NVL_Maker_ver3.87_sim.zip
+* toxic.rar, Toxic Eviles Comes, https://www.nvlmaker.net/games.html
 
 ## Artemis Engine, closed source    
 * http://www.ies-net.com  
