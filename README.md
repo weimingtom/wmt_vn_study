@@ -661,6 +661,13 @@ sudo zypper install SDL2-devel SDL2_image-devel SDL2_mixer-devel SDL2_ttf-devel
 sudo zypper install lua-devel libogg-devel libvorbis-devel libbz2-devel fontconfig-devel
 ```
 * ONScripter-Jh-sdl2.zip, contains: ONScripter-Jh-sdl2.arm64.apk, ONScripter-Jh-sdl2.general.apk, ONScripter-Jh-sdl2.neon.apk
+* [ons]cripter-Jh
+ONS-jh模拟器.general.apk, ONScripter-Jh_0.7.2.general.apk  
+ONScripter-Jh-sdl2.ipa  
+ONScripter-Jh-sdl2.arm64.apk, ONScripter-Jh_0.7.2.arm64.apk  
+ONScripter-Jh-sdl2.win64.7z, ONScripter-Jh-sdl2.win32.7z  
+ONScripter-Jh_0.7.2.neon.apk, ONScripter-Jh-sdl2.neon.apk  
+ONScripter-Jh-sdl2.macosx.7z  
 
 ## John_He (john-he) onscripter Chinese version, for Windows / PSP / Pocket PC  
 * (origin) https://web.archive.org/web/20080522010153/http://blog.163.com/john_he_/blog/static/76595505200832514228686/  
@@ -721,12 +728,13 @@ https://apt.izzysoft.de/fdroid/index/apk/org.hanenoshino.onscripter?repo=archive
 * (android version) cn.natdon.onscripterv2 20150802 (3.0.3 include xclannad and xsystem35): ONScripter-CN_v1.7z  
 * 小鸡模拟器的ONS：cn/natdon/onscripterv2，感觉好像多了一些类，可能做了改动或者基于别的分支代码  
 * https://github.com/natdon/ONScripter-CN/tree/951935b05ae66fb5e0c09ceb437324687f0a23f7/jni/app_onscripter-32bpp/onscripter-20130317
-* MiNEv3.0.2.apk
-* mine模拟器
-* MINE 3.11.apk, MINE 3.12.apk
-* MINE3.0.6.apk, MINE3.05.apk, MINE3.09.apk, MINE3.1.0.apk
-* MiNE final.apk
-* MiNEv3.0.2.apk, MiNEv3.0.3 final.apk
+* MiNEv3.0.2.apk  
+* mine模拟器  
+MINE 3.11.apk, MINE 3.12.apk  
+MINE3.0.6.apk, MINE3.05.apk, MINE3.09.apk, MINE3.1.0.apk  
+MiNE final.apk  
+MiNEv3.0.2.apk, MiNEv3.0.3 final.apk  
+* [ons]MiNE最终版, MiNE-v3.1.6.apk  
 
 ## mscripter, for Java midlet (closed source, like nscripter)   
 * (origin) http://www.epii.jp/articles/product/mscripter/mscripter  
