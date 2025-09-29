@@ -4713,3 +4713,18 @@ SPRABBIT
 * SpeShow 0.11.zip
 * SpeShow 0.11.1 with Sicily.zip
 * SpeShow 0.11.1.zip
+
+## 【开源】【Avg】Project AlaalA
+* AlaalA AllinOne.7z
+* editor dll.7z
+
+## ThAVG, with dxlib  
+* ThSAG-Demo-20141104.zip
+* ThSAG-RC-20141227.zip
+* some files not record
+```
+○ ThSAG　～ Touhou Shooting And Adventure Game Engine.
+■１．声明
+	这是一个AVG+STG的简易游戏引擎，基于VB .NET和DxLib。
+```
+
