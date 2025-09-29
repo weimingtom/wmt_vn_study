@@ -735,6 +735,8 @@ MINE3.0.6.apk, MINE3.05.apk, MINE3.09.apk, MINE3.1.0.apk
 MiNE final.apk  
 MiNEv3.0.2.apk, MiNEv3.0.3 final.apk  
 * [ons]MiNE最终版, MiNE-v3.1.6.apk  
+* MiNE3.v1.5_yuri.apk  
+https://github.com/YuriSizuku/Kirikiroid2Yuri/releases/tag/1.3.9_yuri  
 
 ## mscripter, for Java midlet (closed source, like nscripter)   
 * (origin) http://www.epii.jp/articles/product/mscripter/mscripter  
