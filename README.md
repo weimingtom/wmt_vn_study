@@ -3478,7 +3478,8 @@ iris.zip
 ## webvn-demo  
 * https://github.com/liriliri/webvn-demo  
 
-## (可能没什么研究价值，纯参考) NeXAS
+## NeXAS, some games with this engine are hacked for PC and PSP, but just closed source      
+* (可能没什么研究价值，纯参考) 超出我的能力范围，这个引擎目前无法理解，一无所知，但可能有一些启发作用  
 * https://ultrapre.github.io/clip/default/2019-10-15-1571153274/index.html
 * https://github.com/Yggdrasill-Moe/Niflheim
 * https://github.com/xd2333/patchs
