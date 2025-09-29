@@ -3487,6 +3487,7 @@ iris.zip
 PARFAITRO_out.7z  
 参考：Parfait.7z  
 パルフェ～ショコラ second brew～“Re-order”初回版  
+* PSP青空下的约定完整汉化 整合V3补丁.part1.rar, cvn-kay_cn2.iso, able to be extracted by garbro (?)  
 
 ## 用unity的galgame
 * https://www.zhihu.com/question/557632528/answer/2842366743
