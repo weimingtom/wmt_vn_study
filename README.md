@@ -1912,6 +1912,10 @@ http://savaiv.blog81.fc2.com/blog-entry-292.html
 * WLK200.AVD  
 waffle-040116_psp__20241018_v1_may_run_good.7z  
 with avc020803.zip, avgcnv07.zip to convert kanon_first.zip  
+* https://www.gamebrew.org/wiki/Waffle_for_PSP  
+(origin) https://web.archive.org/web/20120116121823/http://blog.livedoor.jp/tormtorm/archives/cat_10028512.html?p=2  
+https://www.gamebrew.org/wiki/Waffle_for_PSP_Mod  
+waffle_040116_psp.zip, waffle_tools.7z  
 
 ## AKANE, あかね, for PSP (?)    
 * (origin) https://web.archive.org/web/20051210160230/http://kimatten.hp.infoseek.co.jp/
