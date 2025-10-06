@@ -140,6 +140,8 @@ Tsukihime_English_v1.2_update_[mirror_moon].exe
 * (dead, origin) http://homepage.mac.com/toveta/ccs/  
 * (origin) https://web.archive.org/web/20111105141217/http://homepage.mac.com/toveta/ccs/  
 * CCScripter-0.8.24.tar.gz  
+* TYMainController.m：applicationDidFinishLaunching
+* TYScriptEngine.m：runScript
 
 ## 月猫 (tukineko), for Java PDA (SHARP ZAURUS E21, KYOCERA PocketCosmo), closed source      
 * (origin, dead) http://www.din.or.jp/~boya/tsukihime/tukineko/index.html  
