@@ -266,6 +266,21 @@ see https://aur.archlinux.org/packages/onscripter-yuri
 * SDL2 gentoo emerge see below
 * onscripter-20150115.zip
 
+## ONScripter_Multi_Converter
+* (origin) https://github.com/Prince-of-sea/ONScripter_Multi_Converter  
+* ONScripter for PSP by 霧雨の降る日に (すとーむさん): https://archive.org/details/ons.-7z  
+https://archive.org/download/ons.-7z/Old%20Versions/onscripter-20110111_psp.zip  
+Makefile.PSP: https://archive.org/download/ons.-7z/Extra/onscripter-20121223.zip  
+https://uu.getuploader.com/hakaisinn6105_psp/download/45  
+* https://github.com/YuriSizuku/psv-OnscripterJH/releases/download/v0.5.1.3/VitaOns.vpk  
+* Onscripter for Brain: https://brain-kaizou.blogspot.com/2013/03/brainpc-onscripter-for-brain.html  
+https://ho.ie-t.net/it/brain/onscripter    
+https://github.com/HO-0520-IT/onscripter-wce  
+http://lycoris2475.xxxxxxxx.jp/  
+http://lycoris2475.xxxxxxxx.jp/ons/ONS20100510_424x318.zip  
+https://lycoris2475.xxxxxxxx.jp/ons/ONS20100510_QVGA.zip  
+* jp-ogapee-onscripter-release-20240906-68755716-b8f3ae267a7b1c69114c102c7ff37632.apk  
+
 ## onscripter-en   
 * (origin, dead) http://unclemion.com/onscripter/releases/  
 onscripter-en-20110628-fullsrc.tar.bz2  
