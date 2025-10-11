@@ -281,6 +281,17 @@ http://lycoris2475.xxxxxxxx.jp/ons/ONS20100510_424x318.zip
 https://lycoris2475.xxxxxxxx.jp/ons/ONS20100510_QVGA.zip  
 * jp-ogapee-onscripter-release-20240906-68755716-b8f3ae267a7b1c69114c102c7ff37632.apk  
 
+## ONScripter for Brain, for SHARP Brain (Windows CE 6.0) (PW-GC590?), 夏普彩屏电子辞典Brain
+* (origin) http://lycoris2475.xxxxxxxx.jp/ 
+* (origin) https://ho.ie-t.net/it/brain/
+* (origin) https://ho.ie-t.net/it/brain/onscripter/
+* (origin) https://ho.ie-t.net/it/brain/onscripter/build_inst/
+* (origin) https://github.com/HO-0520-IT/onscripter-wce
+* (origin) https://github.com/HO-0520-IT/onscripter-wce/blob/wcemain/Makefile.WinCE
+* https://github.com/HO-0520-IT/cegcc-build/releases
+* https://github.com/HO-0520-IT?tab=repositories
+* https://github.com/brain-hackers
+
 ## onscripter-en   
 * (origin, dead) http://unclemion.com/onscripter/releases/  
 onscripter-en-20110628-fullsrc.tar.bz2  
