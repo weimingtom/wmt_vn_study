@@ -1650,6 +1650,9 @@ https://baike.baidu.com/item/角斗士/19859499?fr=aladdin
 （我在研究基于节点的godot实现的模拟器），
 才会考虑研究这个引擎（我觉得现阶段还是太难了，还不是时候研究它）
 ```
+```
+2025年5月，另外又有人上传了新的SDK版本，比上面那个的版本更高
+```
 
 ## Artroid+  
 * https://myskrpatch.tistory.com/82  
