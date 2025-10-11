@@ -1689,7 +1689,7 @@ Wizard.exe: KCDPP KAGeXpress新工程向导
 * https://github.com/bolero-MURAKAMI/KTL  
 
 ## RealLiveMax (closed source)    
-* http://www.product.co.jp/reallivemax/  
+* (origin, dead) http://www.product.co.jp/reallivemax/
 * search baidupan, RealLiveMax_SDK_20111129_006.zip, acttest.zip    
 * rebuilt.RealLiveMax_SDK_20100726_001.zip  
 ```
@@ -1714,6 +1714,10 @@ RealLiveMax研究。最开始的时候Tpc2000Max.exe旁边是没有ini文件，
 115, angel magister
 baidupan, angel_magister
 ```
+* (origin) https://archive.org/download/real-live-max-sdk-20111129-006/RealLiveMax_SDK_20111129_006.zip
+* (origin) https://archive.org/download/real-live-max-sdk-20111129-006/RealLiveMax_SDK_20111129_006.iso
+* https://ux.getuploader.com/RLM/
+* https://ux.getuploader.com/RLM2/
 
 ## xkanon   
 * (origin, dead) http://www.creator.club.ne.jp/~jagarl/xkanon.html  
