@@ -1716,6 +1716,9 @@ baidupan, angel_magister
 ```
 * (origin) https://archive.org/download/real-live-max-sdk-20111129-006/RealLiveMax_SDK_20111129_006.zip
 * (origin) https://archive.org/download/real-live-max-sdk-20111129-006/RealLiveMax_SDK_20111129_006.iso
+```
+NOTE: .iso version contains MAXCODE00000.lic, but .zip version not
+```
 * https://ux.getuploader.com/RLM/
 * https://ux.getuploader.com/RLM2/
 
