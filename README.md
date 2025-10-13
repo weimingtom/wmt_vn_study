@@ -87,6 +87,9 @@ https://kako.5ch.net/test/read.cgi/linux/1246189118/
 * (origin) http://www.nscripter.com  
 * (origin ???) http://www2.osk.3web.ne.jp/~naokikun/  
 http://autumoon.s35.xrea.com/nscr/nsdown.html  
+* (origin) https://github.com/NaokiTakahashi/NScripter  
+(origin) https://github.com/NaokiTakahashi/NScripter2  
+refered from https://www.nscripter.com  
 * http://nscripter.insani.org/reference/  
 * https://github.com/weimingtom/wmthome/tree/master/nscr  
 https://github.com/weimingtom/nscripter_study/tree/master/nscripter_manual_chinese  
