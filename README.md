@@ -4687,6 +4687,13 @@ MMDX(MikuMikuDance for XNA-SlimDX) 項目中文首頁 - OSDN
 * https://steamdb.info/tech/Engine/MonoGame/
 
 ## NOeSIS外伝〜色亡き世界〜
+* (origin) https://ironaki.wordpress.com/  
+* (origin) https://ironaki.wordpress.com/download/
+* (origin) http://ironaki.folder.jp/release/onscripter-20131223.tar.gz
+* (origin) http://idletime.s601.xrea.com/web/onscripter/
+* (origin) http://ironaki.folder.jp/release/onscripter_ios.tar.gz
+* (origin) http://ironaki.folder.jp/release/onscripter_android.tar.gz
+* (origin) http://ironaki.folder.jp/release/migmix-2m-20130617.zip
 * Ironaki_1_1.apk
 * onscripter_android.tar.gz
 * onscripter-20131223.tar.gz
