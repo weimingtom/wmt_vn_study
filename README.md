@@ -1576,10 +1576,12 @@ src\core\visual\WindowIntf.cpp
 * https://github.com/weimingtom/wmt_vn_study/blob/master/krkr2_vcpkg_build_001.md  
 * https://github.com/weimingtom/krkr2-no-vcpkg
 * krkr2-no-vcpkg_msys2_v3_run.7z
+* https://github.com/weimingtom/krkr2-no-vcpkg-fork2
 
 ## ningshanwutuobang/Kirikiroid2, fork of zeas2/Kirikiroid2, using cmake  
 * (origin) https://github.com/ningshanwutuobang/Kirikiroid2
 * (origin) https://github.com/ningshanwutuobang/Kirikiroid2/tree/linux_build
+* (origin fork) https://github.com/YuriSizuku/Kirikiroid2Yuri
 * https://github.com/joiplay/Kirikiroid2
 * https://github.com/weimingtom/kirikiroid2_fork3
 * Kirikiroid2-linux_build_v5.tar.gz
