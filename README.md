@@ -4172,6 +4172,8 @@ if "HOST_LC_ALL" in self.env and len(self.env["HOST_LC_ALL"]) > 0:
 * http://www.freebsd.org/cgi/pds.cgi?ports/graphics/leafpak
 * http://mirror.kr.freebsd.org/ports/graphics.html#leafpak-1.1.1
 * http://www.freebsd.org/cgi/cvsweb.cgi/ports/graphics/leafpak/
+* leafpak-1.1.1.tar.gz
+* leafpak_vc6.rar, leafpak_msys.rar
 
 ## Galgame-Engine-Collect   
 * https://github.com/2439905184/Galgame-Engine-Collect  
