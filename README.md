@@ -295,8 +295,14 @@ https://lycoris2475.xxxxxxxx.jp/ons/ONS20100510_QVGA.zip
 * https://github.com/HO-0520-IT?tab=repositories
 * https://github.com/brain-hackers
 
-## onscripter-en   
+## ONScripter-EN, for Windows and Mac OS X and Linux  
+```
+Uncle Mion's ONScripter Corner
+about the English branch of ONScripter, a game scripting engine 
+```
 * (origin, dead) http://unclemion.com/onscripter/releases/  
+(origin) https://web.archive.org/web/20110614232450/http://unclemion.com/onscripter/  
+(origin) https://web.archive.org/web/20110617000946/http://unclemion.com/onscripter/releases/  
 onscripter-en-20110628-fullsrc.tar.bz2  
 onscripter-en-20110413-fullsrc.tar.bz2  
 onscripter-en-20110314-fullsrc.tar.bz2  
