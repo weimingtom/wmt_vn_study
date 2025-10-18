@@ -4167,11 +4167,11 @@ if "HOST_LC_ALL" in self.env and len(self.env["HOST_LC_ALL"]) > 0:
 * (not tested, linux x86_64 version) https://github.com/Kron4ek/Wine-Builds/releases/download/proton-9.0-4/wine-proton-9.0-4-amd64.tar.xz
 
 ## leafpak  
-* http://hoshina.denpa.org/leafpak.html
-* http://akkera102.sakura.ne.jp/gbadev/index.php?Doc.15%20PC%A5%B2%A1%BC%A5%E0%A1%D6%BC%B6%A1%D7%A4%CE%B0%DC%BF%A2%CA%FD%CB%A1(1)
-* http://www.freebsd.org/cgi/pds.cgi?ports/graphics/leafpak
-* http://mirror.kr.freebsd.org/ports/graphics.html#leafpak-1.1.1
-* http://www.freebsd.org/cgi/cvsweb.cgi/ports/graphics/leafpak/
+* (origin) http://hoshina.denpa.org/leafpak.html
+* (dead) http://akkera102.sakura.ne.jp/gbadev/index.php?Doc.15%20PC%A5%B2%A1%BC%A5%E0%A1%D6%BC%B6%A1%D7%A4%CE%B0%DC%BF%A2%CA%FD%CB%A1(1)
+* (dead) http://www.freebsd.org/cgi/pds.cgi?ports/graphics/leafpak
+* (dead) http://mirror.kr.freebsd.org/ports/graphics.html#leafpak-1.1.1
+* (good) http://www.freebsd.org/cgi/cvsweb.cgi/ports/graphics/leafpak/
 * leafpak-1.1.1.tar.gz
 * leafpak_vc6.rar, leafpak_msys.rar
 
