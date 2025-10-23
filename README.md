@@ -4812,3 +4812,6 @@ SPRABBIT
 
 ## House2.7z, with allegro
 
+## Open Source Clones of Popular Games
+* https://osgameclones.com/?filter=visual
+* https://github.com/opengaming/osgameclones
