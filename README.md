@@ -4145,13 +4145,15 @@ https://vndb.org/r?q=&sb=Search%21&o=a&s=title&f=02fwNScripter-2wzh_dHans-
 * https://bbs.deepin.org/post/266406
 * https://bbs.deepin.org/search?keyword=galgame&search_type=1
 * https://bbs.deepin.org/post/9001
-* xubuntu 25.04 Wine 9  
+* How to install Wine 9 in Xubuntu 25.04 64bit  
+$ sudo apt update   
 $ sudo apt install wine-stable    
 $ wine  
 (if execute wine, it will echo a message, how to install full version wine 9)  
 $ (TODO) XXXXXXXXX  
+(Wait for a long time for installing full version wine)  
 (if wine running failed, try to delete ~/.wine/ folder)  
-(Optional, for wine running failed) $ rm ~/.wine/  
+(Optional, for wine running failed) $ rm -rf ~/.wine/ && wine ./xxx.exe  
 ```
 把赛扬小主机上的deepin清了，装了我最喜欢的Xubuntu 25.04（本来想装Xubuntu 20.04，
 但不成功，换成25.04，用rufus的dd方式写入iso）。xubuntu的wine 9比deepin的wine 8
