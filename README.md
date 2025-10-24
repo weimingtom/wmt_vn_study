@@ -2271,7 +2271,8 @@ http://www.alicesoft.co.jp/
 * https://github.com/nunuhara/xsystem4
 
 ## AI5-SDL2, Cross-platform implementation of elf's AI5WIN engine
-* https://github.com/nunuhara/ai5-sdl2
+* (origin) https://github.com/nunuhara/ai5-sdl2
+* (test data) 下级生特别版.EXE
 
 ## Project ANISE (A Newly Implemented Scripting Engine for AI5V), (for AI5WIN ?)
 * https://github.com/tomyun/anise
