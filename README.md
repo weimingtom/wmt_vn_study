@@ -2273,6 +2273,9 @@ http://www.alicesoft.co.jp/
 ## AI5-SDL2, Cross-platform implementation of elf's AI5WIN engine
 * https://github.com/nunuhara/ai5-sdl2
 
+## Project ANISE (A Newly Implemented Scripting Engine for AI5V), (for AI5WIN ?)
+* https://github.com/tomyun/anise
+
 ## OpenRGSS (for Ruby), for RPG Maker XP/VX/VA (???only seen from folder names of source codes, not sure)        
 * (origin) https://github.com/zh99998/OpenRGSS  
 * (origin) https://github.com/zh99998/OpenRGSS-RPGMaker  
