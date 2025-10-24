@@ -4145,6 +4145,26 @@ https://vndb.org/r?q=&sb=Search%21&o=a&s=title&f=02fwNScripter-2wzh_dHans-
 * https://bbs.deepin.org/post/266406
 * https://bbs.deepin.org/search?keyword=galgame&search_type=1
 * https://bbs.deepin.org/post/9001
+* xubuntu 25.04 Wine 9  
+$ sudo apt install wine-stable    
+$ wine  
+(if execute wine, it will echo a message, how to install full version wine 9)  
+$ (TODO) XXXXXXXXX  
+(if wine running failed, try to delete ~/.wine/ folder)  
+(Optional, for wine running failed) $ rm ~/.wine/  
+```
+把赛扬小主机上的deepin清了，装了我最喜欢的Xubuntu 25.04（本来想装Xubuntu 20.04，
+但不成功，换成25.04，用rufus的dd方式写入iso）。xubuntu的wine 9比deepin的wine 8
+流畅多了，不知道为啥。我是通过apt install wine-stable安装wine 9的，
+安装后执行wine会提示怎么安装剩下的wine:i386版的命令行，
+然后要装很久才能把完整的wine装好，如果不想那么麻烦分两步安装wine，
+建议去用fedora或者arch的wine，安装起来更容易一些
+
+除了xubuntu（可能包括ubuntu）上的wine 9需要分两步安装外，我还发现有另外一个问题，
+如果在安装后最开始执行wine时不小心按了Ctrl+C中断（因为wine安装后需要初始化driver_c目录），
+再次执行wine就会报错（这算不算bug），解决方法是把home目录下的~/.wine目录rm掉，
+再执行wine就会重新初始化wine了 ​​​
+```
 
 ## Proton 9.0-4 in Steam Play of Steam Deck
 * In Steam Deck, change to Desktop Mode
