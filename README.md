@@ -2274,7 +2274,7 @@ http://www.alicesoft.co.jp/
 * (origin) https://github.com/nunuhara/ai5-sdl2
 * (test data) 下级生特别版.EXE, tested with ai5-sdl2-1.4.0.zip
 
-## Project ANISE (A Newly Implemented Scripting Engine for AI5V), (for AI5WIN ?)
+## Project ANISE (A Newly Implemented Scripting Engine for AI5V), (for DOS version ?)
 * https://github.com/tomyun/anise
 
 ## OpenRGSS (for Ruby), for RPG Maker XP/VX/VA (???only seen from folder names of source codes, not sure)        
