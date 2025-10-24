@@ -4836,5 +4836,23 @@ SPRABBIT
 ## House2.7z, with allegro
 
 ## Open Source Clones of Popular Games
-* https://osgameclones.com/?filter=visual
-* https://github.com/opengaming/osgameclones
+* https://osgameclones.com/?filter=visual  
+* https://github.com/opengaming/osgameclones  
+* https://www.tomyun.pe.kr/projectanise/  
+https://github.com/tomyun/anise  
+* https://web.archive.org/web/20190528104113/https://dev.pulsir.eu/krofna/  
+https://github.com/FGRE/libnpengine  
+https://github.com/CommitteeOfZero/nitrosharp  
+* https://web.archive.org/web/20100331135549/http://www.creator.club.ne.jp/~jagarl/xclannad.html  
+https://github.com/weimingtom/xclannad_fork  
+* https://07th-mod.com/  
+https://github.com/07th-mod/python-patcher  
+* https://web.archive.org/web/20100409004347/http://www.creator.club.ne.jp/~jagarl/xkanon.html  
+https://github.com/weimingtom/xkanon_fork  
+* https://www.fhs.sh/projects/ksre  
+https://github.com/tomyun/anise  
+* https://scummvm.org/  
+https://github.com/scummvm/scummvm  
+
+## (TODO) bottles
+* https://usebottles.com
