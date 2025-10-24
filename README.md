@@ -4156,10 +4156,10 @@ https://vndb.org/r?q=&sb=Search%21&o=a&s=title&f=02fwNScripter-2wzh_dHans-
 * https://bbs.deepin.org/post/9001
 * How to install Wine 9 in Xubuntu 25.04 64bit  
 $ sudo apt update   
-(Just install 64bit) $ sudo apt install wine-stable    
+(Just install 64bit) $ sudo apt install wine-stable   
 $ wine  
 (if execute wine, it will echo a message, how to install full version wine 9)  
-$ (TODO) XXXXXXXXX  
+$ sudo dpkg --add-architecture i386 && sudo apt-get update && sudo apt-get install wine32:i386   
 (Wait for a long time for installing full version wine)  
 (Run wine) $ LC_ALL=ja_JP.UTF8 wine ./LilianFourhand.exe  
 (If wine running failed, try to delete ~/.wine/ folder)  
