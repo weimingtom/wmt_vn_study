@@ -2267,6 +2267,12 @@ http://www.alicesoft.co.jp/
 * http://8ne.sakura.ne.jp:20008/chika/unitbase/xsys35/  
 * https://github.com/silas1037/AliceSoft
 
+## xsystem4, Cross-platform implementation of AliceSoft's System 4 engine
+* https://github.com/nunuhara/xsystem4
+
+## AI5-SDL2, Cross-platform implementation of elf's AI5WIN engine
+* https://github.com/nunuhara/ai5-sdl2
+
 ## OpenRGSS (for Ruby), for RPG Maker XP/VX/VA (???only seen from folder names of source codes, not sure)        
 * (origin) https://github.com/zh99998/OpenRGSS  
 * (origin) https://github.com/zh99998/OpenRGSS-RPGMaker  
