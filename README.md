@@ -4111,7 +4111,7 @@ https://vndb.org/r?q=&sb=Search%21&o=a&s=title&f=02fwNScripter-2wzh_dHans-
 
 ## Wine
 * Use Fedora 41 (recommended, has sound) or Arch Linux 2015 (no sound?)  
-* (Ubuntu NOT GOOD, don't use xubuntu 25 and xubuntu 20)
+* If use Ubuntu 25.04 or Xubuntu 25.04 or Xubuntu 20.04, you need: sudo apt-get install wine-stable && sudo dpkg --add-architecture i386 && sudo apt-get update && sudo apt-get install wine32:i386  
 * (for Fedora) $ sudo yum install wine    
 * (for Arch Linux) $ sudo pacman -S wine  
 * $ cp simsun.ttc ~/.wine/driver_c/windows/Fonts/.
