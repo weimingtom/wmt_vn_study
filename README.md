@@ -91,8 +91,10 @@ http://autumoon.s35.xrea.com/nscr/nsdown.html
 (origin) https://github.com/NaokiTakahashi/NScripter2  
 refered from https://www.nscripter.com  
 * http://nscripter.insani.org/reference/  
-* https://github.com/weimingtom/wmthome/tree/master/nscr  
+* https://github.com/weimingtom/wmthome/tree/gh-pages/nscr  
+https://github.com/weimingtom/wmthome/tree/master/nscr   
 https://github.com/weimingtom/nscripter_study/tree/master/nscripter_manual_chinese  
+https://github.com/weimingtom/nscripter_study/tree/master/download  
 * search baidupan, nscripter贴吧/资源.7z  
 * https://fr-m-wikipedia-org.translate.goog/wiki/NScripter?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=fr  
 https://fr-m-wikipedia-org.translate.goog/wiki/NScripter?_x_tr_sl=auto&_x_tr_tl=zh-CN&_x_tr_hl=fr  
