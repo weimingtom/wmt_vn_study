@@ -1761,6 +1761,10 @@ Xkanon(または xayusys-gtk2)
 * (**TODO**) xkanon-071209.tar.gz  
 * (origin, dead) http://dev.haeleth.net/xkanon.shtml  
 * xkanon-haeleth.tar.bz2  
+* (TO TEST, also need to test for rlvm) AIR_SE.zip    
+AIR.part1.rar  
+AIR最终汉化测试补丁.rar  
+AIR_全年齢対象版  
 
 ## xclannad
 * (origin, dead) http://www.creator.club.ne.jp/~jagarl/xclannad.html  
