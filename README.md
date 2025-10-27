@@ -1107,7 +1107,7 @@ https://kimoritama.github.io/krkr2doc-cn/kag3doc/contents/index.html
 * 吉里吉里2（開発版）　二次配布ページ  
 http://kasugasoft.daiwadaw.jp/pub/吉里吉里2/   
 https://kasugasoft.daiwadaw.jp/pub/吉里吉里2/ChangeLog.html  
-* My test suites (I call them 'atest1' to 'atest3') 
+* My test suites (I call them 'atest1' to 'atest3')   
 KRKR制作范例.zip   
 lyricallisp_free-1.7.zip    
 Spring Days.rar, atest3  
