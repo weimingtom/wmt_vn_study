@@ -139,7 +139,13 @@ https://archive.org/details/doujin-game-tsumeawase
 * Tsukihime English version 1.2  
 Tsukihime_English_v1.2_update_[mirror_moon].exe  
 (origin) http://mirrormoon.org/projects/complete/tsukihime/  
-* nscripter贴吧
+* nscripter贴吧  
+* 月箱.part1.rar   
+* 以下这些可能都是中文版，没啥用  
+月姬简体中文0.95版.zip    
+Tsukihime_0.9.5.9.rar  
+歌月十夜汉化版_bata_Ver.0.5.rar  
+歌月十夜汉化版_beta_Ver.0.5.5.rar  
 
 ## CCScripter, nscripter的Mac OS X实现  
 * (dead, origin) http://homepage.mac.com/toveta/ccs/  
@@ -156,7 +162,7 @@ Tsukihime_English_v1.2_update_[mirror_moon].exe
 https://gitee.com/weimingtom2000/nscripter_java  
 https://github.com/weimingtom/tukineko_godot    
 https://github.com/weimingtom/tukineko_csharp   
-search baidupan, 月姬、月姬格斗、月箱, 月箱.part1(1).rar, 月箱.part2(1).rar  
+search baidupan, 月姬、月姬格斗、月箱, 月箱.part1(1).rar, 月箱.part2(1).rar, 月箱.part1.rar  
 search baidupan, nscripter_java_20200829_replace_moon.rar   
 
 ## npynscr, just for english 0.txt, by python2
@@ -1703,7 +1709,9 @@ Wizard.exe: KCDPP KAGeXpress新工程向导
 
 ## RealLiveMax (closed source)    
 * (origin, dead) http://www.product.co.jp/reallivemax/
-* search baidupan, RealLiveMax_SDK_20111129_006.zip, acttest.zip    
+* search baidupan, RealLiveMax_SDK_20111129_006.zip, acttest.zip
+* RealLiveMax_SDK_20110107_004.zip
+* RealLiveMax_SDK_20110107_004_backup.7z 
 * rebuilt.RealLiveMax_SDK_20100726_001.zip  
 ```
 用日文xp运行reallivemax示例工程的效果，需要lic文件，不过maxcode前缀的lic文件其实是一个文本，
