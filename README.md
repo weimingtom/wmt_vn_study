@@ -1111,7 +1111,7 @@ https://kasugasoft.daiwadaw.jp/pub/吉里吉里2/ChangeLog.html
 KRKR制作范例.zip   
 lyricallisp_free-1.7.zip    
 Spring Days.rar, atest3  
-星月夜EP3_DEMO.rar, atest2  
+星月夜EP3_DEMO.rar, atest2, a.k.a 星月夜（体验版）.rar, 星月夜~Seven Tales in Sprial  
 A Dream of Summer.7z  
 
 ## 吉里吉里Z, krkrz, kirikiriz    
