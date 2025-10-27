@@ -4866,5 +4866,14 @@ https://github.com/tomyun/anise
 * https://scummvm.org/  
 https://github.com/scummvm/scummvm  
 
+## PC98
+* pc98.7z, 东方1-5
+* Leaf's PC98 Game Collection.7z
+
+## DOS
+* 小马模拟器, 同级生1（日版）, 下级生（无声版）
+
+
+
 ## (TODO) bottles
 * https://usebottles.com
