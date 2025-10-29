@@ -4312,6 +4312,7 @@ GAL翻译神器
 ## (NOTE: don't study it) exef2paz.zip, exmaspaz.zip      
 * (origin) http://asmodean.reverse.net  
 asmodean's reverse engineering page - news and updates  
+* game_hack.7z
 
 ## (NOTE: don't study it) cape.rar, SHUFFLE!文本提取器
 * 不确定，可能来源于crass？也可能不是  
@@ -4428,10 +4429,6 @@ SDL_VIDEODRIVER=kmsdrm ./testsprite2 ​​​
 * 「ログウィンドウ追加プロジェクト [eglog]」, Distribution page, ...X680x0 spirit inside...
 * GORRY's Homepage - [eglog] - Distribution Page  
 
-## (don't study this) Welcome to m-akita's Home Page, some games text extractor (?)  
-* (origin, dead?) http://m-akita..ne.jp/index.php  
-* (origin) https://web.archive.org/web/20090909173430/http://m-akita..ne.jp/index.php  
-
 ## (don't study this) Historical Visual Novel Tools
 * (origin) https://proger.me/vn/old/  
 * (origin, older) http://vn.i-forge.net/tools/  
@@ -4460,10 +4457,13 @@ So how to use these tools?
 Delphi ShiftJIS & Unicode kit
 ```
 
-## (don't study this) テキスト抽出ツール, some games text extractor (?)   
+## (don't study this) Welcome to m-akita's Home Page, some games text extractor (?), テキスト抽出ツール, some games text extractor (?) , m-akita    
+* (origin, dead?) http://m-akita..ne.jp/index.php  
+* (origin) https://web.archive.org/web/20090909173430/http://m-akita..ne.jp/index.php  
+* game_hack.7z
 * (origin) http://www.geocities.jp/hoku_hoshi/index2.html
 * (origin) https://web.archive.org/web/20120620043318/http://www.geocities.jp/hoku_hoshi/index2.html  
-混沌の部屋
+混沌の部屋, see also game_hack.7z
 ```
 m-akita's Home Page	Nitro+のゲーム向けを始め、メッセージローダーが大量にあります。
 https://web.archive.org/web/20120620043318/http://m-akita.sakura.ne.jp/  
@@ -4529,6 +4529,7 @@ https://github.com/luguanxing/Cheating-Plugin-Program
 ・彼の 「AIR」 解析結果 もどうぞ
 ビジュアルアーツのRealLive(AVG2000)システムに係る考察(暫定版)
 ```
+* See also game_hack.7z
 
 ## dwing  
 * http://tieba.baidu.com/f?kw=dwing&ie=utf-8  
@@ -4891,7 +4892,51 @@ https://github.com/scummvm/scummvm
 ## DOS
 * 小马模拟器, 同级生1（日版）, 下级生（无声版）
 
-
-
 ## (TODO) bottles
 * https://usebottles.com
+
+## game_hack.7z
+* asmodean: exef2paz_1.22r2.zip, exgce3.zip  
+http://asmodean.reverse.net  
+* crass: crass-0.4.14.0-final, 东方X夜抄-by加菲猫.rar
+* ゲームシナリオの書き方・メモ／ゲームシナリオTips  
+http://www.digital-cottage.net/HEL-VAL/game.php#s5  
+* m-akita: dc2ml.lzh, lcseml.zip, tht2gl.lzh, tht2ml.lzh, tht2xml.zip, and etc (total 76 files)
+* m-akita's Home Page[Program]  
+http://m-akita.sakura.ne.jp/program.php  
+* Digital Travesia:  
+AVG2000.lzh, Defate_CDz.lzh, Defate_kanon.lzh, extinguish_trapz.lzh, Tutorial_Speed_Menu.lzh  
+* NScripter Code To HTML: nsc2h.zip
+* NScr_hilight294.zip
+```
+	NScr294hilight.ESY	（EmEditor用）
+	NScr294.hilight		（秀丸用）
+```
+* Yet Another nsdec, include src: nsdec.zip  
+http://ledyba.ddo.jp/  
+* うさみみハリケーン, hack tool???  
+UsaMimi_v009.zip, UsaMimi_v010b2.zip  
+* Vadecode.lzh, seen.txt
+```
+ビジュアルアーツ製ゲーム用シナリオファイル解凍・分割ツール
+```
+* 神櫻學園 ? 【GALGAME漢化．技術科館】 ? [轉貼]各GALGAME會社作品腳本引擎一覽  
+http://www.kamisakura.net/bbs/archiver/tid-4975.html  
+```
+http://www.oshiete-kun.net/archives/2008/03/16_0016.html
+
+http://hp.vector.co.jp/authors/VA028184/
+
+http://www.vector.co.jp/soft/win95/writing/se326988.html
+http://hiyu.blog.shinobi.jp/Category/6/
+
+http://www.vector.co.jp/soft/dl/win95/game/se454329.html
+
+http://www.vector.co.jp/soft/winnt/prog/se465235.html
+
+http://senzogawa.s90.xrea.com/reference.html
+
+http://nscripter.insani.org/reference/
+
+http://gamediy.net/wiki/doc/manual
+```
