@@ -4458,8 +4458,8 @@ Delphi ShiftJIS & Unicode kit
 ```
 
 ## (don't study this) Welcome to m-akita's Home Page, some games text extractor (?), テキスト抽出ツール, some games text extractor (?) , m-akita    
-* (origin, dead?) http://m-akita..ne.jp/index.php  
-* (origin) https://web.archive.org/web/20090909173430/http://m-akita..ne.jp/index.php  
+* (origin, dead?) http://m-akita.sakura.ne.jp/index.php  
+* (origin) https://web.archive.org/web/20090909173430/http://m-akita.sakura.ne.jp/index.php  
 * game_hack.7z
 * (origin) http://www.geocities.jp/hoku_hoshi/index2.html
 * (origin) https://web.archive.org/web/20120620043318/http://www.geocities.jp/hoku_hoshi/index2.html  
