@@ -4923,22 +4923,13 @@ UsaMimi_v009.zip, UsaMimi_v010b2.zip
 * 神櫻學園 ? 【GALGAME漢化．技術科館】 ? [轉貼]各GALGAME會社作品腳本引擎一覽  
 (dead) http://www.kamisakura.net/bbs/archiver/tid-4975.html  
 https://github.com/weimingtom/wmt_vn_study/blob/master/kamisakura_001.txt  
-* links  
-```
-http://www.oshiete-kun.net/archives/2008/03/16_0016.html
-
-http://hp.vector.co.jp/authors/VA028184/
-
-http://www.vector.co.jp/soft/win95/writing/se326988.html
-http://hiyu.blog.shinobi.jp/Category/6/
-
-http://www.vector.co.jp/soft/dl/win95/game/se454329.html
-
-http://www.vector.co.jp/soft/winnt/prog/se465235.html
-
-http://senzogawa.s90.xrea.com/reference.html
-
-http://nscripter.insani.org/reference/
-
-http://gamediy.net/wiki/doc/manual
-```
+* links:   
+* http://www.oshiete-kun.net/archives/2008/03/16_0016.html
+* http://hp.vector.co.jp/authors/VA028184/
+* http://www.vector.co.jp/soft/win95/writing/se326988.html  
+http://hiyu.blog.shinobi.jp/Category/6/  
+* http://www.vector.co.jp/soft/dl/win95/game/se454329.html
+* http://www.vector.co.jp/soft/winnt/prog/se465235.html
+* http://senzogawa.s90.xrea.com/reference.html
+* http://nscripter.insani.org/reference/
+* http://gamediy.net/wiki/doc/manual
