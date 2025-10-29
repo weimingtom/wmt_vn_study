@@ -1,0 +1,251 @@
+http://www.kamisakura.net/bbs/archiver/tid-4975.html
+
+神櫻學園 ? 【GALGAME漢化．技術科館】 ? [轉貼]各GALGAME會社作品腳本引擎一覽
+
+
+2009-11-26 15:47gary12378
+[轉貼]各GALGAME會社作品腳本引擎一覽
+
+最近在研究漢化遊戲主程式的破解，接觸到腳本引擎的概念，
+腳本引擎就是遊戲程式中解析劇本語句的程式片段，
+若要讓遊戲能解讀繁體或簡體文本，就須從引擎的編碼部份改起。
+
+最近在澄空找到篇不錯的文，有介紹各公司遊戲所用的腳本引擎，那就轉載上來吧~~
+
+[color=red]資料來源： GALGAME遊戲開發引擎全集 更新中 - 澄空學園[/color]
+
+[url=http://bbs.sumisora.com/read.php?tid=212976]http://bbs.sumisora.com/read.php?tid=212976[/url]
+
+－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+
+吉裡吉裡/KAG
+[url=http://kikyou.info/]http://kikyou.info/[/url]
+
+辨認方法:
+
+吉裡吉裡2/KAG3有著良好的可配置和可擴展性,因而基於它製作出來的遊戲在界面上不一定有共通的特徵.但是使用標準吉裡吉裡2/KAG3卻會在兩個小地方留下痕跡:
+1. 遊戲的主程序檔的信息裡有"TVP(KIRIKIRI) 2 core / Scripting Platform for Win32"的描述信息;
+2. 遊戲所使用的歸檔後綴為xp3.
+
+吉裡吉裡2/KAG3的遊戲可以被打包為單一的可執行文件,也就是所謂PEXP3形式.這時要簡單辨認引擎只能通過查看程序的描述信息.如果遊戲製作者有心特地改變了這個信息,那就得用十六進制編輯器打開程序來尋找特徵,這裡就不詳細描述了.
+
+如果遊戲沒有被打包為單一的可執行文件,那麼標準情況下,歸檔使用的是XP3格式,後綴為xp3.這可以說是最容易辨認的特徵了,因為只有吉裡吉裡才使用XPK/XP3格式的歸檔.吉裡吉裡2/KAG3也可以通過Susie插件來支持其它格式的歸檔(或圖像),但是這意味著spi插件本身也必須放置在與吉裡吉裡本體相同目錄或其下的plugin目錄裡,所以可以輕鬆使用Susie來對應這種狀況.
+
+對應工具:
+
+開發包: 
+
+專用開發環境:
+KKDE
+KiriKiri Development Environment
+[url=http://www.poringsoft.net/]http://www.poringsoft.net/[/url]
+
+拆解用工具:
+Susie插件:
+ax_xp3.spi, 對應XP3格式的歸檔的拆解; 需要重新打包時,可以直接使用吉裡吉裡SDK裡的吉裡吉裡 Releaser (krkrrel.exe).
+if_tlg.spi, 對應TLG格式的圖像的轉換; 需要從其它格式轉換到TLG格式時,可以直接使用吉裡吉裡SDK裡的圖像格式轉換器 (krkrtpc.exe).
+
+KCDDP KAGeXpress
+[url=http://krkr.keyfc.net/]http://krkr.keyfc.net/[/url]
+
+KAGeXpress是KeyFC同人發展促進會基於吉裡吉裡2/Kirikiri Adventure Game 3開發的AVG開發工具。
+
+KAGeXpress 3的特點如下：
+
+* 精簡而緊湊的指令，易於學習，易於記憶。
+* 漢化的附屬工具，讓你的發佈、打包、素材準備等工作更加容易。
+* 源自新一代基礎系統KAGEX的action系統，為你的遊戲提供更加華麗的功能。
+* 按頁隨地存檔，省去大量寫標籤的痛苦。
+* 全面、完備的中文文檔，由淺入深的詳細說明。
+* 整合各種效果插件，帶給你的作品華麗的特效和與眾不同的震撼力。
+* 可選的素材、場景統一管理功能（through World.ks from KAGEX），可選的行模式。讓你的開發更加輕鬆。
+* KCDDP專門團隊提供技術支持，並有專門的論壇、知識庫提供交流。
+* 完美支持640×480和800×600兩種分辨率，新工程嚮導便於新手使用。
+* 完美漢化的吉裡吉裡內核（最新穩定版：2.28Stable）和附屬工具，幫助不懂日文的用戶擺脫日文的困擾。
+
+2. HSP
+Hot Soup Processor
+[url=http://www.onionsoft.net/hsp/]http://www.onionsoft.net/hsp/[/url]
+
+EADV
+Easy Adventure Advance
+
+NScripter
+[url=http://www.nscripter.com/]http://www.nscripter.com/[/url]
+
+ToHeart | みすいろ | 朱 -Aka-
+
+ONScripter
+[url=http://ogapee.at.infoseek.co.jp/onscripter.html]http://ogapee.at.infoseek.co.jp/onscripter.html[/url]
+鏡像: [url=http://www.angelfire.com/space/ogapee/onscripter.html]http://www.angelfire.com/space/ogapee/onscripter.html[/url]
+
+LiveMaker
+[url=http://www.livemaker.net/index.html]http://www.livemaker.net/index.html[/url]
+
+ADVRUN
+[url=http://buin2gou.com/]http://buin2gou.com/[/url]
+
+Yuuki! NOVEL
+[url=http://page.freett.com/yuukiex/yuukinovel.html]http://page.freett.com/yuukiex/yuukinovel.html[/url]
+
+BladeEngine
+[url=http://www.bladeengine.com/]http://www.bladeengine.com/[/url]
+
+DreamGame
+[url=http://hp.vector.co.jp/authors/VA029096/]http://hp.vector.co.jp/authors/VA029096/[/url]
+
+ADAM
+Another Day Another Memories
+[url=http://www.fancy-house.com/ADAM/]http://www.fancy-house.com/ADAM/[/url]
+
+什麼是ADAM？
+
+ADAM，全稱Another Day Another Memories，是一個易於使用、快速上手的GAL Game引擎。利用ADAM，你可以很輕鬆地做出自己的GAL Game。同時，ADAM還是完全免費的，使用ADAM製作遊戲不需要支付任何費用。
+
+若想使用ADAM製作商業化遊戲請參閱[url=http://www.fancy-house.com/ADAM/about.htm]http://www.fancy-house.com/ADAM/about.htm[/url]頁面
+
+相對於其他GAL Game引擎，ADAM具有以下優勢：
+
+　·詳盡的使用手冊。遊戲製作者可以快速地進入ADAM的世界
+　·眾多的文件支持。ADAM可以支持大量的圖片和音頻格式作為資源
+　·高效的運行速度。ADAM使用3D硬件進行圖像渲染，符合當前潮流，同時做了大量的內部優化，保證程序在實現所有效果的前提擁有較低的CPU佔用率和內存佔用率
+　·簡易的使用方法。ADAM將GAL Game的元素大量抽像化，使遊戲製作的門檻極大幅度地降低
+　·完整的遊戲格式。ADAM默認使用一種資源打包方法，將所有資源打包成文件包，不僅可以節省遊戲佔用的空間，而且還能加快遊戲的讀取速度。資源打包也符合遊戲製作的要求
+
+使用ADAM的系統要求如下：
+　·1GHz及其以上等級的CPU
+　·GeForce 2MX / Radeon 7200 / XGI Volari V3 / Intel i865G及其以上等級的顯卡
+　·Windows 98/ME/2000/XP/Vista 操作系統
+　·128MB的空閒內存
+　·就這些了……
+
+YU-RIS
+[url=http://www.firstia.com/]http://www.firstia.com/[/url]
+
+シナリオくん
+[url=http://www3.plala.or.jp/ootake/]http://www3.plala.or.jp/ootake/[/url]
+
+コミックメーカー
+Comic Maker
+[url=http://www2s.biglobe.ne.jp/~mix/winkai.htm]http://www2s.biglobe.ne.jp/~mix/winkai.htm[/url]
+
+Ren'Py
+[url=http://www.bishoujo.us/renpy/]http://www.bishoujo.us/renpy/[/url]
+
+ADVENTURE PLAYER
+[url=http://www.adventureplayer.net/]http://www.adventureplayer.net/[/url]
+
+支持在PSP上使用的文字冒險遊戲平台.神奇的是,這是FROM SOFTWARE所支持的軟件.
+
+JAVA Novel アドベンチャー Ex
+[url=http://www.vector.co.jp/authors/VA006860/]http://www.vector.co.jp/authors/VA006860/[/url]
+
+=======tatics========
+
+LC-ScriptEngine
+
+ONE ～輝く季節へ～ Full Voice
+=====================
+
+========Visual Art's========
+
+AVG32
+
+xkanon
+[url=http://www.creator.club.ne.jp/~jagarl/xkanon.html]http://www.creator.club.ne.jp/~jagarl/xkanon.html[/url]
+
+Kanon | sense off | AIR
+
+AVG32在X Window System上的移植版,目的是為了讓Kanon能在裝有X Window System的UNIX系操作系統上運行.
+
+AVG2000
+
+RealLive
+
+planetarian ～ちいさなほしのゆめ～ | CLANNAD | 智代アフター | Kanon Standard Edition | AIR Standard Edition | Kinetic Novels
+
+對應工具:
+
+RLdev
+[url=http://dev.haeleth.net/rldev.shtml]http://dev.haeleth.net/rldev.shtml[/url]
+
+RLdev is a basic RealLive development kit, containing an archiver/disassembler, a compiler, and a graphics conversion tool.
+
+xclannad
+[url=http://www.creator.club.ne.jp/~jagarl/xclannad.html]http://www.creator.club.ne.jp/~jagarl/xclannad.html[/url]
+
+Princess Bride | CLANNAD | 智代アフター | 彼女たちの流儀
+
+RealLive在X Window System上的移植版,目的是為了讓CLANNAD能在裝有X Window System的UNIX系操作系統上運行.
+===========================
+
+=======F&C=======
+
+ADVWin16
+
+OASYS
+
+ADVWIN32
+
+AGS
+
+Overture
+
+=================
+
+rUGP
+relic Unified Game Platform
+[url=http://www.age-soft.co.jp/Download/rUGP/]http://www.age-soft.co.jp/Download/rUGP/[/url]
+
+Ethornell / Buriko General Interpreter
+[url=http://www.darios.buriko.no-ip.info/]http://www.darios.buriko.no-ip.info/[/url]
+
+[021220][CLOVER] さよらなエトランジュ | [CLOVER] プラチナウインド ～星の詩が聞こえたら～ | ている·ている | Purism×Egoist | Nursery Rhyme -ナーサリィ☆ライム- | [AUGUST] 夜明け前より琉璃色な | H2O ～FOOTPRINTS IN THE SAND～ | [070126][Lump of Sugar] いつか、屆く、あの空に。
+
+システムEthornellのCPU常時高負荷佔領のためすぐ熱暴走が發生しエンディングまでたどりつけない。
+
+Majiro
+
+SIESTA, NekoNeko Soft, and the R18 group (Beenyan, Candle, Haoh)
+MOON CHILDe | Scarlett 
+
+========AliceSoft========
+
+System 3.x
+
+System 4.x
+
+======================
+
+========minori=========
+
+Musica
+Media Unification System Interpreter and Compiler Authorization
+
+=======================
+
+=======Purple Software======
+
+CVNS
+
+まじぷり -wonder cradle- | 秋色戀華 | あると
+
+============================
+
+戀愛遊戲製作大師2
+
+戀愛シミュレーションツクール２
+[url=http://www.enterbrain.co.jp/digifami/products/renai2/index.html]http://www.enterbrain.co.jp/digifami/products/renai2/index.html[/url]
+
+RPG製作大師
+
+RPGツクール
+[url=http://www.enterbrain.co.jp/]http://www.enterbrain.co.jp/[/url]
+
+頁: [1] 
+查看完整版本: [轉貼]各GALGAME會社作品腳本引擎一覽
+
+
+Powered by Discuz! Archiver 5.5.0  ? 2001-2006 Comsenz Inc.
+
+
