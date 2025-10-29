@@ -4921,7 +4921,9 @@ UsaMimi_v009.zip, UsaMimi_v010b2.zip
 ビジュアルアーツ製ゲーム用シナリオファイル解凍・分割ツール
 ```
 * 神櫻學園 ? 【GALGAME漢化．技術科館】 ? [轉貼]各GALGAME會社作品腳本引擎一覽  
-http://www.kamisakura.net/bbs/archiver/tid-4975.html  
+(dead) http://www.kamisakura.net/bbs/archiver/tid-4975.html  
+https://github.com/weimingtom/wmt_vn_study/blob/master/kamisakura_001.txt  
+* links  
 ```
 http://www.oshiete-kun.net/archives/2008/03/16_0016.html
 
