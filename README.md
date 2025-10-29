@@ -3454,7 +3454,7 @@ http://vndb.org/v1136
 
 ## rUGP  
 * rUGP54010_beta_half.exe  
-* (TODO, where???)  
+* (TODO, where???, dead) http://www.age-soft.co.jp/Download/rUGP/  
 
 ## (?maybe should not put here) Ruby  
 * Ruby  
@@ -4551,6 +4551,13 @@ https://github.com/07th-mod/higurashi-assembly/blob/mod/BGICompiler.Compiler/NoU
 ```
 * https://www.bilibili.com/opus/474513819432510324
 * ??? Buriko is same as Majiro ???, unknown    
+* (origin, dead) http://www.darios.buriko.no-ip.info/
+* EthornellScriptEx.rar, https://www.studiokuma.com/home.php?page=tools/ethornell
+```
+Ethornell (現稱 Buriko General Interpreter) 是日本其中一個常用的 AVG 遊戲引擎
+ (詳看 http://www.darios.buriko.no-ip.info/)
+這個是可以提取劇本文字的工具。
+```
 
 ## Visual Novel Wiki
 * https://www.vnwiki.xyz
