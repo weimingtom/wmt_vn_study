@@ -2294,6 +2294,7 @@ http://www.alicesoft.co.jp/
 ## AI5-SDL2, Cross-platform implementation of elf's AI5WIN engine
 * (origin) https://github.com/nunuhara/ai5-sdl2
 * (test data) 下级生特别版.EXE, tested with ai5-sdl2-1.4.0.zip
+* (test data) 下级1中文, tested with ai5-sdl2-1.4.0.zip, need to rename AI5CHN.INI to AI5WIN.INI and add --game= cmd arg, dialog characters bad  
 
 ## Project ANISE (A Newly Implemented Scripting Engine for AI5V), (for DOS version ?)
 * https://github.com/tomyun/anise
