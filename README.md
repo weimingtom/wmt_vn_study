@@ -1749,7 +1749,7 @@ NOTE: .iso version contains MAXCODE00000.lic, but .zip version not
 * https://ux.getuploader.com/RLM/
 * https://ux.getuploader.com/RLM2/
 
-## xkanon   
+## xkanon (If built in linux, only for ubuntu 14.04 32bit, not good in 64bit, todo)     
 * (origin, dead) http://www.creator.club.ne.jp/~jagarl/xkanon.html  
 * (archive, 2000/3/24-2009/8/30) https://web.archive.org/web/20100409004347/http://www.creator.club.ne.jp/~jagarl/xkanon.html
 * xkanon / current(gtk2版) : 2009.8.30  
@@ -1775,13 +1775,14 @@ Xkanon(または xayusys-gtk2)
 * (**TODO**) xkanon-071209.tar.gz  
 * (origin, dead) http://dev.haeleth.net/xkanon.shtml  
 * xkanon-haeleth.tar.bz2  
-* (not good in xubuntu 64bit, not test in xubuntu 32bit, see xkanon-gtk2-080106.tar.gz)  
-(TO TEST, also need to test for rlvm) AIR_SE.zip     
+* AIR_SE.zip: not good for xkanon, use kanon_first.zip instead, also need to test for rlvm  
 AIR.part1.rar  
 AIR最终汉化测试补丁.rar  
 AIR_全年齢対象版  
-* xkanon-gtk2-080106.tar.gz can run in xubuntu 14.04 32bit   
-(xkanon-gtk2-080106.tar.gz in xubuntu 20.04 64bit can run but not good    
+* xkanon-gtk2-080106.tar.gz: good in xubuntu 14.04 32bit, use kanon_first.zip  
+not good in xubuntu 20.04 64bit  
+* xkanon-gtk2-080106.tar.gz can run in xubuntu 14.04 32bit     
+(xkanon-gtk2-080106.tar.gz also can run in xubuntu 20.04 64bit **but not good**)    
 ```
 tar xzf xkanon-gtk2-080106.tar.gz
 cd xkanon-gtk2/  
@@ -1790,16 +1791,17 @@ sudo apt install libgtk2.0-dev
 (32bit not need CFLAGS=-Wno-narrowing)  
 CFLAGS=-Wno-narrowing ./configure
 
-(just 32bit)  
-image_di_selimpl1.cc
-add line
+(just for ubuntu 14.04 32bit)    
+need add a line to image_di_selimpl1.cc, for memmove, memcpy  
 #include <string.h>
 
-add two lines to image_di_impl.cc
+need add two lines to image_di_impl.cc
 template char *Bpp16::CalcKido(char* data, int dbpl, int width, int height, int max);
 template char *Bpp32::CalcKido(char* data, int dbpl, int width, int height, int max);
 
-(AIR_SE not boot)
+(copy xayusys_gtk2 to kanon_first folder)    
+(AIR_SE not good)
+
 cd /home/wmt/kanon_first
 (NEED --path param)  
 ./xayusys_gtk2 --path .   
