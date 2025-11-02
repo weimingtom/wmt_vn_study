@@ -1775,10 +1775,28 @@ Xkanon(または xayusys-gtk2)
 * (**TODO**) xkanon-071209.tar.gz  
 * (origin, dead) http://dev.haeleth.net/xkanon.shtml  
 * xkanon-haeleth.tar.bz2  
-* (TO TEST, also need to test for rlvm) AIR_SE.zip    
+* (not good in xubuntu 64bit, not test in xubuntu 32bit, see xkanon-gtk2-080106.tar.gz)  
+(TO TEST, also need to test for rlvm) AIR_SE.zip     
 AIR.part1.rar  
 AIR最终汉化测试补丁.rar  
 AIR_全年齢対象版  
+* (can run but not good) xkanon-gtk2-080106.tar.gz in xubuntu 20.04 
+```
+tar xzf xkanon-gtk2-080106.tar.gz
+cd xkanon-gtk2/  
+sudo apt update  
+sudo apt install libgtk2.0-dev
+CFLAGS=-Wno-narrowing ./configure
+
+add two lines to image_di_impl.cc
+template char *Bpp16::CalcKido(char* data, int dbpl, int width, int height, int max);
+template char *Bpp32::CalcKido(char* data, int dbpl, int width, int height, int max);
+
+(AIR_SE not boot)
+cd /home/wmt/kanon_first
+(NEED --path param)  
+./xayusys_gtk2 --path .   
+```
 
 ## xclannad
 * (origin, dead) http://www.creator.club.ne.jp/~jagarl/xclannad.html  
