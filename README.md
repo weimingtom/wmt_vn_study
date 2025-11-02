@@ -1780,13 +1780,20 @@ Xkanon(または xayusys-gtk2)
 AIR.part1.rar  
 AIR最终汉化测试补丁.rar  
 AIR_全年齢対象版  
-* (can run but not good) xkanon-gtk2-080106.tar.gz in xubuntu 20.04 
+* xkanon-gtk2-080106.tar.gz can run in xubuntu 14.04 32bit   
+(xkanon-gtk2-080106.tar.gz in xubuntu 20.04 64bit can run but not good    
 ```
 tar xzf xkanon-gtk2-080106.tar.gz
 cd xkanon-gtk2/  
 sudo apt update  
 sudo apt install libgtk2.0-dev
+(32bit not need CFLAGS=-Wno-narrowing)  
 CFLAGS=-Wno-narrowing ./configure
+
+(just 32bit)  
+image_di_selimpl1.cc
+add line
+#include <string.h>
 
 add two lines to image_di_impl.cc
 template char *Bpp16::CalcKido(char* data, int dbpl, int width, int height, int max);
