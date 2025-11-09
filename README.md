@@ -4987,3 +4987,8 @@ http://hiyu.blog.shinobi.jp/Category/6/
 * http://senzogawa.s90.xrea.com/reference.html
 * http://nscripter.insani.org/reference/
 * http://gamediy.net/wiki/doc/manual
+
+## ios, need appleid self sign, and copy file to application's document folder through usb   
+* [iOS]ONSCripte.ipa, ONS iOS ver 2.0 beta launcher by tokTc  
+* ONScripter-Jh-sdl2.ipa
+* kirikiroid2_131_paopaoche.ipa
