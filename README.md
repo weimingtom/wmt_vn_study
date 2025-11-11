@@ -83,6 +83,12 @@ https://archive.org/details/doujin-game-tsumeawase
 * Linuxで動くオープンソースエロゲを作ろう！4  
 https://kako.5ch.net/test/read.cgi/linux/1246189118/  
 
+## Android galgame toolkit link collection   
+* https://github.com/weimingtom/wmt_android_galgame_test_suite  
+
+## Galgame making tools
+* https://github.com/weimingtom/wmt_make_vn_study  
+
 ## nscripter  
 * (origin) http://www.nscripter.com  
 * (origin ???) http://www2.osk.3web.ne.jp/~naokikun/  
