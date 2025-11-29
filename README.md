@@ -4998,6 +4998,6 @@ http://hiyu.blog.shinobi.jp/Category/6/
 ## ios, need appleid self sign, and copy file to application's document folder through usb   
 * [iOS]ONSCripte.ipa, ONS iOS ver 2.0 beta launcher by tokTc  
 云下载/ONS, [iOS]ONSCripte.ipa and [iOS]ios_ons模拟器下载地址及ONScripter使用教程.docx  
-Actually it doesn't need to use [iOS]ios_ons模拟器下载地址及ONScripter使用教程.docx's method (via itools and ifile.ipa), just copy files via 爱思助手i4tools to ONScripte.ipa application's doc path (not global doc path)    
+Actually it doesn't need to use [iOS]ios_ons模拟器下载地址及ONScripter使用教程.docx's method (via itools and ifile.ipa), just copy game files like 0.txt via 爱思助手i4tools to ONScripte.ipa application's doc path (not global doc path)    
 * ONScripter-Jh-sdl2.ipa
 * kirikiroid2_131_paopaoche.ipa
