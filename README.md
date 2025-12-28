@@ -2767,6 +2767,7 @@ cs2-open Ver 1.0, cs2.exe version 1, 0, 1, 10
 * 盛夏之梦（汉化版）, sxzm.iso
 * PSP《依赖依赖棒棒2：霞篇》汉化版.rar (依赖依赖棒棒2 ~霞篇~.iso)
 * 与小女仆同居中文版, lovemaid.zip (lovemaid.iso)  
+* 夜明前的琉璃色 for PSP -AMP版-.zip, (yoake.iso)  
 
 ## PGM, Pocket Game Maker (closed source, for Android ?), 白枫开发    
 * (origin) https://github.com/History-exe/Pocket-Game-Maker-v0.83  
