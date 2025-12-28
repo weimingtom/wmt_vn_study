@@ -2784,6 +2784,7 @@ PGM全名PocketGameMaker，而AMT是该引擎的文字冒险引擎部分的代�
 * Ha·RX·XX 汉化版.rar (XXX～Ha·XX·XX～.iso)
 * 115, 天使的工作, AngelWorks_by_kong.zip (no iso pack)  
 * 115, SanararaIOS.zip (not psp iso, for iOS, need copy EBOOT.PBP from other place, but display not good)   
+* 灯穗奇谭_for_psp_重制版（PGM）.rar (tousui_cn.iso)  
 
 ## RFZ引擎, ReinforceZwei引擎, for PSP, 白枫开发   
 * see AMP  
