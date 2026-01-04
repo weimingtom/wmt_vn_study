@@ -2788,6 +2788,7 @@ PGM全名PocketGameMaker，而AMT是该引擎的文字冒险引擎部分的代�
 * 灯穗奇谭_for_psp_重制版（PGM）.rar (tousui_cn.iso)
 * It's_so_flogging_molly_for_psp.rar (Its_so_flogging_molly.iso)
 * 终末之际_for_psp_v1.3.rar (shuumatu_ni_yosete_for_psp.iso)
+* 片羽_for_psp.rar (katahane_for_psp.iso)  
 
 ## RFZ引擎, ReinforceZwei引擎, for PSP, 白枫开发   
 * see AMP  
