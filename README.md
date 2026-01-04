@@ -2766,8 +2766,9 @@ cs2-open Ver 1.0, cs2.exe version 1, 0, 1, 10
 * [10年07月18日][AVG][刻痕 II][中文移植版][个人汉化].rar (kehenII.iso)
 * 盛夏之梦（汉化版）, sxzm.iso
 * PSP《依赖依赖棒棒2：霞篇》汉化版.rar (依赖依赖棒棒2 ~霞篇~.iso)
-* 与小女仆同居中文版, lovemaid.zip (lovemaid.iso)  
+* 与小女仆同居中文版, lovemaid.zip (lovemaid.iso), 《LoveMaid》与小女仆同居！PSP汉化移植.zip    
 * 夜明前的琉璃色 for PSP -AMP版-.zip, (yoake.iso)  
+* 银魂psp移植游戏 (yinghh.iso)
 
 ## PGM, Pocket Game Maker (closed source, for Android ?), 白枫开发    
 * (origin) https://github.com/History-exe/Pocket-Game-Maker-v0.83  
@@ -2784,7 +2785,9 @@ PGM全名PocketGameMaker，而AMT是该引擎的文字冒险引擎部分的代�
 * Ha·RX·XX 汉化版.rar (XXX～Ha·XX·XX～.iso)
 * 115, 天使的工作, AngelWorks_by_kong.zip (no iso pack)  
 * 115, SanararaIOS.zip (not psp iso, for iOS, need copy EBOOT.PBP from other place, but display not good)   
-* 灯穗奇谭_for_psp_重制版（PGM）.rar (tousui_cn.iso)  
+* 灯穗奇谭_for_psp_重制版（PGM）.rar (tousui_cn.iso)
+* It's_so_flogging_molly_for_psp.rar (Its_so_flogging_molly.iso)
+* 终末之际_for_psp_v1.3.rar (shuumatu_ni_yosete_for_psp.iso)
 
 ## RFZ引擎, ReinforceZwei引擎, for PSP, 白枫开发   
 * see AMP  
