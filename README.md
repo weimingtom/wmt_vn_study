@@ -878,6 +878,7 @@ search onscripter_20161102.orig.tar.gz
 * https://github.com/weimingtom/onscripter-plus_fork  
 
 ## Onscripter-Yuri, for pc, android, retroarch, web      
+* ??? android version former name ONScripter-GBK-ACGF.apk ???????  
 * https://github.com/YuriSizuku/OnscripterYuri
 * Not very upstream, also include jh and sjis code, using SDL2
 * cmake in xubuntu 20 64bit  
