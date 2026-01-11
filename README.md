@@ -2305,6 +2305,9 @@ western_platform_fonts和ja_platform_fonts
 * https://web.archive.org/web/20070707021854/http://kimatten.hp.infoseek.co.jp/cgi-bin/wiki/wiki.cgi?page=system3+for+SDL
 * https://web.archive.org/web/*/http://kimatten.hp.infoseek.co.jp/*
 * https://github.com/silas1037/AliceSoft
+* http://8ne.sakura.ne.jp:20008/chika/unitbase/xsys35/  
+http://8ne.sakura.ne.jp:20008/chika/unitbase/xsys35/download.html  
+http://fjts.org/~m/Install/PrivPorts/  
 
 ## System4 (closed source)    
 * (origin, dead) http://kei.stbbs.net/rubyeye/sys40/sdk_dl.html
@@ -2799,6 +2802,18 @@ PGM全名PocketGameMaker，而AMT是该引擎的文字冒险引擎部分的代�
 * It's_so_flogging_molly_for_psp.rar (Its_so_flogging_molly.iso)
 * 终末之际_for_psp_v1.3.rar (shuumatu_ni_yosete_for_psp.iso)
 * 片羽_for_psp.rar (katahane_for_psp.iso)  
+* (NOT PSP) 《第九日-the_9th_day-》PC版DEMOv1.0.rar
+```
+帖子标题：国产原创校园AVG【第九日-the 9th day-】（体验版）正式发布！
+游戏信息：第九日-the 9th day-
+英文名称：-the 9th day-
+游戏制作：第九日制作委员会
+游戏平台：PC/PSP
+游戏类型：纯爱向全年龄AVG
+游戏人群：全年齡
+游戏语言：中文
+游戏CV：日文
+```
 
 ## RFZ引擎, ReinforceZwei引擎, for PSP, 白枫开发   
 * see AMP  
