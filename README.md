@@ -2716,6 +2716,14 @@ cs2-open Ver 1.0, cs2.exe version 1, 0, 1, 10
 * search baidupan, Crass-source.7z  
 * crass-0.4.10.1.7z
 * https://code.google.com/archive/p/godxq1986/downloads    
+* Crass 0.4.13.14 release!  
+http://galcrass.blog124.fc2.com/blog-entry-11.html  
+http://www.damipan.com/file/2D0ht9l.html    
+http://www.acgeek.info/200909/crass-source/  
+2009-9-21 19:48:37  
+* M-AdmSRCYGUs[1].rar, RealLive.cui  
+* M-jRBWqL0Tyx[1].4.7.18.bin.rar, crass-0.4.7.18  
+* crass-0.4.10.1.rar, Crass-source.7z  
 
 ## (NOTE: don't study it) ExtractData, Version 1.20  
 * search baidupan, ExtractData120_src.7z
@@ -3300,6 +3308,13 @@ http://a448062416.home.imhb.cn/
 http://www.yyfc.com/2003819/
 ```
 * Cp2Tran.7z  
+* AGTH TUTORIAL.rar, agth.rar, Agth2.rar, agth11.20.rar, AGTHAlicesoftSystem4.rar, agthV02.28汉化版.rar, agthV5.4.rar
+* AGTH智能设置器（更新在线翻译）.rar, M-4pcwcAzcrT[1].rar, 通用日文游戏翻译器2.rar, 通用日文游戏翻译器V2.8.zip
+* 玩日文游戏用AGTH用法.doc  
+
+## Cp2Tran
+* Cp2Tran.exe
+* 一个AGTH辅助工具——Cp2Kt_让金山全文翻译自动翻译AGTH捕获的文本.rar  
 
 ## Translation Aggregator  
 * (origin) https://github.com/Translation-Aggregator/Translation-Aggregator  
