@@ -2368,6 +2368,7 @@ openrgss-0.1.5-x86-mingw32.gem
 ## RPGMaker XP demo     
 * search baidupan, AVG半精装版（修改版）.rar  
 * search baidupan, RPG制作大师XP V1.rar  
+* AVG半精装版.rar
 
 ## openrpgmaker  
 * https://sourceforge.net/projects/openrpgmaker/  
@@ -3388,6 +3389,8 @@ http://www2f.biglobe.ne.jp/kana/link.html下载解压后将扩展名为.spi的�
 * Used to see images  
 * RPGViewer2.8Build322.rar  
 * GV_50.rar  
+* RPGViewer.rar, RPGViewer2.8Build322修改器游戏工具游戏搜集站.rar, RPGViewer3.0betaBuild719.zip, RPGViewer28Build326游戏图片提取器.rar4s7bsl0e0eishs2bsm4btnmn0c0c0c5btl7b5btqn0cllhu14z97f14z.rar, RPGViewer30Build71796756040主程序.rar, VAN版RPGViewer图片资源提取导入工具.rar
+* GameViewer.rar, http://prefetchnta.blog.ccidnet.com/blog-htm-itemid-218668-type-blog-do-showone-uid-20555.html  
 
 ## UmierTools    
 * my windows homebrew tool  
