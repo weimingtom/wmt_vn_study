@@ -3162,6 +3162,7 @@ This is a FREEWARE, and a ROYALTIES FREE!!
 
 ## ISM  
 * http://hp.vector.co.jp/authors/VA000482/  
+* Susie.rar
 
 ## SYSTEM-NNN  
 * http://www2s.biglobe.ne.jp/~tinyan/nyanlib/index.htm  
@@ -3366,6 +3367,21 @@ https://github.com/uyjulian/iftlg
 * https://www.asahi-net.or.jp/~kh4s-smz/spi/note/minispi.html
 * (dead ?) http://db23c.dnsalias.com/MangaMeeya/  
 MangaMeeya
+* Susie.rar
+* 【渡辺 裕朗】ホームページ, http://www.asahi-net.or.jp/~DS8H-WTNB/
+* ChangTa Home Page, http://www.asahi-net.or.jp/~gv9k-setg/pcx.html
+* Production StarHole, http://hp.vector.co.jp/authors/VA000482/
+* Susie32, Susie32V0.47b汉化版.exe, 
+```
+软件介绍：实际上是一款专门针对HGame的解图工具，只要找到对应的插件就可以解出游戏中所有图片。
+需要解析某HGame时，可以去官方的插件页面查找对应的插件，或者以你自己特别的渠道获取解析插件：
+http://www2f.biglobe.ne.jp/kana/link.html下载解压后将扩展名为.spi的插件
+复制到安装目录即可。汉化版中已打包官方0.08版的基本图片格
+```
+* tatsuさんの作品,
+* Thrasher's Personal Laboratory Entrance, http://www3.airnet.ne.jp/~vzr04461/nf/download/isthisuseful.html
+* TRASYS, http://www.trasys.gr.jp/fsw/index.html
+* 物置部屋, http://www.alles.or.jp/~kaoru/susiepin.html
 
 ## RPGViewer and Extractor and GameViewer      
 * May be not good, only for fun (?)      
