@@ -3316,6 +3316,11 @@ http://www.yyfc.com/2003819/
 * Cp2Tran.exe
 * 一个AGTH辅助工具——Cp2Kt_让金山全文翻译自动翻译AGTH捕获的文本.rar  
 
+## gba tools 
+* tgb_blue_mountain_monster强大导文本工具蓝山魔导更新2007·9·14.rar, tgb_bm_tbl.rar
+* Chs.rar, Crystal.rar, CrystalScript.rar, CrystalTile.rar, CrystalTile2.zip  
+* tools.rar
+
 ## Translation Aggregator  
 * (origin) https://github.com/Translation-Aggregator/Translation-Aggregator  
 * (dead) http://www.hongfire.com/forum/showthread.php?t=94395  
