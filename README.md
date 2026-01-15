@@ -3353,6 +3353,7 @@ https://steamdb.info/tech/Engine/YU-RIS/
 https://steamdb.info/tech/Engine/RenPy/  
 https://steamdb.info/tech/Engine/CatSystem2/  
 https://steamdb.info/tech/Engine/RPGMaker/  
+https://steamdb.info/tech/Engine/WolfRPGEditor/  
 ```
 SteamDB有个没什么用的功能是可以根据游戏查游戏引擎，或者根据游戏引擎反查相关的galgame，
 例如我找到这些引擎：水仙1+2的NScripter，
@@ -5063,3 +5064,7 @@ http://hiyu.blog.shinobi.jp/Category/6/
 Actually it doesn't need to use [iOS]ios_ons模拟器下载地址及ONScripter使用教程.docx's method (via itools and ifile.ipa), just copy game files like 0.txt via 爱思助手i4tools to ONScripte.ipa application's doc path (not global doc path)    
 * ONScripter-Jh-sdl2.ipa
 * kirikiroid2_131_paopaoche.ipa
+
+## WOLF RPGエディター  
+* https://silversecond.com/WolfRPGEditor/Download.shtml  
+* https://silversecond.com/WolfRPGEditor/  
