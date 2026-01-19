@@ -159,6 +159,15 @@ Tsukihime_0.9.5.9.rar
 * CCScripter-0.8.24.tar.gz  
 * TYMainController.m：applicationDidFinishLaunching
 * TYScriptEngine.m：runScript
+* Qemu-3.0pre_Tiger.7z  
+```
+用qemu模拟powerpc版mac os x tiger运行ccscripter的效果。
+我不能编译，因为我没装xcode；也不是我编译的，是原作者编译
+打包到源代码压缩包里面；模拟器也不是我装的是，
+是来源于其他人提供的，我通过iso文件把文件传进去虚拟机运行。
+没有其他特别的功能，可以当作是类似onscripter的程序但
+实现方法不同，而且已经不维护了
+```
 
 ## 月猫 (tukineko), for Java PDA (SHARP ZAURUS E21, KYOCERA PocketCosmo), closed source      
 * (origin, dead) http://www.din.or.jp/~boya/tsukihime/tukineko/index.html  
