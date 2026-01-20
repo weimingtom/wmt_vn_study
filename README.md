@@ -5078,3 +5078,9 @@ Actually it doesn't need to use [iOS]ios_ons模拟器下载地址及ONScripter�
 ## WOLF RPGエディター  
 * https://silversecond.com/WolfRPGEditor/Download.shtml  
 * https://silversecond.com/WolfRPGEditor/  
+
+## Yomichan, with chrome-extension dev mode
+* https://github.com/FooSoft/yomichan/raw/dictionaries/jmdict_english.zip
+* https://github.com/FooSoft/yomichan/releases/download/22.10.23.0/yomichan-chrome.zip
+* https://www.bilibili.com/video/BV1Hh4y1N7h3/  
+【日语必备】玩游戏学日语！Galgame+Yomichan+Anki三大神器联动！亚托莉教你使用Yomichan【四】  
