@@ -2191,6 +2191,9 @@ http://blog.yam.com/kctsang/article/5507230
 * ScriptEngine.rar
 * ScriptEngine-0.0.1.rar
 * merge__.rar  
+* 澄空汉化补丁_ver103_v2.7z  
+th2x_chspatch_ver103.exe, ToHeart2 XRATED 简体中文汉化包, 2008/9/17    
+TH2脚本编辑器1.02final.exe, ToHeart2脚本编辑器, 2006/12/8  
 
 ## xlvns, Leaf Visual Novel System for X (XLVNS)    
 * (origin, ?) http://leafbsd.denpa.org  
