@@ -2631,6 +2631,13 @@ https://khmix.sakura.ne.jp
 https://github.com/weimingtom/MyChar  
 https://github.com/weimingtom/charj  
 * LUM立绘纸娃娃  
+人物立绘软件.7z  
+```
+《Lum：立绘纸娃娃》是一款角色扮演类游戏，这是Light社推出的免费工具，
+能自由组合出 2D美少女游戏中的各种角色。还可以通过导入自制的素材，
+创造出具有你个人特色的纸娃娃。制作出的角色能批量
+导出为退底的PNG图，方便用于自制游戏上。
+```
 
 ## lanovee, らのべえ  
 * (origin) http://lanovee.e-frontier.co.jp  
