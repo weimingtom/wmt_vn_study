@@ -5097,10 +5097,10 @@ Actually it doesn't need to use [iOS]ios_ons模拟器下载地址及ONScripter�
 * https://www.bilibili.com/video/BV1Hh4y1N7h3/  
 【日语必备】玩游戏学日语！Galgame+Yomichan+Anki三大神器联动！亚托莉教你使用Yomichan【四】  
 
-## (NOTE: don't waste time to study this, make yourself game) arc_unpacker (a.k.a. arc?)    
+## (NOTE: don't waste time to study this, make yourself game) arc_unpacker (a.k.a. Arc?)    
 * https://github.com/vn-tools/arc_unpacker  
 * (used for waffle ???) https://github.com/vn-tools/arc_unpacker/releases  
-* SystemC, 神明的尾巴?, 天气雨, https://tieba.baidu.com/p/6477349725  
+* SystemC, 神明的尾巴?, 天气雨（体验版）, https://tieba.baidu.com/p/6477349725  
 【摸鱼】新游戏神尾的引擎的一点解析
 * https://weimingtom.github.io/arc_unpacker
 * https://weimingtom.github.io/arc_unpacker/GAMELIST.htm
