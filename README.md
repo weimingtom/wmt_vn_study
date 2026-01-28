@@ -5100,7 +5100,7 @@ Actually it doesn't need to use [iOS]ios_ons模拟器下载地址及ONScripter�
 ## (NOTE: don't waste time to study this, make yourself game) arc_unpacker (a.k.a. arc?)    
 * https://github.com/vn-tools/arc_unpacker  
 * (used for waffle ???) https://github.com/vn-tools/arc_unpacker/releases  
-* SystemC, https://tieba.baidu.com/p/6477349725  
+* SystemC, 神明的尾巴?, 天气雨, https://tieba.baidu.com/p/6477349725  
 【摸鱼】新游戏神尾的引擎的一点解析
 * https://weimingtom.github.io/arc_unpacker
 * https://weimingtom.github.io/arc_unpacker/GAMELIST.htm
