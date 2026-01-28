@@ -2017,7 +2017,24 @@ https://archive.org/details/waffle-040116_psp
 https://nikuzaiku.web.fc2.com/pocket02.html  
 * ゲーム関連日記  
 http://savaiv.blog81.fc2.com/blog-entry-292.html
-
+* waffle???
+```
+https://github.com/vn-tools/arc_unpacker/releases
+https://forums.fuwanovel.moe/topic/7080-guide-avg32-for-ios-waffle-app/
+https://web.archive.org/web/20130811153135/http://www.iphooone.com/pukiwiki/index.php?AIR¾
+http://www.retropc.net/kenjo/zau/
+https://www7a.biglobe.ne.jp/~hajipda/pg3_waff.htm
+在PSP2000上运行waffle的效果（我这里用avgcnv07.zip和avc020803.zip的avgconv.exe转换kanon初回版，
+并且把WLK200.AVD改名为WLK2XX.AVD，并且复制onscripter psp的default.ttf。
+waffle psp版是waffle-040116_psp（霧雨の降る日に わっふる for PSP）。
+总体来说没语音，而且开头主菜单的鼠标移动很飘，很难移动到某个菜单
+waffle-040116_psp__20241018_v1_may_run_good.7z
+==
+我很怀疑所谓的waffle（わっふる）其实很可能并不是真的AVG32，只不过号称是AVG32罢了
+（它读取的WLK2星星.AVD数据文件的开头写着ZAVG32)，也许因为它似乎支持AVG32的PDT（图片格式？），
+所以它说它自己是类AVG32，我感觉是这样
+==
+```
 
 ## 霧雨の降る日に わっふる for PSP, waffle psp, closed source (?), only pbp file   
 * waffle-040116_psp.zip  
@@ -3802,7 +3819,6 @@ onsplayer
 http://onsplayer.cn
 https://github.com/CrazyPeter/PlayVisualNovelsOniOS
 
-https://github.com/vn-tools/arc_unpacker
 ```
 ```
 https://github.com/waybeforenow/toheart-tools
@@ -4088,23 +4104,6 @@ Metrowerks Playstation 2 Compiler
 https://github.com/matt-kempster/m2c
 https://github.com/Xeeynamo/sotn-decomp
 https://romspure.cc/roms/sony-playstation-2/to-heart-2/
-
-waffle???
-https://github.com/vn-tools/arc_unpacker/releases
-https://forums.fuwanovel.moe/topic/7080-guide-avg32-for-ios-waffle-app/
-https://web.archive.org/web/20130811153135/http://www.iphooone.com/pukiwiki/index.php?AIR¾
-http://www.retropc.net/kenjo/zau/
-https://www7a.biglobe.ne.jp/~hajipda/pg3_waff.htm
-在PSP2000上运行waffle的效果（我这里用avgcnv07.zip和avc020803.zip的avgconv.exe转换kanon初回版，
-并且把WLK200.AVD改名为WLK2XX.AVD，并且复制onscripter psp的default.ttf。
-waffle psp版是waffle-040116_psp（霧雨の降る日に わっふる for PSP）。
-总体来说没语音，而且开头主菜单的鼠标移动很飘，很难移动到某个菜单
-waffle-040116_psp__20241018_v1_may_run_good.7z
-==
-我很怀疑所谓的waffle（わっふる）其实很可能并不是真的AVG32，只不过号称是AVG32罢了
-（它读取的WLK2星星.AVD数据文件的开头写着ZAVG32)，也许因为它似乎支持AVG32的PDT（图片格式？），
-所以它说它自己是类AVG32，我感觉是这样
-==
 
 https://zhidao.baidu.com/question/1766065596450028100.html
 青空下的约定（18X）（NeXAS引擎，ONS引擎）
@@ -5097,3 +5096,9 @@ Actually it doesn't need to use [iOS]ios_ons模拟器下载地址及ONScripter�
 * https://github.com/FooSoft/yomichan/releases/download/22.10.23.0/yomichan-chrome.zip
 * https://www.bilibili.com/video/BV1Hh4y1N7h3/  
 【日语必备】玩游戏学日语！Galgame+Yomichan+Anki三大神器联动！亚托莉教你使用Yomichan【四】  
+
+## (NOTE: don't waste time to study this, make yourself game) arc_unpacker (a.k.a. arc?)    
+* https://github.com/vn-tools/arc_unpacker  
+* (used for waffle ???) https://github.com/vn-tools/arc_unpacker/releases  
+* SystemC, https://tieba.baidu.com/p/6477349725  
+【摸鱼】新游戏神尾的引擎的一点解析  
