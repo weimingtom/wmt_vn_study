@@ -93,3 +93,6 @@ Anime Style Girl Haruka [1.1].unitypackage, 1.1, need Unity 2019
 
 ## 悠久的钟声
 * IronPython in PythonAPI  
+
+## 恋爱绮谭 不存在的回忆 DEMO
+* class VersionUtil, Version = "3.11.7 MysteryLover2";  
