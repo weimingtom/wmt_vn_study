@@ -5108,3 +5108,16 @@ Actually it doesn't need to use [iOS]ios_ons模拟器下载地址及ONScripter�
 ## SexyAppFramework  
 * https://github.com/sureandrew/SexyAppFramework
 * https://github.com/LolHacksRule/popcap
+
+## 恋愛シミュレーションツクール  
+* 恋爱游戏制作大师（别名：恋爱模拟共和国）  
+* RENAI_SLG.iso  
+```
+我把咸鱼上的《恋爱模拟制作大师》1代买了，可以运行，效果如下。
+不过原版是win98的（应该也支持pc98），所以用xp跑会有问题，
+需要对工具的exe勾选兼容改成win98，并且修改系统的显示器为16色深，
+否则会跑不起来。其实封面是有点诓人的，
+它给的两个示例其实是很古老的画面风格（当然也可以自己画）。
+当然这个软件我是不会用的，就算用我觉得还是用2代会好一些，
+虽然用法可能差不多。我估计可能很少人用过这个软件
+```
