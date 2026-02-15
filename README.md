@@ -801,8 +801,8 @@ https://github.com/YuriSizuku/Kirikiroid2Yuri/releases/tag/1.3.9_yuri
 * https://codesite-archive.appspot.com/archive/p/onscripter/  
 https://github.com/d3xt3-bitstechlab/onscripter  
 https://codesite-archive.appspot.com/archive/p/onscripter/downloads  
-https://codesite-archive.appspot.com/archive/p/onscripter/wikis/Portable_game_list.wiki
-https://codesite-archive.appspot.com/archive/p/onscripter/wikis/Android_Galgame.wiki
+https://codesite-archive.appspot.com/archive/p/onscripter/wikis/Portable_game_list.wiki  
+https://codesite-archive.appspot.com/archive/p/onscripter/wikis/Android_Galgame.wiki  
 https://codesite-archive.appspot.com/archive/p/onscripter/wikis/Game_ported.wiki  
 ```
 ONS是构建移动ACGF的基础， 没有ONS自然没有眼前的一切。
