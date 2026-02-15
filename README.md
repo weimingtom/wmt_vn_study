@@ -798,6 +798,31 @@ MiNEv3.0.2.apk, MiNEv3.0.3 final.apk
 * [ons]MiNE最终版, MiNE-v3.1.6.apk  
 * MiNE3.v1.5_yuri.apk  
 https://github.com/YuriSizuku/Kirikiroid2Yuri/releases/tag/1.3.9_yuri  
+* https://codesite-archive.appspot.com/archive/p/onscripter/  
+https://github.com/d3xt3-bitstechlab/onscripter  
+https://codesite-archive.appspot.com/archive/p/onscripter/downloads  
+https://codesite-archive.appspot.com/archive/p/onscripter/wikis/Portable_game_list.wiki
+https://codesite-archive.appspot.com/archive/p/onscripter/wikis/Android_Galgame.wiki
+https://codesite-archive.appspot.com/archive/p/onscripter/wikis/Game_ported.wiki  
+```
+ONS是构建移动ACGF的基础， 没有ONS自然没有眼前的一切。
+之前，ONS一直由娜娜一人维护，如今娜娜表示遇到了瓶颈； 要想ONS更好的发展，就需要大家一起来努力了！
+
+onscripter 20111111版本以后统一中文名为：ONS通用游戏引擎
+
+onscripter_android_src-20120101.7z  
+ONS通用游戏引擎(32位色高清版)_v20120101.apk
+ONS通用游戏引擎(16位色普通版)_v20120101.apk
+ONS通用游戏引擎(32位色高清版)_v20111124.apk
+ONS通用游戏引擎(16位色普通版)_v20111124.apk
+ONScripter-20111111-32位色.apk
+ONScripter-20111111-16位色.apk
+ONScripter-0810.apk
+ONScripter-0619.apk
+ONScripter-0607.apk
+ONScripter-0525.apk
+onscripter_android_src-20111129.7z  
+```
 
 ## mscripter, for Java midlet (closed source, like nscripter)   
 * (origin) http://www.epii.jp/articles/product/mscripter/mscripter  
