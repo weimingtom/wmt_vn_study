@@ -4435,6 +4435,9 @@ https://github.com/xupefei/Locale-Emulator
 * LocaleSwitch-v1.0.zip
 
 ## AppLocale
+* APP_command.7z
+* apploc.7z
+* weimingtom_script
 
 ## dtlite  
 
