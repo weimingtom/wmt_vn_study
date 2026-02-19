@@ -5154,7 +5154,7 @@ Actually it doesn't need to use [iOS]ios_ons模拟器下载地址及ONScripter�
 * https://github.com/LolHacksRule/popcap
 
 ## 恋愛シミュレーションツクール  
-* 恋爱游戏制作大师（别名：恋爱模拟共和国）  
+* 恋爱游戏制作大师（别名：恋爱模拟共和国（注：恋爱模拟共和国，这其实是官方台版的软件名字））  
 * RENAI_SLG.iso  
 ```
 我把咸鱼上的《恋爱模拟制作大师》1代买了，可以运行，效果如下。
