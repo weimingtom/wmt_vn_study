@@ -4435,9 +4435,16 @@ https://github.com/xupefei/Locale-Emulator
 * LocaleSwitch-v1.0.zip
 
 ## AppLocale
-* APP_command.7z
+* APP_command.7z, APP命令行.bat  
+```
+SET __COMPAT_LAYER=#ApplicationLocale
+SET AppLocaleID=0411
+start notepad.exe
+```
 * apploc.7z
-* weimingtom_script
+* translate.7z, from weimingtom_script  
+
+## chcp, dos代码页转换  
 
 ## dtlite  
 
