@@ -5165,3 +5165,9 @@ Actually it doesn't need to use [iOS]ios_ons模拟器下载地址及ONScripter�
 当然这个软件我是不会用的，就算用我觉得还是用2代会好一些，
 虽然用法可能差不多。我估计可能很少人用过这个软件
 ```
+
+## YUKI Galgame 翻译器  
+* https://github.com/project-yuki/YUKI   
+
+## 团子翻译器  
+* https://zhuanlan.zhihu.com/p/143513449  
