@@ -82,6 +82,8 @@ https://moonphase.hatenablog.com/entry/20040104
 https://archive.org/details/doujin-game-tsumeawase  
 * Linuxで動くオープンソースエロゲを作ろう！4  
 https://kako.5ch.net/test/read.cgi/linux/1246189118/  
+* 一些可能有用的工具  
+https://gh.aoikaze.org/announcements/tools  
 
 ## Android galgame toolkit link collection   
 * https://github.com/weimingtom/wmt_android_galgame_test_suite  
@@ -4428,6 +4430,11 @@ https://github.com/IshYume/ntlea-archive
 * https://xupefei.github.io/Locale-Emulator/  
 https://github.com/xupefei/Locale-Emulator/releases  
 https://github.com/xupefei/Locale-Emulator  
+
+## LocaleSwitch, LocaleSwitch.exe
+* LocaleSwitch-v1.0.zip
+
+## AppLocale
 
 ## dtlite  
 
