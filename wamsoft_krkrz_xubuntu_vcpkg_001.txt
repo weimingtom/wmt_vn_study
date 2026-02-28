@@ -1,0 +1,297 @@
+xubuntu 20.04, 64bit
+20260227
+
+git clone https://github.com/wamsoft/krkrz
+cd krkrz/
+git submodule update --init
+
+make
+Makefile:4: *** Variables VCPKG_ROOT not set correctly..  Stop.
+
+cd
+git clone https://github.com/microsoft/vcpkg
+cd vcpkg/
+./bootstrap-vcpkg.sh -disableMetrics
+sudo apt update
+sudo apt-get install curl zip unzip tar
+
+export VCPKG_ROOT=/home/wmt/vcpkg
+make
+
+install cmake >= 3.20
+
+cd
+tar xzf cmake-4.3.0-rc1-linux-x86_64.tar.gz 
+
+gedit ~/.profile
+```
+PATH="/home/wmt/cmake-4.3.0-rc1-linux-x86_64/bin:$PATH"
+```
+(restart xubuntu)
+
+$ cmake --version
+cmake version 4.3.0-rc1
+
+
+cmake --preset x64-linux
+
+(x) sudo apt install ninja-build
+
+sudo gedit /etc/hosts
+20.205.243.166	github.com
+
+sudo apt-get install nasm
+cmake --preset x64-linux
+
+
+sudo apt install libxcb-xtest0
+sudo apt install libxcb-xtest0-dev
+sudo apt install libxtst-dev
+
+modify CMakeLists.txt
+target_link_libraries( ${EXENAME} PRIVATE
+	freetype
+	${JPEG_LIBRARIES}
+	Ogg::ogg
+	Vorbis::vorbis
+	Vorbis::vorbisenc 
+	Vorbis::vorbisfile
+	ZLIB::ZLIB
+	oniguruma::onig
+	fmt::fmt
+	PNG::PNG
+	glm::glm
+	$<IF:$<TARGET_EXISTS:Opus::opus>,Opus::opus,>
+	$<IF:$<TARGET_EXISTS:OpusFile::opusfile>,OpusFile::opusfile,>
+	$<IF:$<TARGET_EXISTS:opusfile>,opusfile,>
+	$<IF:$<TARGET_EXISTS:movieplayer>,movieplayer,>
+	${KRKRZ_LIB_SDL3}
+	${KRKRZ_LIB_ADD}
+	${KRKRZ_LIB_PLATFORM}
+	${RESOURCE_LIB}
+	dl
+)
+add dl here
+
+************************
+(only once) export VCPKG_ROOT=/home/wmt/vcpkg
+(only once) cmake --preset x64-linux
+cmake --build build/x64-linux
+./build/x64-linux/Debug/krkrz 
+************************
+
+(only once) export VCPKG_ROOT=/home/wmt/vcpkg
+(only once) cmake --preset x64-linux
+cmake --build build/x64-linux
+./build/x64-linux/Debug/krkrz 
+(NOTE, default run ./data/startup.tjs not ./startup.tjs, param is .)
+(https://github.com/krkrz/kag3 not good
+#(10) Plugins.link("menu.dll");
+スクリプトで例外が発生しました
+プラグイン menu.dll を読み込めません
+)
+
+[FileImpl.cpp:ExistentFile:126] Checking if file exists: data/system/initialize.tjs
+
+gedit ./sdl3/base/FileImpl.cpp
+gdb ./build/x64-linux/Debug/krkrz
+b SDL3FileSystem::ExistentFile
+(gdb) bt
+#0  SDL3FileSystem::ExistentFile (this=0x7fffffffcfe0, 
+    path=0x555556778360 u"預噹啕")
+    at /home/wmt/krkrz/sdl3/base/FileImpl.cpp:122
+#1  0x000055555582da0b in TVPCheckExistentLocalFile (name=...)
+    at /home/wmt/krkrz/generic/base/StorageImpl.cpp:323
+#2  0x000055555582cbad in tTVPFileMedia::CheckExistentStorage (
+    this=0x555556674b00, name=...)
+    at /home/wmt/krkrz/generic/base/StorageImpl.cpp:118
+#3  0x000055555567d836 in tTVPStorageMediaManager::CheckExistentStorage (
+    this=0x5555565a2c20 <TVPStorageMediaManager>, name=...)
+    at /home/wmt/krkrz/common/base/StorageIntf.cpp:601
+#4  0x000055555567e434 in TVPIsExistentStorageNoSearchNoNormalize (name=...)
+    at /home/wmt/krkrz/common/base/StorageIntf.cpp:934
+#5  0x000055555567fc98 in TVPGetPlacedPath (name=...)
+    at /home/wmt/krkrz/common/base/StorageIntf.cpp:1386
+#6  0x00005555556801ba in TVPSearchPlacedPath (name=...)
+    at /home/wmt/krkrz/common/base/StorageIntf.cpp:1451
+#7  0x0000555555678a0e in TVPExecuteStorage (name=..., context=0x0, 
+    result=0x0, isexpression=false, modestr=0x555555e08ab8 u"")
+    at /home/wmt/krkrz/common/base/ScriptMgnIntf.cpp:479
+#8  0x000055555567ad2f in tTJSNC_Scripts::NCM_execStorage::Process (
+    result=0x0, numparams=1, param=0x7fffffffd670, objthis=0x55555673ba20)
+    at /home/wmt/krkrz/common/base/ScriptMgnIntf.cpp:993
+--Type <RET> for more, q to quit, c to continue without paging--
+#9  0x0000555555636f77 in TJS::tTJSNativeClassMethod::FuncCall (
+    this=0x555556725450, flag=0, membername=0x0, hint=0x0, result=0x0, 
+    numparams=1, param=0x7fffffffd670, objthis=0x55555673ba20)
+    at /home/wmt/krkrz/common/tjs2/tjsNative.cpp:134
+#10 0x000055555563bffa in TJS::TJSDefaultFuncCall (flag=0, targ=..., 
+    result=0x0, numparams=1, param=0x7fffffffd670, objthis=0x55555673ba20)
+    at /home/wmt/krkrz/common/tjs2/tjsObject.cpp:1288
+#11 0x000055555563c1e1 in TJS::tTJSCustomObject::FuncCall (
+    this=0x555556755e00, flag=0, membername=0x7ffff75dd184 u"execStorage", 
+    hint=0x7ffff75dd1b8, result=0x0, numparams=1, param=0x7fffffffd670, 
+    objthis=0x55555673ba20) at /home/wmt/krkrz/common/tjs2/tjsObject.cpp:1339
+#12 0x0000555555637df4 in TJS::tTJSNativeClass::FuncCall (this=0x555556755e00, 
+    flag=0, membername=0x7ffff75dd184 u"execStorage", hint=0x7ffff75dd1b8, 
+    result=0x0, numparams=1, param=0x7fffffffd670, objthis=0x55555673ba20)
+    at /home/wmt/krkrz/common/tjs2/tjsNative.cpp:352
+#13 0x00005555555a718d in TJS::tTJSVariantClosure::FuncCall (
+    this=0x7fffffffd660, flag=0, membername=0x7ffff75dd184 u"execStorage", 
+    hint=0x7ffff75dd1b8, result=0x0, numparams=1, param=0x7fffffffd670, 
+    objthis=0x55555673ba20) at /home/wmt/krkrz/common/tjs2/tjsVariant.h:229
+#14 0x000055555560846e in TJS::tTJSInterCodeContext::CallFunctionDirect (this=
+    0x555556734090, ra=0x55555674f8f0, code=0x5555566ade3c, args=0x0, 
+    numargs=0) at /home/wmt/krkrz/common/tjs2/tjsInterCodeExec.cpp:2441
+#15 0x0000555555603dab in TJS::tTJSInterCodeContext::ExecuteCode (
+--Type <RET> for more, q to quit, c to continue without paging--
+    this=0x555556734090, ra_org=0x55555674f8f0, startip=0, args=0x0, 
+    numargs=0, result=0x0)
+    at /home/wmt/krkrz/common/tjs2/tjsInterCodeExec.cpp:1338
+#16 0x0000555555601ed1 in TJS::tTJSInterCodeContext::ExecuteAsFunction (
+    this=0x555556734090, objthis=0x55555673ba20, args=0x0, numargs=0, 
+    result=0x0, start_ip=0)
+    at /home/wmt/krkrz/common/tjs2/tjsInterCodeExec.cpp:899
+#17 0x000055555560b667 in TJS::tTJSInterCodeContext::FuncCall (
+    this=0x555556734090, flag=0, membername=0x0, hint=0x0, result=0x0, 
+    numparams=0, param=0x0, objthis=0x0)
+    at /home/wmt/krkrz/common/tjs2/tjsInterCodeExec.cpp:3173
+#18 0x0000555555651d93 in TJS::tTJSScriptBlock::ExecuteTopLevelScript (
+    this=0x55555672e4d0, result=0x0, context=0x0)
+    at /home/wmt/krkrz/common/tjs2/tjsScriptBlock.cpp:422
+#19 0x000055555565197a in TJS::tTJSScriptBlock::SetText (this=0x55555672e4d0, 
+    result=0x0, 
+    text=0x555556797a68 u"// startup.tjs - スタートアップスクリプト\n// Copyright (C) 2001, W.Dee  改変・配布は自由です\n\n@if (kirikiriz)\nproperty _dummyProp { getter {} setter (v) {} }\nwith(Window) {\n    &.innerSunken    = &_dummyProp;\n    &.showScr"..., context=0x0, isexpression=false)
+    at /home/wmt/krkrz/common/tjs2/tjsScriptBlock.cpp:336
+#20 0x000055555565b7b4 in TJS::tTJSScriptCache::ExecScript (
+    this=0x555556740de0, script=..., result=0x0, context=0x0, 
+--Type <RET> for more, q to quit, c to continue without paging--
+    name=0x7fffffffdb58, lineofs=0)
+    at /home/wmt/krkrz/common/tjs2/tjsScriptCache.cpp:70
+#21 0x00005555555982d2 in TJS::tTJS::ExecScript (this=0x555556733ce0, 
+    script=..., result=0x0, context=0x0, name=0x7fffffffdb58, lineofs=0)
+    at /home/wmt/krkrz/common/tjs2/tjs.cpp:484
+#22 0x0000555555678bdf in TVPExecuteStorage (name=..., context=0x0, 
+    result=0x0, isexpression=false, modestr=0x0)
+    at /home/wmt/krkrz/common/base/ScriptMgnIntf.cpp:514
+#23 0x0000555555678973 in TVPExecuteStorage (name=..., result=0x0, 
+    isexpression=false, modestr=0x0)
+    at /home/wmt/krkrz/common/base/ScriptMgnIntf.cpp:469
+#24 0x0000555555679336 in TVPExecuteStartupScript ()
+    at /home/wmt/krkrz/common/base/ScriptMgnIntf.cpp:624
+#25 0x000055555567ab76 in TVPInitializeStartupScript ()
+    at /home/wmt/krkrz/common/base/ScriptMgnIntf.cpp:947
+#26 0x0000555555834d7a in tTVPApplication::appDispatch (this=0x5555567358c0, 
+    ev=...) at /home/wmt/krkrz/generic/environ/Application.cpp:99
+#27 0x0000555555836066 in tTVPApplication::Dispatch (this=0x5555567358c0)
+    at /home/wmt/krkrz/generic/environ/Application.cpp:309
+#28 0x0000555555869177 in SDL_AppIterate (appstate=0x5555567358c0)
+    at /home/wmt/krkrz/sdl3/environ/main.cpp:280
+#29 0x00007ffff7c32d15 in SDL_IterateMainCallbacks (pump_events=true)
+    at /home/wmt/krkrz/build/x64-linux/_deps/sdl3-src/src/main/SDL_main_callback--Type <RET> for more, q to quit, c to continue without paging--
+s.c:130
+#30 0x00007ffff7ee2854 in GenericIterateMainCallbacks ()
+    at /home/wmt/krkrz/build/x64-linux/_deps/sdl3-src/src/main/generic/SDL_sysmain_callbacks.c:51
+#31 0x00007ffff7ee293d in SDL_EnterAppMainCallbacks_REAL (argc=1, 
+    argv=0x7fffffffe028, 
+    appinit=0x555555868c8a <SDL_AppInit(void**, int, char**)>, 
+    appiter=0x55555586911b <SDL_AppIterate(void*)>, 
+    appevent=0x5555558688a3 <SDL_AppEvent(void*, SDL_Event*)>, 
+    appquit=0x555555869095 <SDL_AppQuit(void*, SDL_AppResult)>)
+    at /home/wmt/krkrz/build/x64-linux/_deps/sdl3-src/src/main/generic/SDL_sysmain_callbacks.c:62
+#32 0x00007ffff7be59f2 in SDL_EnterAppMainCallbacks (a=1, b=0x7fffffffe028, 
+    c=0x555555868c8a <SDL_AppInit(void**, int, char**)>, 
+    d=0x55555586911b <SDL_AppIterate(void*)>, 
+    e=0x5555558688a3 <SDL_AppEvent(void*, SDL_Event*)>, 
+    f=0x555555869095 <SDL_AppQuit(void*, SDL_AppResult)>)
+    at /home/wmt/krkrz/build/x64-linux/_deps/sdl3-src/src/dynapi/SDL_dynapi_procs.h:207
+#33 0x0000555555868626 in SDL_main (argc=1, argv=0x7fffffffe028)
+    at /home/wmt/krkrz/build/x64-linux/_deps/sdl3-src/include/SDL3/SDL_main_impl.h:59
+#34 0x00007ffff7c32e0c in SDL_CallMainFunction (argc=1, argv=0x7fffffffe028, 
+--Type <RET> for more, q to quit, c to continue without paging--
+    mainFunction=0x5555558685e0 <SDL_main(int, char**)>)
+    at /home/wmt/krkrz/build/x64-linux/_deps/sdl3-src/src/main/SDL_main_callbacks.c:164
+#35 0x00007ffff7c32e3e in SDL_RunApp_REAL (argc=1, argv=0x7fffffffe028, 
+    mainFunction=0x5555558685e0 <SDL_main(int, char**)>, reserved=0x0)
+    at /home/wmt/krkrz/build/x64-linux/_deps/sdl3-src/src/main/SDL_runapp.c:37
+#36 0x00007ffff7bdcb4c in SDL_RunApp_DEFAULT (a=1, b=0x7fffffffe028, 
+    c=0x5555558685e0 <SDL_main(int, char**)>, d=0x0)
+    at /home/wmt/krkrz/build/x64-linux/_deps/sdl3-src/src/dynapi/SDL_dynapi_procs.h:804
+#37 0x00007ffff7beb450 in SDL_RunApp (a=1, b=0x7fffffffe028, 
+    c=0x5555558685e0 <SDL_main(int, char**)>, d=0x0)
+    at /home/wmt/krkrz/build/x64-linux/_deps/sdl3-src/src/dynapi/SDL_dynapi_procs.h:804
+#38 0x0000555555868655 in main (argc=1, argv=0x7fffffffe028)
+    at /home/wmt/krkrz/build/x64-linux/_deps/sdl3-src/include/SDL3/SDL_main_impl.h:137
+
+
+solve:
+modify CMakeLists.txt:
+
+# ファイル名をノーマライズしない
+TVP_NO_NORMALIZE_PATH
+# ファイル検索時はケース無視
+#TVP_AUTOPATH_IGNORECASE
+# ローカルパス参照のcaseを強制参照
+TVP_LOCALFILE_FORCE_CASESENSITIVE
+
+
+=====
+
+
+
+---------------------
+
+
+cd /build/x64-linux
+
+/usr/bin/c++ -fPIC -g  CMakeFiles/krkrz.dir/Debug/common/tjs2/tjs.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjs.tab.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsArray.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsBinarySerializer.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsByteCodeLoader.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsCompileControl.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsConfig.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsConstArrayData.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsDate.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsdate.tab.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsDateParser.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsDebug.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsDictionary.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsDisassemble.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsError.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsException.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsGlobalStringMap.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsInterCodeExec.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsInterCodeGen.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsInterface.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsLex.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsMath.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsMessage.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsMT19937ar-cok.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsNamespace.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsNative.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsObject.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsObjectExtendable.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsOctPack.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjspp.tab.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsRandomGenerator.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsRegExp.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsScriptBlock.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsScriptCache.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsSnprintf.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsString.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsUtils.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsVariant.cpp.o CMakeFiles/krkrz.dir/Debug/common/tjs2/tjsVariantString.cpp.o CMakeFiles/krkrz.dir/Debug/common/base/BinaryStream.cpp.o CMakeFiles/krkrz.dir/Debug/common/base/CharacterSet.cpp.o CMakeFiles/krkrz.dir/Debug/common/base/EventIntf.cpp.o CMakeFiles/krkrz.dir/Debug/common/base/PluginIntf.cpp.o CMakeFiles/krkrz.dir/Debug/common/base/ScriptMgnIntf.cpp.o CMakeFiles/krkrz.dir/Debug/common/base/StorageIntf.cpp.o CMakeFiles/krkrz.dir/Debug/common/base/SysInitIntf.cpp.o CMakeFiles/krkrz.dir/Debug/common/base/SystemIntf.cpp.o CMakeFiles/krkrz.dir/Debug/common/base/TextStream.cpp.o CMakeFiles/krkrz.dir/Debug/common/base/UtilStreams.cpp.o CMakeFiles/krkrz.dir/Debug/common/base/XP3Archive.cpp.o CMakeFiles/krkrz.dir/Debug/common/base/StorageCache.cpp.o CMakeFiles/krkrz.dir/Debug/common/environ/TouchPoint.cpp.o CMakeFiles/krkrz.dir/Debug/common/extension/Extension.cpp.o CMakeFiles/krkrz.dir/Debug/common/msg/MsgIntf.cpp.o CMakeFiles/krkrz.dir/Debug/common/sound/MathAlgorithms.cpp.o CMakeFiles/krkrz.dir/Debug/common/sound/PhaseVocoderDSP.cpp.o CMakeFiles/krkrz.dir/Debug/common/sound/PhaseVocoderFilter.cpp.o CMakeFiles/krkrz.dir/Debug/common/sound/RealFFT.cpp.o CMakeFiles/krkrz.dir/Debug/common/sound/SoundBufferBaseIntf.cpp.o CMakeFiles/krkrz.dir/Debug/common/sound/SoundBufferBaseImpl.cpp.o CMakeFiles/krkrz.dir/Debug/common/sound/WaveFormatConverter.cpp.o CMakeFiles/krkrz.dir/Debug/common/sound/WaveIntf.cpp.o CMakeFiles/krkrz.dir/Debug/common/sound/WaveLoopManager.cpp.o CMakeFiles/krkrz.dir/Debug/common/sound/WaveSegmentQueue.cpp.o CMakeFiles/krkrz.dir/Debug/common/sound/OpusCodecDecoder.cpp.o CMakeFiles/krkrz.dir/Debug/common/sound/VorbisCodecDecoder.cpp.o CMakeFiles/krkrz.dir/Debug/common/utils/ClipboardIntf.cpp.o CMakeFiles/krkrz.dir/Debug/common/utils/cp932_uni.cpp.o CMakeFiles/krkrz.dir/Debug/common/utils/DebugIntf.cpp.o CMakeFiles/krkrz.dir/Debug/common/utils/md5.c.o CMakeFiles/krkrz.dir/Debug/common/utils/MiscUtility.cpp.o CMakeFiles/krkrz.dir/Debug/common/utils/Random.cpp.o CMakeFiles/krkrz.dir/Debug/common/utils/ThreadIntf.cpp.o CMakeFiles/krkrz.dir/Debug/common/utils/TimerThread.cpp.o CMakeFiles/krkrz.dir/Debug/common/utils/TimerIntf.cpp.o CMakeFiles/krkrz.dir/Debug/common/utils/TVPTimer.cpp.o CMakeFiles/krkrz.dir/Debug/common/utils/uni_cp932.cpp.o CMakeFiles/krkrz.dir/Debug/common/utils/VelocityTracker.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/BitmapIntf.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/BitmapLayerTreeOwner.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/BitmapInfomation.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/CharacterData.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/ComplexRect.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/DrawDevice.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/FontSystem.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/FreeType.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/FreeTypeFontRasterizer.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/GraphicsLoaderIntf.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/GraphicsLoadThread.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/ImageFunction.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/LayerBitmapImpl.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/LayerBitmapIntf.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/LayerIntf.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/LayerManager.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/LayerTreeOwnerImpl.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/LoadJPEG.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/LoadPNG.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/LoadTLG.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/NullDrawDevice.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/BitmapDrawDevice.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/PrerenderedFont.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/RectItf.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/SaveTLG5.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/SaveTLG6.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/TransIntf.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/tvpgl.c.o CMakeFiles/krkrz.dir/Debug/common/visual/VideoOvlIntf.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/WindowIntf.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/KeyRepeat.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/gl/blend_function.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/gl/ResampleImage.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/gl/WeightFunctor.cpp.o CMakeFiles/krkrz.dir/Debug/common/base/FuncStubs.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/opengl/OGLDrawDevice.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/opengl/CanvasIntf.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/opengl/GLTexture.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/opengl/GLFrameBufferObject.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/opengl/GLShaderUtil.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/opengl/Matrix32Intf.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/opengl/Matrix44Intf.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/opengl/OffscreenIntf.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/opengl/OpenGLError.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/opengl/ShaderProgramIntf.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/opengl/TextureIntf.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/opengl/TextureLayerTreeOwner.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/opengl/VertexBinderIntf.cpp.o CMakeFiles/krkrz.dir/Debug/common/visual/opengl/VertexBufferIntf.cpp.o CMakeFiles/krkrz.dir/Debug/common/glad/src/gles2.c.o CMakeFiles/krkrz.dir/Debug/common/glad/src/egl.c.o CMakeFiles/krkrz.dir/Debug/common/sound/SoundDecodeThread.cpp.o CMakeFiles/krkrz.dir/Debug/common/sound/SoundEventThread.cpp.o CMakeFiles/krkrz.dir/Debug/common/sound/QueueSoundBufferImpl.cpp.o CMakeFiles/krkrz.dir/Debug/generic/base/DrawDeviceImpl.cpp.o CMakeFiles/krkrz.dir/Debug/generic/base/EventImpl.cpp.o CMakeFiles/krkrz.dir/Debug/generic/base/NativeEventQueue.cpp.o CMakeFiles/krkrz.dir/Debug/generic/base/PluginImpl.cpp.o CMakeFiles/krkrz.dir/Debug/generic/base/ScriptMgnImpl.cpp.o CMakeFiles/krkrz.dir/Debug/generic/base/StorageImpl.cpp.o CMakeFiles/krkrz.dir/Debug/generic/base/SysInitImpl.cpp.o CMakeFiles/krkrz.dir/Debug/generic/base/SystemImpl.cpp.o CMakeFiles/krkrz.dir/Debug/generic/environ/Application.cpp.o CMakeFiles/krkrz.dir/Debug/generic/environ/FontSystemBase.cpp.o CMakeFiles/krkrz.dir/Debug/generic/environ/WindowForm.cpp.o CMakeFiles/krkrz.dir/Debug/generic/environ/JoyPad.cpp.o CMakeFiles/krkrz.dir/Debug/generic/msg/MsgImpl.cpp.o CMakeFiles/krkrz.dir/Debug/generic/msg/MsgLoad.cpp.o CMakeFiles/krkrz.dir/Debug/generic/utils/ClipboardImpl.cpp.o CMakeFiles/krkrz.dir/Debug/generic/visual/BitmapBitsAlloc.cpp.o CMakeFiles/krkrz.dir/Debug/generic/visual/LayerImpl.cpp.o CMakeFiles/krkrz.dir/Debug/generic/visual/VideoOvlImpl.cpp.o CMakeFiles/krkrz.dir/Debug/generic/visual/WindowImpl.cpp.o CMakeFiles/krkrz.dir/Debug/sdl3/base/FileImpl.cpp.o CMakeFiles/krkrz.dir/Debug/sdl3/base/SDL3KirikiriIOStream.cpp.o CMakeFiles/krkrz.dir/Debug/sdl3/base/SDL3KirikiriStorage.cpp.o CMakeFiles/krkrz.dir/Debug/sdl3/base/storage.cpp.o CMakeFiles/krkrz.dir/Debug/sdl3/environ/app.cpp.o CMakeFiles/krkrz.dir/Debug/sdl3/environ/form.cpp.o CMakeFiles/krkrz.dir/Debug/sdl3/environ/key.cpp.o CMakeFiles/krkrz.dir/Debug/sdl3/environ/main.cpp.o CMakeFiles/krkrz.dir/Debug/sdl3/environ/pad.cpp.o CMakeFiles/krkrz.dir/Debug/sdl3/utils/LogImpl.cpp.o CMakeFiles/krkrz.dir/Debug/sdl3/utils/TickCount.cpp.o CMakeFiles/krkrz.dir/Debug/sdl3/visual/SDLDrawDevice.cpp.o CMakeFiles/krkrz.dir/Debug/common/sound/MiniAudioEngine.cpp.o CMakeFiles/krkrz.dir/Debug/sdl3/sound/audio.cpp.o CMakeFiles/krkrz.dir/Debug/sdl3/environ/stdapp.cpp.o CMakeFiles/krkrz.dir/Debug/common/base/FileAllocator.cpp.o CMakeFiles/krkrz.dir/Debug/generic/app/movie.cpp.o CMakeFiles/krkrz.dir/Debug/generic/app/objres.cpp.o CMakeFiles/krkrz.dir/Debug/sdl3/utils/ThreadImpl.cpp.o -o Debug/krkrz  -Wl,-rpath,/home/wmt/krkrz/build/x64-linux/_deps/sdl3-build/Debug:  vcpkg_installed/x64-linux/debug/lib/libfreetyped.a  vcpkg_installed/x64-linux/debug/lib/libturbojpeg.a  vcpkg_installed/x64-linux/debug/lib/libogg.a  vcpkg_installed/x64-linux/debug/lib/libvorbis.a  vcpkg_installed/x64-linux/debug/lib/libvorbisenc.a  vcpkg_installed/x64-linux/debug/lib/libvorbisfile.a  vcpkg_installed/x64-linux/debug/lib/libz.a  vcpkg_installed/x64-linux/debug/lib/libonig.a  vcpkg_installed/x64-linux/debug/lib/libfmtd.a  vcpkg_installed/x64-linux/debug/lib/libpng16d.a  vcpkg_installed/x64-linux/debug/lib/libglm.a  vcpkg_installed/x64-linux/debug/lib/libopus.a  vcpkg_installed/x64-linux/debug/lib/libopusfile.a  external/movie-player/Debug/libmovieplayer.a  _deps/sdl3-build/Debug/libSDL3.so.0.5.0  Debug/libresources.a  vcpkg_installed/x64-linux/debug/lib/libbz2d.a  vcpkg_installed/x64-linux/debug/lib/libpng16d.a  vcpkg_installed/x64-linux/debug/lib/libz.a  vcpkg_installed/x64-linux/debug/lib/libbrotlidec.a  vcpkg_installed/x64-linux/debug/lib/libbrotlicommon.a  vcpkg_installed/x64-linux/debug/lib/libz.a  vcpkg_installed/x64-linux/debug/lib/libvorbis.a  vcpkg_installed/x64-linux/debug/lib/libogg.a  vcpkg_installed/x64-linux/debug/lib/libopus.a  -lm  vcpkg_installed/x64-linux/debug/lib/libvpx.a  external/movie-player/extlibs/libyuv/Debug/libyuv.a  -pthread 
+
+/usr/bin/ld: CMakeFiles/krkrz.dir/Debug/common/sound/MiniAudioEngine.cpp.o: undefined reference to symbol 'dlclose@@GLIBC_2.2.5'
+/usr/bin/ld: /lib/x86_64-linux-gnu/libdl.so.2: error adding symbols: DSO missing from command line
+collect2: error: ld returned 1 exit status
+
+**solve**
+add ... -ldl
+or modify CMakeLists.txt
+target_link_libraries( ${EXENAME} PRIVATE
+	freetype
+	${JPEG_LIBRARIES}
+	Ogg::ogg
+	Vorbis::vorbis
+	Vorbis::vorbisenc 
+	Vorbis::vorbisfile
+	ZLIB::ZLIB
+	oniguruma::onig
+	fmt::fmt
+	PNG::PNG
+	glm::glm
+	$<IF:$<TARGET_EXISTS:Opus::opus>,Opus::opus,>
+	$<IF:$<TARGET_EXISTS:OpusFile::opusfile>,OpusFile::opusfile,>
+	$<IF:$<TARGET_EXISTS:opusfile>,opusfile,>
+	$<IF:$<TARGET_EXISTS:movieplayer>,movieplayer,>
+	${KRKRZ_LIB_SDL3}
+	${KRKRZ_LIB_ADD}
+	${KRKRZ_LIB_PLATFORM}
+	${RESOURCE_LIB}
+	dl
+)
+add dl here
+
+
+
+&& cd /home/wmt/krkrz/build/x64-linux 
+
+&& /home/wmt/cmake-4.3.0-rc1-linux-x86_64/bin/cmake -E copy_if_different /home/wmt/krkrz/build/x64-linux/_deps/sdl3-build/Debug/libSDL3.so.0.5.0 /home/wmt/krkrz/build/x64-linux/Debug
+
+
+
+
+
+=====
+
+
+for make verbose, modify CMakeCache.txt
+
+CMAKE_VERBOSE_MAKEFILE:BOOL=ON
+
+
