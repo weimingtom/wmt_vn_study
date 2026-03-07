@@ -1096,6 +1096,11 @@ gamux
 http://krkrz.github.io
 下载kr2_232r2.zip (吉里吉里2 SDK ダウンロード)
 http://krkrz.github.io/download/kr2_232r2.zip
+
+另一个KAG例子KAGEX可以在官方仓库找到：
+https://github.com/krkrz/krkr2, krkrz_krkr2-master.zip    
+下载下来大概是348MB, 然后把里面的krkr.eXe复制到data文件夹旁边，然后双击运行, 例如：  
+https://github.com/krkrz/krkr2/tree/master/kirikiri2/branches/kag3ex1  
 ```
 * (origin) https://github.com/krkrz/krkr2  
 * (origin, dead) http://kikyou.info/tvp/  
@@ -1156,6 +1161,9 @@ lyricallisp_free-1.7.zip
 Spring Days.rar, atest3  
 星月夜EP3_DEMO.rar, atest2, a.k.a 星月夜（体验版）.rar, 星月夜~Seven Tales in Sprial  
 A Dream of Summer.7z  
+* https://github.com/krkrz/krkr2, krkrz_krkr2-master.zip    
+下载下来大概是348MB, 然后把里面的krkr.eXe复制到data文件夹旁边，然后双击运行, 例如：  
+https://github.com/krkrz/krkr2/tree/master/kirikiri2/branches/kag3ex1
 
 ## 吉里吉里Z, krkrz, kirikiriz    
 ```
