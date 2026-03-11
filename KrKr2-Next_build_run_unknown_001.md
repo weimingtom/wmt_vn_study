@@ -1,4 +1,8 @@
-## xubuntu 25.04 64bit in vmware, 20260311, 16:00  
+## Build KrKr2-Next with xubuntu 25.04 64bit in vmware, 20260311, 16:00  
+* https://github.com/reAAAq/KrKr2-Next/commit/9b4d67e71498f87fda8718903763b6b8a792ed6a
+* 9b4d67e
+* https://github.com/microsoft/vcpkg/commit/58950f88544e4637524dbd6a01d0317cf4cb77fc
+* 58950f8
 * Libraries required for compiling vcpkg dependency packages  
 ```
 sudo apt update
