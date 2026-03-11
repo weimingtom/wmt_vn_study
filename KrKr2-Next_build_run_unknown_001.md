@@ -23,7 +23,7 @@ cd ./vcpkg/
 ./bootstrap-vcpkg.sh -disableMetrics
 tar xzf /media/wmt/CD_ROM/downloads_vcpkg.tar.gz -C /home/wmt/vcpkg/.
 ```
-* Modify ~/KrKr2-Next/build/build.sh, replace '/home/wmt' in build.sh    
+* Create and modify ~/KrKr2-Next/build/build.sh, replace '/home/wmt' in build.sh    
 ```
 cmake \
 	-DANDROID_PLATFORM=34 \
