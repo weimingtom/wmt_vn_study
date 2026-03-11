@@ -27,9 +27,13 @@ cp ~/build.sh ~/KrKr2-Next/build/.
 cd ~/KrKr2-Next/build/
 chmod +x ./build.sh
 ./build.sh
-(modify ~/KrKr2-Next/cpp/plugins/CMakeLists.txt, comment # Live2D Cubism SDK to #target_link_libraries(${PROJECT_NAME} PUBLIC CubismFramework))
+(modify ~/KrKr2-Next/cpp/plugins/CMakeLists.txt, comment
+# Live2D Cubism SDK
+to
+#target_link_libraries(${PROJECT_NAME} PUBLIC CubismFramework)
+)
 (comment krkrlive2d.cpp)
-make
+make -j8
 ```
 ```
 ld.lld: error: undefined symbol: g_live2dRenderTarget
