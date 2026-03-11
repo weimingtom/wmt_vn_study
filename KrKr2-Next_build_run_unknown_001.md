@@ -1,4 +1,4 @@
-## Win11 build
+## Win11 build, failed
 * win11, flutter build apk --verbose
 ```
 D:\home\soft\android_studio_sdk\cmake\4.1.2\bin\cmake.exe
