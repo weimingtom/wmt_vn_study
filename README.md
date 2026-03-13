@@ -14,6 +14,7 @@ Nothing seek, nothing find
 ```
 
 ## TODO  
+* (TODO) 搜索小鸡模拟器安卓版，输入：汉化版；筛选：所有类型-PSP-冒险游戏
 * (TODO) compile retroarch, work_ra_v1.tar.gz  
 * (TODO, IMP) https://github.com/weimingtom/wmt_vn_study/blob/master/unity_001.md  
 * (TODO, IMP) https://github.com/weimingtom/onscripter_csharp  
