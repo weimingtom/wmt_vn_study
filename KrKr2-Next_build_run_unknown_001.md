@@ -125,6 +125,33 @@ cmake \
 	-DCMAKE_BUILD_TYPE=release \
 	..
 ```
+* build.sh version 2    
+NOTE, don't use -DCMAKE_LIBRARY_OUTPUT_DIRECTORY= and -DCMAKE_RUNTIME_OUTPUT_DIRECTORY= and -B  
+```
+cmake \
+-DCMAKE_SYSTEM_NAME=Android \
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON \
+-DCMAKE_SYSTEM_VERSION=24 \
+-DANDROID_PLATFORM=android-24 \
+-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a \
+-DCMAKE_MAKE_PROGRAM=make \
+-Wno-dev \
+--no-warn-unused-cli \
+-DCMAKE_BUILD_TYPE=release \
+	-DANDROID_ABI=arm64-v8a \
+	-DANDROID_STL=c++_shared \
+	-DCMAKE_CXX_FLAGS=-std=c++17 \
+	-DVCPKG_TARGET_ANDROID=ON \
+	-DBUILD_ENGINE_API=ON \
+	-DENABLE_TESTS=OFF \
+	-DBUILD_TOOLS=OFF \
+	-DVCPKG_ROOT=/home/wmt/vcpkg \
+	-DCMAKE_TOOLCHAIN_FILE=/home/wmt/vcpkg/scripts/buildsystems/vcpkg.cmake \
+	-DVCPKG_CHAINLOAD_TOOLCHAIN_FILE=/home/wmt/android-ndk-r27d/build/cmake/android.toolchain.cmake \
+	-DANDROID_NDK=/home/wmt/android-ndk-r27d \
+	-DCMAKE_ANDROID_NDK=/home/wmt/android-ndk-r27d \
+	..
+```
 * Compile the latest version of KrKr2-Next, and modify CMakeLists.txt and krkrgles.cpp and engine_api.cpp  
 ```
 cd
