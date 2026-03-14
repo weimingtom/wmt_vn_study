@@ -3399,6 +3399,10 @@ ITHVNR多了一个unhook按钮，而且按钮内的对话框内容不同
 不过就算是以前，我也很少用 ​​​  
 ```
 * https://tieba.baidu.com/p/2179634539  
+【资源汇总】各种galgame工具介绍及下载  
+```
+虚拟光驱、喵翻、j北京、ith、vnr  
+```
 * https://code.google.com/p/annot-player/  
 * https://github.com/alexbft/chiitrans  
 * https://github.com/HIllya51/LunaHook  
