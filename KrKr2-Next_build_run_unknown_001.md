@@ -1,4 +1,55 @@
 ## Win11 build, failed
+* remove unzip gradle zip if download failed, and change gradle-wrapper.properties distributionUrl
+```
+if flutter build apk failed by unzip gradle zip, try to remove this folder:  
+C:\Users\admin\.gradle\wrapper\dists\gradle-8.14-all\c2qonpi39x1mddn7hk5gh9iqj
+
+flutter build apk --verbose
+
+https://blog.csdn.net/android_cai_niao/article/details/146634305
+D:\work_flutter_android\myproj1\android\gradle\wrapper\gradle-wrapper.properties
+https://mirrors.aliyun.com/gradle/distributions/v8.14.0/
+
+distributionUrl=https\://services.gradle.org/distributions/gradle-8.14-all.zip
+->
+distributionUrl=https\://mirrors.aliyun.com/gradle/distributions/v8.14.0/gradle-8.14-all.zip
+
+```
+* Exceptions
+```
+[  +94 ms] FAILURE: Build failed with an exception.
+[        ] * What went wrong:
+[        ] Execution failed for task ':app:configureCMakeRelease[arm64-v8a]'.
+[        ] > [CXX1300] CMake '3.28.0' or higher was not found in SDK, PATH, or by cmake.dir property.
+```
+```
+[        ]   CMake Error at
+D:/home/soft/android_studio_sdk/cmake/4.1.2/share/cmake-4.1/Modules/CMakeDetermineSystem.cmake:159 (message):
+[        ]     Could not find toolchain file:
+[        ]      "D:\work_flutter_android\KrKr2-Next-main/.devtools/vcpkg/scripts/buildsystems/vcpkg.cmake"
+[        ]   Call Stack (most recent call first):
+[        ]     CMakeLists.txt:56 (project)
+[        ]   CMake Error: CMAKE_C_COMPILER not set, after EnableLanguage
+[        ]   CMake Error: CMAKE_CXX_COMPILER not set, after EnableLanguage :
+com.android.ide.common.process.ProcessException: Not searching for unused variables given on the command line.
+[        ]   -- Android build with Gradle-managed toolchain: triplet=arm64-android
+[        ]   -- Configuring incomplete, errors occurred!
+```
+```
+Downloading https://github.com/microsoft/vcpkg-tool/releases/download/2026-03-04/vcpkg.exe -> D:\work_flutter_android\vcpkg-master\vcpkg.exe...While calling Windows API function WinHttpSendRequest got error 0x00002EE2:
+
+put to vcpkg-master
+
+don't use this #@set VCPKG_ROOT=D:\work_flutter_android\vcpkg-master
+see 
+D:\work_flutter_android\KrKr2-Next-main\apps\flutter_app\android\app\build.gradle.kts
+val vcpkgRoot = "${projectRoot}/.devtools/vcpkg"
+put this folder
+D:\work_flutter_android\KrKr2-Next-main/.devtools/vcpkg
+
+if error try to remove vcpkg\download
+D:\work_flutter_android\KrKr2-Next-main\.devtools\vcpkg\download
+```
 * win11, flutter build apk --verbose
 ```
 D:\home\soft\android_studio_sdk\cmake\4.1.2\bin\cmake.exe
