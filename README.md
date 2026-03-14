@@ -4374,6 +4374,12 @@ $ sudo dpkg --add-architecture i386 && sudo apt-get update && sudo apt-get insta
 再次执行wine就会报错（这算不算bug），解决方法是把home目录下的~/.wine目录rm掉，
 再执行wine就会重新初始化wine了 ​​​
 ```
+* https://lfswang.github.io/2023/03/10/ACG/SteamDeckGalgameTest/index.html  
+Steam deck 上的 Galgame 測試  
+```
+PROTON_USE_WINED3D=1  
+LANG=zh_TW.UTF-8 PROTON_USE_WINED3D=1  
+```
 
 ## Proton 9.0-4 in Steam Play of Steam Deck
 * In Steam Deck, change to Desktop Mode
