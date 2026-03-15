@@ -5111,6 +5111,22 @@ https://github.com/scummvm/scummvm
 ## PC98
 * pc98.7z, 东方1-5
 * Leaf's PC98 Game Collection.7z
+* 赛璐珞
+```
+查了一下B站，火星地发现，所谓PC98，就是大名鼎鼎的galgame平台，而且还不只是这么简单，
+PC98还开创了一种独特的游戏画风——赛璐珞风格——我没想到当初的赛璐珞风格
+其实是因为16色深的客观原因导致的，而不是那个时代的人主观的审美导致的，
+因为16色深颜色少很难表现颜色渐变，所以就产生了赛璐珞风格
+```
+* 快餐厅之恋, CocktailSoft.zip, Pia Carrot e Youkoso!!.hdi  
+```
+我找到行动派actionpi的batocera系统的pc98封面图那个游戏，
+其实就是F & C的《快餐厅之恋》，对应合集里面CocktailSoft.zip
+里面的Pia Carrot e Youkoso!!.hdi文件。
+不过这游戏很久以后移植到PC上，所以有些地方是叫它的
+后缀是～We've been waiting for you～，
+当然我在咸鱼上没看到过它的PC版，只见过它的PC98版
+```
 
 ## DOS
 * 小马模拟器, 同级生1（日版）, 下级生（无声版）
