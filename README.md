@@ -3304,6 +3304,13 @@ This is a FREEWARE, and a ROYALTIES FREE!!
 ## GARbro  
 * https://github.com/morkt/GARbro    
 * pfs  
+* xp3
+```
+火星，
+我是没想到garbro连封装了xp3的exe都能打得开，服了，
+不知道它能不能解开封装了flash swf的exe，
+如果能就更好了
+```
 
 ## web_maker  
 * http://milk0824.sakura.ne.jp/web_maker/  
