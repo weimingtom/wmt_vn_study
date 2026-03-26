@@ -1662,6 +1662,48 @@ src\core\visual\WindowIntf.cpp
 * (origin) https://github.com/reAAAq/KrKr2-Next
 * https://github.com/weimingtom/wmt_vn_study/blob/master/KrKr2-Next_build_run_unknown_001.md
 * Require about 40GB for VMWare  
+* Use eglGetDisplay(EGL_DEFAULT_DISPLAY) directly in Android instead of eglGetPlatformDisplayEXT_, otherwise the Android SurfaceView screen will be black.  
+https://github.com/reAAAq/KrKr2-Next/blob/main/cpp/core/visual/ogl/krkr_egl_context.cpp  
+```
+EGLDisplay EGLContextManager::AcquireAngleDisplay(AngleBackend& backend) {
+#if defined(__ANDROID__)
+...
+    EGLDisplay display = EGL_NO_DISPLAY;
+#if 1 //MY_USE_MINLIB
+//android skip here
+#else
+    if (eglGetPlatformDisplayEXT_) {
+        const EGLint displayAttribs[] = {
+            EGL_PLATFORM_ANGLE_TYPE_ANGLE,
+            angleType,
+            EGL_NONE
+        };
+        display = eglGetPlatformDisplayEXT_(
+            EGL_PLATFORM_ANGLE_ANGLE, EGL_DEFAULT_DISPLAY, displayAttribs);
+        EGL_LOGI("AcquireAngleDisplay: eglGetPlatformDisplayEXT returned %p", display);
+    }
+    // Fallback: if Vulkan backend failed, retry with OpenGL ES
+    if (display == EGL_NO_DISPLAY && backend == AngleBackend::Vulkan && eglGetPlatformDisplayEXT_) {
+        EGL_LOGI("AcquireAngleDisplay: Vulkan backend failed, falling back to OpenGL ES");
+        backend = AngleBackend::OpenGLES;
+        const EGLint fallbackAttribs[] = {
+            EGL_PLATFORM_ANGLE_TYPE_ANGLE,
+            EGL_PLATFORM_ANGLE_TYPE_OPENGLES_ANGLE,
+            EGL_NONE
+        };
+        display = eglGetPlatformDisplayEXT_(
+            EGL_PLATFORM_ANGLE_ANGLE, EGL_DEFAULT_DISPLAY, fallbackAttribs);
+        EGL_LOGI("AcquireAngleDisplay: fallback eglGetPlatformDisplayEXT returned %p", display);
+    }
+#endif
+    if (display == EGL_NO_DISPLAY) {
+        EGL_LOGI("AcquireAngleDisplay: fallback to eglGetDisplay(EGL_DEFAULT_DISPLAY)");
+        display = eglGetDisplay(EGL_DEFAULT_DISPLAY);
+    }
+    return display;
+
+```
+
 
 ## ningshanwutuobang/Kirikiroid2, fork of zeas2/Kirikiroid2, using cmake  
 * (origin) https://github.com/ningshanwutuobang/Kirikiroid2
