@@ -832,6 +832,18 @@ https://github.com/butter255/emu/releases/tag/0.1.3
 ACGFuture开发的，仅支持Android4.4以下，不推荐使用，原发布地址：https://code.google.com/archive/p/onscripter/
 ```
 
+## ONScripter-ACGF, only for Android 4.4 or lower  
+* 见上, see MiNE
+* (origin, dead) https://code.google.com/archive/p/onscripter/
+* (origin) https://codesite-archive.appspot.com/archive/p/onscripter/  
+* 大胆猜测，我可不可以认为MiNE, ONScripter-ACGF, Onscripter-Yuri (onsyuri) 这三个都是同一个作者    
+```
+我发现onsyuri的安卓版图标跟ONScripter-GBK-ACGF.apk几乎一模一样，
+难道ACGF是onsyuri版的前身？
+存疑，只是ACGF的名声不好，我想起yuri版也有kirikiroid2版，这有点冷，
+因为后者好像是禁转acgf的，也可能我记错了 ​​​
+```
+
 ## mscripter, for Java midlet (closed source, like nscripter)   
 * (origin) http://www.epii.jp/articles/product/mscripter/mscripter  
 * search baidupan, mscripter_v0_1_beta.zip, mscripter_v0_2_beta.zip  
