@@ -1470,6 +1470,29 @@ wamsoft_krkrz_v1.tar.gz, vcpkg.tar.gz, wamsoft_krkrz.txt
 https://github.com/weimingtom/wmt_vn_study/blob/master/wamsoft_krkrz_xubuntu_vcpkg_001.txt  
 * xubuntu 25.04 vmware build with cmake/ninja/vcpkg/ndk, for arm64-android  
 https://github.com/weimingtom/wmt_vn_study/blob/master/wamsoft_krkrz_xubuntu_vcpkg_001.md  
+* This open source project is based on SDL3, so theoretically it is also compatible with **krkrsdl2** examples  
+but some code modifications are needed (possibly intentionally), which are omitted  
+这个开源项目基于SDL3，所以理论上也兼容krkrsdl2的示例，但需要修改一些地方的代码（可能是故意的），从略  
+weibo record  
+```
+wamsoft/krkrz研究。我把它的krkrsdl2的示例跑通了（吉里吉里与KAG的介绍），
+我去，这开源项目wamsoft/krkrz顾名思义，是用SDL3实现的，
+所以理论上它也是兼容krkrsdl2的示例，不过要稍微改一下，
+例如它没有实现System.createAppLock，要自己补上去——它其实有实现，
+只是没有写stub插桩函数。看样子它理论上也可以改造成支持运行吉里吉里2的游戏——当然，
+还要解决一下字符集问题和注入system_polyfill的代码。
+等我再跑通一些别的示例我就会放到gh上继续改了
+
+现在可以运行简单的startup.tjs了。方法是放在assets/data目录下编译运行
+
+wamsoft/krkrz研究。目前可以加载resource://的文件（放在assets目录下编译进apk就能读到）。
+发现这些问题：（1）andres.cpp是自执行的（见Load），就算没有编译它也不会导致编译错误，
+所以要小心（2）andres.cpp里面有个JNI函数，说明这个项目缺少了一些Java代码
+（也许可以自己补上去），而这些代码可能是故意没有放入仓库中
+（3）默认TVPThrowExceptionMessage会弹出对话框，我把它改成throw;让它crash，
+这样就能看到C++调用栈（4）TVPLOG_LEVEL宏可以打开日志输出，默认是不打开
+（5）代码中关于resource://就是对应assets目录
+```
 
 ## krkrsdl2  
 * (origin) https://github.com/krkrsdl2/krkrsdl2  
