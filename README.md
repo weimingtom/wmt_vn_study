@@ -5346,5 +5346,5 @@ SystemC、CMVS、AdvHD、ACV1、BGI、CatSystem2、
 SoftPal、NeXAS、Entis GLS、Maile、
 PIX STUDIO & DxLib、PJADV、Silky
 ```
-* More社, 引《krkr1/krkr2/krkrz引擎【四】那些余音》  
+* More社, MONAKO社，另见《krkr1/krkr2/krkrz引擎【四】那些余音》  
 https://zhuanlan.zhihu.com/p/11298415325  
