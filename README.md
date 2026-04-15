@@ -5348,3 +5348,6 @@ PIX STUDIO & DxLib、PJADV、Silky
 ```
 * More社, MONAKO社，另见《krkr1/krkr2/krkrz引擎【四】那些余音》  
 https://zhuanlan.zhihu.com/p/11298415325  
+* GARbro Supported formats  
+https://morkt.github.io/GARbro/supported.html  
+https://github.com/morkt/GARbro  
