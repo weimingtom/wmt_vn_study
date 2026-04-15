@@ -5333,3 +5333,18 @@ https://www.dmm.co.jp/dc/doujin/-/detail/=/cid=d_109948/
 * https://github.com/LuZW5732/How-to-play-krkr2-engine-galgame-on-iPad  
 * https://github.com/arcusmaximus/KirikiriTools  
 * https://github.com/marcussacana/KrKrZSceneManager  
+
+## (Don't study it, don't waste time) NEKOPACK Engine
+* Galgame 引擎免封包略谈  
+https://www.cnblogs.com/Dir-A/p/18096904  
+```
+以下列出我所接触和处理过的支持少量修改或直接支持免封包处理功能的引擎。
+（一些本来就不封包的引擎就不列出了）
+
+Krkr2 、krkrZ、Yu-Ris、NekoPack、QLIE、Artemis、
+SystemC、CMVS、AdvHD、ACV1、BGI、CatSystem2、
+SoftPal、NeXAS、Entis GLS、Maile、
+PIX STUDIO & DxLib、PJADV、Silky
+```
+* More社, 引《krkr1/krkr2/krkrz引擎【四】那些余音》  
+https://zhuanlan.zhihu.com/p/11298415325  
