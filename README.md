@@ -5391,5 +5391,10 @@ ScriptSource_2__.rar, ScriptSource_2.zip, ScriptSource_1.zip
 * (with game data?) nokuno-suzuri-9bcfc1e.7z  
 
 ## (should not put here, stg game) kikya danmaku stg game
+* (not origin, fork?) https://github.com/silconsystem/danmaku   
 * (origin, dead) http://www.kikya.com/danmaku/  
 * https://github.com/weimingtom/stg_java_port
+* (backup) https://github.com/weimingtom/stg_java_port/blob/master/kikyajava_v3/js/kikya_js_v1.7z  
+
+## (should not put here, stg game) takahirox/toho-like-js
+* https://github.com/takahirox/toho-like-js
