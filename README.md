@@ -5376,11 +5376,20 @@ ScriptSource_2__.rar, ScriptSource_2.zip, ScriptSource_1.zip
 3dRpgProgramingSample.zip, 3dRpgProgramingSample__.rar  
 * PROGAMEproject.zip, PROGAMEsample.zip  
 
-## nutti/Shooting-Script
+## (TODO, should not put here, stg game) nutti/Shooting-Script
 * https://github.com/nutti/Shooting-Script
 * https://github.com/weimingtom/myosotis2
-* (TODO) porting code, where ?
+* ??????? Same as yohokuno/suzuri ???????, seems not  
 
-## (should not put here) kikya danmaku stg game
+## (should not put here, stg game) yohokuno/suzuri, 物置小屋, tbm     
+* (origin, dead) http://www.nokuno.jp/secret/program1.html  
+* (origin) https://github.com/yohokuno/suzuri
+* (origin, dead) http://www.nokuno.jp/tbm.html   
+* (origin) https://github.com/yohokuno/tbm  
+* https://github.com/weimingtom/nokscript_java  
+* (origin, dead) http://www.nokuno.jp/secret/program2.html  
+* (with game data?) nokuno-suzuri-9bcfc1e.7z  
+
+## (should not put here, stg game) kikya danmaku stg game
 * (origin, dead) http://www.kikya.com/danmaku/  
 * https://github.com/weimingtom/stg_java_port
