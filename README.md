@@ -5367,10 +5367,20 @@ https://github.com/morkt/GARbro
 ## Some Game Develop Books Code by 坂本千尋
 * Script Engine Programming (スクリプトエンジン プログラミング)  
 (origin, dead) http://www.sbcr.jp/products/4797347623.html  
-https://github.com/weimingtom/myosotis2/tree/master   
+https://github.com/weimingtom/myosotis2      
+https://github.com/weimingtom/myosotis  
 ScriptSource_2__.rar, ScriptSource_2.zip, ScriptSource_1.zip  
 * 脚本引擎编程， ScriptSource.zip   
 (origin, dead) http://www.sbcr.jp/products/4797347623.html  
 * 3d游戏编程，3dRpgProgramingSample.zip  
 3dRpgProgramingSample.zip, 3dRpgProgramingSample__.rar  
 * PROGAMEproject.zip, PROGAMEsample.zip  
+
+## nutti/Shooting-Script
+* https://github.com/nutti/Shooting-Script
+* https://github.com/weimingtom/myosotis2
+* (TODO) porting code, where ?
+
+## (should not put here) kikya danmaku stg game
+* (origin, dead) http://www.kikya.com/danmaku/  
+* https://github.com/weimingtom/stg_java_port
