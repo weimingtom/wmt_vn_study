@@ -5363,3 +5363,8 @@ https://github.com/morkt/GARbro
 * (origin, dead) http://hammm.dw.land.to/lua/#wxglade_lua
 * (origin, dead) http://hammm.dw.land.to/lua/wxglade_lua.html
 * (origin) https://web.archive.org/web/20240725133418/http://hammm.dw.land.to/lua/
+
+## 坂本千尋
+* ScriptSource_2__.rar, ScriptSource_2.zip, ScriptSource_1.zip
+* 3dRpgProgramingSample.zip, 3dRpgProgramingSample__.rar
+* PROGAMEproject.zip, PROGAMEsample.zip
