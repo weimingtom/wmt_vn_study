@@ -1596,9 +1596,6 @@ mkdir build; cd build; cmake -DCMAKE_TOOLCHAIN_FILE=/home/wmt/work_krkrsdl2/andr
 * linux host meson linux build (?not sure), see krkrsdl2_github_20220221_full.tar.gz, krkrsdl2_github_20220221_min.tar.gz  
 * (dead) 教学 krkrz多平台 Kirikiri SDL2   
 (dead) https://www.bilibili.com/read/cv25481294/  
-* https://github.com/weimingtom/krkrsdl2_fork      
-https://github.com/weimingtom/krkrsdl2-miyoo-a30      
-https://github.com/weimingtom/krkrsdl2_fork2  
 * https://github.com/krkrsdl2/krkrrel-ng   
 https://github.com/krkrsdl2/krkrrel-ng/releases  
 https://github.com/krkrsdl2/krkrrel-ng/releases/download/latest/krkrrel-win32.zip  
@@ -1642,9 +1639,10 @@ https://github.com/krkrsdl2/kag3/blob/krkrsdl2/data/startup.tjs
 // 機能が欠落している吉里吉里のバージョンのポリフィル関数を初期化します。  
 Scripts.execStorage("system_polyfill/PolyfillInitialize.tjs");  
 ```
-* https://github.com/weimingtom/krkrsdl2_fork3
+* https://github.com/weimingtom/krkrsdl2_fork      
+* https://github.com/weimingtom/krkrsdl2-miyoo-a30      
 * https://github.com/weimingtom/krkrsdl2_fork2
-* https://github.com/weimingtom/krkrsdl2-miyoo-a30
+* https://github.com/weimingtom/krkrsdl2_fork3
 
 ## kirikiroid2 (for Android and iOS)    
 * (origin) https://github.com/zeas2/Kirikiroid2  
