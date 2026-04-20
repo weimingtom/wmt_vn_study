@@ -5364,13 +5364,13 @@ https://github.com/morkt/GARbro
 * (origin, dead) http://hammm.dw.land.to/lua/wxglade_lua.html
 * (origin) https://web.archive.org/web/20240725133418/http://hammm.dw.land.to/lua/
 
-## 坂本千尋
+## Some Game Develop Books Code by 坂本千尋
 * Script Engine Programming (スクリプトエンジン プログラミング)  
-(origin) http://www.sbcr.jp/products/4797347623.html  
+(origin, dead) http://www.sbcr.jp/products/4797347623.html  
 https://github.com/weimingtom/myosotis2/tree/master   
 ScriptSource_2__.rar, ScriptSource_2.zip, ScriptSource_1.zip  
 * 脚本引擎编程， ScriptSource.zip   
-(origin) http://www.sbcr.jp/products/4797347623.html  
+(origin, dead) http://www.sbcr.jp/products/4797347623.html  
 * 3d游戏编程，3dRpgProgramingSample.zip  
 3dRpgProgramingSample.zip, 3dRpgProgramingSample__.rar  
 * PROGAMEproject.zip, PROGAMEsample.zip  
