@@ -1710,6 +1710,7 @@ src\core\visual\WindowIntf.cpp
 * https://github.com/weimingtom/wmt_vn_study/blob/master/krkr2_vcpkg_build_001.md  
 * https://github.com/weimingtom/krkr2-no-vcpkg
 * krkr2-no-vcpkg_msys2_v3_run.7z
+* https://github.com/yorkyang2333/KrKr2-Revived-bak/tree/5ac910765df60f5e0e9ca9436546daa6a53a973c  
 * https://github.com/weimingtom/krkr2-no-vcpkg
 * https://github.com/weimingtom/krkr2-no-vcpkg-fork2
 
@@ -1758,6 +1759,7 @@ EGLDisplay EGLContextManager::AcquireAngleDisplay(AngleBackend& backend) {
     return display;
 
 ```
+* https://github.com/KYoiRyi/AetherKiri  
 * https://github.com/weimingtom/KrKr2-Next-no-vcpkg
 
 ## ningshanwutuobang/Kirikiroid2, fork of zeas2/Kirikiroid2, using cmake  
