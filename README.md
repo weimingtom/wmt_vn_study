@@ -5357,3 +5357,9 @@ https://zhuanlan.zhihu.com/p/11298415325
 * GARbro Supported formats  
 https://morkt.github.io/GARbro/supported.html  
 https://github.com/morkt/GARbro  
+
+## (Should not put here, about Lua) 空想具現化プログラミング, original Lua@空想具現化  
+* (origin) http://hammm.blog21.fc2.com  
+* (origin, dead) http://hammm.dw.land.to/lua/#wxglade_lua
+* (origin, dead) http://hammm.dw.land.to/lua/wxglade_lua.html
+* (origin) https://web.archive.org/web/20240725133418/http://hammm.dw.land.to/lua/
