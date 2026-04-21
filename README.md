@@ -1760,6 +1760,11 @@ EGLDisplay EGLContextManager::AcquireAngleDisplay(AngleBackend& backend) {
 
 ```
 * https://github.com/KYoiRyi/AetherKiri  
+```
+我测试过KrKr2-Next的非官方发布版（在AetherKiri的release页面有apk），
+确定可以在某些手机设备（例如红米13C）上可以运行的，
+我猜测可能只能在Android14，如果是Android12也有可能黑屏
+```
 * https://github.com/weimingtom/KrKr2-Next-no-vcpkg
 
 ## ningshanwutuobang/Kirikiroid2, fork of zeas2/Kirikiroid2, using cmake  
