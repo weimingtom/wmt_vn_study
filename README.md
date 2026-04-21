@@ -1708,7 +1708,6 @@ src\core\visual\WindowIntf.cpp
 ## 2468785842/krkr2, fork of zeas2/Kirikiroid2, using vcpkg/cmake/ninja    
 * (origin) https://github.com/2468785842/krkr2    
 * https://github.com/weimingtom/wmt_vn_study/blob/master/krkr2_vcpkg_build_001.md  
-* https://github.com/weimingtom/krkr2-no-vcpkg
 * krkr2-no-vcpkg_msys2_v3_run.7z
 * https://github.com/yorkyang2333/KrKr2-Revived-bak/tree/5ac910765df60f5e0e9ca9436546daa6a53a973c  
 * https://github.com/weimingtom/krkr2-no-vcpkg
@@ -1762,8 +1761,8 @@ EGLDisplay EGLContextManager::AcquireAngleDisplay(AngleBackend& backend) {
 * https://github.com/KYoiRyi/AetherKiri  
 ```
 我测试过KrKr2-Next的非官方发布版（在AetherKiri的release页面有apk），
-确定可以在某些手机设备（例如红米13C）上可以运行的，
-我猜测可能只能在Android14，如果是Android12也有可能黑屏
+确定在某些手机设备（例如红米13C）上可以运行，
+我猜测可能只能在Android 14，如果是Android 12也有可能黑屏
 ```
 * https://github.com/weimingtom/KrKr2-Next-no-vcpkg
 
