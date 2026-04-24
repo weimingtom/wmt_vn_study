@@ -5402,3 +5402,9 @@ ScriptSource_2__.rar, ScriptSource_2.zip, ScriptSource_1.zip
 
 ## (should not put here, stg game) takahirox/toho-like-js
 * https://github.com/takahirox/toho-like-js
+
+## Defold
+* https://defold.com
+
+## raylib-cs  
+* https://github.com/raylib-cs/raylib-cs  
