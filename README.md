@@ -5408,3 +5408,69 @@ ScriptSource_2__.rar, ScriptSource_2.zip, ScriptSource_1.zip
 
 ## raylib-cs  
 * https://github.com/raylib-cs/raylib-cs  
+
+## Script Editor Beta 4 - Kirikiri Script Editor
+* 1.3.46.677, 2009/11/22 Copyright (C) Amemiya 2009  
+* Script Text Editor Beta 4.rar
+* see 115, in Gal_Port_Tools_Collection.7z
+* 用来汉化文本的对比翻译工具，不是开发工具
+
+## 吉里吉里基础教学 v1.05
+* 鸟之诗air观铃都整出来了，跪, 吉里吉里基础教学ADV，很短
+* TVP(KIRIKIRI) 2 core / Scripting Platform for Win32, 2.27.2006.527, 2006/5/27
+* Gal_Port_Tools_Collection\基础教程\project01, in Gal_Port_Tools_Collection.7z
+
+## Gal_Port_Tools_Collection.7z
+```
+└─Gal_Port_Tools_Collection
+    │  avg32.rar
+    │  convertz802.zip
+    │  crass-0.4.14.0-final.rar
+    │  Crass-source.7z
+    │  decrkansa.rar
+    │  eglaysher-rlvm-release-0.12-0-g4ba6cf3.tar.gz
+    │  Extractor2.5.rar
+    │  Notepad2.exe
+    │  ONS FOR ANDROID FULL.7z
+    │  PEExplorer_199r5H.rar
+    │  PEiD.zip
+    │  rldev(AVG2000解包).rar
+    │  rldev-1.40-win32.rar
+    │  Script Text Editor Beta 4.rar
+    │  Susie for Win32 Ver0.47b.rar
+    │  UniversalExtractorEN.rar
+    │  わっふる(AVG 32变换定义).rar
+    │
+    ├─krkr
+    │      KAGDOC3.rar
+    │      KAGeXpress3-beta3r2.7z
+    │      kr226rc2_src.tar.gz
+    │      kr2_232r2.zip
+    │      xp3dumper0.12.rar
+    │      xp3_dumper_gui_0.2.rar
+    │
+    └─基础教程
+        │  krkr入门教程.docx
+        │  krkr杂谈.docx
+        │  NScripter入门.docx
+        │  ONS参考手册.docx
+        │  ONS移植入门.docx
+        │  吉里吉里基础教程·入门篇.txt
+        │
+        ├─KRKR
+        │      Android NDK入门.txt
+        │      AVG游戏移植PSP.txt
+        │      JNI简单入门.txt
+        │      Krkr XP3包文件格式简述.txt
+        │      krkr.doc
+        │      krkr工具使用.docx
+        │      KRKR游戏系统汉化说明.txt
+        │      Nscripter指令手册中文不完全版.txt
+        │      吉里吉里基础教程·入门篇.txt
+        │      吉里吉里的程式架構.txt
+        │      常用KAG函式介紹.doc
+        │      用Android NDK编译FFmpeg.txt
+        │      高级游戏制作.txt
+        │
+        └─project01
+```
