@@ -5477,3 +5477,14 @@ ScriptSource_2__.rar, ScriptSource_2.zip, ScriptSource_1.zip
         │
         └─project01
 ```
+
+## (佚,不可考) GNScripter
+* (origin, dead) https://pyon.org/furukawa/watasimo/gnscripter.html
+* https://mzp.hatenablog.com/entry/2023/12/23/110149
+* (origin) https://web.archive.org/web/20011024163517/http://watasimo.pyon.org/index.html
+* http://osananajimi.net/ps2linux.html
+* http://www.denpa.org/~go/denpa/200110/from21.html
+* http://osananajimi.net/tenohira/PocketPC.html
+* http://osananajimi.net/pda_games.html
+* (origin) https://web.archive.org/web/20030213070434/https://pyon.org/furukawa/watasimo/gnscripter.html
+* 我只能在ccscripter的源代码中看到一处关于GNScripter的注释,但只是一小段不重要的代码,并非完整
