@@ -3633,7 +3633,18 @@ MangaMeeya
 http://www2f.biglobe.ne.jp/kana/link.html下载解压后将扩展名为.spi的插件
 复制到安装目录即可。汉化版中已打包官方0.08版的基本图片格
 ```
-* tatsuさんの作品,
+* tatsuさんの作品, ???
+```
+(缺, 20260506补，但我不知道原来是写什么的，可能原来也是缺失的)  
+```
+http://www2f.biglobe.ne.jp/~kana/plugin/spipms04.lzh  
+... some files, from http://www2f.biglobe.ne.jp/~kana/link.html  
+https://www2f.biglobe.ne.jp/~kana/link_frame.html  
+https://www.vector.co.jp/download/file/win95/art/fh067986.html  
+https://www.vector.co.jp/vpack/browse/person/an007423.html  
+```
+(NOT FOUND) 出处可能已不可考, or from www.vector.co.jp, not sure    
+```
 * Thrasher's Personal Laboratory Entrance, http://www3.airnet.ne.jp/~vzr04461/nf/download/isthisuseful.html
 * TRASYS, http://www.trasys.gr.jp/fsw/index.html
 * 物置部屋, http://www.alles.or.jp/~kaoru/susiepin.html
