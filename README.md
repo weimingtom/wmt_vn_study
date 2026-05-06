@@ -3325,9 +3325,9 @@ https://github.com/pymo/pymo/tree/master/symbian/PythonForS60/PyS60Dependencies
 网上说似乎也是经典的Python 2.2.2版 ​​​
 ```
 引，https://baike.baidu.com/item/Python%20for%20s60/10375695  
-···
+```
 Python for s60是可以在诺基亚塞班S60系统上运行的Python 版本（基于Python 2.2.2）。
-···
+```
 再引, https://baike.baidu.com/item/pys60/4891515?fr=aladdin
 ```
 PyS60（Python for Series 60）是由诺基亚主导开发的Symbian S60 手机Python语言开发环境，
@@ -3335,7 +3335,14 @@ PyS60（Python for Series 60）是由诺基亚主导开发的Symbian S60 手机P
 将Python内核升级至2.5.4。该环境通过调用Symbian C++ API简化S60应用开发，
 支持标准库子集及手机专用功能模块。 [1]
 ```
-
+* Strrationalism/CPyMO  
+https://github.com/Strrationalism/CPyMO  
+```
+我试试在xubuntu 20下cmake编译CPyMO，还很容易编译的——需要改CMakeLists把ffmpeg和SDL2的vcpkg cmake库去掉，
+换成ubuntu自己的SDL2和m库，并且加上两个宏定义去掉声音和视频。运行也很简单，只要把编译出来的cpymo放在
+cpymo-web-demo的test目录下运行即可。不过这个脚本引擎可能不怎么好，所以是否研究下去目前不确定，
+不过移植能力应该是很好的（如果不考虑ffmpeg的话）
+```
 
 ## dxlib script_free.exe   
 * (origin, dead) http://homepage2.nifty.com/natupaji/DxLib/User/script_free.exe  
