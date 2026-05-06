@@ -3313,6 +3313,29 @@ it uses this library ? not sure
 * (origin) https://github.com/pymo/pymo  
 * (origin) https://www.pymogames.com  
 * https://www.cnblogs.com/think90/p/11455121.html  
+* Android version of pymo is based on startgridsrc/pgs4a, witch is different from kivy/python-for-android      
+https://github.com/pymo/pymo/tree/master/android/pgs4a  
+https://github.com/startgridsrc/pgs4a  
+* S60 version of pymo  
+https://github.com/pymo/pymo/tree/master/symbian/PythonForS60/PyS60Dependencies  
+???基于Python 2.2.2 ？？？存疑      
+```
+买了个nokia 5230老人机，支持s60（symbian）和jar（j2me），可以当随身听和电子相册（换桌面的动漫壁纸）。
+这台机也是网上说可以用来玩galgame的功能机，可以安装运行pymo——基于python for s60，
+网上说似乎也是经典的Python 2.2.2版 ​​​
+```
+引，https://baike.baidu.com/item/Python%20for%20s60/10375695  
+···
+Python for s60是可以在诺基亚塞班S60系统上运行的Python 版本（基于Python 2.2.2）。
+···
+再引, https://baike.baidu.com/item/pys60/4891515?fr=aladdin
+```
+PyS60（Python for Series 60）是由诺基亚主导开发的Symbian S60 手机Python语言开发环境，
+其原型版本最早可追溯至2002年基于Python 2.2.2的接口开发。2010年2月发布的最终版本PyS60-2.0.0
+将Python内核升级至2.5.4。该环境通过调用Symbian C++ API简化S60应用开发，
+支持标准库子集及手机专用功能模块。 [1]
+```
+
 
 ## dxlib script_free.exe   
 * (origin, dead) http://homepage2.nifty.com/natupaji/DxLib/User/script_free.exe  
