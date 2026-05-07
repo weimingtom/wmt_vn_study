@@ -1190,6 +1190,10 @@ A Dream of Summer.7z
 * https://github.com/krkrz/krkr2, krkrz_krkr2-master.zip    
 下载下来大概是348MB, 然后把里面的krkr.eXe复制到data文件夹旁边，然后双击运行, 例如：  
 https://github.com/krkrz/krkr2/tree/master/kirikiri2/branches/kag3ex1
+* tjs2  
+https://github.com/weimingtom/tjs2mod  
+https://gitee.com/weimingtom/tjs2study  
+https://github.com/jeeb/kirikiri2/tree/master/kirikiri2/src/core/tjs2  
 
 ## 吉里吉里Z, krkrz, kirikiriz    
 ```
