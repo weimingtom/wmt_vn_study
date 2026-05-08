@@ -100,6 +100,22 @@ https://archive.org/details/doujin-game-tsumeawase
 https://kako.5ch.net/test/read.cgi/linux/1246189118/  
 * 一些可能有用的工具  
 https://gh.aoikaze.org/announcements/tools  
+* [分享]用ONScripter在PocketPC上玩PC的美少女AVG  
+https://www.mobile01.com/topicdetail.php?f=129&t=1113684  
+```
+この青空に約束を－
+
+夜明け前より瑠璃色な(已玩完)
+ef - the first tale(已玩完)
+遥かに仰ぎ、麗しの(已玩完)
+G線上の魔王(已玩完)
+この青空に約束を－(正在玩)
+Fate/Stay Night(啟動正常)
+車輪の国、向日葵の少女(啟動正常)
+処女はお姉さまに恋してる(啟動正常)
+
+VGA版Waffle，移植PS2版「ToHeart2」
+```
 
 ## Android galgame toolkit link collection   
 * https://github.com/weimingtom/wmt_android_galgame_test_suite  
