@@ -71,7 +71,7 @@ ONSLauncher: 君が主で执事が俺で web体验版
 ONSLauncher: 君と一绪にさよならを 体验版
 ONSLauncher: 雪明りのMelody 体验版
 
-恋爱CHU, use くろこげ
+くろこげ: 恋爱CHU DEMO (see https://crazism.net/2055.html)
 ```
 * https://ultrapre.github.io/clip/  
 * (only patches, like xsystem35, onscripter, xkanon) http://fjts.org/~m/Install/PrivPorts/  
