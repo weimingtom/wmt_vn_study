@@ -60,6 +60,19 @@ https://blog.csdn.net/umier2000/article/details/84149473
 * https://github.com/2439905184/Galgame-Engine-Collect  
 * Mac上玩部分文字AVG的方法  
 https://crazism.net/2055.html  
+终于把Mac上的ONScripter和AVG32 for Mac搞懂了^o^
+http://www.tokimekiclub.net/read.php?fid=9&tid=4317  
+```
+于是，现在可以在Mac上玩NScripter和AVG32两个脚本引擎编的AVG啦
+嘛，虽然的确是第三方的因此可能有部分游戏存在兼容性问题=v=
+今天试验了的游戏的截图
+
+ONSLauncher: 君が主で执事が俺で web体验版
+ONSLauncher: 君と一绪にさよならを 体验版
+ONSLauncher: 雪明りのMelody 体验版
+
+恋爱CHU, use くろこげ
+```
 * https://ultrapre.github.io/clip/  
 * (only patches, like xsystem35, onscripter, xkanon) http://fjts.org/~m/Install/PrivPorts/  
 * https://www.bilibili.com/read/cv1888505/  
