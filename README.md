@@ -5568,3 +5568,6 @@ ScriptSource_2__.rar, ScriptSource_2.zip, ScriptSource_1.zip
 ## Games of RMMZ, RPGMaker MZ  
 * あの夏の島?, あの夏の島? [RJ398173] [エロクマ]  
 https://www.dlsite.com/maniax/work/=/product_id/RJ398173.html/  
+
+## Emulators on PlayStation Vita, Visual novel engines
+* https://emulation.gametechwiki.com/index.php/Emulators_on_PlayStation_Vita
