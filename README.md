@@ -5564,3 +5564,7 @@ ScriptSource_2__.rar, ScriptSource_2.zip, ScriptSource_1.zip
 * http://osananajimi.net/pda_games.html
 * (origin) https://web.archive.org/web/20030213070434/https://pyon.org/furukawa/watasimo/gnscripter.html
 * 我只能在ccscripter的源代码中看到一处关于GNScripter的注释,但只是一小段不重要的代码,并非完整
+
+## Games of RMMZ, RPGMaker MZ  
+* あの夏の島?, あの夏の島? [RJ398173] [エロクマ]  
+https://www.dlsite.com/maniax/work/=/product_id/RJ398173.html/  
