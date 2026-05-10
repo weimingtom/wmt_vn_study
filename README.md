@@ -790,6 +790,20 @@ Line 5：Copyright (c) 2007 John_He. All rights reserved.
 ```
 * onscripter-20080121-zh04.tar.gz  
 
+## Z-Shang/onscripter-gbk, seems from John_He and googlecode but I don't find the source  
+* https://github.com/Z-Shang/onscripter-gbk  
+* With onslocale.cpp, with onscripter_android_src-20120101.7z, with locale/gbk.cpp and etc.     
+https://github.com/Z-Shang/onscripter-gbk/blob/master/onslocale.h  
+```
+ *   - GBK Charset Locale for ONScripter
+ *
+ *  Copyright (c) 2007 John_He. All rights reserved.
+```
+```
+#define ONS_VERSION "20111222"
+#define NSC_VERSION 295
+```
+
 ## Kamikat onscripter gbk version in F-Droid, code seems from John-he, also include Japanese onscripter-20120712 to onscripter-20150208
 * [GBK, onscripter-20130223] https://github.com/kamikat/onscripter/commits/gbk   
 Japanese version see also: https://github.com/kamikat/onscripter/tree/28b4b185ba305b74af2a49ecc6e7b3974740ce2f  
