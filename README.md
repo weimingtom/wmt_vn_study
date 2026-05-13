@@ -2978,6 +2978,7 @@ cs2-open Ver 1.0, cs2.exe version 1, 0, 1, 10
 * https://github.com/BKEngine/docs
 * BKE_Demo_Source_NoLive2D.rar, BKE-Demo.rar, BKECreator.7z
 * 我和她的世界_Win.rar
+* BKE_tutorial.zip, bke_creator.zip, 20150623
 
 ## 追忆 (closed source, for android)    
 * (origin, dead) http://www.galgames.info/  
@@ -5666,3 +5667,12 @@ http://www.freem.ne.jp/contents/create/tool.html
 OPムービーだけ仕上がっても
 肝心のゲームが完成しなれば意味がありませんから
 ```
+
+## js-vine-master.zip
+
+## Reaching Out-install-20121128.exe
+* http://iihigate.eu/visual-novels/vn-reaching-out/
+
+## nscripter-game-maker, NSGM.7z
+* http://bbs.66rpg.com/thread-325897-1-1.html
+* http://icemaple.info/mysoft/nscripter-game-maker
