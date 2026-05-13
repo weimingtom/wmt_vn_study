@@ -5617,3 +5617,52 @@ https://www.dlsite.com/maniax/work/=/product_id/RJ398173.html/
 * https://emulation.gametechwiki.com/index.php/Emulators_on_PlayStation_Vita  
 * March22
 https://github.com/Slynchy/March22  
+
+## galdemo.jar
+* https://twitter.com/lennahammer/status/200162593623646209
+* https://twitter.com/LennaHammer
+* http://pastebin.com/CrTqtwVY
+```
+注:我不是作者
+
+简陋的自制GalGame半成品演示，用的Processing。jar文件
+（有JRE的话直接运行）http://t.cn/zO8pLtC
+代码（放入Processing中运行）http://t.cn/zO8pLt9
+嘛。。。实在太简陋了。。。所以也没有什么好玩的东西。。。
+```
+
+## 『1980円の君』 , 1980yen-NonVoice-for-vector.zip
+```
+1980 円の君　～I am a software～ マニュアル　Ver.1.2
+...
+...
+...
+本作品は LiveMaker( http://www.livemaker.net/ )を使用しています。
+```
+* http://index.novelgame.org
+* http://www.vector.co.jp/soft/win95/amuse/se474151.html
+* ノベルゲーム作り方
+* http://metaphysics.novelgame.org
+* http://www.novelchan.wgt.jp/about/
+* http://www.0en-game.com/free/game-make.html
+* http://doujingame.sakura.ne.jp
+* http://kurokorin.blog.jp
+```
+最も簡単なノベルゲーム製作ソフトは
+「Yuuki! Novel」 になります
+http://freett.com/yuukiex/yuukinovel.html
+ただし、動画ファイルは対応していないようです
+
+&gt;音楽を作るソフト
+五線譜での作成なら「ミノ式MIDIシーケンサ」
+http://www.vector.co.jp/soft/win95/art/se270923.html
+作曲が初めてなら 「テキスト音楽 サクラ」がオススメです
+http://oto.chu.jp/
+
+&gt;レタススタジオのアニメが入れられるソフトも教えていただければ
+ゲームを作るのが目的であれば
+まずは自分に合った「ゲーム制作ソフト」を探してみてください
+http://www.freem.ne.jp/contents/create/tool.html
+OPムービーだけ仕上がっても
+肝心のゲームが完成しなれば意味がありませんから
+```
