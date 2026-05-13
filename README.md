@@ -5669,6 +5669,9 @@ OPムービーだけ仕上がっても
 ```
 
 ## js-vine-master.zip
+* https://github.com/jdeisenberg/js-vine
+* https://langintro.com/js-vine/the_question/index.html
+* http://langintro.com/js-vine
 
 ## Reaching Out-install-20121128.exe
 * http://iihigate.eu/visual-novels/vn-reaching-out/
