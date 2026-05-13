@@ -765,6 +765,36 @@ ONScripter-Jh-sdl2.win64.7z, ONScripter-Jh-sdl2.win32.7z
 ONScripter-Jh_0.7.2.neon.apk, ONScripter-Jh-sdl2.neon.apk  
 ONScripter-Jh-sdl2.macosx.7z  
 * work_alpine_v5.7z, SDL2 directfb without renderer (without OpenGL) build 
+* nixos 25
+```
+nix-shell -p gcc gnumake SDL2 SDL2_ttf SDL2_image SDL2_mixer lua bzip2 fontconfig libjpeg
+make -f Makefile.Linux -j8
+../jh10001-onscripter-jh-a11f51d5728f/onscripter 
+```
+```
+ubuntu 20.04, not good
+
+nix-shell -p
+nix-shell -p gcc gnumake
+nix-shell -p SDL2 SDL2_ttf SDL2_image SDL2_mixer
+nix-shell -p lua bzip2 fontconfig libjpeg
+nix-shell -p libGLU libGL mesa
+make -f Makefile.Linux -j8
+
+SDL_VIDEODRIVER=x11 ../../../jh10001-onscripter-jh-a11f51d5728f/onscripter 
+ONScripter-Jh version 0.7.6 (20181218, 2.96)
+Could not create window: Couldn't find matching GLX visual
+```
+```
+用nixos 25运行onscripter-jh的效果，桌面是xfce，虚拟机是virtualbox，没有屏幕闪烁问题。
+奇怪的是如果我用ubuntu 20+nix-shell编译则不能运行，提示：Could not create window:
+Couldn't find matching GLX visual，暂时没有办法解决，但用nixos运行旧没有问题 ​​​
+
+试了一下，nixos还是很好用的，推荐，主要它比较轻量级（我只测试xfce），而且退出nix-shell会自动还原
+（相当于撤销之前安装过安装的软件包），如果是在nixos上用nix-shell甚至可以嵌套，就是你一次exit只会
+退出一个nix-shell环境，而不会全部退出。如果你需要测试环境屏蔽其他安装包的干扰，用nixos会很方便
+
+```
 
 ## John_He (john-he) onscripter Chinese version, for Windows / PSP / Pocket PC  
 * (origin) https://web.archive.org/web/20080522010153/http://blog.163.com/john_he_/blog/static/76595505200832514228686/  
