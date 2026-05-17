@@ -795,6 +795,34 @@ Couldn't find matching GLX visual，暂时没有办法解决，但用nixos运行
 退出一个nix-shell环境，而不会全部退出。如果你需要测试环境屏蔽其他安装包的干扰，用nixos会很方便
 
 ```
+* linuxbrew, Homebrew for Linux, Ubuntu 25.04 VMware  
+Install gcc-15 and sdl2:    
+```
+brew install gcc sdl2 sdl2_image sdl2_ttf sdl2_mixer  
+```
+Modify Makefile  
+```
+# for GNU g++
+CC = g++-15 -I/home/linuxbrew/.linuxbrew/include
+LD = g++-15 -o
+```
+Modify ONScripter.cpp:  
+```
+    #if 1 //def ANDROID
+```
+Run:  
+```
+LD_LIBRARY_PATH=/home/linuxbrew/.linuxbrew/lib ../jh10001-onscripter-jh-a11f51d5728f/onscripter  
+```
+Weibo record:  
+```
+用homebrew(brew)+Ubuntu 25.04编译运行onscripter-jh的效果，有刷新区域bug，
+需要改源代码把刷新屏幕的ANDROID宏改成1。
+如果要安装brew，最好用最新的ubuntu，不要用xubuntu 20.04，否则gcc-15会用不了
+（动态库错误或者gcc会报错）。除此以外还需要修改很多地方才能正常编译，
+我几乎关闭Makefile的大部分开关才能编译。运行时的声音输出也不好。
+需要LD_LIBRARY_PATH指定sdl2和其他的动态库路径
+```
 
 ## John_He (john-he) onscripter Chinese version, for Windows / PSP / Pocket PC  
 * (origin) https://web.archive.org/web/20080522010153/http://blog.163.com/john_he_/blog/static/76595505200832514228686/  
