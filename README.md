@@ -1840,6 +1840,8 @@ src\core\visual\WindowIntf.cpp
 * https://github.com/weimingtom/wmt_vn_study/blob/master/krkr2_vcpkg_build_001.md  
 * krkr2-no-vcpkg_msys2_v3_run.7z
 * https://github.com/yorkyang2333/KrKr2-Revived-bak/tree/5ac910765df60f5e0e9ca9436546daa6a53a973c  
+* KrKr2 模拟器教程文档  
+https://github.com/jeffcwj/krkr2_angle/blob/main/docs/README.md  
 * https://github.com/weimingtom/krkr2-no-vcpkg
 * https://github.com/weimingtom/krkr2-no-vcpkg-fork2
 
@@ -1903,6 +1905,9 @@ EGLDisplay EGLContextManager::AcquireAngleDisplay(AngleBackend& backend) {
 * https://github.com/joiplay/Kirikiroid2
 * https://github.com/weimingtom/kirikiroid2_fork3
 * Kirikiroid2-linux_build_v5.tar.gz
+
+## (TODO) krkr2-linux  
+* https://github.com/CuteMurasame/krkr2-linux   
 
 ## kirikiri3-legacy  
 * https://github.com/w-dee/kirikiri3-legacy  
