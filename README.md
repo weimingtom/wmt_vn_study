@@ -800,8 +800,29 @@ Install gcc-15 and sdl2:
 ```
 brew install gcc sdl2 sdl2_image sdl2_ttf sdl2_mixer  
 ```
-Modify Makefile  
+Modify Makefile, assign CC and LD with g++-15, and disable fontconfig, lua, simd and openmp features, use -I/home/linuxbrew/.linuxbrew/include for bzlib.h (bzip2)       
 ```
+# recommended: fontconfig (to get default font)
+#DEFS += -DUSE_FONTCONFIG
+#LIBS += -lfontconfig
+
+...
+
+# optional: lua
+#DEFS += -DUSE_LUA
+#INCS += -I/usr/include/lua
+#LIBS += -llua
+#EXT_OBJS += LUAHandler$(OBJSUFFIX)
+
+# optional: SIMD optimizing
+#DEFS += -DUSE_SIMD -DUSE_SIMD_X86_SSE2
+
+# optional: multicore rendering
+#DEFS += -DUSE_OMP_PARALLEL
+#EXT_FLAGS += -fopenmp
+
+...
+
 # for GNU g++
 CC = g++-15 -I/home/linuxbrew/.linuxbrew/include
 LD = g++-15 -o
