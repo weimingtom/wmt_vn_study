@@ -1909,6 +1909,11 @@ EGLDisplay EGLContextManager::AcquireAngleDisplay(AngleBackend& backend) {
 ## (TODO) krkr2-linux  
 * https://github.com/CuteMurasame/krkr2-linux   
 
+## (TODO) krkrsdl3  
+* https://github.com/luxiaoling-mc/krkrsdl3  
+* (?) From the manual of 旧柚, com.vintage.pomelo  
+* I don't know if it is the author of VintagePomelo (旧柚)    
+
 ## kirikiri3-legacy  
 * https://github.com/w-dee/kirikiri3-legacy  
 
@@ -2872,6 +2877,12 @@ https://github.com/take-cheeze/rpgtukuru-iphone
 
 ## cjv123/RPG  
 https://github.com/cjv123/RPG  
+
+## cjv123/RPGR  
+* https://github.com/cjv123/RPGR
+
+## Tapir (/téipər/, same as “taper”) is an RGSS-compatible runtime. In short, this is a kind of emulator for RPG Maker XP, VX, and VX Ace.
+* https://qnighy.github.io/tapir/index.html  
 
 ## nokscript  
 * https://github.com/yohokuno/suzuri  
