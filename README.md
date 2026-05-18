@@ -1913,6 +1913,7 @@ EGLDisplay EGLContextManager::AcquireAngleDisplay(AngleBackend& backend) {
 * https://github.com/luxiaoling-mc/krkrsdl3  
 * (?) From the manual of 旧柚, com.vintage.pomelo  
 * I don't know if it is the author of VintagePomelo (旧柚)    
+* Under construction, see dev branch  
 
 ## kirikiri3-legacy  
 * https://github.com/w-dee/kirikiri3-legacy  
