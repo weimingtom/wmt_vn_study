@@ -1906,8 +1906,9 @@ EGLDisplay EGLContextManager::AcquireAngleDisplay(AngleBackend& backend) {
 * https://github.com/weimingtom/kirikiroid2_fork3
 * Kirikiroid2-linux_build_v5.tar.gz
 
-## (TODO) krkr2-linux  
+## krkr2-linux  
 * https://github.com/CuteMurasame/krkr2-linux   
+* https://github.com/weimingtom/krkr2-linux_fork  
 
 ## (TODO) krkrsdl3  
 * https://github.com/luxiaoling-mc/krkrsdl3  
