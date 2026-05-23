@@ -807,7 +807,6 @@ Modify Makefile, assign CC and LD with g++-15, and disable fontconfig, lua, simd
 #LIBS += -lfontconfig
 
 ...
-see also https://github.com/Homebrew/homebrew-core/blob/15-sequoia/Formula/o/onscripter.rb  
 
 # optional: lua
 #DEFS += -DUSE_LUA
@@ -845,6 +844,7 @@ Weibo record:
 我几乎关闭Makefile的大部分开关才能编译。运行时的声音输出也不好。
 需要LD_LIBRARY_PATH指定sdl2和其他的动态库路径
 ```
+see also https://github.com/Homebrew/homebrew-core/blob/15-sequoia/Formula/o/onscripter.rb  
 
 ## John_He (john-he) onscripter Chinese version, for Windows / PSP / Pocket PC  
 * (origin) https://web.archive.org/web/20080522010153/http://blog.163.com/john_he_/blog/static/76595505200832514228686/  
