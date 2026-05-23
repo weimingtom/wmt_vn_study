@@ -807,6 +807,7 @@ Modify Makefile, assign CC and LD with g++-15, and disable fontconfig, lua, simd
 #LIBS += -lfontconfig
 
 ...
+see also https://github.com/Homebrew/homebrew-core/blob/15-sequoia/Formula/o/onscripter.rb  
 
 # optional: lua
 #DEFS += -DUSE_LUA
