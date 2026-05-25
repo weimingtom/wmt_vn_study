@@ -208,11 +208,12 @@ Tsukihime_0.9.5.9.rar
 * (origin, dead) http://www.din.or.jp/~boya/  
 * search tnA05_P.zip  
 * 月猫 decompiled mod (by me, weimingtom), named 'nscripter_java'  
-https://gitee.com/weimingtom2000/nscripter_java  
-https://github.com/weimingtom/tukineko_godot    
-https://github.com/weimingtom/tukineko_csharp   
 search baidupan, 月姬、月姬格斗、月箱, 月箱.part1(1).rar, 月箱.part2(1).rar, 月箱.part1.rar  
+* https://gitee.com/weimingtom2000/nscripter_java  
 search baidupan, nscripter_java_20200829_replace_moon.rar   
+* https://github.com/weimingtom/tukineko_godot    
+* https://github.com/weimingtom/tukineko_csharp   
+* https://github.com/weimingtom/tukineko_pygame  
 
 ## npynscr, just for english 0.txt, by python2
 * (origin) https://github.com/uvthenfuv/npynscr   
