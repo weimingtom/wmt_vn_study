@@ -3192,6 +3192,11 @@ https://github.com/renpy/renpy-build/blob/master/tasks/renpython.py
 def build_android(c: Context):  
 https://github.com/renpy/renpy-build/blob/master/build.sh  
 https://github.com/renpy/renpy-build/blob/master/README.rst#building  
+librenpython.so  
+in-app-purchasing-2.0.76.jar  
+https://github.com/renpy/renpy-build/tree/master/rapt/prototype  
+https://github.com/renpy/renpy-build/blob/master/rapt/prototype/renpyandroid/src/main/java/org/renpy/android/PythonSDLActivity.java   
+https://github.com/renpy/renpy-build/blob/master/rapt/prototype/renpyiap/src/main/java/org/renpy/iap/AmazonStore.java  
 * test data: Katawa Shoujo.7z  
 * test data: thequestion_v1.7z
 * (old version, don't use this version) renpy-6.9.3-sdk.tar.bz2  
