@@ -14,9 +14,6 @@ Nothing seek, nothing find
 ```
 
 ## TODO  
-* 知乎, 请问目前为止已知的GALGAME制作引擎有什么？  
-https://www.zhihu.com/question/22981630/answer/1399349557   
-https://github.com/weimingtom/wmt_vn_study/blob/master/zhihu_001.txt  
 * (TODO) 待宵草iso (?), RUN iso
 * (TODO) 美少女角色设计iso
 * (TODO) 搜索小鸡模拟器安卓版，输入：汉化版；筛选：所有类型-PSP-冒险游戏
@@ -119,6 +116,9 @@ Fate/Stay Night(啟動正常)
 
 VGA版Waffle，移植PS2版「ToHeart2」
 ```
+* 知乎, 请问目前为止已知的GALGAME制作引擎有什么？  
+https://www.zhihu.com/question/22981630/answer/1399349557   
+https://github.com/weimingtom/wmt_vn_study/blob/master/zhihu_001.txt  
 
 ## Android galgame toolkit link collection   
 * https://github.com/weimingtom/wmt_android_galgame_test_suite  
