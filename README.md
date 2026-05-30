@@ -5761,3 +5761,9 @@ OPムービーだけ仕上がっても
 ## nscripter-game-maker, NSGM.7z
 * http://bbs.66rpg.com/thread-325897-1-1.html
 * http://icemaple.info/mysoft/nscripter-game-maker
+
+## SFA引擎
+* WIZARD GIRL AMBITIOUS 体験版, dmmgames_0080t.zip
+* RUN, （IMP，TODO）SFA引擎  
+* SFA_v7_utf8合并.7z  
+* sfa_strings.xls  
