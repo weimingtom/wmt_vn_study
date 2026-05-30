@@ -5767,3 +5767,6 @@ OPムービーだけ仕上がっても
 * RUN, （IMP，TODO）SFA引擎  
 * SFA_v7_utf8合并.7z  
 * sfa_strings.xls  
+
+## 椎名里緒(?)
+* Rio.arc, wsc, arc, will_0232t.zip, デュエリスト×エンゲージ
