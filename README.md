@@ -5567,6 +5567,7 @@ https://zhuanlan.zhihu.com/p/11298415325
 * GARbro Supported formats  
 https://morkt.github.io/GARbro/supported.html  
 https://github.com/morkt/GARbro  
+* 其实我觉得还能加上: SFA, 椎名里緒  
 
 ## (Should not put here, about Lua) 空想具現化プログラミング, original Lua@空想具現化  
 * (origin) http://hammm.blog21.fc2.com  
