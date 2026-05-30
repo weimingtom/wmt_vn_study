@@ -5774,11 +5774,16 @@ OPムービーだけ仕上がっても
 
 ## GAL工具备份
 * https://github.com/qbb95/GALToolsBackup
-* TyraNo解包, WinAsar, A Windows GUI utility to handle asar( electron archive ) files     
-https://github.com/aardio/WinAsar  
-```
-等等, 你不就是aardio的作者  
-```
+* TyraNo解包, WinAsar
 * 日语手写输入
 * 文件批量日文乱码转中RenameFiles V1.3
 * 简繁体转换和日文适应工具
+
+## WinAsar, A Windows GUI utility to handle asar( electron archive ) files     
+* app.asar
+* https://github.com/aardio/WinAsar  
+```
+等等, 你不就是aardio的作者  
+```
+* npm install -g asar  
+* asar e app.asar ./output-dir  
