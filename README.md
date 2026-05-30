@@ -5771,3 +5771,14 @@ OPムービーだけ仕上がっても
 
 ## 椎名里緒(?)
 * Rio.arc, wsc, arc, will_0232t.zip, デュエリスト×エンゲージ
+
+## GAL工具备份
+* https://github.com/qbb95/GALToolsBackup
+* TyraNo解包, WinAsar, A Windows GUI utility to handle asar( electron archive ) files     
+https://github.com/aardio/WinAsar  
+```
+等等, 你不就是aardio的作者  
+```
+* 日语手写输入
+* 文件批量日文乱码转中RenameFiles V1.3
+* 简繁体转换和日文适应工具
