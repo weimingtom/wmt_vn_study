@@ -5787,3 +5787,6 @@ OPムービーだけ仕上がっても
 ```
 * npm install -g asar  
 * asar e app.asar ./output-dir  
+
+## Steam上的中文Galgame丨SteamGalgame  
+* https://steamgalgame.com  
