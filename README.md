@@ -5790,3 +5790,6 @@ OPムービーだけ仕上がっても
 
 ## Steam上的中文Galgame丨SteamGalgame  
 * https://steamgalgame.com  
+
+## GAMEDB, 游戏引擎：NScripter  
+* https://indienova.com/gamedb/engine/nscripter/p/1
