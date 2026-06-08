@@ -1,0 +1,176 @@
+xubuntu 26.04 virtualbox
+
+
+chmod +x ./build-linux.sh
+
+sudo apt install git make cmake gcc g++ gedit lftp
+
+sudo apt-get install curl zip unzip tar
+./bootstrap-vcpkg.sh -disableMetrics
+
+
+sudo apt install ninja-build nasm pkg-config autoconf autoconf-archive automake libtool
+
+
+for:
+/usr/bin/python3 -I -m venv --symlinks /home/wmt/vcpkg/buildtrees/libsystemd/x64-linux-release-venv
+sudo apt install python3.14-venv
+
+
+
+VCPKG_ROOT=/home/wmt/vcpkg ./build-linux.sh
+
+
+
+src/basic/errno-to-name.h:71:23: error: initialized field overwritten [-Werror=override-init]
+   71 |         [EFSBADCRC] = "EFSBADCRC",
+      |                       ^~~~~~~~~~~
+src/basic/errno-to-name.h:71:23: note: (near initialization for ‘errno_names[74]’)
+src/basic/errno-to-name.h:114:26: error: initialized field overwritten [-Werror=override-init]
+  114 |         [EFSCORRUPTED] = "EFSCORRUPTED",
+
+gedit /home/wmt/vcpkg/buildtrees/libsystemd/package-x64-linux-release-rel-out.log
+gedit ./vcpkg/buildtrees/libsystemd/x64-linux-release-rel/src/basic/errno-to-name.h
+comment 71 and 114 line
+
+
+gedit /home/wmt/vcpkg/ports/libsystemd/fix-2604-build.patch
+add line:          '-Wno-error=override-init',
++vcpkg_omit_werror = [
+         '-Werror=bool-compare',
+         '-Werror=discarded-qualifiers',
+         '-Wno-error=override-init',
+         '-Werror=flex-array-member-not-at-end',
+@@ -392,6 +394,8 @@ possible_common_cc_flags = [
+         '-Werror=shift-overflow=2',
+         '-Werror=strict-flex-arrays',
+         '-Werror=undef',
++]
+
+
+replace .tar.gz
+mod /home/wmt/vcpkg/buildtrees/versioning_/versions/libsystemd/9a7380e250b16232a48738c3e0798f07006c24c8/portfile.cmake
+mod
+SHA512 line
+3e179da0679892db82ad2003c352dce22e7aecad3bc399b240323e32e3bc21b3694771f63684c5f4eaa5a73cd9de69e811adfb02453d7e4cb76d0c5d79cda46f
+
+
+
+
+
+
+
+
+/dbus-launch' (From '' -> To '$ORIGIN:$ORIGIN/../../lib')
+-- Adjusted RPATH of '/home/wmt/vcpkg/packages/dbus_x64-linux-release/tools/dbus/dbus-monitor' (From '' -> To '$ORIGIN:$ORIGIN/../../lib')
+-- Adjusted RPATH of '/home/wmt/vcpkg/packages/dbus_x64-linux-release/tools/dbus/dbus-run-session' (From '' -> To '$ORIGIN:$ORIGIN/../../lib')
+-- Adjusted RPATH of '/home/wmt/vcpkg/packages/dbus_x64-linux-release/tools/dbus/dbus-send' (From '' -> To '$ORIGIN:$ORIGIN/../../lib')
+-- Adjusted RPATH of '/home/wmt/vcpkg/packages/dbus_x64-linux-release/tools/dbus/dbus-test-tool' (From '' -> To '$ORIGIN:$ORIGIN/../../lib')
+-- Adjusted RPATH of '/home/wmt/vcpkg/packages/dbus_x64-linux-release/tools/dbus/dbus-update-activation-environment' (From '' -> To '$ORIGIN:$ORIGIN/../../lib')
+-- Adjusted RPATH of '/home/wmt/vcpkg/packages/dbus_x64-linux-release/tools/dbus/dbus-uuidgen' (From '' -> To '$ORIGIN:$ORIGIN/../../lib')
+-- Performing post-build validation
+Starting submission of dbus[core,systemd]:x64-linux-release@1.16.2#2 to 1 binary cache(s) in the background
+Elapsed time to handle dbus:x64-linux-release: 29 s
+Completed submission of expat:x64-linux-release@2.7.4 to 1 binary cache(s) in 21.2 ms
+Installing 3/4 sdl3[core,ibus,wayland,x11]:x64-linux-release@3.4.0...
+sdl3[core,ibus,wayland,x11]:x64-linux-release@3.4.0 package ABI: c8250ec40f3f06345ac32097f969ab671acda9e6426d009ecd249da27b8c3e0c
+Building sdl3[core,ibus,wayland,x11]:x64-linux-release@3.4.0...
+/home/wmt/vcpkg/triplets/community/x64-linux-release.cmake: info: loaded community triplet from here. Community triplets are not built in the curated registry and are thus less likely to succeed.
+Downloading https://github.com/libsdl-org/SDL/archive/release-3.4.0.tar.gz -> libsdl-org-SDL-release-3.4.0.tar.gz
+Successfully downloaded libsdl-org-SDL-release-3.4.0.tar.gz
+-- Extracting source /home/wmt/vcpkg/downloads/libsdl-org-SDL-release-3.4.0.tar.gz
+-- Applying patch fix-freebsd.patch
+-- Using source at /home/wmt/vcpkg/buildtrees/sdl3/src/ease-3.4.0-5126657c3e.clean
+CMake Warning at buildtrees/versioning_/versions/sdl3/d2ee74ca7389a31ac2090e949f895da5c002434c/portfile.cmake:33 (message):
+  You will need to install Xorg dependencies to use feature x11:
+
+  sudo apt install libx11-dev libxft-dev libxext-dev
+
+Call Stack (most recent call first):
+  scripts/ports.cmake:206 (include)
+
+
+CMake Warning at buildtrees/versioning_/versions/sdl3/d2ee74ca7389a31ac2090e949f895da5c002434c/portfile.cmake:36 (message):
+  You will need to install Wayland dependencies to use feature wayland:
+
+  sudo apt install libwayland-dev libxkbcommon-dev libegl1-mesa-dev
+
+Call Stack (most recent call first):
+  scripts/ports.cmake:206 (include)
+
+
+CMake Warning at buildtrees/versioning_/versions/sdl3/d2ee74ca7389a31ac2090e949f895da5c002434c/portfile.cmake:39 (message):
+  You will need to install ibus dependencies to use feature ibus:
+
+  sudo apt install libibus-1.0-dev
+
+Call Stack (most recent call first):
+  scripts/ports.cmake:206 (include)
+
+
+-----
+
+
+/home/wmt/krkrsdl3/cpp/core/archive/minizip/unzip.c:1507:34: error: passing argument 2 of ‘unzOpenData’ from incompatible pointer type [-Wincompatible-pointer-types]
+ 1507 |         return unzOpenData(file, &s->pfile_in_zip_read, method, level, raw, password);
+      |                                  ^~~~~~~~~~~~~~~~~~~~~
+      |                                  |
+      |                                  file_in_zip64_read_info_s **
+In file included from /home/wmt/krkrsdl3/out/linux/vcpkg_installed/x64-linux-release/include/zlib.h:34,
+                 from /home/wmt/krkrsdl3/cpp/core/archive/minizip/unzip.c:75:
+/home/wmt/krkrsdl3/cpp/core/archive/minizip/unzip.h:382:59: note: expected ‘void **’ but argument is of type ‘file_in_zip64_read_info_s **’
+  382 | extern int ZEXPORT unzOpenData OF((unzFile file, unzData *data,
+      |                                                  ~~~~~~~~~^~~~
+[8/207] Building CXX object CMakeFiles....dir/Debug/cpp/core/main/TVPEvent.cpp.o
+ninja: build stopped: subcommand failed.
+
+
+
+	return unzOpenData(file, &s->pfile_in_zip_read, method, level, raw, password);
+}
+->
+	return unzOpenData(file, (void **)&s->pfile_in_zip_read, method, level, raw, password);
+}
+
+---
+
+
+/home/wmt/krkrsdl3/cpp/core/script/tjsNativeTimer.cpp: In member function ‘void tTVPTimerThread::AddItem(tTJSNI_Timer*)’:
+/home/wmt/krkrsdl3/cpp/core/script/tjsNativeTimer.cpp:326:14: error: ‘find’ is not a member of ‘std’; did you mean ‘bind’?
+  326 |     if (std::find(List.begin(), List.end(), item) == List.end())
+      |              ^~~~
+      |              bind
+
+
+#include <algorithm>
+
+
+---------
+
+
+/home/wmt/krkrsdl3/cpp/plugins/sqlite3/xp3_vfs.cpp:272:5: error: ‘gettimeofday’ was not declared in this scope
+  272 |     gettimeofday(&tv, NULL);
+      |     ^~~~~~~~~~~~
+
+
+#include <sys/time.h>
+
+---------
+
+/usr/bin/x86_64-linux-gnu-ld.bfd: cannot find -lGL: No such file or directory
+collect2: error: ld returned 1 exit status
+
+
+sudo apt install libgl-dev
+
+
+------
+
+cd out/linux
+ninja clean
+ninja -v
+
+
+
+
+
