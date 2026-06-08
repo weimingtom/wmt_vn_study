@@ -77,8 +77,7 @@ Could not locate a complete Visual Studio instance
 
 ```
 
-
-## Prebuild .sh file before make -j4
+## Prebuild .sh file before make -j4, under Xubuntu 26.04 VirtualBox (upgraded but also slow)  
 * mkdir build; cd build
 * add build_android.sh in ./build/.
 ```
