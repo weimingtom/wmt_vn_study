@@ -1922,7 +1922,14 @@ EGLDisplay EGLContextManager::AcquireAngleDisplay(AngleBackend& backend) {
 * (?) From the manual of 旧柚, com.vintage.pomelo  
 * I don't know if it is the author of VintagePomelo (旧柚), but I hear that it's not the same author      
 * (x) Under construction, see dev branch  
-* Try to build Linux version
+* Try to build Linux version  
+https://github.com/weimingtom/wmt_vn_study/blob/master/krkrsdl3_build_linux_001.txt  
+```
+sudo apt install git make cmake gcc g++ gedit lftp
+sudo apt-get install curl zip unzip tar
+sudo apt install ninja-build nasm pkg-config autoconf autoconf-archive automake libtool  
+sudo apt install python3.14-venv  
+```
 ```
 编译krkrsdl3/krkrsdl3的linux版，可以编译，但运行失败（好像是sdl初始化失败？）。
 很想吐槽vcpkg难用，不过算了，反正找到方法改库代码，当没事了。可能下次编译安卓版，
@@ -1930,6 +1937,7 @@ EGLDisplay EGLContextManager::AcquireAngleDisplay(AngleBackend& backend) {
 因为我感觉这个项目有可能也是瞎搞的，甚至能不能运行也难说
 ```
 * Try to build Android version
+https://github.com/weimingtom/wmt_vn_study/blob/master/krkrsdl3_build_android_001.md  
 ```
 我把krkrsdl3/krkrsdl3的安卓版编译出来了，可以运行，只是需要把data.xp3
 放在data目录里面才能搜索出来，不解。没看懂原理，
