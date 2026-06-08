@@ -20,7 +20,8 @@ sudo apt install python3.14-venv
 
 VCPKG_ROOT=/home/wmt/vcpkg ./build-linux.sh
 
-
+==================
+NOTE:(not good, don't use this method)
 
 src/basic/errno-to-name.h:71:23: error: initialized field overwritten [-Werror=override-init]
    71 |         [EFSBADCRC] = "EFSBADCRC",
@@ -47,9 +48,11 @@ add line:          '-Wno-error=override-init',
          '-Werror=undef',
 +]
 
-
-replace .tar.gz
-mod /home/wmt/vcpkg/buildtrees/versioning_/versions/libsystemd/9a7380e250b16232a48738c3e0798f07006c24c8/portfile.cmake
+(not good, don't use this method, using replace .tar.gz)
+=========================
+mod meson.build: -Werror=override-init -> -Wno-error=override-init
+and repack systemd's (libsystemd's) .tar.gz, replace .tar.gz
+and then modify .tar.gz file SHA512, see /home/wmt/vcpkg/buildtrees/versioning_/versions/libsystemd/9a7380e250b16232a48738c3e0798f07006c24c8/portfile.cmake
 mod
 SHA512 line
 3e179da0679892db82ad2003c352dce22e7aecad3bc399b240323e32e3bc21b3694771f63684c5f4eaa5a73cd9de69e811adfb02453d7e4cb76d0c5d79cda46f
