@@ -3,6 +3,7 @@
 ```
 VCPKG_ROOT
 D:\work_krkrsdl3\vcpkg-master
+D:\work_krkrsdl3\vcpkg
 
 ANDROID_NDK_HOME=
 D:\home\soft\android_studio_sdk\ndk\28.0.13004108
