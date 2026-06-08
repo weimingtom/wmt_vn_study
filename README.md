@@ -1936,8 +1936,8 @@ sudo apt install python3.14-venv
 但这次这样，下次可能要等很久以后。暂时未考虑逆向出这个工程的makefile，
 因为我感觉这个项目有可能也是瞎搞的，甚至能不能运行也难说
 ```
-* Try to build Android version
-https://github.com/weimingtom/wmt_vn_study/blob/master/krkrsdl3_build_android_001.md  
+* Try to build Android version  
+https://github.com/weimingtom/wmt_vn_study/blob/master/krkrsdl3_build_android_001.md    
 ```
 我把krkrsdl3/krkrsdl3的安卓版编译出来了，可以运行，只是需要把data.xp3
 放在data目录里面才能搜索出来，不解。没看懂原理，
