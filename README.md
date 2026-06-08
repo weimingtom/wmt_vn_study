@@ -1916,11 +1916,31 @@ EGLDisplay EGLContextManager::AcquireAngleDisplay(AngleBackend& backend) {
 * https://github.com/CuteMurasame/krkr2-linux   
 * https://github.com/weimingtom/krkr2-linux_fork  
 
-## (TODO) krkrsdl3  
-* https://github.com/luxiaoling-mc/krkrsdl3  
+## krkrsdl3, mainly for Android, also support Windows and Linux (but I don't know if stable)      
+* (oriign) https://github.com/krkrsdl3/krkrsdl3  
+* (origin, old name) https://github.com/luxiaoling-mc/krkrsdl3  
 * (?) From the manual of 旧柚, com.vintage.pomelo  
-* I don't know if it is the author of VintagePomelo (旧柚)    
-* Under construction, see dev branch  
+* I don't know if it is the author of VintagePomelo (旧柚), but I hear that it's not the same author      
+* (x) Under construction, see dev branch  
+* Try to build Linux version
+```
+编译krkrsdl3/krkrsdl3的linux版，可以编译，但运行失败（好像是sdl初始化失败？）。
+很想吐槽vcpkg难用，不过算了，反正找到方法改库代码，当没事了。可能下次编译安卓版，
+但这次这样，下次可能要等很久以后。暂时未考虑逆向出这个工程的makefile，
+因为我感觉这个项目有可能也是瞎搞的，甚至能不能运行也难说
+```
+* Try to build Android version
+```
+我把krkrsdl3/krkrsdl3的安卓版编译出来了，可以运行，只是需要把data.xp3
+放在data目录里面才能搜索出来，不解。没看懂原理，
+好像soft和opengl绘画都支持（不确定），需要三手指手势才能弹出菜单，
+除此以外就没有什么特别的（应该没那个flutter版好看）。
+暂时不打算改成ndk-build编译（虽然我可以逆向出来），
+如果要搞也要等9月份以后，而且这个作者可能在频繁修改，我就不管了，
+但这个开源项目有一定参考价值，基于glad和sdl3，
+我应该会动手改一下的，但现在不研究。
+另外这个vcpkg编译反而比较顺利，没有编译linux版那个麻烦
+```
 
 ## kirikiri3-legacy  
 * https://github.com/w-dee/kirikiri3-legacy  
