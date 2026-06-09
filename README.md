@@ -5821,3 +5821,20 @@ OPムービーだけ仕上がっても
 
 ## GAMEDB, 游戏引擎：NScripter  
 * https://indienova.com/gamedb/engine/nscripter/p/1
+
+## 转 // [HP Prime]计算器galgame再次更新，KMGEcFinalA发布
+* [HP Prime]计算器galgame再次更新，KMGEcFinalA发布
+https://www.bilibili.com/video/BV1GRXNBiEfC  
+* [HP Prime]计算器Galgame引擎KMGEc1.5
+https://www.bilibili.com/video/BV1U3EtzWE9t
+* Eden.hpappdir.zip
+* RIN MIKU.hpappdir.zip
+* SenRenBanKa.hpappdir.zip
+* HP Prime Virtual Calculator, HP_Prime_Virtual_Calculator_x64_2025_09_15.exe  
+https://updates.moravia-consulting.com  
+https://hpcalcs.com/download/  
+```
+转，（不是我做的），我测试过B站上有人写的HP Prime计算器的galgame引擎系统，
+也可以在HP Prime虚拟计算器上运行，效果如下图，如果需要代码可以找
+B站的计算器galgame，虽然我看到有很多人做 ​​​
+```
