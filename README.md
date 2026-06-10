@@ -5838,3 +5838,8 @@ https://hpcalcs.com/download/
 也可以在HP Prime虚拟计算器上运行，效果如下图，如果需要代码可以找
 B站的计算器galgame，虽然我看到有很多人做 ​​​
 ```
+
+## MMDZip.rar等工具, from 同人音声吧 (贴吧)
+* RenameFilesV1.3.4.rar, 重命名？
+* MMDZip.rar, 解决Shift-JIS乱码文件名的unzip？
+* CPChange.zip, 这个貌似是拿来转Shift-JIS乱码的，复制粘贴就能转换
