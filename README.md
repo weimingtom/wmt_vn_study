@@ -1928,7 +1928,7 @@ https://github.com/weimingtom/wmt_vn_study/blob/master/krkrsdl3_build_linux_001.
 ```
 sudo apt install git make cmake gcc g++ gedit lftp
 sudo apt-get install curl zip unzip tar
-sudo apt install ninja-build nasm pkg-config autoconf autoconf-archive automake libtool  
+sudo apt install ninja-build nasm pkg-config autoconf autoconf-archive automake libtool libgl-dev   
 sudo apt install python3.14-venv  
 ```
 ```
