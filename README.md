@@ -1914,9 +1914,10 @@ EGLDisplay EGLContextManager::AcquireAngleDisplay(AngleBackend& backend) {
 
 ## krkr2-linux  
 * https://github.com/CuteMurasame/krkr2-linux   
-* https://github.com/weimingtom/krkr2-linux_fork  
+* **(TODO)** https://github.com/weimingtom/krkr2-linux_fork  
 
 ## krkrsdl3, mainly for Android, also support Windows and Linux (but I don't know if stable)      
+* **(TODO)** port to Android and Linux, see 移动硬盘/_krkrsdl3_build_20260607/android_build/verbose.txt, xubuntu2604/verbose.txt   
 * (oriign) https://github.com/krkrsdl3/krkrsdl3  
 * (origin, old name) https://github.com/luxiaoling-mc/krkrsdl3  
 * (?) From the manual of 旧柚, com.vintage.pomelo  
@@ -1949,6 +1950,10 @@ https://github.com/weimingtom/wmt_vn_study/blob/master/krkrsdl3_build_android_00
 我应该会动手改一下的，但现在不研究。
 另外这个vcpkg编译反而比较顺利，没有编译linux版那个麻烦
 ```
+
+## (TODO) AetherKiri, for Godot GDExtensions(?)
+* https://github.com/AetherKiri/AetherKiri  
+* **(TODO)** https://github.com/AetherKiri/AetherKiri/blob/main/bridge/godot_extension/src/aether_kiri_godot.cpp  
 
 ## kirikiri3-legacy  
 * https://github.com/w-dee/kirikiri3-legacy  
