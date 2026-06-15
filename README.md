@@ -2047,6 +2047,13 @@ https://baike.baidu.com/item/角斗士/19859499?fr=aladdin
 * 吉里吉里v2.0.exe解压后：  
 汉化版，仅汉化了krkr.eXe，其余打包工具没有汉化    
 Wizard.exe: KCDPP KAGeXpress新工程向导  
+* 2010-1-17, KCDDP ADV综合创作站 >> KAGeXpress, [发布]KAGeXpress 3.0 beta3r2  
+https://kcddp.keyfc.net/bbs/viewthread.php?tid=1306&extra=page%3D1  
+KAGeXpress3-beta3r2.7z  
+see 115, Gal_Port_Tools_Collection.7z  
+* 2007-1-3, KCDDP ADV综合创作站 >> KAGeXpress, [发布]KCDDP KAGeXpress 3.0 beta2  
+KAGeXpress3-beta2.rar  
+https://kcddp.keyfc.net/bbs/viewthread.php?tid=41&extra=page%3D1  
 
 ## fantasydr/krkr-cs  
 * https://github.com/fantasydr/krkr-cs  
