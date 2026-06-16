@@ -4880,6 +4880,8 @@ asmodean's reverse engineering page - news and updates
 * https://github.com/ComittoNxA/ComittoNxA
 * 虽然勉强可以用，不过可能不支持最新的安卓，如果用不了就算了  
 * 用快图（quickpic）可能更好
+* 旧版ComittoNN v1.65a源代码和apk，出处不明，注意旧版已经不能用于较新的安卓，建议用ComittoNxA    
+https://docs.google.com/folder/d/0Bzx6UxEo3Pg0SXNIQVdRVnVqemM/edit?pli=1   
 
 ## MangaMeeya, a PC manga reader     
 * https://github.com/leopck/MangaMeeya
