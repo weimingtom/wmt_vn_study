@@ -1,0 +1,85 @@
+常用GALGAME解包工具集合 - AVG游戏制作调教室 - 萌动世界 - Powered by Discuz!
+
+2015年2月13日(星期五) 下午4:22 | 分类：未分类 | 字数：2219
+
+http://www.iacger.com/forum.php?mod=viewthread&tid=63297
+
+嗯，當你看到一個很不錯的GALGAME，想要把她的遊戲資源裡面提取出來，當同人遊戲素材參考，你往往會無計可施= =
+
+因為遊戲資源都被封包為遊戲主程式專用的封包格式，所以你無法直接提取（針對新手而言）
+
+所以你就要會解包，常見的解包工具我就不用再做說明了把，crass，XP3Viewer，XP3Dumper，arc_conv，ExtractData這些工具軟體應該很常見吧
+
+當然這些工具也不是萬能的，因此你還需要其他工具
+
+廢話完畢，然後以下放出經本人修改的文章
+
+原帖網址（乜都讲D） ：http://blog.ztjal.info/acg/acg-d ... npack-tools-website 
+
+这些工具如何使用，请自行解决。所有网址均于2012.12.28验证有效。
+westside（部分收費）
+http://www.westside.co.jp/
+Susie（已有新版本更新）
+http://www.digitalpad.co.jp/~takechin/download.html
+旧游戏Susie插件对应搜索
+http://dawg.s56.xrea.com/search_plugin.php
+旧游戏对应的Susie插件搜索与下载
+http://www.cgdreamland.com/projectsusie/
+HCG Converter（比較老了）
+http://www.angelfire.com/nm/fbkcfy/
+ExtractData（同比較老了）
+http://atelibet.s11.xrea.com/side_yuu/tool/
+（连接失效了，自己另外搜索吧）
+GameViewer（我沒聽說過）
+http://www.cppblog.com/crhackos/archive/2011/06/18/148905.html
+QuestLAB（GameViewer 的后续版本）（好吧我是渣渣）
+https://github.com/prefetchnta/questlab
+CRASS（FC2可訪問了，但已經比較老了）
+http://galcrass.blog124.fc2.com/
+ZeaS（特别的CRASS插件）
+http://blog.sina.com.cn/zeas
+恵理ちゃんｃｌｕｂ（萌衣☆Player、noa32）（很老了）
+http://www.entis.jp/eri/
+asmodean（比較常用，用命令行操作）
+http://asmodean.reverse.net/pages/tools_index.html
+arc_conv（比較常用）
+http://desu.ru/forum/topic/330
+XP3 Viewer（最好用的krkr2解包工具，不過對於早期版本的krkr2有兼容性問題，譬如解不完整）
+http://bbs.xxxc.at/thread-1747-1-5.html
+Nitro+解包/封包工具（N+社的我不怎麼玩，嗯）
+http://bbs.xxxc.at/thread-6561-1-5.html
+xp3dumper（現在可以用XP3Viewer替代了，不過某些遊戲還必須要用到XP3Dumper）
+https://www.yukict.com/bbs/thread-62299-1-1.html
+m-akita（不明）
+http://m-akita.sakura.ne.jp/program.php
+真美ツールズ（不明）
+http://www.dsl.gr.jp/~sage/sagepage/
+riox（專用提取工具）
+http://riox.thisillusion.org/
+Visual Novel tools（沒用過）
+http://vn.i-forge.net/tools/
+Grapholic（好老= =）
+http://www.vector.co.jp/soft/win95/art/se039492.html
+ffv 製圖樂園（KaguyaCut）（不明屬性）
+http://ffvsoftparadise.allalla.com/soft/soft.htm
+AnimED - VN Tools（目測很老了）
+http://wks.arai-kibou.ru/ae.php?p=dl
+HalTe2（未知）
+http://sourceforge.net/projects/halte2/
+halte3（未知）
+https://code.google.com/p/halte3/
+（下面两个不提供网上公开下载）
+wolfextract
+RPGDecrypter（泄了，自己搜索）
+如何分辨遊戲引擎，請自行檢索crass插件列表
+
+需要查看解包日誌也可以參考和發這個工具載點集合的大神博客：http://blog.ztjal.info/
+有些要调用EXE来解包的工具，如果EXE加壳了的话可能要脱壳才能解包，简单点用Ollydbg来脱就可以了。
+嗯，這就是本區新年第一帖。
+
+如需更多解包資訊也可以參考YUKI 飛雪之城論壇的 Crass專區
+
+新年快樂，恭喜恭喜！
+
+-END-
+
