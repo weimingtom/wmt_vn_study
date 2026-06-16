@@ -14,6 +14,8 @@ Nothing seek, nothing find
 ```
 
 ## TODO  
+* 转 // [置頂]個人整理的已漢化GalGame列表 (2022/01/23最終更新)
+* 转 // 個人整理的已漢化GalGame列表2 (2022/01/23最終更新)  
 * (TODO) 待宵草iso (?), RUN iso
 * (TODO) 美少女角色设计iso
 * (TODO) 搜索小鸡模拟器安卓版，输入：汉化版；筛选：所有类型-PSP-冒险游戏
