@@ -127,6 +127,9 @@ https://w.atwiki.jp/wiki1_orz/pages/16.html
 https://tieba.baidu.com/p/3363808722   
 恋战不休~武斗少女浪漫谭~ 连载式在线AVG/真·武斗派恋爱喜剧 官方网站  
 (dead) https://ww38.polka-dot.co/lzbx.php  
+* 常用GALGAME解包工具集合 - AVG游戏制作调教室 - 萌动世界 - Powered by Discuz!  
+(dead) http://www.iacger.com/forum.php?mod=viewthread&tid=63297  
+2015/2/13  
 
 ## Android galgame toolkit link collection   
 * https://github.com/weimingtom/wmt_android_galgame_test_suite  
