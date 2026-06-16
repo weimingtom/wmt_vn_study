@@ -123,6 +123,10 @@ https://github.com/weimingtom/wmt_vn_study/blob/master/zhihu_001.txt
 * 转 // 個人整理的已漢化GalGame列表2 (2022/01/23最終更新)    
 * 制作ツールリンク - 藻前が一つのゲームを立派に作り上げるスレまとめサイト - atwiki（アットウィキ）
 https://w.atwiki.jp/wiki1_orz/pages/16.html   
+* 有关国产Gal及制作团队的整理, tieba, 黙示吧    
+https://tieba.baidu.com/p/3363808722   
+恋战不休~武斗少女浪漫谭~ 连载式在线AVG/真·武斗派恋爱喜剧 官方网站  
+(dead) https://ww38.polka-dot.co/lzbx.php  
 
 ## Android galgame toolkit link collection   
 * https://github.com/weimingtom/wmt_android_galgame_test_suite  
