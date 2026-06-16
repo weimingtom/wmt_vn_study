@@ -3871,6 +3871,7 @@ https://www.vector.co.jp/vpack/browse/person/an007423.html
 
 ## (Forget) Extractor(?)  
 * 我不记得是哪个软件了, 好像是一本书上提及  
+* See also Extractor2.5.rar, inside Gal_Port_Tools_Collection.7z  
 
 ## RPGViewer and GameViewer and questlab      
 * (origin) https://github.com/prefetchnta/gameviewer  
