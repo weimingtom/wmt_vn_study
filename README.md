@@ -366,6 +366,8 @@ https://lycoris2475.xxxxxxxx.jp/ons/ONS20100510_QVGA.zip
 Uncle Mion's ONScripter Corner
 about the English branch of ONScripter, a game scripting engine 
 ```
+* (origin, dead) http://onscripter.denpa.mobi/?page_id=26  
+(origin) https://web.archive.org/web/20100726192846/http://onscripter.denpa.mobi/?page_id=26  
 * (origin, dead) http://unclemion.com/onscripter/releases/  
 (origin) https://web.archive.org/web/20110614232450/http://unclemion.com/onscripter/  
 (origin) https://web.archive.org/web/20110617000946/http://unclemion.com/onscripter/releases/  
