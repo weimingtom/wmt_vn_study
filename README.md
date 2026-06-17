@@ -1984,6 +1984,12 @@ https://github.com/weimingtom/wmt_vn_study/blob/master/krkrsdl3_build_android_00
 * https://github.com/AetherKiri/AetherKiri  
 * **(TODO)** https://github.com/AetherKiri/AetherKiri/blob/main/bridge/godot_extension/src/aether_kiri_godot.cpp  
 
+## https://github.com/fenghengzhi/kirikiroid2-web  
+
+## https://github.com/xiaocongyu66/KiriKiri-LauncherC  
+
+## https://github.com/xb65478/krkrsdl2-web  
+
 ## kirikiri3-legacy  
 * https://github.com/w-dee/kirikiri3-legacy  
 
