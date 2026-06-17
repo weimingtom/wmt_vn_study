@@ -1,0 +1,161 @@
+ADV Engine HIYU
+创建时间：2015年2月13日(星期五) 下午3:38 | 分类：未分类 | 字数：2882  | 另存为... | 打印 | 添加到日历
+http://kuon.cp68.org/wp/adv-engine/
+
+
+ADV Engine
+
+主要介紹製作ADV遊戲引擎的地方。
+new↑ old↓
+
+LemonNovel
+http://www.le-mo.jp/lemo/products/LemoNovel/index.htm
+
+由LEMO.所製作的Flash線上ADV遊戲引擎。
+只要有Flash Player任何OS也能遊玩，不需要下載安載。(也可以用在手提電話上)
+對應UTF-8，基本ADV該有的功能都齊全。
+大量的ini定義，腳本方式和吉里吉里的KAG相似。(會吉里吉里的人可以很快就熟手)
+完成的作品可以上傳到網絡空間即可，也算是另類的分享遊戲方法吧。
+
+Retouch
+http://www.retouch.info/retouch/index.html
+
+由薫氏所開發的泛用遊戲引擎。
+除了製作ADV外，也可以用來製作RPG或模擬類遊戲。
+設有GUI編寫器的IDE，也有詳細的說明教學，圖文並荗一步一步的指示做法。
+內附有範例，有興趣可以一試。
+也有商業作品是使用此引擎製作，如式神(WhiteCyc)，闇の声ZERO(BlackCyc)。
+
+A.I.M.S.
+http://aims.dna-softwares.com/
+
+由D.N.A Software開發遊戲用的引擎。
+全名為Actor-based Integrated Multimedia System，使用語言為Lua。
+主要用來製造2D類遊戲，由要用來開發STG、ACT、TAB類遊戲，但RPG、ADV和電子小說系的遊戲也能夠製作。
+D.N.A.也用來製作過彈幕和麻將類型的遊戲。
+能同時支持4個玩家同時遊玩。
+引擎有附上範例，有興趣可以一試。
+網絡上的相關資源比較少就是了。
+
+CatSystem2
+http://cs2.suki.jp/
+
+由ういんどみる發售的遊戲所使用的引擎。
+也是用獨有的Script來編寫AVG遊戲，為目的提高製作效率。
+在圖像管理方面也非常完善，用PSD檔轉換成專用格式。
+演出方面很有”活”的感覺。
+和YU-RIS一樣在設定方面有詳細的例子，只要更改一下版面就可使用。
+雖然不用轉碼也可以執行遊戲，但看了看設定檔還是只支援日文的樣子…？
+
+Ren’Py
+http://www.renpy.org/
+
+由PyTom開發的ADV引擎。Low level language為Python。
+支援Win，Linus和MAC機平台。可顯示多國語言。
+腳本語言簡單，只需要幾個詞就可以做到不少效果。
+ADV最基本的系統也已附上，只需更改介面即可。
+素材和教學方面wiki上有不少參考，值得一試。
+看站上例子也有人做成音樂遊戲。
+
+HSP3
+http://www.onionsoft.net/hsp/
+
+由おにたま開發的接近VB語言的功能強大引擎。已有十多年歷史。
+自帶不少工具幫忙開發並內附範例，亦支援3D。
+可作成JAVA檔在不同的環境下使用。
+Open Source有。
+
+Blade
+http://www.bladeengine.com/
+
+由CuriousFactory開發的英文版ADV遊戲引擎。
+有Free version和Pro Version。
+站上有素材下載、教學和討論區。也有此引擎製作的遊戲介紹等。
+也可製作出於手機上的遊戲。
+
+ADVRUN
+http://buin2gou.com/
+
+由部員弐号所開發的ADV遊戲引擎。
+現已停止更新。似乎只另外支援英文和韓文。
+有GUI和SCRIPT。已自設有S/L介面。
+有詳細調較設定介面。
+站上有其他程式開發和素材下載。
+
+LiveMaker
+http://www.livemaker.net/
+
+由有限会社ヒューマンバランス製作的ADV遊戲引擎。
+由於是GUL設計，開發遊戲難度下降不少，不少同人AVG遊戲也使用此工具製作。
+不過…問題是字體太小了；另外不支援其他語言，只限日文。
+站上也有其他工具，像是專門畫DOT繪的和線上DOT繪交流遊戲等。
+
+Novelty
+http://www.visualnovelty.com/
+
+由Erik Benerdal所開發的ADV遊戲引擎。
+雖然是英文，但由於是GUI，新手可以很快上手。(WYSIWYG編輯器)
+程式語言比較像C++，管理素材的方式是用XML語言。
+工具齊全，打包、安裝包也有提供。可謂一套裝走天下XD?
+只要有字體，什麼編碼也支援。
+新手入門非常推介。
+
+YU-RIS
+http://yu-ris.net/
+
+由たくみ製作的ADV遊戲引擎。
+使用ERIS的語言。不需要任何程式底子就可以做出簡單的電子小說。
+AVG遊戲的基本功能全部已付有，製作者只需自己改造就可做出現自己想要的介面。
+檔案分類清晰，可一次管理多個企劃。
+功能強大，感覺上和吉里吉里不相百仲，甚至更強大。
+也已有人製作出Mini Game、RPG類的遊戲。
+
+看了看Config，支援繁中簡中和韓文。
+不過檔案不能以UTF16來存檔就是了…
+
+SYSTEM 3.5~4
+http://www.alicesoft.com/
+
+由Alicesoft自家開發用的引擎。
+RPG、SLG、AVG篡類型的遊戲也可以製作。
+語言接近C++的Low Level Language。
+站上也有不少相關連結。
+
+Yuuki! Novel
+http://freett.com/yuukiex/
+
+由Yuuki Yonezawa 所製作的附有GUI的AVG遊戲製作引擎，因此門檻較低。
+貌似很久才更新一次…
+不少同人乙女向遊戲也是使用這款製作。
+只支援日文。
+
+無雙引擎
+http://gamediy.net/wiki/
+
+新建的AVG引擎。由Lance所開發。
+一款基於Python製作的AVG遊戲製作引擎。
+以簡單文字表達方式製作AVG遊戲。
+已附有詳細的Sample，非常值得一試。
+雖然主體是簡中，但也支援繁中。
+新手可以嘗試一下中文的親切感。
+還在更新中。
+
+吉里吉里2
+http://kikyou.info/
+
+吉里吉里2，簡稱Krkr2。由W.Dee所製作的功能強大的ADV遊戲製作工具。
+本身有KAG3，比較接近HTML/ 論壇語法，適合初學入門；
+和TJS2，比較接近JAVA和JAVASCRIPT的Low Level Language，能做出更多更複雜的效果。
+
+現正開發吉里吉里3中。(題外: 話雖如此…最近正熱衷做電子鐘…？(20090607))
+
+NScripter
+http://www.nscripter.com/
+
+NScripter，簡稱NS。由高橋直樹製作的ADV遊戲引擎。
+語法簡潔，不太需要有程式底子，任何人都適用。
+做簡單的AVG極為方便。
+最新版本開始支援LUA語言。
+
+站上也有NS相關的工具和其他作品。
+  
