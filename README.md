@@ -14,6 +14,8 @@ Nothing seek, nothing find
 ```
 
 ## TODO  
+* 【cocos2d-x】CCLabelBMFontでADVゲーム風の文字送りを実現する  
+https://survive-engineer.hatenablog.com/entry/2014/02/13/013103  
 * (TODO) 待宵草iso (?), RUN iso
 * (TODO) 美少女角色设计iso
 * (TODO) 搜索小鸡模拟器安卓版，输入：汉化版；筛选：所有类型-PSP-冒险游戏
@@ -138,7 +140,6 @@ NOTE: Don't waste time to study this and extract games
 * ADV Engine HIYU, 主要介紹製作ADV遊戲引擎的地方。    
 (dead) http://kuon.cp68.org/wp/adv-engine/   
 https://github.com/weimingtom/wmt_vn_study/blob/master/cp68_001.txt  
-
 
 ## Android galgame toolkit link collection   
 * https://github.com/weimingtom/wmt_android_galgame_test_suite  
