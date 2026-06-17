@@ -16,6 +16,8 @@ Nothing seek, nothing find
 ## TODO  
 * 【cocos2d-x】CCLabelBMFontでADVゲーム風の文字送りを実現する  
 https://survive-engineer.hatenablog.com/entry/2014/02/13/013103  
+https://gist.github.com/gear1554/8969873#file-helloworldscene-cpp  
+https://gist.github.com/gear1554/8969860#file-cclabelattributedbmfont-cpp  
 * (TODO) 待宵草iso (?), RUN iso
 * (TODO) 美少女角色设计iso
 * (TODO) 搜索小鸡模拟器安卓版，输入：汉化版；筛选：所有类型-PSP-冒险游戏
