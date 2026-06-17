@@ -135,6 +135,10 @@ https://github.com/weimingtom/wmt_vn_study/blob/master/iacger_001.txt
 注：此作者乃解包狂魔，当然我不推荐浪费时间去解包，慎  
 NOTE: Don't waste time to study this and extract games  
 ```
+* ADV Engine HIYU, 主要介紹製作ADV遊戲引擎的地方。    
+(dead) http://kuon.cp68.org/wp/adv-engine/   
+https://github.com/weimingtom/wmt_vn_study/blob/master/cp68_001.txt  
+
 
 ## Android galgame toolkit link collection   
 * https://github.com/weimingtom/wmt_android_galgame_test_suite  
