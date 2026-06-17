@@ -5840,7 +5840,9 @@ OPムービーだけ仕上がっても
 * WIZARD GIRL AMBITIOUS 体験版, dmmgames_0080t.zip
 * RUN, （IMP，TODO）SFA引擎  
 * SFA_v7_utf8合并.7z  
-* sfa_strings.xls  
+* sfa_strings.xls
+* Onscripter移植笔记（以SFA引擎的ツクモノツキ为例）  
+https://blog.csdn.net/abacn/article/details/45153227  
 
 ## 椎名里緒(?)
 * Rio.arc, wsc, arc, will_0232t.zip, デュエリスト×エンゲージ
