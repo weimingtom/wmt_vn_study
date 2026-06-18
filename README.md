@@ -1940,6 +1940,10 @@ EGLDisplay EGLContextManager::AcquireAngleDisplay(AngleBackend& backend) {
 ```
 * https://github.com/weimingtom/KrKr2-Next-no-vcpkg
 
+## (TODO) KiriKiri-LauncherC, based on 2468785842/krkr2, but significantly improved from core to plugins and UI (using Flutter?)  
+* **(TODO)**
+* https://github.com/xiaocongyu66/KiriKiri-LauncherC
+
 ## ningshanwutuobang/Kirikiroid2, fork of zeas2/Kirikiroid2, using cmake  
 * (origin) https://github.com/ningshanwutuobang/Kirikiroid2
 * (origin) https://github.com/ningshanwutuobang/Kirikiroid2/tree/linux_build
@@ -1992,8 +1996,6 @@ https://github.com/weimingtom/wmt_vn_study/blob/master/krkrsdl3_build_android_00
 * **(TODO)** https://github.com/AetherKiri/AetherKiri/blob/main/bridge/godot_extension/src/aether_kiri_godot.cpp  
 
 ## https://github.com/fenghengzhi/kirikiroid2-web  
-
-## https://github.com/xiaocongyu66/KiriKiri-LauncherC  
 
 ## https://github.com/xb65478/krkrsdl2-web  
 
