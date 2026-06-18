@@ -2040,6 +2040,11 @@ https://download.csdn.net/download/cping1982/3516651
 * com.eisys.almight_5.apk  
 
 ## NVLMaker  
+```
+Sometimes, NVL=NoVeL=Novel=Visual Novel  
+In Renpy, There are two main styles of presentation used for visual novels, ADV-style games and NVL-style games  
+See also https://www.renpy.org/doc/html/nvl_mode.html  
+```
 * (origin) https://www.nvlmaker.net/download.html  
 * (origin) https://github.com/VariableD/the-nvl-maker-ex  
 * (origin) https://bitbucket.org/VariableD/the-nvl-maker/downloads/  
