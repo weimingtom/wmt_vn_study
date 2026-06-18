@@ -1809,6 +1809,13 @@ Scripts.execStorage("system_polyfill/PolyfillInitialize.tjs");
 * https://github.com/weimingtom/krkrsdl2_fork2
 * https://github.com/weimingtom/krkrsdl2_fork3
 
+## webview_sdl_krkr, its assets are from krkrsdl2 wasm web distribution  
+* https://github.com/Yamilemon/webview_sdl_krkr   
+* https://github.com/Yamilemon/webview_sdl_krkr/blob/master/app/src/main/assets/krkrsdl2.wasm  
+* https://krkrsdl2.github.io/krkrsdl2/  
+* https://github.com/krkrsdl2/krkrsdl2/releases  
+* https://github.com/krkrsdl2/krkrsdl2/releases/download/latest/krkrsdl2-web.zip  
+
 ## kirikiroid2 (for Android and iOS)    
 * (origin) https://github.com/zeas2/Kirikiroid2  
 https://github.com/butter255/emu/releases/tag/krkr2
