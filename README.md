@@ -1072,8 +1072,13 @@ http://ogapee.at.infoseek.co.jp/onscripter.html
 * https://ysyx.oscc.cc/docs/ics-pa/4.5.html#运行onscripter模拟器  
 * https://github.com/NJU-ProjectN/navy-apps/tree/ics2020/apps/onscripter  
 
-## fnscripter  
-* https://github.com/weimingtom/fnscripter  
+## fnscripter, by AS3 (ActionScript 3) and Flash    
+* https://github.com/weimingtom/fnscripter
+* Flash Deflate 解包
+* https://github.com/weimingtom/fnscripter/blob/master/src/0.txt
+* loadDatFile(), loadDatFileCompleteHandler(), bytes.uncompress()
+* https://github.com/weimingtom/fnscripter/blob/master/src/fnscriper/FNSFacade.as  
+* https://github.com/weimingtom/wmt_vn_study/blob/master/FlashDataDecompressor.java
 
 ## onscripter-vita  
 * (origin) https://gitee.com/yizhigai/onscripter-vita  
