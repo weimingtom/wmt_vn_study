@@ -264,6 +264,14 @@ Python 2.7.6 (default, Jun 22 2015, 18:00:18)
 pygame (1.9.1release)
 ```
 
+## (TODO) fnscripter, by AS3 (ActionScript 3) and Flash    
+* https://github.com/weimingtom/fnscripter
+* Flash Deflate 解包
+* https://github.com/weimingtom/fnscripter/blob/master/src/0.txt
+* loadDatFile(), loadDatFileCompleteHandler(), bytes.uncompress()
+* https://github.com/weimingtom/fnscripter/blob/master/src/fnscriper/FNSFacade.as  
+* https://github.com/weimingtom/wmt_vn_study/blob/master/FlashDataDecompressor.java
+
 ## onscripter  
 * (origin, dead? the osdn.jp/sourceforge.jp version is before github version and after infoseek version) https://onscripter.osdn.jp  
 (origin, dead?) https://onscripter.osdn.jp/onscripter.html  
@@ -1071,14 +1079,6 @@ http://ogapee.at.infoseek.co.jp/onscripter.html
 * https://github.com/NJU-ProjectN/onscripter-navy  
 * https://ysyx.oscc.cc/docs/ics-pa/4.5.html#运行onscripter模拟器  
 * https://github.com/NJU-ProjectN/navy-apps/tree/ics2020/apps/onscripter  
-
-## fnscripter, by AS3 (ActionScript 3) and Flash    
-* https://github.com/weimingtom/fnscripter
-* Flash Deflate 解包
-* https://github.com/weimingtom/fnscripter/blob/master/src/0.txt
-* loadDatFile(), loadDatFileCompleteHandler(), bytes.uncompress()
-* https://github.com/weimingtom/fnscripter/blob/master/src/fnscriper/FNSFacade.as  
-* https://github.com/weimingtom/wmt_vn_study/blob/master/FlashDataDecompressor.java
 
 ## onscripter-vita  
 * (origin) https://gitee.com/yizhigai/onscripter-vita  
