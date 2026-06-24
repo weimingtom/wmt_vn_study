@@ -131,6 +131,7 @@ https://github.com/weimingtom/wmt_vn_study/blob/master/zhihu_001.txt
 https://w.atwiki.jp/wiki1_orz/pages/16.html   
 * 有关国产Gal及制作团队的整理, tieba, 黙示吧    
 https://tieba.baidu.com/p/3363808722   
+https://github.com/weimingtom/wmt_vn_study/blob/master/chinese_galgame_001.txt  
 恋战不休~武斗少女浪漫谭~ 连载式在线AVG/真·武斗派恋爱喜剧 官方网站  
 (dead) https://ww38.polka-dot.co/lzbx.php  
 * **(NOTE: Don't waste time)** 常用GALGAME解包工具集合 - AVG游戏制作调教室 - 萌动世界 - Powered by Discuz!  
