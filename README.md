@@ -5934,6 +5934,7 @@ B站的计算器galgame，虽然我看到有很多人做 ​​​
 * MyChar.swf
 * hasire.swf
 * ~pekopon.swf
+* https://github.com/weimingtom/ugame/tree/master/projects/earth_army  
 * earth_army.swf
 * game.swf
 * powerpinball.swf
