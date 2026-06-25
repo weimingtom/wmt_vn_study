@@ -1967,7 +1967,7 @@ EGLDisplay EGLContextManager::AcquireAngleDisplay(AngleBackend& backend) {
 * https://github.com/CuteMurasame/krkr2-linux   
 * **(TODO)** https://github.com/weimingtom/krkr2-linux_fork  
 
-## krkrsdl3, mainly for Android, also support Windows and Linux     
+## krkrsdl3, mainly for Android, also supports Windows and Linux     
 ```
 NOTE: For Android, you should put data.xp3 into subfolder of the search path, not the top of search path
 like this, if you set your search path to /storage/emulated/0/kr2
