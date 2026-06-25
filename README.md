@@ -5920,3 +5920,6 @@ B站的计算器galgame，虽然我看到有很多人做 ​​​
 * RenameFilesV1.3.4.rar, 重命名？
 * MMDZip.rar, 解决Shift-JIS乱码文件名的unzip？
 * CPChange.zip, 这个貌似是拿来转Shift-JIS乱码的，复制粘贴就能转换
+
+## (don't waste time) GalArc
+
