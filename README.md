@@ -1967,9 +1967,15 @@ EGLDisplay EGLContextManager::AcquireAngleDisplay(AngleBackend& backend) {
 * https://github.com/CuteMurasame/krkr2-linux   
 * **(TODO)** https://github.com/weimingtom/krkr2-linux_fork  
 
-## krkrsdl3, mainly for Android, also support Windows and Linux (but I don't know if stable)      
-* **(TODO)** port to Android and Linux, see 移动硬盘/_krkrsdl3_build_20260607/android_build/verbose.txt, xubuntu2604/verbose.txt   
-* (oriign) https://github.com/krkrsdl3/krkrsdl3  
+## krkrsdl3, mainly for Android, also support Windows and Linux     
+```
+NOTE: For Linux, You should execute krkrsdl3 data.xp3 with full path (realpath), both krkrsdl3 and data.xp3
+like this:
+/home/wmt/krkrsdl3 /home/wmt/data.xp3
+instead of
+./krkrsdl3 ./data.xp3
+```
+* (origin) https://github.com/krkrsdl3/krkrsdl3  
 * (origin, old name) https://github.com/luxiaoling-mc/krkrsdl3  
 * (?) From the manual of 旧柚, com.vintage.pomelo  
 * I don't know if it is the author of VintagePomelo (旧柚), but I hear that it's not the same author      
@@ -2000,6 +2006,24 @@ https://github.com/weimingtom/wmt_vn_study/blob/master/krkrsdl3_build_android_00
 但这个开源项目有一定参考价值，基于glad和sdl3，
 我应该会动手改一下的，但现在不研究。
 另外这个vcpkg编译反而比较顺利，没有编译linux版那个麻烦
+```
+* port to Android and Linux, see 移动硬盘/_krkrsdl3_build_20260607/android_build/verbose.txt, xubuntu2604/verbose.txt   
+* weibo record, about Linux version, need full path (realpath) of argv[0] and argv[1]
+```
+krkrsdl3研究。似乎可以勉强在xubuntu 20.04下跑起来，不过有问题：遇到文本对话框输出时会卡住，
+不知道是不是声音卡了；需要把命令行第一个参数从xp3文件的相对路径改成绝对路径；
+只能在gdb下运行，如果非调试模式会在开头就退出。所以暂时还不能放到gh上，继续改 ​​​
+
+krkrsdl3研究，好吧，原版代码是对的。我知道为什么运行安卓版和Linux版有区别，
+还有为什么运行调试版可以但直接运行则crash，这两个问题的原因是同一个，
+TVPApplication.cpp的_KRKRSDL3_LIB代码，如果是安卓版会运行这个条件宏的第一个分支，
+如果是Linux版则会运行另一个分支，所以安卓版和Linux版的效果会不一样，
+gdb运行和直接运行也会在这里不同，因为argv[0]不同。简单来说，
+原版的代码其实可以正常运行，前提是要用elf文件krkrsdl3的完整路径来调用，
+如果通过相对路径来调用elf文件就会crash，例如./krkrsdl3 xp3路径名，
+需要改成/home/aaa/krkrsdl3 xp3路径名。我改代码自己把realpath集成到代码里面，
+就可以不需要在调用时使用完整路径了。相关的修改我会放到gh上，
+目前可以在xubuntu 20.04上编译运行
 ```
 
 ## (TODO) AetherKiri, for Godot GDExtensions(?)
