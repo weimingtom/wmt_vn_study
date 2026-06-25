@@ -5923,3 +5923,16 @@ B站的计算器galgame，虽然我看到有很多人做 ​​​
 
 ## (don't waste time) GalArc
 
+## flash swf
+* https://github.com/weimingtom/wmt_vn_study/blob/master/flash_games_001.md
+* novel_koiroma.swf
+* MyChar.swf
+* hasire.swf
+* ~pekopon.swf
+* earth_army.swf
+* game.swf
+* powerpinball.swf
+* renpyAS3_TheQuestion.swf
+* 斯特拉的魔法, starchaser.swf, star_shooter_2015_april.swf, star_liner_magicofstella.swf
+* 策划的爱2.0正式版PC端.swf
+
