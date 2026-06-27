@@ -1827,6 +1827,15 @@ Scripts.execStorage("system_polyfill/PolyfillInitialize.tjs");
 * https://github.com/krkrsdl2/krkrsdl2/releases  
 * https://github.com/krkrsdl2/krkrsdl2/releases/download/latest/krkrsdl2-web.zip  
 
+## (TODO) krkrsdl2-web, based on krkrsdl2, mainly for wasm
+* (origin) https://github.com/xb65478/krkrsdl2-web
+* https://weimingtom.github.io/krkrsdl2-web/build_web/index.html  
+* **TODO:**
+```
+Add plugin source code compilation;
+Make some modifications to the original core source code
+```
+
 ## kirikiroid2 (for Android and iOS)    
 * (origin) https://github.com/zeas2/Kirikiroid2  
 https://github.com/butter255/emu/releases/tag/krkr2
@@ -2037,8 +2046,6 @@ gdb运行和直接运行也会在这里不同，因为argv[0]不同。简单来�
 * **(TODO)** https://github.com/AetherKiri/AetherKiri/blob/main/bridge/godot_extension/src/aether_kiri_godot.cpp  
 
 ## https://github.com/fenghengzhi/kirikiroid2-web  
-
-## https://github.com/xb65478/krkrsdl2-web  
 
 ## kirikiri3-legacy  
 * https://github.com/w-dee/kirikiri3-legacy  
