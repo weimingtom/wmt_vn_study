@@ -1827,9 +1827,9 @@ Scripts.execStorage("system_polyfill/PolyfillInitialize.tjs");
 * https://github.com/krkrsdl2/krkrsdl2/releases  
 * https://github.com/krkrsdl2/krkrsdl2/releases/download/latest/krkrsdl2-web.zip  
 
-## (TODO) krkrsdl2-web, based on krkrsdl2, mainly for wasm
+## (TODO, not work???) krkrsdl2-web, based on krkrsdl2, mainly for wasm
 * (origin) https://github.com/xb65478/krkrsdl2-web
-* https://weimingtom.github.io/krkrsdl2-web/build_web/index.html  
+* (not work???) https://weimingtom.github.io/krkrsdl2-web/build_web/index.html  
 * **TODO:**
 ```
 Add plugin source code compilation;
@@ -1972,7 +1972,7 @@ EGLDisplay EGLContextManager::AcquireAngleDisplay(AngleBackend& backend) {
 * https://github.com/weimingtom/kirikiroid2_fork3
 * Kirikiroid2-linux_build_v5.tar.gz
 
-## krkr2-linux  
+## krkr2-linux, based on Kirikiroid2    
 * https://github.com/CuteMurasame/krkr2-linux   
 * **(TODO)** https://github.com/weimingtom/krkr2-linux_fork  
 
