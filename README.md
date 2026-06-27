@@ -1964,6 +1964,15 @@ EGLDisplay EGLContextManager::AcquireAngleDisplay(AngleBackend& backend) {
 * **(TODO)**
 * https://github.com/xiaocongyu66/KiriKiri-LauncherC
 
+## (TODO) kirikiroid2-web, based on 2468785842/krkr2, mainly for wasm
+* https://github.com/fenghengzhi/kirikiroid2-web
+* Font file name .ttf replace
+* Wasm port
+* Comment ffmpeg code and remove ffmpeg depending
+* Cocos2d-x UI mod
+* Etc, many modifications very much, not sure
+* **TODO**
+
 ## ningshanwutuobang/Kirikiroid2, fork of zeas2/Kirikiroid2, using cmake  
 * (origin) https://github.com/ningshanwutuobang/Kirikiroid2
 * (origin) https://github.com/ningshanwutuobang/Kirikiroid2/tree/linux_build
@@ -2044,8 +2053,6 @@ gdb运行和直接运行也会在这里不同，因为argv[0]不同。简单来�
 ## (TODO) AetherKiri, for Godot GDExtensions(?)
 * https://github.com/AetherKiri/AetherKiri  
 * **(TODO)** https://github.com/AetherKiri/AetherKiri/blob/main/bridge/godot_extension/src/aether_kiri_godot.cpp  
-
-## https://github.com/fenghengzhi/kirikiroid2-web  
 
 ## kirikiri3-legacy  
 * https://github.com/w-dee/kirikiri3-legacy  
