@@ -1965,7 +1965,8 @@ EGLDisplay EGLContextManager::AcquireAngleDisplay(AngleBackend& backend) {
 * https://github.com/xiaocongyu66/KiriKiri-LauncherC
 
 ## (TODO) kirikiroid2-web, based on 2468785842/krkr2, mainly for wasm
-* https://github.com/fenghengzhi/kirikiroid2-web
+* (origin) https://github.com/fenghengzhi/kirikiroid2-web
+* (origin, work) https://krkr2.fenghengzhi.com
 * Font file name .ttf replace
 * Wasm port
 * Comment ffmpeg code and remove ffmpeg depending
