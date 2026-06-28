@@ -97,3 +97,7 @@ Anime Style Girl Haruka [1.1].unitypackage, 1.1, need Unity 2019
 ## 恋爱绮谭 不存在的回忆 DEMO
 * Utage.VersionUtil
 * class VersionUtil, Version = "3.11.7 MysteryLover2";  
+
+## 	アイシング-love coating-, Icing -love coating-
+* Icing-trial.zip
+* https://app.candysoft.jp/products/hachimitsusoft/icing/special/trial
