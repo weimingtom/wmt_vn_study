@@ -5988,3 +5988,5 @@ B站的计算器galgame，虽然我看到有很多人做 ​​​
 * 斯特拉的魔法, starchaser.swf, star_shooter_2015_april.swf, star_liner_magicofstella.swf
 * 策划的爱2.0正式版PC端.swf
 
+## Novel.rar, by Java, search my qq mail attach  
+* (dead) https://github.com/roloa/Novel
