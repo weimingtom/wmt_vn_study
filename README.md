@@ -5990,3 +5990,6 @@ B站的计算器galgame，虽然我看到有很多人做 ​​​
 
 ## Novel.rar, by Java, search my qq mail attach  
 * (dead) https://github.com/roloa/Novel
+
+## KCDDP KAGeXpress 3.0 使用手册
+* baidupan, KCDDP使用手册.txt
