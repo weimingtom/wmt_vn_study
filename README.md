@@ -5999,3 +5999,10 @@ B站的计算器galgame，虽然我看到有很多人做 ​​​
 
 ## GalTransl  
 * https://github.com/GalTransl/GalTransl
+
+## nsc2dot and nsc2h, nsc2dot090816.zip
+* https://sites.google.com/site/ied2nsc/home
+* http://kondoumh.com
+* nsc2h.zip, ied2nsc.zip, novellion018.zip, iedit221.zip
+* NScripter Code To HTML, FileName: nsc2h.exe
+* http://www.kmonos.net/alang/d/
