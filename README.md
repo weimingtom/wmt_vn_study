@@ -2148,6 +2148,8 @@ https://baike.baidu.com/item/角斗士/19859499?fr=aladdin
 * see Artroid+  
 
 ## KCDDP KAGeXpress 3.0  
+* KimoriTama/kagexpress  
+https://github.com/KimoriTama/kagexpress  
 * search 吉里吉里v2.0.exe  
 * 吉里吉里v2.0.exe解压后：  
 汉化版，仅汉化了krkr.eXe，其余打包工具没有汉化    
