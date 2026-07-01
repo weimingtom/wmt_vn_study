@@ -374,6 +374,21 @@ see https://aur.archlinux.org/packages/onscripter-yuri
 * onscripter-20150115.zip
 * https://github.com/CharlotteFallices/ONScripter  
 https://charlottefallices.github.io/ONScripter  
+* Android version SDL source code from http://hg.libsdl.org/SDL    
+see https://github.com/weimingtom/eriri/blob/master/origin_files/SDL-clone.txt  
+https://github.com/weimingtom/eriri/blob/master/origin_files/SDL-clone_revision_4467.7z  
+```
+onscripter_android.tar.gz/SDL_revision.h
+
+#define SDL_REVISION "hg-4467:0baef09fe702"
+
+hg clone --rev 4467 --verbose http://hg.libsdl.org/SDL "D:\amdroid_rubysdl\work\origin_files\SDL-clone"
+hg clone --rev 0baef09fe702 --verbose http://hg.libsdl.org/SDL "D:\amdroid_rubysdl\work\origin_files\SDL-clone"
+```
+https://github.com/ogapee/onscripter_android/blob/master/app/src/main/cpp/sdl/include/SDL_revision.h   
+```
+#define SDL_REVISION "hg-4467:0baef09fe702"  
+```
 
 ## ONScripter_Multi_Converter
 * (origin) https://github.com/Prince-of-sea/ONScripter_Multi_Converter  
