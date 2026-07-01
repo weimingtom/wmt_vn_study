@@ -14,6 +14,9 @@ Nothing seek, nothing find
 ```
 
 ## TODO  
+* (TODO) qq腾讯频道 galgame 频道, kirikiroid2下载和使用  
+https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1Zzr6SApVEO&contentID=1kcG1g&businessType=2   
+https://pd.qq.com/g/31529981651225899  
 * (TODO) Kirikiroid2 Compatibility List (ENG)  
 https://visuallyneko.wordpress.com/visual-novel-hacks/kirikiroid2-compatibility-list-eng/  
 * 下载虚幻引擎   
