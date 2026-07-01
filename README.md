@@ -14,6 +14,8 @@ Nothing seek, nothing find
 ```
 
 ## TODO  
+* (TODO) Kirikiroid2 Compatibility List (ENG)  
+https://visuallyneko.wordpress.com/visual-novel-hacks/kirikiroid2-compatibility-list-eng/  
 * 下载虚幻引擎   
 https://www.unrealengine.com/download  
 * 【cocos2d-x】CCLabelBMFontでADVゲーム風の文字送りを実現する  
