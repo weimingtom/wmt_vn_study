@@ -6069,3 +6069,6 @@ B站的计算器galgame，虽然我看到有很多人做 ​​​
 * nsc2h.zip, ied2nsc.zip, novellion018.zip, iedit221.zip
 * NScripter Code To HTML, FileName: nsc2h.exe
 * http://www.kmonos.net/alang/d/
+
+## 游戏开发引擎-自己做游戏.txt   
+* https://github.com/weimingtom/wmt_vn_study/blob/master/diy_001.txt  
