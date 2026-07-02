@@ -1386,6 +1386,8 @@ https://krkrz.github.io/krkr2doc/tjs2doc/contents/index.html
 https://github.com/weimingtom/tjs2mod  
 https://gitee.com/weimingtom/tjs2study  
 https://github.com/jeeb/kirikiri2/tree/master/kirikiri2/src/core/tjs2  
+* tjs2doc.7z    
+http://kcddp.keyfc.net/bbs/viewthread.php?tid=442&extra=page%3D1&page=1   
 
 ## 吉里吉里Z, krkrz, kirikiriz    
 ```
