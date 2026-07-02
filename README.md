@@ -2869,6 +2869,13 @@ openrgss-0.1.5-x86-mingw32.gem
 
 ## rpg2k, rpgmaker (for java)      
 * search baidupan, rpg2kemu.7z  
+* OpenRGSS-RPGMaker和rpgmaker
+* rgss.rar  
+* java版移植，参考：rpg2kemu.7z  
+* https://github.com/weimingtom/rpg2kemuMod  
+* https://github.com/weimingtom/rpg2kemuSvn  
+from http://rpg2kemu.googlecode.com/svn  
+from https://github.com/take-cheeze/rpg2kemu  
 
 ## RPGMaker XP demo     
 * search baidupan, AVG半精装版（修改版）.rar  
@@ -4713,10 +4720,6 @@ sfa_strings.xls
 
 vino, unity
 游戏Demo.zip
-
-OpenRGSS-RPGMaker和rpgmaker
-rgss.rar
-java版移植，参考：rpg2kemu.7z
 
 https://www.gamebrew.org/wiki/ONScripterJH_Vita
 https://github.com/YuriSizuku/psv-OnscripterJH
