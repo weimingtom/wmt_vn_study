@@ -2422,6 +2422,9 @@ from eglaysher-rlvm-release-0.14-0-ga85b19c.tar.gz
 same as https://github.com/eglaysher/rlvm/archive/refs/tags/release-0.14.zip   
 same as https://github.com/eglaysher/rlvm/tree/a85b19c2bce61f9b1328220148aeb13b62929eea  
 * rcxp_demo, seen.txt, AVG3217D.EXE  
+* https://web.archive.org/web/20080828060701/http://forums.novelnews.net/showthread.php?t=8798  
+http://forums.novelnews.net/showthread.php?t=8798  
+baidupan, eglaysher-rlvm-55b0a78.tar.gz  
 
 ## (IMP) rlvm portmaster version    
 * https://github.com/PortsMaster/PortMaster-New/tree/main/ports/rlvm
