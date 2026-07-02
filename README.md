@@ -5260,7 +5260,7 @@ https://github.com/luguanxing/Cheating-Plugin-Program
 ```
 * See also game_hack.7z
 
-## dwing  
+## dwing, dwing's homepage    
 * http://tieba.baidu.com/f?kw=dwing&ie=utf-8  
 * (origin, dead) http://wex.cn/dwing/mygal.htm
 * (origin) https://web.archive.org/web/20120205192410/http://wex.cn/dwing/mygal.htm
