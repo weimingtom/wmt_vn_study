@@ -1257,7 +1257,7 @@ https://www.neechin.net/file_download/22/[Denpa]_Narcissu_2_Eng_[unix].tar.bz2
 * (origin) https://github.com/lightstudio/uve  
 UVEngine 2.1 SourceCode (GPLv2)  
 * https://github.com/weimingtom/uve  
-UVE Opensource Project for UVE 2.1  
+UVE Opensource Project for UVE 2.1, same as uve_v1.rar    
 * Seems from ONScripter-JH    
 * https://tieba.baidu.com/p/3329962867  
 * (dead) http://uve.codeplex.com  
