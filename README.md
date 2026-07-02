@@ -6072,3 +6072,15 @@ B站的计算器galgame，虽然我看到有很多人做 ​​​
 
 ## 游戏开发引擎-自己做游戏.txt   
 * https://github.com/weimingtom/wmt_vn_study/blob/master/diy_001.txt  
+
+## YYmoe, YY萌 欢迎您的到来, 电子小说(轻小说), 凉宫春日, 伊里野的天空 UFO的夏天
+* (origin, dead) http://www.yymoe.net/kozue/sh/
+* (origin) https://web.archive.org/web/20080815143145/http://www.yymoe.net/
+* (origin) https://web.archive.org/web/20080802165950fw_/http://www.yymoe.net/kozue/ebook.htm
+
+## 囧TZ - 今天天气不错
+* (origin, dead) http://www.jiongtz.com
+* (origin) https://web.archive.org/web/20080819230901/http://www.jiongtz.com
+* https://web.archive.org/web/20130302085754/http://www.jiongtz.com/
+* https://web.archive.org/web/20100205200357/http://doujinworks.blog128.fc2.com/
+* 忘记是用来干啥的，好像是一个图片批量下载器的作者，也可能是我记混了，有可能不是  
