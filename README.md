@@ -5262,6 +5262,10 @@ https://github.com/luguanxing/Cheating-Plugin-Program
 
 ## dwing  
 * http://tieba.baidu.com/f?kw=dwing&ie=utf-8  
+* (origin, dead) http://wex.cn/dwing/mygal.htm
+* (origin) https://web.archive.org/web/20120205192410/http://wex.cn/dwing/mygal.htm
+* 很多都是提取出来的文本，没什么用
+* see weimingtom_reversi.rar\weimingtom_reversi\Japanese\dwing.rar  
 
 ## netscripter  
 * https://sourceforge.net/projects/netscripter/  
