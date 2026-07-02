@@ -2866,6 +2866,20 @@ openrgss-0.1.5-x86-mingw32.gem
 ::@cmd
 @ruby lib\main.rb
 ```
+* search baidupan, rgss.rar
+* rgss.rar include:  
+https://github.com/weimingtom/OpenRGSS-RPGMaker  
+RMVX.exe  
+https://github.com/dfyx/rmxp_rts  
+(dead) https://github.com/cjv123/RPG, see also https://github.com/cjv123/RPGR  
+https://github.com/weimingtom/rpg2kemuSvn  
+https://github.com/orzFly/RPGMakerDefaultScripts, see also https://orzfly.github.io/RPGMakerDefaultScripts/    
+https://github.com/keiteio/ShootingGame  
+http://openrgss.org  
+https://github.com/zh99998/OpenRGSS  
+```
+F:\rgss\OpenRGSS>bundle install --verbose
+```
 
 ## rpg2k, rpgmaker (for java)      
 * search baidupan, rpg2kemu.7z  
