@@ -5265,7 +5265,19 @@ https://github.com/luguanxing/Cheating-Plugin-Program
 * (origin, dead) http://wex.cn/dwing/mygal.htm
 * (origin) https://web.archive.org/web/20120205192410/http://wex.cn/dwing/mygal.htm
 * 很多都是提取出来的文本，没什么用
-* see weimingtom_reversi.rar\weimingtom_reversi\Japanese\dwing.rar  
+* see weimingtom_reversi.rar\weimingtom_reversi\Japanese\dwing.rar
+* AirText.7z, CloseToScript.7z, mo5sc_scr.7z, Narctext.7z, PTtext.7z, QGGLtext.7z
+```
+Downloaded from 
+http://wex.cn/dwing/mygal.htm
+
+MO5中文版脚本(406KB): 秋之回忆5(中断的影片)简体中文版的全部脚本源码.
+CloseTo(思念的碎片)
+AIR
+星之梦
+Narcissu
+情归故里
+```
 
 ## netscripter  
 * https://sourceforge.net/projects/netscripter/  
