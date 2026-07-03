@@ -1388,6 +1388,8 @@ https://gitee.com/weimingtom/tjs2study
 https://github.com/jeeb/kirikiri2/tree/master/kirikiri2/src/core/tjs2  
 * tjs2doc.7z    
 http://kcddp.keyfc.net/bbs/viewthread.php?tid=442&extra=page%3D1&page=1   
+* kirikiri引擎相关下载_贴吧, kag3ex2.zip, krkrz_20171225r2.7z, kirikiri_java.zip   
+(dead) https://tieba.baidu.com/p/6310593391  
 
 ## 吉里吉里Z, krkrz, kirikiriz    
 ```
