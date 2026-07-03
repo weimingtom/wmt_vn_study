@@ -106,5 +106,11 @@ Anime Style Girl Haruka [1.1].unitypackage, 1.1, need Unity 2019
 * https://store.steampowered.com/app/739000/Grobda_Remix/
 * steam版已下架
 
-## 且听琴语GR
+## 且听琴语GR, 且听琴语  
 * demo_win_v4.rar (trail 1.01 word fix2, kotokata.exe), Managed  
+
+## Unity打造简易的GalGame游戏剧本编辑引擎  
+* GalGameTestMobile.rar
+* 这是源代码, 有对话脚本, 但不知道具体效果如何
+* (?) from https://blog.csdn.net/qq402335257/article/details/50656464  
+
