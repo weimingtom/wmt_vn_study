@@ -106,3 +106,5 @@ Anime Style Girl Haruka [1.1].unitypackage, 1.1, need Unity 2019
 * https://store.steampowered.com/app/739000/Grobda_Remix/
 * steam版已下架
 
+## 且听琴语GR
+* demo_win_v4.rar (trail 1.01 word fix2, kotokata.exe), Managed  
