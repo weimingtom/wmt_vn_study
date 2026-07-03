@@ -3253,6 +3253,7 @@ cs2-open Ver 1.0, cs2.exe version 1, 0, 1, 10
 * BKE_Demo_Source_NoLive2D.rar, BKE-Demo.rar, BKECreator.7z
 * 我和她的世界_Win.rar
 * BKE_tutorial.zip, bke_creator.zip, 20150623
+* Once_game, Once'Demo_Install.7z  
 
 ## 追忆 (closed source, for android)    
 * (origin, dead) http://www.galgames.info/  
