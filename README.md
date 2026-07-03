@@ -6087,3 +6087,7 @@ B站的计算器galgame，虽然我看到有很多人做 ​​​
 * https://web.archive.org/web/20130302085754/http://www.jiongtz.com/
 * https://web.archive.org/web/20100205200357/http://doujinworks.blog128.fc2.com/
 * 忘记是用来干啥的，好像是一个图片批量下载器的作者，也可能是我记混了，有可能不是  
+
+## NScripter_ONScripter_兼用テンプレート  
+* (dead) https://chu-kyokouseizou.ssl-lolipop.jp/NSONSTemp/download.html
+* NScONSc_Temp.zip, Standard_Blue.zip  
