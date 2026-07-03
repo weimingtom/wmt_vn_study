@@ -3209,6 +3209,8 @@ see https://www.retouch.info
 * (origin) http://nvlist.weeaboo.nl  
 * (origin) https://github.com/anonl/nvlist  
 * https://github.com/kennyjijet/nvlist  
+* Reaching Out-install-20121128.exe, NVList-2.9.zip, NVList-3.3.zip  
+* NVList-install-3.3.jar, NVList-install-3.2.jar, NVList-install-2.9.jar  
 
 ## lip (for Flash, eye animation)    
 * search baidupan, lip  
