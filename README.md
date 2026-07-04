@@ -6094,3 +6094,7 @@ B站的计算器galgame，虽然我看到有很多人做 ​​​
 ## NScripter_ONScripter_兼用テンプレート  
 * (dead) https://chu-kyokouseizou.ssl-lolipop.jp/NSONSTemp/download.html
 * NScONSc_Temp.zip, Standard_Blue.zip  
+
+## (Very difficult to study, temporarily give up) FelineSystem2
+* https://github.com/kokseen1/FelineSystem2
+* For steam version game ? not sure
