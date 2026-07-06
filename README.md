@@ -338,7 +338,8 @@ no download
 [closed source unofficial] 小鸡模拟器的ONS：cn/natdon/onscripterv2
 	感觉好像多了一些类，可能做了改动或者基于别的分支代码
 	xiaoji_android_v1.8.9-A028.apk
-	https://github.com/natdon/ONScripter-CN/tree/master/src/cn/natdon  
+	https://github.com/natdon/ONScripter-CN/tree/master/src/cn/natdon
+	(?) https://github.com/happychicken/ONScripter-CN  
 [unofficial] com.onscripter.plus, 2.0.18, onscripter version 20161102 (not apk, see git)  
 	2.0.16 version about since 2023 (???), but the git log is since 2013    
 	com.onscripter.plus.apk
@@ -980,9 +981,10 @@ https://apt.izzysoft.de/fdroid/index/apk/org.hanenoshino.onscripter?repo=archive
 * https://github.com/YuriSizuku/psv-OnscripterJH
 * https://github.com/wetor/ONScripter-jh-PSVita  
 
-## MiNE, ONScripter-CN (chonscripter ???), branch of ONScripter     
+## MiNE, ONScripter-CN (chonscripter ???), branch of ONScripter, and xiaoji001 version: happychicken/ONScripter-CN      
 * 别名 a.k.a. 面包工坊mine模拟器app  
-* https://github.com/natdon/ONScripter-CN  
+* (origin) https://github.com/natdon/ONScripter-CN
+* (???origin, for xiaoji001.com, 小鸡模拟器修改版???) https://github.com/happychicken/ONScripter-CN   
 * (TODO) search baidupan, ONScripter-CN  
 * https://github.com/onsshare/onscripter/releases  
 * https://github.com/butter255/emu/releases  
@@ -991,6 +993,7 @@ https://apt.izzysoft.de/fdroid/index/apk/org.hanenoshino.onscripter?repo=archive
 * (android version) cn.natdon.onscripter 20111124: onscripter.rar    
 * (android version) cn.natdon.onscripterv2 20150802 (3.0.3 include xclannad and xsystem35): ONScripter-CN_v1.7z  
 * 小鸡模拟器的ONS：cn/natdon/onscripterv2，感觉好像多了一些类，可能做了改动或者基于别的分支代码  
+(???) (origin?) see https://github.com/happychicken/ONScripter-CN  
 * https://github.com/natdon/ONScripter-CN/tree/951935b05ae66fb5e0c09ceb437324687f0a23f7/jni/app_onscripter-32bpp/onscripter-20130317
 * MiNEv3.0.2.apk  
 * mine模拟器  
