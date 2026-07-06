@@ -300,7 +300,10 @@ onscripter-20090921.tar.gz
 https://web.archive.org/web/20090401000000*/http://ogapee.at.infoseek.co.jp/onscripter.html    
 https://web.archive.org/web/20090201202810/http://ogapee.at.infoseek.co.jp/onscripter.html  
 https://web.archive.org/web/20100826072837/http://ogapee.at.infoseek.co.jp/onscripter.html  
-* (origin, very old versions from 2005.05.20 to 2014.08.17) https://github.com/DanielOaks/onscripter-mirror  
+* (origin, very old versions from 2005.05.20 to 2014.08.17) https://github.com/DanielOaks/onscripter-mirror
+* (origin) https://github.com/svn2github/onscripter/tree/master/branches/onscripter-20060724-insani
+* (origin) https://github.com/svn2github/onscripter/tree/master/branches/onscripter-20070212-haeleth
+* (origin) https://github.com/svn2github/onscripter
 * https://github.com/weimingtom/eriri/tree/master/rubysdl  
 * https://github.com/PSP-Archive/ONScripter-for-PSP  
 * search baidupan, onscripter_android_src_20120711.tar.bz2  
