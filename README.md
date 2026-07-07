@@ -14,6 +14,7 @@ Nothing seek, nothing find
 ```
 
 ## TODO  
+* (TODO) https://github.com/guyanime84/xclannad  
 * (TODO) th2字体研究as3代码丢失, https://github.com/weimingtom/th2scriptengine/blob/master/ToHeart2/ScriptEngine/fnt.txt  
 * (TODO) qq腾讯频道 galgame 频道, kirikiroid2下载和使用  
 https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1Zzr6SApVEO&contentID=1kcG1g&businessType=2   
