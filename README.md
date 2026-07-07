@@ -3046,7 +3046,7 @@ sudo apt install libgl1-mesa-dev libasound2-dev libpulse-dev
 
 ## rpg2kemu / rpg2k  
 
-## easyrpg, EasyRPG/Player, compatible with RPG Maker 2000 and RPG Maker 2023 (2K and 2K3)   
+## easyrpg, EasyRPG/Player, compatible with RPG Maker 2000 and RPG Maker 2003 (2K and 2K3)   
 * https://github.com/EasyRPG/Player  
 * How to cmake build easyrpg (not good, just a simple process description)  
 https://github.com/libexpat/libexpat/releases/tag/R_2_4_9  
