@@ -14,6 +14,10 @@ Nothing seek, nothing find
 ```
 
 ## TODO  
+* (TODO) https://git.libretro.com/warmenhoven/mkxp-z/-/tree/libretro/assets?ref_type=heads  
+baidupan, warmenhoven_mkxp-z_v1.tar.gz  
+git clone --recursive https://git.libretro.com/warmenhoven/mkxp-z.git  
+https://docs.libretro.com/library/mkxp-z/#features  
 * (TODO) https://bbs.deepin.org/search?keyword=onscripter&search_type=1  
 * (TODO) https://github.com/guyanime84/xclannad  
 * (TODO) th2字体研究as3代码丢失, https://github.com/weimingtom/th2scriptengine/blob/master/ToHeart2/ScriptEngine/fnt.txt  
