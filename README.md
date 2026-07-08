@@ -14,6 +14,7 @@ Nothing seek, nothing find
 ```
 
 ## TODO  
+* (TODO) https://bbs.deepin.org/search?keyword=onscripter&search_type=1  
 * (TODO) https://github.com/guyanime84/xclannad  
 * (TODO) th2字体研究as3代码丢失, https://github.com/weimingtom/th2scriptengine/blob/master/ToHeart2/ScriptEngine/fnt.txt  
 * (TODO) qq腾讯频道 galgame 频道, kirikiroid2下载和使用  
