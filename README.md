@@ -6124,3 +6124,6 @@ The complete Galgame work "Eden*" has been ported, with approximately 220,000 wo
 ## (Very difficult to study, temporarily give up) FelineSystem2
 * https://github.com/kokseen1/FelineSystem2
 * For steam version game ? not sure
+
+## CNGALTools  
+* https://github.com/YeLikesss/CNGALTools/blob/main/001.NVL/NVLKrkr2/Manual.md  
