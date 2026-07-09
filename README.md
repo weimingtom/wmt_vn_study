@@ -6052,6 +6052,15 @@ https://hpcalcs.com/download/
 也可以在HP Prime虚拟计算器上运行，效果如下图，如果需要代码可以找
 B站的计算器galgame，虽然我看到有很多人做 ​​​
 ```
+* KMGEc (Kaimiao Galgame Engine Calculator)  
+https://www.hpcalc.org/details/9714   
+https://www.hpcalc.org/prime/games/  
+```
+A Galgame engine for the Prime, developed with Python. You can make a game you want to play on the Calculator.
+This engine is powerful and even supports flowcharts and historical dialogue. If you not want to make anything,
+you can play Senren Banka (the thousand colors of love), but that is only in Chinese.
+The complete Galgame work "Eden*" has been ported, with approximately 220,000 words of Chinese text.
+```
 
 ## MMDZip.rar等工具, from 同人音声吧 (贴吧)
 * RenameFilesV1.3.4.rar, 重命名？
