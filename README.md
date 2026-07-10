@@ -237,7 +237,7 @@ Tsukihime_0.9.5.9.rar
 ## NScripter2
 * https://ja.wikipedia.org/wiki/NScripter2
 * https://www.nscripter.com
-* .ns2 (????)
+* .ns2 is not NScripter2 (????), it is Nscripter data file
 * https://github.com/NaokiTakahashi/NScripter2
 
 ## CCScripter, nscripter的Mac OS X实现  
