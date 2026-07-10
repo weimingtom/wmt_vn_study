@@ -6084,6 +6084,17 @@ The complete Galgame work "Eden*" has been ported, with approximately 220,000 wo
 * 策划的爱2.0正式版PC端.swf
 * see upper, 恋文网络版旧版本以及原始文件_代码废弃.rar
 * oppai1.swf, 未来女友flash, ミライカノジョ
+* 美女更衣.swf, search baidupan _flash  
+* Flash 保存计划    
+https://flash.homes    
+https://github.com/rwv/flash-archive-project   
+https://ruffle.rs/  
+https://github.com/rwv/ruffle-mirror  
+https://github.com/deluxghost  
+https://www.vvzero.com/  
+https://v2ex.com/t/771293  
+http://flashempire.com/  
+http://www.flash8.net/  
 
 ## Novel.rar, by Java, search my qq mail attach  
 * (dead) https://github.com/roloa/Novel
