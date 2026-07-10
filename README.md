@@ -2134,6 +2134,11 @@ https://download.csdn.net/download/cping1982/3516651
 * search baidupan, builtin01.7z  
 * com.eisys.almight_5.apk  
 
+## tyrano, tyranoscript, for HTML5 and Android, like kirikiri  
+* 沒有黎明之夜來臨之前_v1.1.apk
+* see below 'tyranoscript, ティラノスクリプト'
+* (TODO) 多款知名视觉小说游戏采用该引擎开发，如《冬日树下的回忆》《盛夏之梦》等 。 （摘自《tyranoscript》的百度AI回答）
+
 ## NVLMaker  
 ```
 Sometimes, NVL=NoVeL=Novel=Visual Novel  
@@ -2152,10 +2157,6 @@ https://baike.baidu.com/item/角斗士/19859499?fr=aladdin
 《角斗士》（Gladiator）是由Project Bamboo制作组开发的AVG+模拟恋爱养成游戏，
 作为RPG《坠入苍蓝色的深渊》后传，采用The NVL Maker引擎制作，定位为18岁及以上玩家。
 ```
-
-## tyrano, tyranoscript, for html5, like kirikiri  
-* 沒有黎明之夜來臨之前_v1.1.apk
-* see below 'tyranoscript, ティラノスクリプト'
 
 ## Artemis Engine, closed source    
 * http://www.ies-net.com  
