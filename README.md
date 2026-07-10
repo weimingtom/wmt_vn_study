@@ -235,6 +235,12 @@ Tsukihime_0.9.5.9.rar
 歌月十夜汉化版_beta_Ver.0.5.5.rar  
 
 ## NScripter2
+```
+NScripter2似乎不兼容Nscripter，待考
+
+注意：.ns2和.nsa是一样的，都不是NScripter2，例如: 00.ns2, arc.nsa   
+参考：https://ogapee.github.io/www/onscripter_en.html
+```
 * https://ja.wikipedia.org/wiki/NScripter2
 * https://www.nscripter.com
 * .ns2 is not NScripter2 (????), it is Nscripter data file
