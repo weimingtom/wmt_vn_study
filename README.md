@@ -2153,6 +2153,10 @@ https://baike.baidu.com/item/角斗士/19859499?fr=aladdin
 作为RPG《坠入苍蓝色的深渊》后传，采用The NVL Maker引擎制作，定位为18岁及以上玩家。
 ```
 
+## tyrano, tyranoscript, for html5, like kirikiri  
+* 沒有黎明之夜來臨之前_v1.1.apk
+* see below 'tyranoscript, ティラノスクリプト'
+
 ## Artemis Engine, closed source    
 * http://www.ies-net.com  
 * .iet, like ks  
