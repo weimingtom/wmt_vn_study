@@ -234,6 +234,12 @@ Tsukihime_0.9.5.9.rar
 歌月十夜汉化版_bata_Ver.0.5.rar  
 歌月十夜汉化版_beta_Ver.0.5.5.rar  
 
+## NScripter2
+* https://ja.wikipedia.org/wiki/NScripter2
+* https://www.nscripter.com
+* .ns2 (????)
+* https://github.com/NaokiTakahashi/NScripter2
+
 ## CCScripter, nscripter的Mac OS X实现  
 * (dead, origin) http://homepage.mac.com/toveta/ccs/  
 * (origin) https://web.archive.org/web/20111105141217/http://homepage.mac.com/toveta/ccs/  
