@@ -6127,3 +6127,16 @@ The complete Galgame work "Eden*" has been ported, with approximately 220,000 wo
 
 ## CNGALTools  
 * https://github.com/YeLikesss/CNGALTools/blob/main/001.NVL/NVLKrkr2/Manual.md  
+
+## StarswirlAcademy, 星璇学院, by RenPy, for windows and linux  
+* Starswirl-Academy-Demo-2.0-all.rar
+```
+《星璇学院(Starswirl Academy)》是由Zap Apple Project制作、Pinkiesparkle汉化的一款恋爱养成类游戏，
+游戏讲述了主角Tom(就是无序那一集里瑞瑞爱上的那块石头)转学来到星璇学院寻找自己天赋的故事。
+
+Starswirl Academy（星璇学院）是《小马宝莉》同人圈制作的‌恋爱养成类视觉小说游戏‌
+
+汉化版游戏里使用了大陆通用的译名
+由于孩之宝要求开发组不使用官方名字，原作中的人物都有自己的名字和姓氏，以下是对照
+...
+```
