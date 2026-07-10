@@ -3945,7 +3945,7 @@ http://www.yyfc.com/2003819/
 * Cp2Tran.7z  
 * AGTH TUTORIAL.rar, agth.rar, Agth2.rar, agth11.20.rar, AGTHAlicesoftSystem4.rar, agthV02.28汉化版.rar, agthV5.4.rar
 * AGTH智能设置器（更新在线翻译）.rar, M-4pcwcAzcrT[1].rar, 通用日文游戏翻译器2.rar, 通用日文游戏翻译器V2.8.zip
-* 玩日文游戏用AGTH用法.doc  
+* 玩日文游戏用AGTH用法.doc
 
 ## Cp2Tran
 * Cp2Tran.exe
@@ -6156,6 +6156,7 @@ Starswirl Academy（星璇学院）是《小马宝莉》同人圈制作的‌恋
 * ONS游戏目录和度娘网盘地址
 
 ## SaE, SaE引擎和教程
-* 基于swf和txt的脚本游戏引擎（脚本是.txt）
+* 基于txt的脚本游戏引擎（脚本是.txt）, 有swf
 * 出处不明
+* saE pc版示例example.rar, ...
 
