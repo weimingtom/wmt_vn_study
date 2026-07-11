@@ -2109,6 +2109,17 @@ gdb运行和直接运行也会在这里不同，因为argv[0]不同。简单来�
 * https://github.com/AetherKiri/AetherKiri  
 * **(TODO)** https://github.com/AetherKiri/AetherKiri/blob/main/bridge/godot_extension/src/aether_kiri_godot.cpp  
 
+## Kirakira, by Rust 
+* https://github.com/liulifox233/Kirakira
+* Xubuntu 26.04 in VirtualBox 7.2.8
+* sudo apt install cargo
+* sudo apt install pkg-config
+* (for ALSA alsa.pc)
+* sudo apt install libasound2-dev
+* cargo build -p krkr-desktop --release
+* ./target/release/krkr-desktop /home/wmt/kirikiroid2lite/_testdata
+* (run failed but show window)  
+
 ## kirikiri3-legacy  
 * https://github.com/w-dee/kirikiri3-legacy  
 
