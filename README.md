@@ -2028,6 +2028,21 @@ EGLDisplay EGLContextManager::AcquireAngleDisplay(AngleBackend& backend) {
 * Etc, many modifications very much, not sure
 * **TODO**
 
+## (TODO) krkr2-tools, from kirikiroid2-web 1a6c814  
+* https://github.com/xiaocongyu66/krkr2-tools  
+* forked from https://github.com/fenghengzhi/kirikiroid2-web/tree/1a6c81423f271a5128420a71a41943930a473b81
+* To build (?) https://github.com/xiaocongyu66/krkr2-tools/tree/main/tools without GUI (???)
+```
+xp3	解包 .xp3 归档，可对加密 XP3 应用 tpm/xp3filter 脚本
+xp3pack	重新打包目录为 .xp3 归档
+tjsdump	反编译 TJS2 字节码 (.tjs 编译产物) 到可读源
+ksdec	解码加密的 KAG 脚本 (.ks / .tjs)
+mtndump	dump motion (.mtn) 文件结构
+motionsim 离线模拟 motion 播放，输出每帧每节点的 TSV
+```
+* **(TODO)** 我认为这些工具没必要编译出来, 能编译本体就可以了, 当然可以尝试编译一下
+* **(TODO)** 有可能编译不出来, 因为缺少了https://github.com/fenghengzhi/kirikiroid2-web-private, 如果编译不了就算了  
+
 ## ningshanwutuobang/Kirikiroid2, fork of zeas2/Kirikiroid2, using cmake  
 * (origin) https://github.com/ningshanwutuobang/Kirikiroid2
 * (origin) https://github.com/ningshanwutuobang/Kirikiroid2/tree/linux_build
