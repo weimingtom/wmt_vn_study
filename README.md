@@ -14,6 +14,9 @@ Nothing seek, nothing find
 ```
 
 ## TODO  
+* Android 向けADVエンジン  
+https://kzkz.jp/barn/android-向けadvエンジン/  
+https://www.slideshare.net/slideshow/120915-igda-sig-indie9/15740479  
 * 羊村大崩坏  
 * (TODO) https://git.libretro.com/warmenhoven/mkxp-z/-/tree/libretro/assets?ref_type=heads  
 baidupan, warmenhoven_mkxp-z_v1.tar.gz  
