@@ -6059,7 +6059,8 @@ OPムービーだけ仕上がっても
 * SFA_v7_utf8合并.7z  
 * sfa_strings.xls
 * Onscripter移植笔记（以SFA引擎的ツクモノツキ为例）  
-https://blog.csdn.net/abacn/article/details/45153227  
+https://blog.csdn.net/abacn/article/details/45153227    
+https://www.aba.moe/2014/01/onscriptersfa.html  
 
 ## 椎名里緒(?)
 * Rio.arc, wsc, arc, will_0232t.zip, デュエリスト×エンゲージ
