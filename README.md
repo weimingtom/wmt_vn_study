@@ -1955,7 +1955,7 @@ src\core\visual\WindowIntf.cpp
 * 实妹相伴的大泉君测试文件2，可以用kirikiroid2安卓版打开：cheng141_with_xp3filter_complete_files.7z
 * (TODO) https://bbs.deepin.org/search?keyword=kirikiroid2&search_type=1
 
-## 2468785842/krkr2, fork of zeas2/Kirikiroid2, using vcpkg/cmake/ninja    
+## 2468785842/krkr2, fork of zeas2/Kirikiroid2, using vcpkg/cmake/ninja and cocos2d-x       
 * (origin) https://github.com/2468785842/krkr2    
 * https://github.com/weimingtom/wmt_vn_study/blob/master/krkr2_vcpkg_build_001.md  
 * krkr2-no-vcpkg_msys2_v3_run.7z
@@ -1965,7 +1965,7 @@ https://github.com/jeffcwj/krkr2_angle/blob/main/docs/README.md
 * https://github.com/weimingtom/krkr2-no-vcpkg
 * https://github.com/weimingtom/krkr2-no-vcpkg-fork2
 
-## KrKr2 Next, reAAAq/KrKr2-Next, based on 2468785842/krkr2  
+## KrKr2 Next, reAAAq/KrKr2-Next, based on 2468785842/krkr2, using Flutter, mainly (???) for iOS / macOS (???), and for Android      
 * (origin) https://github.com/reAAAq/KrKr2-Next
 * https://github.com/weimingtom/wmt_vn_study/blob/master/KrKr2-Next_build_run_unknown_001.md
 * Require about 40GB for VMWare  
@@ -2018,9 +2018,13 @@ EGLDisplay EGLContextManager::AcquireAngleDisplay(AngleBackend& backend) {
 ```
 * https://github.com/weimingtom/KrKr2-Next-no-vcpkg
 
-## (TODO) KiriKiri-LauncherC, based on 2468785842/krkr2, but significantly improved from core to plugins and UI (using Flutter?)  
+## (TODO) KiriKiri-LauncherC, based on 2468785842/krkr2, but significantly improved from core to plugins and UI in the C/C++ code, and using Flutter (?)    
 * **(TODO)**
-* https://github.com/xiaocongyu66/KiriKiri-LauncherC
+* https://github.com/xiaocongyu66/KiriKiri-LauncherC  
+
+## (TODO) krkr2-native, based on 2468785842/krkr2, mainly for Android Jetpack Compose (?), but significantly improved in the C/C++ code  
+* https://github.com/xiaocongyu66/krkr2-native  
+* https://github.com/2468785842/krkr2/tree/73e9bfe153d2261486fb0245fa31d97271cfef9f  
 
 ## (TODO) kirikiroid2-web, based on 2468785842/krkr2, mainly for wasm
 * (origin) https://github.com/fenghengzhi/kirikiroid2-web
@@ -2032,7 +2036,7 @@ EGLDisplay EGLContextManager::AcquireAngleDisplay(AngleBackend& backend) {
 * Etc, many modifications very much, not sure
 * **TODO**
 
-## (TODO) krkr2-tools, from kirikiroid2-web 1a6c814  
+## (TODO) krkr2-tools, based on fenghengzhi/kirikiroid2-web 1a6c814  
 * https://github.com/xiaocongyu66/krkr2-tools  
 * forked from https://github.com/fenghengzhi/kirikiroid2-web/tree/1a6c81423f271a5128420a71a41943930a473b81
 * To build (?) https://github.com/xiaocongyu66/krkr2-tools/tree/main/tools without GUI (???)
