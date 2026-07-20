@@ -114,3 +114,6 @@ Anime Style Girl Haruka [1.1].unitypackage, 1.1, need Unity 2019
 * 这是源代码, 有对话脚本, 但不知道具体效果如何
 * (?) from https://blog.csdn.net/qq402335257/article/details/50656464  
 
+## Free Friends 2, 115
+
+
