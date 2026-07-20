@@ -2336,7 +2336,7 @@ Xkanon(または xayusys-gtk2)
 AIR.part1.rar  
 AIR最终汉化测试补丁.rar  
 AIR_全年齢対象版  
-(115, not tested, AIR汉化补丁最终版.rar)  
+(115, not tested, AIR汉化补丁最终版.rar, AIR_Standard_Edition_ISO)   
 * xkanon-gtk2-080106.tar.gz: good in xubuntu 14.04 32bit, use kanon_first.zip  
 not good in xubuntu 20.04 64bit  
 * xkanon-gtk2-080106.tar.gz can run in xubuntu 14.04 32bit     
