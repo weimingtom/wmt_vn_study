@@ -1423,6 +1423,20 @@ http://kcddp.keyfc.net/bbs/viewthread.php?tid=442&extra=page%3D1&page=1
 * kirikiri引擎相关下载_贴吧, kag3ex2.zip, krkrz_20171225r2.7z, kirikiri_java.zip   
 (dead) https://tieba.baidu.com/p/6310593391  
 
+## tvpcn
+* (origin) https://github.com/weimingtom/tvpcn
+* (origin, dead) from http://tvpcn.codeplex.com/
+* (origin) https://web.archive.org/web/20171227173355/http://tvpcn.codeplex.com/
+```
+The purpose of this project is to maintain a Simplified Chinese translated version of
+Kirikiri (TVP) 2 Core (http://kikyou.info/tvp), based on the SVN Head development version.
+We will merge updates from the official Subversion repository and update periodically.
+
+All Binaries and Sources are dual-licensed under the GPL v2 and Kirikiri's own License.
+Kirikiri Core and Tools: Copyright (C)2001-2012, W.Dee and contributors
+Last edited Dec 1, 2012 at 4:40 PM by milizhang, version 5
+```
+
 ## 吉里吉里Z, krkrz, kirikiriz    
 ```
 就日文版而言
