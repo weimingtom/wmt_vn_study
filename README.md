@@ -2221,7 +2221,7 @@ https://baike.baidu.com/item/角斗士/19859499?fr=aladdin
 作为RPG《坠入苍蓝色的深渊》后传，采用The NVL Maker引擎制作，定位为18岁及以上玩家。
 ```
 * https://www.nvlmaker.net/#/links  
-namespace D  
+namespace D, (?)全局变量D    
 https://variabled.weebly.com   
 https://variabled.weebly.com/the-nvl-maker.html  
 重次元车间  
