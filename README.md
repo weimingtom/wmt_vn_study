@@ -2220,6 +2220,12 @@ https://baike.baidu.com/item/角斗士/19859499?fr=aladdin
 《角斗士》（Gladiator）是由Project Bamboo制作组开发的AVG+模拟恋爱养成游戏，
 作为RPG《坠入苍蓝色的深渊》后传，采用The NVL Maker引擎制作，定位为18岁及以上玩家。
 ```
+* https://www.nvlmaker.net/#/links  
+namespace D
+https://variabled.weebly.com   
+https://variabled.weebly.com/the-nvl-maker.html  
+重次元车间  
+https://d.mega-zone.org/index.html  
 
 ## Artemis Engine, closed source    
 * http://www.ies-net.com  
