@@ -2202,7 +2202,7 @@ https://download.csdn.net/download/cping1982/3516651
 * see below 'tyranoscript, ティラノスクリプト'
 * (TODO) 多款知名视觉小说游戏采用该引擎开发，如《冬日树下的回忆》《盛夏之梦》等 。 （摘自《tyranoscript》的百度AI回答）
 
-## NVLMaker  
+## NVLMaker, THE NVL Maker, AVG图形化制作工具NVLMaker    
 ```
 Sometimes, NVL=NoVeL=Novel=Visual Novel  
 In Renpy, There are two main styles of presentation used for visual novels, ADV-style games and NVL-style games  
