@@ -2072,10 +2072,18 @@ motionsim 离线模拟 motion 播放，输出每帧每节点的 TSV
 ## ningshanwutuobang/Kirikiroid2, fork of zeas2/Kirikiroid2, using cmake  
 * (origin) https://github.com/ningshanwutuobang/Kirikiroid2
 * (origin) https://github.com/ningshanwutuobang/Kirikiroid2/tree/linux_build
-* (origin fork) https://github.com/YuriSizuku/Kirikiroid2Yuri
+* (not sure, but Kirikiroid2Yuri is newer than ningshanwutuobang's version) (origin fork) https://github.com/YuriSizuku/Kirikiroid2Yuri
 * https://github.com/joiplay/Kirikiroid2
 * https://github.com/weimingtom/kirikiroid2_fork3
 * Kirikiroid2-linux_build_v5.tar.gz
+
+## Kirikiroid2Yuri, Kirikiroid2-yuri, Kirikiroid2_yuri, krkr2yuri, An enhancement of Kirikiroid2, based on Kirikiroid2
+* https://github.com/YuriSizuku/Kirikiroid2Yuri  
+* 好像是一个可编译的Kirikiroid2版本
+* I am not sure if based on ningshanwutuobang/Kirikiroid2, ningshanwutuobang version is older (2021), but Kirikiroid2Yuri is newer (2023)        
+
+## Kirikiroid2-debloated, based on kirikiroid2yuri    
+* https://github.com/enaix/Kirikiroid2-debloated  
 
 ## krkr2-linux, based on Kirikiroid2    
 * https://github.com/CuteMurasame/krkr2-linux   
