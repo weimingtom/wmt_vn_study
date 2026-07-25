@@ -1968,6 +1968,10 @@ src\core\visual\WindowIntf.cpp
 * 实妹相伴的大泉君测试文件1，可以用kirikiroid2安卓版打开：shimei_with_xp3filter_less_files.7z
 * 实妹相伴的大泉君测试文件2，可以用kirikiroid2安卓版打开：cheng141_with_xp3filter_complete_files.7z
 * (TODO) https://bbs.deepin.org/search?keyword=kirikiroid2&search_type=1
+* https://kirikiroid2.com  
+https://kirikiroid2.com/wp-content/uploads/2026/06/Kirikiroid2-master.zip  
+is same as   
+https://github.com/zeas2/Kirikiroid2/commit/d1c2b1259423542c893e0b65eaeb46c848848f2b  
 
 ## 2468785842/krkr2, fork of zeas2/Kirikiroid2, using vcpkg/cmake/ninja and cocos2d-x       
 * (origin) https://github.com/2468785842/krkr2    
