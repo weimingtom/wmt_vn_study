@@ -1424,9 +1424,9 @@ http://kcddp.keyfc.net/bbs/viewthread.php?tid=442&extra=page%3D1&page=1
 (dead) https://tieba.baidu.com/p/6310593391  
 
 ## tvpcn
-* (origin) https://github.com/weimingtom/tvpcn
 * (origin, dead) from http://tvpcn.codeplex.com/
 * (origin) https://web.archive.org/web/20171227173355/http://tvpcn.codeplex.com/
+* (fork) https://github.com/weimingtom/tvpcn
 ```
 The purpose of this project is to maintain a Simplified Chinese translated version of
 Kirikiri (TVP) 2 Core (http://kikyou.info/tvp), based on the SVN Head development version.
