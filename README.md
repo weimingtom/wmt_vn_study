@@ -1403,12 +1403,13 @@ https://kimoritama.github.io/krkr2doc-cn/kag3doc/contents/index.html
 * 吉里吉里2（開発版）　二次配布ページ  
 http://kasugasoft.daiwadaw.jp/pub/吉里吉里2/   
 https://kasugasoft.daiwadaw.jp/pub/吉里吉里2/ChangeLog.html  
-* My test suites (I call them 'atest1' to 'atest3')   
+* My test suites (I call them 'atest' to 'atest3')   
+atest/data.xp3: atest is a simple hello text displayed on the screen in the window  
+atest2/data.xp3: 星月夜EP3_DEMO.rar, a.k.a 星月夜（体验版）.rar, 星月夜~Seven Tales in Sprial    
+atest3/Data.xp3: Spring Days.rar, from https://code.google.com/archive/p/godxq1986/downloads   
 KRKR制作范例.zip   
-lyricallisp_free-1.7.zip    
-Spring Days.rar, atest3  
-星月夜EP3_DEMO.rar, atest2, a.k.a 星月夜（体验版）.rar, 星月夜~Seven Tales in Sprial  
-A Dream of Summer.7z  
+(x, not krkr2, this is an nscripter game) lyricallisp_free-1.7.zip    
+(x, not krkr2, this is an nscripter game) A Dream of Summer.7z   
 * https://github.com/krkrz/krkr2, krkrz_krkr2-master.zip    
 下载下来大概是348MB, 然后把里面的krkr.eXe复制到data文件夹旁边，然后双击运行, 例如：  
 https://github.com/krkrz/krkr2/tree/master/kirikiri2/branches/kag3ex1
