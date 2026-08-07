@@ -6298,3 +6298,7 @@ BiliBiliEncoder工具说明：
 如果对压制有兴趣或对工具有什么意见建议的话欢迎来QQ群XXXXXXXXXXX来讨论（无关话题禁止DESU～）。
 ```
 
+## XX-CAKE
+* http://www21.atwiki.jp/xxcake/
+* 王子夜礼服假面
+
