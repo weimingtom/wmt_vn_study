@@ -2037,7 +2037,7 @@ EGLDisplay EGLContextManager::AcquireAngleDisplay(AngleBackend& backend) {
 ```
 * https://github.com/weimingtom/KrKr2-Next-no-vcpkg
 
-## (TODO) AveyondFly/KrKr2-Next, (?) for Aurknix (?), not sure
+## AveyondFly/KrKr2-Next, (?) for Aurknix (?), not sure
 * https://github.com/AveyondFly/KrKr2-Next
 * (?) Aurknix, see also https://github.com/AveyondFly/distribution_rocknix  
 * kk大佬?
@@ -2045,6 +2045,7 @@ EGLDisplay EGLContextManager::AcquireAngleDisplay(AngleBackend& backend) {
 https://www.bilibili.com/video/BV16U3i6vEYH/
 * R36S开源掌机可以玩新平台krkr2游戏了, 女友与我的恋爱日常(体验版), [0.4汉化] J.Q.V 人類救済部      
 https://www.bilibili.com/video/BV1NMMd69E9C/  
+* github.com/weimingtom/KrKr2-Next_fork2  
 
 ## (TODO) KiriKiri-LauncherC, based on 2468785842/krkr2, but significantly improved from core to plugins and UI in the C/C++ code, and using Flutter (?)    
 * **(TODO)**
