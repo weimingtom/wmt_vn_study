@@ -2035,7 +2035,7 @@ EGLDisplay EGLContextManager::AcquireAngleDisplay(AngleBackend& backend) {
 确定在某些手机设备（例如红米13C）上可以运行，
 我猜测可能只能在Android 14，如果是Android 12也有可能黑屏
 ```
-* https://github.com/weimingtom/KrKr2-Next-no-vcpkg
+* https://github.com/weimingtom/KrKr2-Next-no-vcpkg  
 
 ## AveyondFly/KrKr2-Next, (?) for Aurknix (?), not sure
 * https://github.com/AveyondFly/KrKr2-Next
@@ -2045,7 +2045,7 @@ EGLDisplay EGLContextManager::AcquireAngleDisplay(AngleBackend& backend) {
 https://www.bilibili.com/video/BV16U3i6vEYH/
 * R36S开源掌机可以玩新平台krkr2游戏了, 女友与我的恋爱日常(体验版), [0.4汉化] J.Q.V 人類救済部      
 https://www.bilibili.com/video/BV1NMMd69E9C/  
-* github.com/weimingtom/KrKr2-Next_fork2  
+* (TODO, add Makefile and remove deps) https://github.com/weimingtom/KrKr2-Next_fork2  
 
 ## (TODO) KiriKiri-LauncherC, based on 2468785842/krkr2, but significantly improved from core to plugins and UI in the C/C++ code, and using Flutter (?)    
 * **(TODO)**
