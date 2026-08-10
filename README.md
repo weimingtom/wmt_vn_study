@@ -2175,7 +2175,27 @@ gdb运行和直接运行也会在这里不同，因为argv[0]不同。简单来�
 
 ## (TODO) AetherKiri, for Godot GDExtensions(?)
 * https://github.com/AetherKiri/AetherKiri  
+* ===
+* https://github.com/godotengine/godot-cpp/tree/4.5  
+* https://github.com/godotengine/godot-cpp-template/blob/main/src/example_class.h
+* https://docs.godotengine.org/en/4.4/tutorials/scripting/gdextension/gdextension_cpp_example.html
+* ===
 * **(TODO)** https://github.com/AetherKiri/AetherKiri/blob/main/bridge/godot_extension/src/aether_kiri_godot.cpp  
+```
+class AetherKiriPlayer final : public Node {
+    GDCLASS(AetherKiriPlayer, Node)
+```
+* https://github.com/AetherKiri/AetherKiri/blob/main/doc/diagnostics.zh-CN.md
+* https://github.com/AetherKiri/AetherKiri/blob/main/doc/development.md
+```
+Input Pipeline
+Godot events are handled in apps/godot_app/scripts/main.gd and forwarded to AetherKiriPlayer, then through EngineLoop into TVP input events.  
+```
+* https://docs.godotengine.org/en/4.5/engine_details/architecture/object_class.html  
+* https://github.com/AetherKiri/AetherKiri/blob/main/apps/godot_app/scripts/main.gd  
+```
+var instance: Object = ClassDB.instantiate("AetherKiriPlayer")
+```
 
 ## Kirakira, by Rust 
 * https://github.com/liulifox233/Kirakira
