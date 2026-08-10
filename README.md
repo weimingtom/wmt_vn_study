@@ -2058,9 +2058,10 @@ Usage: xp3 [--help] [--version] [--output VAR] files...
 ## Aurknix, krkr2 (krkr2-sa): Kirikiri2 visual novel engine
 * https://github.com/AveyondFly/distribution_rocknix/blob/563c9ea7139b39e713f561f2f0651c2260f7db19/README.md
 * https://github.com/AveyondFly/distribution_rocknix/releases#release-20260809
+* AURKNIX-RK3326.aarch64-20260809.img.gz
 * https://github.com/AveyondFly/distribution_rocknix, next branch, 20260809
 * https://github.com/AveyondFly/distribution_rocknix/blob/next/projects/ROCKNIX/packages/emulators/standalone/krkr2-sa/scripts/start_krkr2.sh
-* /storage/.config/krkr2/krkr2_sdl2
+* (x) /storage/.config/krkr2/krkr2_sdl2
 * /usr/config/krkr2/krkr2_sdl2
 * ===
 * https://github.com/AveyondFly/distribution_rocknix/blob/next/projects/ROCKNIX/packages/emulators/standalone/krkr2-sa/package.mk  
