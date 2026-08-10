@@ -2063,11 +2063,11 @@ Usage: xp3 [--help] [--version] [--output VAR] files...
 * /storage/.config/krkr2/krkr2_sdl2
 * /usr/config/krkr2/krkr2_sdl2
 * ===
-* https://github.com/AveyondFly/distribution_rocknix/blob/next/projects/ROCKNIX/packages/emulators/standalone/krkr2-sa/package.mk
-* https://github.com/AveyondFly/console_mod_res/releases/download/v0.9/krkr2_sdl2.tar.gz
+* https://github.com/AveyondFly/distribution_rocknix/blob/next/projects/ROCKNIX/packages/emulators/standalone/krkr2-sa/package.mk  
+* https://github.com/AveyondFly/console_mod_res/releases/download/v0.9/krkr2_sdl2.tar.gz  
 Find "/home/ubuntu/KrKr2-Next/.vcpkg-tool/buildtrees" in krkr2_sdl2 file binary  
-* https://github.com/AveyondFly/console_mod_res/releases/download/v0.9/mkxp-z_libretro.so.tar.gz
-* https://github.com/AveyondFly/console_mod_res/releases/download/v0.9/onscripter.zip
+* https://github.com/AveyondFly/console_mod_res/releases/download/v0.9/mkxp-z_libretro.so.tar.gz  
+* https://github.com/AveyondFly/console_mod_res/releases/download/v0.9/onscripter.zip  
 
 ## (TODO) KiriKiri-LauncherC, based on 2468785842/krkr2, but significantly improved from core to plugins and UI in the C/C++ code, and using Flutter (?)    
 * **(TODO)**
