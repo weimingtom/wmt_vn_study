@@ -2049,6 +2049,11 @@ https://www.bilibili.com/video/BV1NMMd69E9C/
 * https://github.com/weimingtom/KrKr2-Next_fork2    
 **TODO: Add Makefile and remove deps**   
 **TODO: xubuntu 20.04 cmake failed, see KrKr2-Next_fork2_v11_failed_xubuntu20.tar.gz**  
+* https://github.com/AveyondFly/KrKr2-Next/tree/main/tools/xp3   
+```
+xp3	解包 .xp3 归档，可对加密 XP3 应用 tpm/xp3filter 脚本  
+Usage: xp3 [--help] [--version] [--output VAR] files...  
+```
 
 ## (TODO) KiriKiri-LauncherC, based on 2468785842/krkr2, but significantly improved from core to plugins and UI in the C/C++ code, and using Flutter (?)    
 * **(TODO)**
