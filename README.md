@@ -5476,6 +5476,7 @@ Ethornell (現稱 Buriko General Interpreter) 是日本其中一個常用的 AVG
 這個是可以提取劇本文字的工具。
 ```
 * BGI.dll src, 《更胜黎明前的琉璃色》简体中文汉化补丁V1.1.1.rar  
+* (?) russ_0314t.zip, 黄昏のフォルクローレ_体験版
 
 ## Visual Novel Wiki
 * https://www.vnwiki.xyz
