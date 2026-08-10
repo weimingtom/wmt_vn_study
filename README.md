@@ -2055,6 +2055,14 @@ xp3	解包 .xp3 归档，可对加密 XP3 应用 tpm/xp3filter 脚本
 Usage: xp3 [--help] [--version] [--output VAR] files...  
 ```
 
+## Aurknix, krkr2 (krkr2-sa): Kirikiri2 visual novel engine
+* https://github.com/AveyondFly/distribution_rocknix/blob/563c9ea7139b39e713f561f2f0651c2260f7db19/README.md
+* https://github.com/AveyondFly/distribution_rocknix/releases#release-20260809
+* https://github.com/AveyondFly/distribution_rocknix, next branch, 20260809
+* https://github.com/AveyondFly/distribution_rocknix/blob/next/projects/ROCKNIX/packages/emulators/standalone/krkr2-sa/scripts/start_krkr2.sh
+* /storage/.config/krkr2/krkr2_sdl2
+* /usr/config/krkr2/krkr2_sdl2
+
 ## (TODO) KiriKiri-LauncherC, based on 2468785842/krkr2, but significantly improved from core to plugins and UI in the C/C++ code, and using Flutter (?)    
 * **(TODO)**
 * https://github.com/xiaocongyu66/KiriKiri-LauncherC  
