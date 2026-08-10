@@ -2038,7 +2038,7 @@ EGLDisplay EGLContextManager::AcquireAngleDisplay(AngleBackend& backend) {
 ```
 * https://github.com/weimingtom/KrKr2-Next-no-vcpkg  
 
-## AveyondFly/KrKr2-Next, for Linux and Aurknix cross-compile  
+## AveyondFly/KrKr2-Next, for Linux (only tested under Ubuntu 25.04) and Aurknix cross-compile (not tested)      
 * https://github.com/AveyondFly/KrKr2-Next
 * (?) Aurknix, see also https://github.com/AveyondFly/distribution_rocknix  
 * kk大佬?
@@ -2047,7 +2047,8 @@ https://www.bilibili.com/video/BV16U3i6vEYH/
 * R36S开源掌机可以玩新平台krkr2游戏了, 女友与我的恋爱日常(体验版), [0.4汉化] J.Q.V 人類救済部      
 https://www.bilibili.com/video/BV1NMMd69E9C/  
 * https://github.com/weimingtom/KrKr2-Next_fork2    
-TODO: add Makefile and remove deps   
+**TODO: Add Makefile and remove deps**   
+**TODO: xubuntu 20.04 cmake failed, see KrKr2-Next_fork2_v11_failed_xubuntu20.tar.gz**  
 
 ## (TODO) KiriKiri-LauncherC, based on 2468785842/krkr2, but significantly improved from core to plugins and UI in the C/C++ code, and using Flutter (?)    
 * **(TODO)**
