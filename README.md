@@ -1495,6 +1495,8 @@ https://github.com/a-rabin/kag3-en
 https://github.com/krkrsdl2/krkrsdl2-kag3-demo/tree/main/data-demo
 (3.3) (TODO) Krkr2Compat, 作用不明，未试验    
 https://github.com/krkrz/Krkr2Compat
+(3.4) (TODO) krkrs的krkrs_sdk  
+https://github.com/uyjulian/krkrs/releases/download/v1.1.0/krkrs_sdk.7z  
 
 （四）tvpwin32.exe和tvpwin64.exe至少支持两种文本编码（可能还支持两字节unicode，待考）
 -readencoding=UTF-8
