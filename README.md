@@ -2207,7 +2207,10 @@ Ubuntu 25.04
 sudo apt update
 sudo apt install gcc g++ make cmake scons git lftp 
 
-main branch:
+(main branch:)
+git clone --recursive https://github.com/godotengine/godot-cpp-template  
+cd godot-cpp-template/  
+
 scons -c
 scons
 (Godot 4.4.1 Load project/project.godot)
