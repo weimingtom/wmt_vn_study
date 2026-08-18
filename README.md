@@ -2202,6 +2202,39 @@ gdb运行和直接运行也会在这里不同，因为argv[0]不同。简单来�
 * ===
 * https://github.com/godotengine/godot-cpp/tree/4.5  
 * https://github.com/godotengine/godot-cpp-template/blob/main/src/example_class.h
+```
+Ubuntu 25.04
+sudo apt update
+sudo apt install gcc g++ make cmake scons git lftp 
+
+main branch:
+scons -c
+scons
+(Godot 4.4.1 Load project/project.godot)
+
+rm -rf build
+mkdir build
+cd build
+cmake ..
+make -j8
+(rename project/bin/linux/xxx.so to project/bin/linux/libxxx.so, add 'lib' prefix)
+(Godot 4.4.1 Load project/project.godot)
+
+AetherKiri研究。我暂时未跑AetherKiri这个项目的代码，我先试试跑
+godotengine/godot-cpp-template。
+scons可以很轻松编译出动态库，so文件输出到project\bin\linux目录下
+（对应example.gdextension里面的相对路径），
+然后用godot 4.4加载project/project.godot即可。不过这里有几个问题，首先编译会很慢，
+其次用godot 4.1会运行失败，看错误提示会提示一定要用godot 4.4才能正常运行。
+接下来有空试试换成cmake看能不能编译（对应godot-cpp的顶层目录，也可以用cmake编译）
+
+AetherKiri研究。测试cmake编译godot-cpp-template。上次忘记说开发环境，
+是ubuntu 25.04，清除项目是scons -c，然后用cmake编译也可以
+mkdir build;cd build;cmake ..;make -j8然后不需要install，
+编译完成后会把.so文件输出到project/bin/linux目录下
+（补注：so文件需要自己重命名，添加lib前缀），
+然后用godot 4.4.1加载project目录即可
+```
 * https://docs.godotengine.org/en/4.4/tutorials/scripting/gdextension/gdextension_cpp_example.html
 * ===
 * **(TODO)** https://github.com/AetherKiri/AetherKiri/blob/main/bridge/godot_extension/src/aether_kiri_godot.cpp  
