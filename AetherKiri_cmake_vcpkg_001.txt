@@ -3,7 +3,7 @@ Ubuntu 25.04 VMware
 git clone https://github.com/AetherKiri/AetherKiri
 (not needed --recursive)
 cd AetherKiri
-checkout -f 0.2.4
+git checkout -f 0.2.4
 
 sudo apt install gcc g++ make cmake ninja-build pkg-config git curl unzip zip ccache nasm yasm bison autoconf automake autoconf-archive libtool libx11-dev libxrender-dev
 (autoconf automake libtool)
