@@ -1,0 +1,33 @@
+Ubuntu 25.04 VMware
+
+git clone https://github.com/AetherKiri/AetherKiri
+(not needed --recursive)
+cd AetherKiri
+checkout -f 0.2.4
+
+sudo apt install gcc g++ make cmake ninja-build pkg-config git curl unzip zip ccache nasm yasm bison autoconf automake autoconf-archive libtool libx11-dev libxrender-dev
+(autoconf automake libtool)
+
+./tools/setup_linux.sh
+(wait a long time to download vcpkg, Godot_v4.7 and templates)
+(if uncompress /home/wmt/AetherKiri/.aetherkiri-cache/downloads/Godot_v4.7-stable_export_templates.tpz error, ignore)
+
+./build.sh
+(choose 4 linux, choose 1 debug)
+
+...
+[357/358] Linking CXX shared library bridge/engine_api/libengine_api.so
+/usr/bin/ld: vcpkg_installed/x64-linux/lib/libjpegxr.a(strenc.c.o): in function `StrIOEncInit':
+strenc.c:(.text+0xfe4): warning: the use of `tmpnam' is dangerous, better use `mkstemp'
+[358/358] Linking CXX shared library b...odot_extension/libaether_kiri_godot.so
+Error: Linux export template not found at /home/wmt/AetherKiri/.aetherkiri-cache/xdg/data/godot/export_templates/4.7.stable/linux_debug.x86_64. Run tools/setup_linux.sh first.
+
+
+$ find . | grep kiri_godot.so
+./out/linux/debug/bridge/godot_extension/libaether_kiri_godot.so
+./apps/godot_app/bin/linux/debug/libaether_kiri_godot.so
+
+
+copy /home/wmt/AetherKiri/.aetherkiri-cache/godot/Godot_v4.7-stable_linux.x86_64 to /home/wmt/.
+Double click to run /home/wmt/Godot_v4.7-stable_linux.x86_64, and import /home/wmt/AetherKiri/apps/godot_app/project.godot
+then press run button
