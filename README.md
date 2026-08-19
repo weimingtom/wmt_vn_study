@@ -2258,8 +2258,8 @@ Godot events are handled in apps/godot_app/scripts/main.gd and forwarded to Aeth
 ```
 var instance: Object = ClassDB.instantiate("AetherKiriPlayer")
 ```
-* weibo record
-see also https://github.com/weimingtom/wmt_vn_study/blob/master/AetherKiri_cmake_vcpkg_001.txt  
+* weibo record  
+see also https://github.com/weimingtom/wmt_vn_study/blob/master/AetherKiri_cmake_vcpkg_001.txt   
 ```
 我记录下的krkr2项目，有6个还没研究，其中有2个是活跃的，AetherKiri和kirikiroid2-web，
 我可能先研究这两个，其他就随意了。不要再来了，再多我就受不了，不过代码库越多，也是好事，
