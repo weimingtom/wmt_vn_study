@@ -14,6 +14,7 @@ Nothing seek, nothing find
 ```
 
 ## TODO  
+* https://github.com/weimingtom/Kuuko/blob/master/README4.md
 * Android 向けADVエンジン  
 https://kzkz.jp/barn/android-向けadvエンジン/  
 https://www.slideshare.net/slideshow/120915-igda-sig-indie9/15740479  
@@ -75,6 +76,7 @@ GPiCASE で ONScripter
 * (done) onscripter_jh_sdl2_fork_lons_vs2013_v1.rar   
 
 ## Old index / References      
+* https://github.com/weimingtom/Kuuko/blob/master/README4.md  
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/visual_novel.md  
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/vn.md  
 * https://ultrapre.github.io/clip/汉化破解研讨室/2019-10-13-1570948466/index.html  
