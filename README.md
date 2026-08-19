@@ -2258,6 +2258,26 @@ Godot events are handled in apps/godot_app/scripts/main.gd and forwarded to Aeth
 ```
 var instance: Object = ClassDB.instantiate("AetherKiriPlayer")
 ```
+* weibo record
+see also https://github.com/weimingtom/wmt_vn_study/blob/master/AetherKiri_cmake_vcpkg_001.txt  
+```
+我记录下的krkr2项目，有6个还没研究，其中有2个是活跃的，AetherKiri和kirikiroid2-web，
+我可能先研究这两个，其他就随意了。不要再来了，再多我就受不了，不过代码库越多，也是好事，
+我可以参考的代码就更多 
+
+AetherKiri研究。Ubuntu 25.04 VMware 运行效果如下 ​​​
+
+AetherKiri研究。在Ubuntu 25.04 VMware下用官方介绍的cmake+vcpkg方法去编译Linux版。
+首先关于git仓库的子模块，无视就行，这里为了简单，我只编译了0.2.4这个tag的代码
+git checkout -f 0.2.4（只有一个闭源子模块）。然后用cmake编译，它是用vcpkg编译依赖的，
+基本就是用这两个来编译：./build.sh和./tools/setup_linux.sh，如果你不安装vcpkg直接执行build.sh，
+它会提示执行setup_linux.sh，可以认为setup_linux.sh就是下载安装vcpkg的（还有godot ide和template），
+不过setup_linux.sh的最后会触发template解压失败，忽略就可以了（后面打包godot就会报错，
+但我只需要用godot ide导入即可），然后用./build.sh执行cmake+vcpkg配置和编译，
+最后的godot template报错可以忽略，编译出很多个so文件输出到./apps/godot_app/bin/linux/debug/
+目录下（包括libaether_kiri_godot.so），然后用godot ide（linux版，版本是v4.7，
+我怀疑4.4和以上都支持）导入这个目录./apps/godot_app/project.godot然后运行即可
+```
 
 ## Kirakira, by Rust 
 * https://github.com/liulifox233/Kirakira
