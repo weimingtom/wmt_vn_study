@@ -2141,72 +2141,7 @@ Find "/home/ubuntu/KrKr2-Next/.vcpkg-tool/buildtrees" in krkr2_sdl2 file binary
 20181218, 0.7.6, or like https://github.com/YuriSizuku/OnscripterYuri/blob/v0.7.6/src/onsyuri/version.h
 ```
 
-## krkrsdl3, mainly for Android, also supports Windows and Linux     
-```
-NOTE: For Android, you should put data.xp3 into subfolder of the search path, not the top of search path
-like this, if you set your search path to /storage/emulated/0/kr2
-data.xp3 file should be put into /storage/emulated/0/kr2/mygame1/data.xp3
-not /storage/emulated/0/kr2/data.xp3
-
-NOTE: For Linux, you should execute krkrsdl3 data.xp3 with full path (realpath), both krkrsdl3 and data.xp3
-like this:
-/home/wmt/krkrsdl3 /home/wmt/data.xp3
-instead of
-./krkrsdl3 ./data.xp3
-```
-* (origin) https://github.com/krkrsdl3/krkrsdl3  
-* (origin, old name) https://github.com/luxiaoling-mc/krkrsdl3  
-* (?) From the manual of 旧柚, com.vintage.pomelo  
-* I don't know if it is the author of VintagePomelo (旧柚), but I hear that it's not the same author      
-* (x) Under construction, see dev branch  
-* Try to build Linux version  
-https://github.com/weimingtom/wmt_vn_study/blob/master/krkrsdl3_build_linux_001.txt  
-```
-sudo apt install git make cmake gcc g++ gedit lftp
-sudo apt-get install curl zip unzip tar
-sudo apt install ninja-build nasm pkg-config autoconf autoconf-archive automake libtool libgl-dev   
-sudo apt install python3.14-venv  
-```
-```
-编译krkrsdl3/krkrsdl3的linux版，可以编译，但运行失败（好像是sdl初始化失败？）。
-很想吐槽vcpkg难用，不过算了，反正找到方法改库代码，当没事了。可能下次编译安卓版，
-但这次这样，下次可能要等很久以后。暂时未考虑逆向出这个工程的makefile，
-因为我感觉这个项目有可能也是瞎搞的，甚至能不能运行也难说
-```
-* Try to build Android version  
-https://github.com/weimingtom/wmt_vn_study/blob/master/krkrsdl3_build_android_001.md    
-```
-我把krkrsdl3/krkrsdl3的安卓版编译出来了，可以运行，只是需要把data.xp3
-放在data目录里面才能搜索出来，不解。没看懂原理，
-好像soft和opengl绘画都支持（不确定），需要三手指手势才能弹出菜单，
-除此以外就没有什么特别的（应该没那个flutter版好看）。
-暂时不打算改成ndk-build编译（虽然我可以逆向出来），
-如果要搞也要等9月份以后，而且这个作者可能在频繁修改，我就不管了，
-但这个开源项目有一定参考价值，基于glad和sdl3，
-我应该会动手改一下的，但现在不研究。
-另外这个vcpkg编译反而比较顺利，没有编译linux版那个麻烦
-```
-* port to Android and Linux, see 移动硬盘/_krkrsdl3_build_20260607/android_build/verbose.txt, xubuntu2604/verbose.txt   
-* weibo record, about Linux version, need full path (realpath) of argv[0] and argv[1]
-```
-krkrsdl3研究。似乎可以勉强在xubuntu 20.04下跑起来，不过有问题：遇到文本对话框输出时会卡住，
-不知道是不是声音卡了；需要把命令行第一个参数从xp3文件的相对路径改成绝对路径；
-只能在gdb下运行，如果非调试模式会在开头就退出。所以暂时还不能放到gh上，继续改 ​​​
-
-krkrsdl3研究，好吧，原版代码是对的。我知道为什么运行安卓版和Linux版有区别，
-还有为什么运行调试版可以但直接运行则crash，这两个问题的原因是同一个，
-TVPApplication.cpp的_KRKRSDL3_LIB代码，如果是安卓版会运行这个条件宏的第一个分支，
-如果是Linux版则会运行另一个分支，所以安卓版和Linux版的效果会不一样，
-gdb运行和直接运行也会在这里不同，因为argv[0]不同。简单来说，
-原版的代码其实可以正常运行，前提是要用elf文件krkrsdl3的完整路径来调用，
-如果通过相对路径来调用elf文件就会crash，例如./krkrsdl3 xp3路径名，
-需要改成/home/aaa/krkrsdl3 xp3路径名。我改代码自己把realpath集成到代码里面，
-就可以不需要在调用时使用完整路径了。相关的修改我会放到gh上，
-目前可以在xubuntu 20.04上编译运行
-```
-* https://github.com/weimingtom/krkrsdl3-no-vcpkg  
-
-## (TODO) AetherKiri, for Godot GDExtensions(?)
+## (TODO) AetherKiri, for Godot "GDExtension C++", based on reAAAq/KrKr2-Next        
 * https://github.com/AetherKiri/AetherKiri  
 * ===
 * https://github.com/godotengine/godot-cpp/tree/4.5  
@@ -2285,6 +2220,71 @@ git checkout -f 0.2.4（只有一个闭源子模块）。然后用cmake编译，
 目录下（包括libaether_kiri_godot.so），然后用godot ide（linux版，版本是v4.7，
 我怀疑4.4和以上都支持）导入这个目录./apps/godot_app/project.godot然后运行即可
 ```
+
+## krkrsdl3, mainly for Android, also supports Windows and Linux     
+```
+NOTE: For Android, you should put data.xp3 into subfolder of the search path, not the top of search path
+like this, if you set your search path to /storage/emulated/0/kr2
+data.xp3 file should be put into /storage/emulated/0/kr2/mygame1/data.xp3
+not /storage/emulated/0/kr2/data.xp3
+
+NOTE: For Linux, you should execute krkrsdl3 data.xp3 with full path (realpath), both krkrsdl3 and data.xp3
+like this:
+/home/wmt/krkrsdl3 /home/wmt/data.xp3
+instead of
+./krkrsdl3 ./data.xp3
+```
+* (origin) https://github.com/krkrsdl3/krkrsdl3  
+* (origin, old name) https://github.com/luxiaoling-mc/krkrsdl3  
+* (?) From the manual of 旧柚, com.vintage.pomelo  
+* I don't know if it is the author of VintagePomelo (旧柚), but I hear that it's not the same author      
+* (x) Under construction, see dev branch  
+* Try to build Linux version  
+https://github.com/weimingtom/wmt_vn_study/blob/master/krkrsdl3_build_linux_001.txt  
+```
+sudo apt install git make cmake gcc g++ gedit lftp
+sudo apt-get install curl zip unzip tar
+sudo apt install ninja-build nasm pkg-config autoconf autoconf-archive automake libtool libgl-dev   
+sudo apt install python3.14-venv  
+```
+```
+编译krkrsdl3/krkrsdl3的linux版，可以编译，但运行失败（好像是sdl初始化失败？）。
+很想吐槽vcpkg难用，不过算了，反正找到方法改库代码，当没事了。可能下次编译安卓版，
+但这次这样，下次可能要等很久以后。暂时未考虑逆向出这个工程的makefile，
+因为我感觉这个项目有可能也是瞎搞的，甚至能不能运行也难说
+```
+* Try to build Android version  
+https://github.com/weimingtom/wmt_vn_study/blob/master/krkrsdl3_build_android_001.md    
+```
+我把krkrsdl3/krkrsdl3的安卓版编译出来了，可以运行，只是需要把data.xp3
+放在data目录里面才能搜索出来，不解。没看懂原理，
+好像soft和opengl绘画都支持（不确定），需要三手指手势才能弹出菜单，
+除此以外就没有什么特别的（应该没那个flutter版好看）。
+暂时不打算改成ndk-build编译（虽然我可以逆向出来），
+如果要搞也要等9月份以后，而且这个作者可能在频繁修改，我就不管了，
+但这个开源项目有一定参考价值，基于glad和sdl3，
+我应该会动手改一下的，但现在不研究。
+另外这个vcpkg编译反而比较顺利，没有编译linux版那个麻烦
+```
+* port to Android and Linux, see 移动硬盘/_krkrsdl3_build_20260607/android_build/verbose.txt, xubuntu2604/verbose.txt   
+* weibo record, about Linux version, need full path (realpath) of argv[0] and argv[1]
+```
+krkrsdl3研究。似乎可以勉强在xubuntu 20.04下跑起来，不过有问题：遇到文本对话框输出时会卡住，
+不知道是不是声音卡了；需要把命令行第一个参数从xp3文件的相对路径改成绝对路径；
+只能在gdb下运行，如果非调试模式会在开头就退出。所以暂时还不能放到gh上，继续改 ​​​
+
+krkrsdl3研究，好吧，原版代码是对的。我知道为什么运行安卓版和Linux版有区别，
+还有为什么运行调试版可以但直接运行则crash，这两个问题的原因是同一个，
+TVPApplication.cpp的_KRKRSDL3_LIB代码，如果是安卓版会运行这个条件宏的第一个分支，
+如果是Linux版则会运行另一个分支，所以安卓版和Linux版的效果会不一样，
+gdb运行和直接运行也会在这里不同，因为argv[0]不同。简单来说，
+原版的代码其实可以正常运行，前提是要用elf文件krkrsdl3的完整路径来调用，
+如果通过相对路径来调用elf文件就会crash，例如./krkrsdl3 xp3路径名，
+需要改成/home/aaa/krkrsdl3 xp3路径名。我改代码自己把realpath集成到代码里面，
+就可以不需要在调用时使用完整路径了。相关的修改我会放到gh上，
+目前可以在xubuntu 20.04上编译运行
+```
+* https://github.com/weimingtom/krkrsdl3-no-vcpkg  
 
 ## Kirakira, by Rust 
 * https://github.com/liulifox233/Kirakira
