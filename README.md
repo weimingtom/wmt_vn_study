@@ -1987,6 +1987,18 @@ https://github.com/zeas2/Kirikiroid2/commit/d1c2b1259423542c893e0b65eaeb46c84884
 * https://github.com/weimingtom/kirikiroid2_fork3
 * Kirikiroid2-linux_build_v5.tar.gz
 
+## Kirikiroid2Yuri, Kirikiroid2-yuri, Kirikiroid2_yuri, krkr2yuri, An enhancement of Kirikiroid2, based on zeas2/Kirikiroid2
+* https://github.com/YuriSizuku/Kirikiroid2Yuri  
+* 好像是一个可编译的Kirikiroid2版本
+* I am not sure if based on ningshanwutuobang/Kirikiroid2, ningshanwutuobang version is older (2021), but Kirikiroid2Yuri is newer (2023)        
+
+## Kirikiroid2-debloated, based on YuriSizuku/Kirikiroid2Yuri (kirikiroid2yuri)      
+* https://github.com/enaix/Kirikiroid2-debloated  
+
+## krkr2-linux, based on zeas2/Kirikiroid2    
+* https://github.com/CuteMurasame/krkr2-linux   
+* **(TODO)** https://github.com/weimingtom/krkr2-linux_fork  
+
 ## 2468785842/krkr2, fork of zeas2/Kirikiroid2, using vcpkg/cmake/ninja and cocos2d-x       
 * (origin) https://github.com/2468785842/krkr2    
 * https://github.com/weimingtom/wmt_vn_study/blob/master/krkr2_vcpkg_build_001.md  
@@ -2128,18 +2140,6 @@ Find "/home/ubuntu/KrKr2-Next/.vcpkg-tool/buildtrees" in krkr2_sdl2 file binary
 20181218, 0.7.6, like https://github.com/wetor/ONScripter-jh-Switch and
 20181218, 0.7.6, or like https://github.com/YuriSizuku/OnscripterYuri/blob/v0.7.6/src/onsyuri/version.h
 ```
-
-## Kirikiroid2Yuri, Kirikiroid2-yuri, Kirikiroid2_yuri, krkr2yuri, An enhancement of Kirikiroid2, based on Kirikiroid2
-* https://github.com/YuriSizuku/Kirikiroid2Yuri  
-* 好像是一个可编译的Kirikiroid2版本
-* I am not sure if based on ningshanwutuobang/Kirikiroid2, ningshanwutuobang version is older (2021), but Kirikiroid2Yuri is newer (2023)        
-
-## Kirikiroid2-debloated, based on kirikiroid2yuri    
-* https://github.com/enaix/Kirikiroid2-debloated  
-
-## krkr2-linux, based on Kirikiroid2    
-* https://github.com/CuteMurasame/krkr2-linux   
-* **(TODO)** https://github.com/weimingtom/krkr2-linux_fork  
 
 ## krkrsdl3, mainly for Android, also supports Windows and Linux     
 ```
