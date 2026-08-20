@@ -1988,7 +1988,8 @@ https://github.com/zeas2/Kirikiroid2/commit/d1c2b1259423542c893e0b65eaeb46c84884
 https://github.com/jeffcwj/krkr2_angle/blob/main/docs/README.md  
 * https://github.com/weimingtom/krkr2-no-vcpkg
 * https://github.com/weimingtom/krkr2-no-vcpkg-fork2
-* TODO: add pure headers depends again for Android: spdlog, fmt (?), glm (?)    
+* (**TODO**): add pure headers depends again for Android: spdlog, fmt (?), glm (?)    
+see also https://github.com/weimingtom/KrKr2-Next-no-vcpkg/tree/master/cpp/external, bacause they can be compiled for Android NDK  
 
 ## KrKr2 Next, reAAAq/KrKr2-Next, based on 2468785842/krkr2, using Flutter, mainly (???) for iOS / macOS (???), and for Android      
 * (origin) https://github.com/reAAAq/KrKr2-Next
