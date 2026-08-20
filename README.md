@@ -1914,7 +1914,7 @@ Add plugin source code compilation;
 Make some modifications to the original core source code
 ```
 
-## kirikiroid2 (for Android and iOS)    
+## zeas2/Kirikiroid2, kirikiroid2 (for Android and iOS)    
 * (origin) https://github.com/zeas2/Kirikiroid2  
 https://github.com/butter255/emu/releases/tag/krkr2
 ```
@@ -1979,6 +1979,14 @@ https://kirikiroid2.com/wp-content/uploads/2026/06/Kirikiroid2-master.zip
 is same as   
 https://github.com/zeas2/Kirikiroid2/commit/d1c2b1259423542c893e0b65eaeb46c848848f2b  
 
+## ningshanwutuobang/Kirikiroid2, fork of zeas2/Kirikiroid2, using cmake  
+* (origin) https://github.com/ningshanwutuobang/Kirikiroid2
+* (origin) https://github.com/ningshanwutuobang/Kirikiroid2/tree/linux_build
+* (not sure, but Kirikiroid2Yuri is newer than ningshanwutuobang's version) (origin fork) https://github.com/YuriSizuku/Kirikiroid2Yuri
+* https://github.com/joiplay/Kirikiroid2
+* https://github.com/weimingtom/kirikiroid2_fork3
+* Kirikiroid2-linux_build_v5.tar.gz
+
 ## 2468785842/krkr2, fork of zeas2/Kirikiroid2, using vcpkg/cmake/ninja and cocos2d-x       
 * (origin) https://github.com/2468785842/krkr2    
 * https://github.com/weimingtom/wmt_vn_study/blob/master/krkr2_vcpkg_build_001.md  
@@ -1991,6 +1999,40 @@ https://github.com/jeffcwj/krkr2_angle/blob/main/docs/README.md
 * https://github.com/weimingtom/krkr2-no-vcpkg-fork2
 * (**TODO**): add pure headers depends again for Android: spdlog, fmt (?), glm (?)    
 see also https://github.com/weimingtom/KrKr2-Next-no-vcpkg/tree/master/cpp/external, bacause they can be compiled for Android NDK  
+
+## (TODO) KiriKiri-LauncherC, based on 2468785842/krkr2, but significantly improved from core to plugins and UI in the C/C++ code, and using Flutter (?)    
+* **(TODO)**
+* https://github.com/xiaocongyu66/KiriKiri-LauncherC  
+
+## (TODO) krkr2-native, based on 2468785842/krkr2, mainly for Android Jetpack Compose (?), but significantly improved in the C/C++ code  
+* https://github.com/xiaocongyu66/krkr2-native  
+* https://github.com/2468785842/krkr2/tree/73e9bfe153d2261486fb0245fa31d97271cfef9f  
+
+## (TODO) kirikiroid2-web, based on 2468785842/krkr2, mainly for wasm
+* (origin) https://github.com/fenghengzhi/kirikiroid2-web
+* (origin, work) https://krkr2.fenghengzhi.com
+* Font file name .ttf replace
+* Wasm port
+* Comment ffmpeg code and remove ffmpeg depending
+* Cocos2d-x UI mod
+* Etc, many modifications very much, not sure
+* **TODO**
+
+## (TODO) krkr2-tools, based on fenghengzhi/kirikiroid2-web 1a6c814  
+* https://github.com/xiaocongyu66/krkr2-tools  
+* forked from https://github.com/fenghengzhi/kirikiroid2-web/tree/1a6c81423f271a5128420a71a41943930a473b81
+* To build (?) https://github.com/xiaocongyu66/krkr2-tools/tree/main/tools without GUI (???)
+```
+xp3	解包 .xp3 归档，可对加密 XP3 应用 tpm/xp3filter 脚本
+xp3pack	重新打包目录为 .xp3 归档
+tjsdump	反编译 TJS2 字节码 (.tjs 编译产物) 到可读源
+ksdec	解码加密的 KAG 脚本 (.ks / .tjs)
+mtndump	dump motion (.mtn) 文件结构
+motionsim 离线模拟 motion 播放，输出每帧每节点的 TSV
+```
+* **(TODO)** 我认为这些工具没必要编译出来, 能编译本体就可以了, 当然可以尝试编译一下
+* **(TODO)** 有可能编译不出来, 因为缺少了https://github.com/fenghengzhi/kirikiroid2-web-private, 如果编译不了就算了  
+
 
 ## KrKr2 Next, reAAAq/KrKr2-Next, based on 2468785842/krkr2, using Flutter, mainly (???) for iOS / macOS (???), and for Android      
 * (origin) https://github.com/reAAAq/KrKr2-Next
@@ -2049,7 +2091,7 @@ https://github.com/weimingtom/wmt_android_galgame_test_suite/releases/download/v
 ```
 * https://github.com/weimingtom/KrKr2-Next-no-vcpkg  
 
-## AveyondFly/KrKr2-Next, for Linux (only tested under Ubuntu 25.04) and Aurknix cross-compile (not tested)      
+## AveyondFly/KrKr2-Next, (?) fork of reAAAq/KrKr2-Next, for Linux (only tested under Ubuntu 25.04) and Aurknix cross-compile (not tested)      
 * https://github.com/AveyondFly/KrKr2-Next
 * (?) Aurknix, see also https://github.com/AveyondFly/distribution_rocknix  
 * kk大佬?
@@ -2066,7 +2108,7 @@ xp3	解包 .xp3 归档，可对加密 XP3 应用 tpm/xp3filter 脚本
 Usage: xp3 [--help] [--version] [--output VAR] files...  
 ```
 
-## Aurknix, krkr2 (krkr2-sa): Kirikiri2 visual novel engine
+## Aurknix, krkr2 (krkr2-sa): Kirikiri2 visual novel engine, (?) fork of reAAAq/KrKr2-Next
 * https://github.com/AveyondFly/distribution_rocknix/blob/563c9ea7139b39e713f561f2f0651c2260f7db19/README.md
 * https://github.com/AveyondFly/distribution_rocknix/releases#release-20260809
 * AURKNIX-RK3326.aarch64-20260809.img.gz
@@ -2086,47 +2128,6 @@ Find "/home/ubuntu/KrKr2-Next/.vcpkg-tool/buildtrees" in krkr2_sdl2 file binary
 20181218, 0.7.6, like https://github.com/wetor/ONScripter-jh-Switch and
 20181218, 0.7.6, or like https://github.com/YuriSizuku/OnscripterYuri/blob/v0.7.6/src/onsyuri/version.h
 ```
-
-## (TODO) KiriKiri-LauncherC, based on 2468785842/krkr2, but significantly improved from core to plugins and UI in the C/C++ code, and using Flutter (?)    
-* **(TODO)**
-* https://github.com/xiaocongyu66/KiriKiri-LauncherC  
-
-## (TODO) krkr2-native, based on 2468785842/krkr2, mainly for Android Jetpack Compose (?), but significantly improved in the C/C++ code  
-* https://github.com/xiaocongyu66/krkr2-native  
-* https://github.com/2468785842/krkr2/tree/73e9bfe153d2261486fb0245fa31d97271cfef9f  
-
-## (TODO) kirikiroid2-web, based on 2468785842/krkr2, mainly for wasm
-* (origin) https://github.com/fenghengzhi/kirikiroid2-web
-* (origin, work) https://krkr2.fenghengzhi.com
-* Font file name .ttf replace
-* Wasm port
-* Comment ffmpeg code and remove ffmpeg depending
-* Cocos2d-x UI mod
-* Etc, many modifications very much, not sure
-* **TODO**
-
-## (TODO) krkr2-tools, based on fenghengzhi/kirikiroid2-web 1a6c814  
-* https://github.com/xiaocongyu66/krkr2-tools  
-* forked from https://github.com/fenghengzhi/kirikiroid2-web/tree/1a6c81423f271a5128420a71a41943930a473b81
-* To build (?) https://github.com/xiaocongyu66/krkr2-tools/tree/main/tools without GUI (???)
-```
-xp3	解包 .xp3 归档，可对加密 XP3 应用 tpm/xp3filter 脚本
-xp3pack	重新打包目录为 .xp3 归档
-tjsdump	反编译 TJS2 字节码 (.tjs 编译产物) 到可读源
-ksdec	解码加密的 KAG 脚本 (.ks / .tjs)
-mtndump	dump motion (.mtn) 文件结构
-motionsim 离线模拟 motion 播放，输出每帧每节点的 TSV
-```
-* **(TODO)** 我认为这些工具没必要编译出来, 能编译本体就可以了, 当然可以尝试编译一下
-* **(TODO)** 有可能编译不出来, 因为缺少了https://github.com/fenghengzhi/kirikiroid2-web-private, 如果编译不了就算了  
-
-## ningshanwutuobang/Kirikiroid2, fork of zeas2/Kirikiroid2, using cmake  
-* (origin) https://github.com/ningshanwutuobang/Kirikiroid2
-* (origin) https://github.com/ningshanwutuobang/Kirikiroid2/tree/linux_build
-* (not sure, but Kirikiroid2Yuri is newer than ningshanwutuobang's version) (origin fork) https://github.com/YuriSizuku/Kirikiroid2Yuri
-* https://github.com/joiplay/Kirikiroid2
-* https://github.com/weimingtom/kirikiroid2_fork3
-* Kirikiroid2-linux_build_v5.tar.gz
 
 ## Kirikiroid2Yuri, Kirikiroid2-yuri, Kirikiroid2_yuri, krkr2yuri, An enhancement of Kirikiroid2, based on Kirikiroid2
 * https://github.com/YuriSizuku/Kirikiroid2Yuri  
