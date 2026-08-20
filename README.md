@@ -1986,6 +1986,7 @@ https://github.com/zeas2/Kirikiroid2/commit/d1c2b1259423542c893e0b65eaeb46c84884
 * https://github.com/yorkyang2333/KrKr2-Revived-bak/tree/5ac910765df60f5e0e9ca9436546daa6a53a973c  
 * KrKr2 模拟器教程文档  
 https://github.com/jeffcwj/krkr2_angle/blob/main/docs/README.md  
+* Some compiled windows exe file, see https://github.com/angleyanalbedo/krkr2/releases  
 * https://github.com/weimingtom/krkr2-no-vcpkg
 * https://github.com/weimingtom/krkr2-no-vcpkg-fork2
 * (**TODO**): add pure headers depends again for Android: spdlog, fmt (?), glm (?)    
