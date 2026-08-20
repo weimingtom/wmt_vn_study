@@ -2221,7 +2221,7 @@ git checkout -f 0.2.4（只有一个闭源子模块）。然后用cmake编译，
 我怀疑4.4和以上都支持）导入这个目录./apps/godot_app/project.godot然后运行即可
 ```
 
-## krkrsdl3, mainly for Android, also supports Windows and Linux     
+## krkrsdl3, mainly for Android, also supports Windows and Linux. I think it is highly likely that it was very modified from kirikiroid2, but the plugin implementation method may be different    
 ```
 NOTE: For Android, you should put data.xp3 into subfolder of the search path, not the top of search path
 like this, if you set your search path to /storage/emulated/0/kr2
@@ -2285,6 +2285,19 @@ gdb运行和直接运行也会在这里不同，因为argv[0]不同。简单来�
 目前可以在xubuntu 20.04上编译运行
 ```
 * https://github.com/weimingtom/krkrsdl3-no-vcpkg  
+* https://github.com/krkrsdl3/krkrsdl3/blob/main/plugins/windowEx.cpp  
+```
+推荐参考krkrsdl3的源代码。windowEx.dll有一个比较特别且简单的实现方法：
+https://github.com/krkrsdl3/krkrsdl3/blob/main/plugins/windowEx.cpp
+
+但我不确定是不是来源于kirikiroid2本身（或者说很大可能不是来源于kirikiroid2，而是一个私有的实现）。
+其他开源项目也有不同的实现方法，不过krkrsdl3的插件实现可能会比较齐全一点
+
+无奖猜测: krkrsdl3可能是来源于kirikiroid2, 但插件实现方法和kirikiroid2很可能是不同的, 且比较齐全, 有很好的参考价值
+
+krkrsdl3同时也是旧柚 (com.vintage.pomelo, 一个鸿蒙6纯血鸿蒙应用) 的参考代码, 虽然很可能不是同一个作者(好像有人说过)    
+https://github.com/weimingtom/wmt_android_galgame_test_suite/blob/master/README.md#no-binary-no-apk-no-hap-just-record-not-for-android-vintagepomelo-%E6%97%A7%E6%9F%9A-bundle-name-is-comvintagepomelo  
+```
 
 ## Kirakira, by Rust 
 * https://github.com/liulifox233/Kirakira
