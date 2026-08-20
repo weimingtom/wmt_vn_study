@@ -2038,7 +2038,7 @@ EGLDisplay EGLContextManager::AcquireAngleDisplay(AngleBackend& backend) {
 ```
 * AetherKiri-0.2.0-beta.1.apk  
 https://github.com/KYoiRyi/AetherKiri    
-**NOTE**: This project used to package the Android release apk of the reAAAq/Kr2 Next project, but it has been removed. The current code is very different from reAAAq/KrKr2 Next. I will re upload the Android release apk that was once packaged    
+**NOTE**: This project used to package the Android release apk of the reAAAq/KrKr2-Next project, but it has been removed. The current code is very different from reAAAq/KrKr2-Next. I have uploaded the Android release apk that was once packaged.      
 https://github.com/weimingtom/wmt_android_galgame_test_suite/releases/download/v1.0/AetherKiri-0.2.0-beta.1.apk    
 ```
 我测试过KrKr2-Next的非官方发布版（在AetherKiri的release页面有apk），
