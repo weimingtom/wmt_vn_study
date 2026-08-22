@@ -14,6 +14,9 @@ Nothing seek, nothing find
 ```
 
 ## TODO  
+* https://github.com/silas1037/clip/blob/main/汉化破解研讨室/2019-10-16-1571160488/index.html
+* https://weimingtom.github.io/clip/汉化破解研讨室/2019-10-16-1571160488/index.html
+* https://weimingtom.github.io/clip/引擎大全/2019-11-22-1574387262/  
 * https://github.com/weimingtom/Kuuko/blob/master/README4.md
 * Android 向けADVエンジン  
 https://kzkz.jp/barn/android-向けadvエンジン/  
@@ -5712,6 +5715,7 @@ MMDX(MikuMikuDance for XNA-SlimDX) 項目中文首頁 - OSDN
 * https://code.google.com/p/halte3/
 * Halte3.src.rev2.rar, Halte3.bin.rev1.rar
 * (TODO) some files not record
+* https://github.com/Rfrog/halte3  
 
 ## Famous Writer v3, closed source game engine?
 * (dead) http://www35.tok2.com/home/famouswriter/v3/index.html
