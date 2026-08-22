@@ -82,7 +82,8 @@ GPiCASE で ONScripter
 * https://github.com/weimingtom/Kuuko/blob/master/README4.md  
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/visual_novel.md  
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/vn.md  
-* https://ultrapre.github.io/clip/汉化破解研讨室/2019-10-13-1570948466/index.html  
+* (dead) https://ultrapre.github.io/clip/汉化破解研讨室/2019-10-13-1570948466/index.html  
+* https://weimingtom.github.io/clip/汉化破解研讨室/2019-10-13-1570948466/index.html  
 * Android Platform 3.0 SDK和Eclipse ADT安装记录三  
 https://www.iteye.com/blog/weimingtom-1396201  
 https://blog.csdn.net/umier2000/article/details/84149473  
