@@ -3957,6 +3957,7 @@ https://github.com/Strrationalism/CPyMO
 cpymo-web-demo的test目录下运行即可。不过这个脚本引擎可能不怎么好，所以是否研究下去目前不确定，
 不过移植能力应该是很好的（如果不考虑ffmpeg的话）
 ```
+* (TODO) https://github.com/pdapandapda/CPyMO-aarch64-linux
 
 ## dxlib script_free.exe   
 * (origin, dead) http://homepage2.nifty.com/natupaji/DxLib/User/script_free.exe  
