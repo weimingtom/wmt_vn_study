@@ -6446,3 +6446,7 @@ BiliBiliEncoder工具说明：
 * https://suika3.vn/zh-Hans/
 * https://github.com/awemorris/suika3
 
+## Wine Application Database (AppDB) Games-Adventures-Adult, Koi ga sakukoro sakuradoki.(恋がさくころ桜どき)  
+* https://appdb.winehq.org/objectManager.php?sClass=version&iId=30584&iTestingId=85937
+* https://appdb.winehq.org/objectManager.php?sClass=category&iId=134&sAction=view&sTitle=Browse+Applications
+
