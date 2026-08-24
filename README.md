@@ -3917,6 +3917,7 @@ it uses this library ? not sure
 * retouch/sketch/ExHIBIT とは無関係なツール: findDir102.zip, ifPNG061.zip, sjcpGadget080.zip    
 * C++/Delphi/VB JRE, jredk.lzh, jredoc.lzh
 * tools link dead, see index.rar  
+* hobc_0194t.zip, https://dlsoft.dmm.co.jp/detail/hobc_0194/, はるかぜどりに、とまりぎを。 , retouch, ExHIBIT.exe, acmp.exe    
 
 ## Suika2  
 * https://github.com/ktabata/suika2  
