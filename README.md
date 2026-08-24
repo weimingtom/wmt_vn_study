@@ -6441,3 +6441,7 @@ BiliBiliEncoder工具说明：
 * http://www21.atwiki.jp/xxcake/
 * 王子夜礼服假面
 
+## Suika3
+* https://suika3.vn/zh-Hans/
+* https://github.com/awemorris/suika3
+
