@@ -14,6 +14,7 @@ Nothing seek, nothing find
 ```
 
 ## TODO  
+* 一些游戏列表：https://gal.fandom.com/zh/wiki/Kirikiri(krkr2)?variant=zh-hant  
 * https://github.com/silas1037/clip/blob/main/汉化破解研讨室/2019-10-16-1571160488/index.html
 * https://weimingtom.github.io/clip/汉化破解研讨室/2019-10-16-1571160488/index.html
 * https://weimingtom.github.io/clip/引擎大全/2019-11-22-1574387262/  
