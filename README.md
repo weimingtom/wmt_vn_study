@@ -1607,6 +1607,11 @@ http://keepcreating.g2.xrea.com/DojinDOC/kirikiriSmallTips.html#win8quake
 吉里吉里Zで吉里吉里２のプロジェクトを動作させるための手順   
 https://red-souls.jp/ichounoki/rnote/software/20190210_162253605864.htm  
 
+## Krkr2Compat
+* https://github.com/krkrz/Krkr2Compat/archive/master.zip
+* https://ykagaya.com/howto/krkrz/console/   
+デバッグ効率化にも！吉里吉里Z上でコンソールを表示させる方法  
+
 ## krkrz dev_multi_platform branch (OpenGL version, support drawTexture) , feat. krkrz/KAGSigma, a.k.a. 吉里吉里Z Ver.2
 ```
 krkrz第2版为了兼容android，做了很多不兼容的改动，除了tjs脚本全部使用utf-8以外，
