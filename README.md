@@ -1509,7 +1509,7 @@ https://github.com/uyjulian/krkrs/releases/download/v1.1.0/krkrs_sdk.7z
 
 （四）tvpwin32.exe和tvpwin64.exe至少支持两种文本编码（可能还支持两字节unicode，待考）
 -readencoding=UTF-8
--readencoding=Shift-JIS
+-readencoding=Shift_JIS  (注：不好意思，这里写错，不是Shift-JIS，详细请搜索krkrz代码里面的readencoding）
 (TODO?) ???-readencoding=Unicode???
 ```
 * (new) http://krkrz.github.io  
