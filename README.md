@@ -1502,7 +1502,9 @@ https://github.com/a-rabin/kag3-en
 然后把data-demo的文件覆盖进去
 （不是用krkrsdl2/kag3覆盖进去data-demo）：
 https://github.com/krkrsdl2/krkrsdl2-kag3-demo/tree/main/data-demo
-(3.3) (TODO) Krkr2Compat, 作用不明，未试验    
+(3.3) Krkr2Compat, 作用不明，未试验（注：已解决）。
+注：Krkr2Compat的作用是用tvpwin32.exe -readencoding=Shift_JIS替换krkr.eXe，
+详细见下《Krkr2Compat》, 如果把所有文件都转成utf8则不需要-readencoding=Shift_JIS）    
 https://github.com/krkrz/Krkr2Compat
 (3.4) (TODO) krkrs的krkrs_sdk  
 https://github.com/uyjulian/krkrs/releases/download/v1.1.0/krkrs_sdk.7z  
