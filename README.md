@@ -1504,7 +1504,7 @@ https://github.com/a-rabin/kag3-en
 https://github.com/krkrsdl2/krkrsdl2-kag3-demo/tree/main/data-demo
 (3.3) Krkr2Compat, 作用不明，未试验（注：已解决）。
 注：Krkr2Compat的作用是用tvpwin32.exe -readencoding=Shift_JIS替换krkr.eXe，
-详细见下《Krkr2Compat》, 如果把所有文件都转成utf8则不需要-readencoding=Shift_JIS）    
+详细见下《Krkr2Compat》, 如果把所有tjs和ks文件都转成utf8 (无BOM) 则不需要-readencoding=Shift_JIS）    
 https://github.com/krkrz/Krkr2Compat
 (3.4) (TODO) krkrs的krkrs_sdk  
 https://github.com/uyjulian/krkrs/releases/download/v1.1.0/krkrs_sdk.7z  
@@ -1616,7 +1616,9 @@ https://red-souls.jp/ichounoki/rnote/software/20190210_162253605864.htm
 * https://github.com/krkrz/krkr2/tree/master/kirikiri2/trunk/kirikiri2/bin/win32/plugin
 * https://github.com/krkrz/krkr2/blob/master/kirikiri2/trunk/kirikiri2/bin/win32/plugin/win32dialog.dll
 * https://github.com/krkrz/Krkr2Compat/blob/master/00README.txt
-* kr2_230r2_sjis_merge_v2_test_Krkr2Compat.7z
+* kr2_230r2_sjis_merge_v2_test_Krkr2Compat.7z  
+https://github.com/weimingtom/krkrsdl2-miyoo-a30/tree/master/kr2_230r2_k2compat_sjis  
+https://github.com/weimingtom/krkrsdl2-miyoo-a30/tree/master/kr2_230r2_k2compat_utf8  
 ```
 迁移方法一：
 1. 下载https://github.com/krkrz/Krkr2Compat/archive/master.zip
@@ -1624,8 +1626,8 @@ https://red-souls.jp/ichounoki/rnote/software/20190210_162253605864.htm
 3. 修改startup.tjs，在system/Initialize.tjs之前添加@if (kirikiriz) ...这里有一些代码...@endif, 详细见下
 4. 替换krkrz的plugin目录（删除krkr2的plugin），复制tvpwin32.exe文件（删除krkr2的krkr.eXe）
 5. 下载https://github.com/krkrz/krkr2/blob/master/kirikiri2/trunk/kirikiri2/bin/win32/plugin/win32dialog.dll，然后放入plugin目录中
-6. tvpwin32.exe -readencoding=Shift_JIS
-7. 按Shift+F4, 弹出蓝色调试窗口，可以输入调试命令（也可以用控制台启动tvpwin32.exe看调试输出，但无法输入调试语句）
+6. 用命令行tvpwin32.exe -readencoding=Shift_JIS 启动 (如果全部tjs文件和ks文件转成UTF8不带BOM编码，则可以直接用tvpwin32.exe启动即可，不需要参数）  
+7. 按Shift+F4, 弹出蓝色调试窗口，可以输入调试命令（也可以用控制台启动tvpwin32.exe看调试输出，但无法输入调试语句）  
 ```
 ```
 // startup.tjs - スタートアップスクリプト
