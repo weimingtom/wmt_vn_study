@@ -1614,6 +1614,38 @@ https://red-souls.jp/ichounoki/rnote/software/20190210_162253605864.htm
 * https://github.com/krkrz/krkr2/tree/master/kirikiri2/trunk/kirikiri2/bin/win32/plugin
 * https://github.com/krkrz/krkr2/blob/master/kirikiri2/trunk/kirikiri2/bin/win32/plugin/win32dialog.dll
 * https://github.com/krkrz/Krkr2Compat/blob/master/00README.txt
+* kr2_230r2_sjis_merge_v2_test_Krkr2Compat.7z
+```
+迁移方法一：
+1. 下载https://github.com/krkrz/Krkr2Compat/archive/master.zip
+2. 把k2compat文件夹解压到data目录下，并且用Notepad++把所有k2compat文件夹下的所有文件转换成shift-jis编码（先Encoding-字符集-Japanese-Shift-jis，然后复制原有带日文内容覆盖进编辑器内覆盖掉乱码，然后Ctrl+S保存）
+3. 修改startup.tjs，在system/Initialize.tjs之前添加@if (kirikiriz) ...这里有一些代码...@endif, 详细见下
+4. 替换krkrz的plugin目录（删除krkr2的plugin），复制tvpwin32.exe文件（删除krkr2的krkr.eXe）
+5. 下载https://github.com/krkrz/krkr2/blob/master/kirikiri2/trunk/kirikiri2/bin/win32/plugin/win32dialog.dll，然后放入plugin目录中
+6. tvpwin32.exe -readencoding=Shift_JIS
+7. 按Shift+F4, 弹出蓝色调试窗口，可以输入调试命令（也可以用控制台启动tvpwin32.exe看调试输出，但无法输入调试语句）
+```
+```
+// startup.tjs - スタートアップスクリプト
+// Copyright (C) 2001, W.Dee  改変・配布は自由です
+
+@if (kirikiriz)
+property _dummyProp { getter {} setter (v) {} }
+with(Window) {
+&.innerSunken = &_dummyProp;
+&.showScrollBars = &_dummyProp;
+}
+
+var base = "k2compat/";
+Scripts.execStorage(base+"k2compat.tjs");
+Krkr2CompatUtils.scriptBase = base;
+//Plugins.link("menu.dll");
+//Plugins.link("KAGParser.dll");
+@endif
+
+// このスクリプトは一番最初に実行されるスクリプトです
+Scripts.execStorage("system/Initialize.tjs"); // system/Initialize.tjs を実行
+```
 
 ## krkrz dev_multi_platform branch (OpenGL version, support drawTexture) , feat. krkrz/KAGSigma, a.k.a. 吉里吉里Z Ver.2
 ```
