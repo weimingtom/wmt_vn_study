@@ -1620,14 +1620,24 @@ https://red-souls.jp/ichounoki/rnote/software/20190210_162253605864.htm
 https://github.com/weimingtom/krkrsdl2-miyoo-a30/tree/master/kr2_230r2_k2compat_sjis  
 https://github.com/weimingtom/krkrsdl2-miyoo-a30/tree/master/kr2_230r2_k2compat_utf8  
 ```
-迁移方法一：
+迁移方法（测试过似乎可行，待考）：
 1. 下载https://github.com/krkrz/Krkr2Compat/archive/master.zip
-2. 把k2compat文件夹解压到data目录下，并且用Notepad++把所有k2compat文件夹下的所有文件转换成shift-jis编码（先Encoding-字符集-Japanese-Shift-jis，然后复制原有带日文内容覆盖进编辑器内覆盖掉乱码，然后Ctrl+S保存）
-3. 修改startup.tjs，在system/Initialize.tjs之前添加@if (kirikiriz) ...这里有一些代码...@endif, 详细见下
-4. 替换krkrz的plugin目录（删除krkr2的plugin），复制tvpwin32.exe文件（删除krkr2的krkr.eXe）
-5. 下载https://github.com/krkrz/krkr2/blob/master/kirikiri2/trunk/kirikiri2/bin/win32/plugin/win32dialog.dll，然后放入plugin目录中
-6. 用命令行tvpwin32.exe -readencoding=Shift_JIS 启动 (如果全部tjs文件和ks文件转成UTF8不带BOM编码，则可以直接用tvpwin32.exe启动即可，不需要参数）  
-7. 按Shift+F4, 弹出蓝色调试窗口，可以输入调试命令（也可以用控制台启动tvpwin32.exe看调试输出，但无法输入调试语句）  
+2. 把k2compat文件夹解压到data目录下，并且用Notepad++把所有k2compat
+文件夹下的所有文件转换成shift-jis编码
+（先Encoding-字符集-Japanese-Shift-jis，然后复制原有带日文内容
+覆盖进编辑器内覆盖掉乱码，然后Ctrl+S保存）
+3. 修改startup.tjs，在system/Initialize.tjs之前添加
+@if (kirikiriz) ...这里有一些代码...@endif, 详细见下
+4. 替换krkrz的plugin目录（删除krkr2的plugin），
+复制tvpwin32.exe文件（删除krkr2的krkr.eXe）
+5. 下载
+https://github.com/krkrz/krkr2/blob/master/kirikiri2/trunk/kirikiri2/bin/win32/plugin/win32dialog.dll，
+然后放入plugin目录中
+6. 用命令行tvpwin32.exe -readencoding=Shift_JIS 启动
+ (如果全部tjs文件和ks文件转成UTF8不带BOM编码，则可以直接用tvpwin32.exe
+启动即可，不需要参数）  
+7. 按Shift+F4, 弹出蓝色调试窗口，可以输入调试命令（也可以用控制台启动
+tvpwin32.exe看调试输出，但无法输入调试语句）  
 ```
 ```
 // startup.tjs - スタートアップスクリプト
