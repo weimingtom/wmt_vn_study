@@ -2307,6 +2307,8 @@ https://github.com/weimingtom/wmt_android_galgame_test_suite/blob/master/README.
 
 ## Kirakira, by Rust 
 * https://github.com/liulifox233/Kirakira
+* =======
+* https://github.com/liulifox233/Kirakira/tree/66e554319f742f63c70bf54e60d26557726a34fc  
 * Xubuntu 26.04 in VirtualBox 7.2.8
 * sudo apt install cargo
 * sudo apt install pkg-config
@@ -2315,6 +2317,9 @@ https://github.com/weimingtom/wmt_android_galgame_test_suite/blob/master/README.
 * cargo build -p krkr-desktop --release
 * ./target/release/krkr-desktop /home/wmt/kirikiroid2lite/_testdata
 * (run failed but show window)  
+
+## (TODO) krkr-rs
+* https://github.com/wqLouis/krkr-rs
 
 ## kirikiri3-legacy  
 * https://github.com/w-dee/kirikiri3-legacy  
