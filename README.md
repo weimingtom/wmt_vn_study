@@ -1607,10 +1607,13 @@ http://keepcreating.g2.xrea.com/DojinDOC/kirikiriSmallTips.html#win8quake
 吉里吉里Zで吉里吉里２のプロジェクトを動作させるための手順   
 https://red-souls.jp/ichounoki/rnote/software/20190210_162253605864.htm  
 
-## Krkr2Compat
+## Krkr2Compat, 如何把krkr2的文件迁移到krkrz，如何用krkrz运行krkr2的文件  
 * https://github.com/krkrz/Krkr2Compat/archive/master.zip
 * https://ykagaya.com/howto/krkrz/console/   
 デバッグ効率化にも！吉里吉里Z上でコンソールを表示させる方法  
+* https://github.com/krkrz/krkr2/tree/master/kirikiri2/trunk/kirikiri2/bin/win32/plugin
+* https://github.com/krkrz/krkr2/blob/master/kirikiri2/trunk/kirikiri2/bin/win32/plugin/win32dialog.dll
+* https://github.com/krkrz/Krkr2Compat/blob/master/00README.txt
 
 ## krkrz dev_multi_platform branch (OpenGL version, support drawTexture) , feat. krkrz/KAGSigma, a.k.a. 吉里吉里Z Ver.2
 ```
