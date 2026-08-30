@@ -2091,6 +2091,7 @@ see also https://github.com/weimingtom/KrKr2-Next-no-vcpkg/tree/master/cpp/exter
 * **TODO**
 * (Failed, don't use) build for linux debug, failed
 ```
+Ubuntu 25.04 VMware  
 1. copy CMakePresets.json from https://github.com/2468785842/krkr2, cd ..
 2. git clone https://github.com/microsoft/vcpkg
 3. ./bootstrap-vcpkg.sh -disableMetric
