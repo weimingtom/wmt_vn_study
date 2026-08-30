@@ -2089,6 +2089,15 @@ see also https://github.com/weimingtom/KrKr2-Next-no-vcpkg/tree/master/cpp/exter
 * Cocos2d-x UI mod
 * Etc, many modifications very much, not sure
 * **TODO**
+* (Failed, don't use) build for linux debug, failed
+```
+1. copy CMakePresets.json from https://github.com/2468785842/krkr2, cd ..
+2. git clone https://github.com/microsoft/vcpkg
+3. ./bootstrap-vcpkg.sh -disableMetric
+4. cd ../kirikiroid2-web
+5. export VCPKG_ROOT=/home/wmt/vcpkg
+6. sudo ./script/build-linux.sh 
+```
 
 ## (TODO) krkr2-tools, based on fenghengzhi/kirikiroid2-web 1a6c814  
 * https://github.com/xiaocongyu66/krkr2-tools  
