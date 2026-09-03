@@ -2292,7 +2292,7 @@ git checkout -f 0.2.4（只有一个闭源子模块）。然后用cmake编译，
 我怀疑4.4和以上都支持）导入这个目录./apps/godot_app/project.godot然后运行即可
 ```
 
-## krkrsdl3, mainly for Android, also supports Windows and Linux. I think it is highly likely that it was very modified from kirikiroid2, but the plugin implementation method may be different    
+## krkrsdl3, mainly for Android and Windows, also supports Linux. I think it is highly likely that it was very modified from kirikiroid2, but the plugin implementation method may be different    
 ```
 NOTE: For Android, you should put data.xp3 into subfolder of the search path, not the top of search path
 like this, if you set your search path to /storage/emulated/0/kr2
@@ -2306,6 +2306,9 @@ instead of
 ./krkrsdl3 ./data.xp3
 ```
 * (origin) https://github.com/krkrsdl3/krkrsdl3  
+* (origin) https://www.bilibili.com/video/BV1u3mpBcE94/  
+krkrsdl3_V0.0.6_beta6.exe  
+org.tvp.krkrsdl3_v0.0.6_beta6.apk  
 * (origin, old name) https://github.com/luxiaoling-mc/krkrsdl3  
 * (?) From the manual of 旧柚, com.vintage.pomelo  
 * I don't know if it is the author of VintagePomelo (旧柚), but I hear that it's not the same author      
