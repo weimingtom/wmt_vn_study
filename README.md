@@ -5970,6 +5970,8 @@ SPRABBIT
 * SpeShow 0.11.zip
 * SpeShow 0.11.1 with Sicily.zip
 * SpeShow 0.11.1.zip
+* AVG 引擎 SPShower Alpha 0.8 演示  
+https://www.bilibili.com/video/av338148/  
 
 ## 【开源】【Avg】Project AlaalA
 * AlaalA AllinOne.7z
