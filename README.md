@@ -2429,6 +2429,9 @@ https://github.com/weimingtom/wmt_android_galgame_test_suite/blob/master/README.
 ## kirikiri3-legacy  
 * https://github.com/w-dee/kirikiri3-legacy  
 
+## Kirikiri Adventure Game (KAG) Script, VSCode插件  
+* https://marketplace.visualstudio.com/items?itemName=happiness9721.ks&ssr=false  
+
 ## KKDE  
 * (origin) https://github.com/mryp/kkde  
 * (origin) https://osdn.net/projects/kkde/  
