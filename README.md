@@ -1366,6 +1366,12 @@ https://github.com/krkrz/krkr2/tree/master/kirikiri2/branches/kag3ex1
 * https://github.com/jeeb/kirikiri2  
 * http://www.mysteryparfait.com/kage-kirie/  
 * search baidupan, kage-kirie, (2014-01-16) Kage-kirie.zip    
+```
+Mystery Parfait（同人游戏社团，英文）
+http://www.mysteryparfait.com/kage-kirie/  
+Kage-Kirie （kirikiri英文版，运行krkr.exe时需要指定kag3下的introduction目录，
+不是指定template目录）
+```
 * search baidupan, AVG引擎+工具.rar  
 * https://tieba.baidu.com/p/6310593391  
 * search baidupan, kag3ex2.zip  
@@ -1390,6 +1396,9 @@ kr2_230r2.lzh, Kikiriki.rar, kirikiri_inside.lzh, krkrlogo.lzh, translib2.lzh, w
 https://github.com/weimingtom/krkrz110_fork/blob/master/vendor/kr2/build.txt  
 see kirikiri_svn.7z, Kage-kirie.zip (use BCB6.ISO ???)   
 ```
+发现krkrz不再需要像kirikiri2那样链接boost的正则库，但是用了另一个轻量级的正则库，
+可以用TJS_NO_REGEXP宏去掉正则功能和依赖（不过还是要自己改一下代码避免编译失败）
+
 我找到用bcb6编译kirikiri2的tvpwin32.exe的方法了，
 之前我编译它的核心代码tjs的时候发现它的tjsregexp是可以裁剪的，
 所以bcb6在链接期报错时，只要添加TJS_NO_REGEXP定义
@@ -1526,6 +1535,34 @@ https://github.com/weimingtom/krkrz110_fork/blob/master/HowToBuild.txt
 (20180623) krkrz-1.1.0_vs2010_v3_font_fixed.rar  
 (20170901) krkrz-1.1.0_tjs_v1_full.rar  
 (20170901) krkrz-1.1.0_tjs_v6_min.rar  
+* weibo
+```
+我自己用vs2010编译的kirikiriz 1.1.0可以跑起来了（需要改代码），只不过字体显示有问题（上半截没掉了），
+甚至有时候直接显示不出来，但官方发布的版本是正常的，注意kirikirz跟kirikiri2的kag貌似是不同的
+（见data/system下的tjs脚本）。有时间我要琢磨一下作者在哪里做手脚了。。。 ​​​
+
+我好像发现了krkrz为什么跑不动kag了，其实是因为官方有两个版本[二哈]，
+旧版是按照原有kirikiri2的文件布局去做，
+这个版本只持续到1.1.0就切换到新版了，新版的文件布局完全不同，但新版是支持kag的，
+旧版跑kag会有问题，但它有一个延续的分支叫last_hodgepodge_repository，
+文件目录没有太大的变化，但这个分支跑kag是正常的
+
+另外Kirikiri Z官方仓库有个分支dev_multi_platform是做android版的，
+看样子像是可编译的，不过应该还没稳定 ​​​
+
+网上已经有人把onscripter和kirikiri移植到switch平台上，姑且不说kirikiri
+（实际是krkrz或者说是kirikiroid2），单单说onscripter，其实就是基于onscripter-jh的SDL2分支。
+今天我试过在linux下编译原始版本的onscripter-jh的SDL2分支，比较容易，可以运行。
+如果以后有时间的话我打算把它移植到vc6上，方便玩耍
+
+其实我是准备照着kirikiroid2的原始工程做移植的，可能会有人问，github上不是已经有人移植了kirikiri到psv和switch平台吗，
+那还需要这么麻烦？我可以说，甚至kirikiriz（krkrz）的作者也在做安卓的移植，照理来讲我本应不用研究下去了。
+例如这个项目：krkrsdl2：
+https://github.com/uyjulian/krkrsdl2  
+表面上它跟kirikiroid2有关联，但实际上这个开源项目的作者是从krkrz那里分支出来的，而不是从kirikiroid2分支出来的
+（可能这个作者本来就是krkrz的开发者之一），所以我认为我有必要自己去移植sdl2版，而不是指望直接用这个项目。。。
+当然如果有参考的需要还是要看看别人是怎么移植到sdl2上，毕竟懒得想，移植到sdl2的难度还是很大的——不过，这是长远的目标，这不假
+```
 * https://github.com/krkrz/kag3  
 * https://github.com/Yamilemon/webview_sdl_krkr  
 * (doc) https://krkrz.github.io/documents/  
