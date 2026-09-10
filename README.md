@@ -2430,8 +2430,20 @@ https://github.com/weimingtom/wmt_android_galgame_test_suite/blob/master/README.
 * https://github.com/w-dee/kirikiri3-legacy  
 
 ## Kirikiri Adventure Game (KAG) Script, VSCode插件  
+* https://marketplace.visualstudio.com/items?itemName=happiness9721.ks  
 * https://github.com/happiness9721/Kirikiri-Adventure-Game-KAG-Script  
-* https://marketplace.visualstudio.com/items?itemName=happiness9721.ks&ssr=false  
+
+## For tjs, Kirikiri-TPV-JavaScript-TJS, VSCode插件  
+* https://marketplace.visualstudio.com/items?itemName=happiness9721.tjs
+* https://github.com/happiness9721/Kirikiri-TPV-JavaScript-TJS
+
+## kagex-vscode, VSCode插件  
+* https://marketplace.visualstudio.com/items?itemName=Biscrat.kagex-vscode  
+* https://github.com/sakano/kagex-vscode  
+
+## tjs-vscode, VSCode插件  
+* https://marketplace.visualstudio.com/items?itemName=Biscrat.tjs-vscode
+* https://github.com/sakano/tjs-vscode  
 
 ## KKDE  
 * (origin) https://github.com/mryp/kkde  
