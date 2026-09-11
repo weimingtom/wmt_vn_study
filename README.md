@@ -2328,6 +2328,7 @@ git checkout -f 0.2.4（只有一个闭源子模块）。然后用cmake编译，
 目录下（包括libaether_kiri_godot.so），然后用godot ide（linux版，版本是v4.7，
 我怀疑4.4和以上都支持）导入这个目录./apps/godot_app/project.godot然后运行即可
 ```
+* https://github.com/weimingtom/AetherKiri-no-vcpkg  
 
 ## krkrsdl3, mainly for Android and Windows, also supports Linux. I think it is highly likely that it was very modified from kirikiroid2, but the plugin implementation method may be different    
 ```
