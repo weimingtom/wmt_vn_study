@@ -2446,6 +2446,10 @@ https://github.com/weimingtom/wmt_android_galgame_test_suite/blob/master/README.
 * https://marketplace.visualstudio.com/items?itemName=Biscrat.tjs-vscode
 * https://github.com/sakano/tjs-vscode  
 
+## https://github.com/vim-scripts/tjs.vim
+
+## https://github.com/vim-scripts/kirikiri.vim  
+
 ## KKDE  
 * (origin) https://github.com/mryp/kkde  
 * (origin) https://osdn.net/projects/kkde/  
