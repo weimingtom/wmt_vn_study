@@ -2450,6 +2450,8 @@ https://github.com/weimingtom/wmt_android_galgame_test_suite/blob/master/README.
 
 ## https://github.com/vim-scripts/kirikiri.vim  
 
+## https://github.com/vim-scripts/nscripter.vim  
+
 ## KKDE  
 * (origin) https://github.com/mryp/kkde  
 * (origin) https://osdn.net/projects/kkde/  
