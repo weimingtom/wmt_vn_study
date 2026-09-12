@@ -2494,6 +2494,10 @@ https://download.csdn.net/download/cping1982/3516651
 * see below 'tyranoscript, ティラノスクリプト'
 * (TODO) 多款知名视觉小说游戏采用该引擎开发，如《冬日树下的回忆》《盛夏之梦》等 。 （摘自《tyranoscript》的百度AI回答）
 
+## tenshin.js and kstg, TypeScript implementation (?)    
+* https://github.com/komsomolskinari/tenshin.js
+* https://github.com/komsomolskinari/kstg
+
 ## NVLMaker, THE NVL Maker, AVG图形化制作工具NVLMaker    
 ```
 Sometimes, NVL=NoVeL=Novel=Visual Novel  
