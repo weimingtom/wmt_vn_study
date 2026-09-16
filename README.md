@@ -1469,6 +1469,11 @@ tp_stub.zip (85.3 KB)
 ```
 * https://gist.github.com/uyjulian/3b49d3321ddc19849cc91de7385a00a5   
 Kirikiri 2 (吉里吉里2) / KAG3 old repository history  
+* 吉里吉里プラグインの作り方  
+http://keepcreating.g2.xrea.com/DojinDOC/HowToWriteKrkrPlugin.html  
+(dead) http://devdoc.kikyou.info/tvp/docs/kr2doc/contents/Plugins.html  
+https://web.archive.org/web/20160417012327/http://devdoc.kikyou.info/tvp/docs/kr2doc/contents/Plugins.html   
+https://krkrz.github.io/krkr2doc/kr2doc/contents/Plugins.html  
 
 ## tvpcn
 * (origin, dead) from http://tvpcn.codeplex.com/
