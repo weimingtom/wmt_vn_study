@@ -1442,6 +1442,32 @@ https://github.com/jeeb/kirikiri2/tree/master/kirikiri2/src/core/tjs2
 http://kcddp.keyfc.net/bbs/viewthread.php?tid=442&extra=page%3D1&page=1   
 * kirikiri引擎相关下载_贴吧, kag3ex2.zip, krkrz_20171225r2.7z, kirikiri_java.zip   
 (dead) https://tieba.baidu.com/p/6310593391  
+* https://kcddp.keyfc.com/bbs/viewthread.php?tid=273&sid=owzQQD  
+tp_stub=third party stub  
+```
+[技术]吉里吉里外部C++接口库（编写插件必备）
+
+tp_stub.h定义外部插件可以使用的所有Krkr内部函数。类似于Krkr的外部API吧……
+编写插件一般都会用到这个tp_stub.h里面的功能，例如说扩展功能就需要通过它得到内部的TJS2环境。
+
+而tp_stub.cpp定义了相关的函数指针和一些类型的实现。
+
+编写吉里吉里插件的时候，请在和Krkr链接的源文件中包含tp_stub.h，这样你就可以调用吉里吉里内部的功能。
+此外，请把tp_stub.cpp加入你的工程，并将DLL的V2Link和V2Unlink导出。
+
+标准的def文件代码如下：
+
+EXPORTS
+        V2Link
+        V2Unlink
+
+该文件系从KAGeXpress 3系列使用的吉里吉里2.28汉化版内核生成，同样也适用于日文版吉里吉里2.28。
+
+tp_stub.zip (85.3 KB)
+  tp_stub.h以及tp_stub.cpp
+```
+* https://gist.github.com/uyjulian/3b49d3321ddc19849cc91de7385a00a5   
+Kirikiri 2 (吉里吉里2) / KAG3 old repository history  
 
 ## tvpcn
 * (origin, dead) from http://tvpcn.codeplex.com/
