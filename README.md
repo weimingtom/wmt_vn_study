@@ -1443,6 +1443,7 @@ http://kcddp.keyfc.net/bbs/viewthread.php?tid=442&extra=page%3D1&page=1
 * kirikiri引擎相关下载_贴吧, kag3ex2.zip, krkrz_20171225r2.7z, kirikiri_java.zip   
 (dead) https://tieba.baidu.com/p/6310593391  
 * https://kcddp.keyfc.com/bbs/viewthread.php?tid=273&sid=owzQQD  
+tp_stub.zip  
 tp_stub=third party stub  
 ```
 [技术]吉里吉里外部C++接口库（编写插件必备）
