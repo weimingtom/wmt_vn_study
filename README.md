@@ -1474,6 +1474,7 @@ http://keepcreating.g2.xrea.com/DojinDOC/HowToWriteKrkrPlugin.html
 (dead) http://devdoc.kikyou.info/tvp/docs/kr2doc/contents/Plugins.html  
 https://web.archive.org/web/20160417012327/http://devdoc.kikyou.info/tvp/docs/kr2doc/contents/Plugins.html   
 https://krkrz.github.io/krkr2doc/kr2doc/contents/Plugins.html  
+* https://github.com/pantsudev/krkrz_ecosystem_guide  
 
 ## tvpcn
 * (origin, dead) from http://tvpcn.codeplex.com/
