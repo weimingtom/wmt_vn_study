@@ -2287,7 +2287,7 @@ Find "/home/ubuntu/KrKr2-Next/.vcpkg-tool/buildtrees" in krkr2_sdl2 file binary
 * https://github.com/clevebitr/Krkr2Next
 * (TODO) https://github.com/clevebitr/Krkr2Next/blob/main/bridge/engine_api/src/engine_api_android_jni.cpp
 * apks see https://github.com/clevebitr/Krkr2Next/actions
-* Why no java sources ?
+* Java / Kotlin sources: see https://github.com/clevebitr/Krkr2Next/blob/main/app/app/src/main/kotlin/org/dpdns/clevebitr/MainActivity.kt  
 
 ## (TODO) AetherKiri, for Godot "GDExtension C++", based on reAAAq/KrKr2-Next        
 * https://github.com/AetherKiri/AetherKiri  
