@@ -2283,7 +2283,7 @@ Find "/home/ubuntu/KrKr2-Next/.vcpkg-tool/buildtrees" in krkr2_sdl2 file binary
 20181218, 0.7.6, or like https://github.com/YuriSizuku/OnscripterYuri/blob/v0.7.6/src/onsyuri/version.h
 ```
 
-## (TOOD) Krkr2Next, based on reAAAq/KrKr2-Next, for Android (?)
+## (TODO) KrKr2-Next-Compose, based on reAAAq/KrKr2-Next, for Android (?)
 * https://github.com/clevebitr/Krkr2Next
 * (TODO) https://github.com/clevebitr/Krkr2Next/blob/main/bridge/engine_api/src/engine_api_android_jni.cpp
 * apks see https://github.com/clevebitr/Krkr2Next/actions
