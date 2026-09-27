@@ -6432,6 +6432,7 @@ OPムービーだけ仕上がっても
 * Onscripter移植笔记（以SFA引擎的ツクモノツキ为例）  
 https://blog.csdn.net/abacn/article/details/45153227    
 https://www.aba.moe/2014/01/onscriptersfa.html  
+* Renaissance, https://www.bilibili.com/video/BV1CaCZYJESP/
 
 ## 椎名里緒(?)
 * Rio.arc, wsc, arc, will_0232t.zip, デュエリスト×エンゲージ
