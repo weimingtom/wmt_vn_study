@@ -6433,6 +6433,10 @@ OPムービーだけ仕上がっても
 https://blog.csdn.net/abacn/article/details/45153227    
 https://www.aba.moe/2014/01/onscriptersfa.html  
 * Renaissance, https://www.bilibili.com/video/BV1CaCZYJESP/
+```
+sense off ~a sacred story in the wind~, 是AVG32引擎
+秋桜の空に, ???
+```
 
 ## 椎名里緒(?)
 * Rio.arc, wsc, arc, will_0232t.zip, デュエリスト×エンゲージ
