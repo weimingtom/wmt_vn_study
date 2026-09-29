@@ -956,6 +956,10 @@ Weibo record:
 需要LD_LIBRARY_PATH指定sdl2和其他的动态库路径
 ```
 see also https://github.com/Homebrew/homebrew-core/blob/15-sequoia/Formula/o/onscripter.rb  
+* alpine, musl libc, how to build with ./configure and SDL 1.2 / SDL2   
+https://github.com/weimingtom/onscripter-jh-alpine  
+https://github.com/weimingtom/onscripter-jh-macos  
+https://github.com/weimingtom/onscripter_en_fork/tree/master/work/extlib/src  
 
 ## John_He (john-he) onscripter Chinese version, for Windows / PSP / Pocket PC  
 * (origin) https://web.archive.org/web/20080522010153/http://blog.163.com/john_he_/blog/static/76595505200832514228686/  
