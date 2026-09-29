@@ -3547,7 +3547,8 @@ Actually there are 2 versions : PSSuiteSDK_098.exe and PSM_SDK_1.21.02.exe
 
 ## qixi2016 (for HTML5 and Unity)    
 * (origin, only HTML5) https://www.bilibili.com/html/activity-qixi2016.html  
-* https://github.com/weimingtom/GalGame-1  
+* https://github.com/weimingtom/GalGame-1
+* https://weimingtom.github.io/GalGame-1/html/activity-qixi2016.html  
 
 ## novel-press, NovelPress (for Android, and PC???)      
 * (origin) http://houser-home.net/novel-press/top_index.html  
