@@ -2372,6 +2372,12 @@ git checkout -f 0.2.4（只有一个闭源子模块）。然后用cmake编译，
 ```
 * https://github.com/weimingtom/AetherKiri-no-vcpkg  
 
+## NextScene, based on reAAAq/KrKr2-Next and 2468785842/krkr2
+* https://github.com/howtomakeaname/NextScene
+* https://github.com/howtomakeaname/NextScene/tree/main/cpp/artemis
+* https://github.com/Weiss-UltimateSavior/artemis-compat/tree/6e7503e4db613335a7620c9f336dd69f7c7a8610
+* https://github.com/howtomakeaname/NextScene/blob/main/bridge/engine_api/src/artemis_runtime.cpp  
+
 ## krkrsdl3, mainly for Android and Windows, also supports Linux. I think it is highly likely that it was very modified from kirikiroid2, but the plugin implementation method may be different    
 ```
 NOTE: For Android, you should put data.xp3 into subfolder of the search path, not the top of search path
