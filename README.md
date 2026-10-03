@@ -2254,6 +2254,12 @@ https://github.com/weimingtom/wmt_android_galgame_test_suite/releases/download/v
 ```
 * https://github.com/weimingtom/KrKr2-Next-no-vcpkg  
 
+## (TODO x 4) KrKr2-Next fork, engine_api krkr2
+* (TODO) https://github.com/colorcard/AetherKiri
+* (TODO) https://github.com/angleyanalbedo/krkr2
+* (TODO) https://github.com/jeffcwj/krkr2_angle
+* (TODO) https://github.com/Walkedharmony/AetherKiri/tree/main/bridge/engine_api/src
+
 ## AveyondFly/KrKr2-Next, (?) fork of reAAAq/KrKr2-Next, for Linux (only tested under Ubuntu 25.04) and Aurknix cross-compile (not tested)      
 * https://github.com/AveyondFly/KrKr2-Next
 * (?) Aurknix, see also https://github.com/AveyondFly/distribution_rocknix  
