@@ -321,6 +321,10 @@ pygame (1.9.1release)
 * 轻量级的air gal引擎，由xml文档取代传统的脚本。
 * https://github.com/weimingtom/air-galgame-engine  
 
+## (TODO) mgq-android-native-engine  
+* https://github.com/qwwqeras1145-bot/mgq-android-native-engine  
+* Only Parser ? Not sure. Choose folder to play. It supports nscript.dat and also 0.txt.   
+
 ## onscripter  
 * (origin, dead? the osdn.jp/sourceforge.jp version is before github version and after infoseek version) https://onscripter.osdn.jp  
 (origin, dead?) https://onscripter.osdn.jp/onscripter.html  
