@@ -2152,6 +2152,9 @@ https://github.com/jeffcwj/krkr2_angle/blob/main/docs/README.md
 * (**TODO**): add pure headers depends again for Android: spdlog, fmt (?), glm (?)    
 see also https://github.com/weimingtom/KrKr2-Next-no-vcpkg/tree/master/cpp/external, bacause they can be compiled for Android NDK  
 
+## (TODO) Krkr2 AdvancedAppCreator version, with translation plugin (?), seems 2468785842/krkr2 fork  
+* https://github.com/AdvancedAppCreator/kirikiroid2
+
 ## (TODO) KiriKiri-LauncherC, based on 2468785842/krkr2, but significantly improved from core to plugins and UI in the C/C++ code, and using Flutter (?)    
 * **(TODO)**
 * https://github.com/xiaocongyu66/KiriKiri-LauncherC  
