@@ -2257,6 +2257,15 @@ https://github.com/weimingtom/wmt_android_galgame_test_suite/releases/download/v
 ```
 * https://github.com/weimingtom/KrKr2-Next-no-vcpkg  
 
+## (TODO) AetherKiri-0.2.0-beta.1.apk, seems an Unofficial krkr2next apk build release     
+* https://github.com/weimingtom/AetherKiri/tree/0.2.0-beta.1  
+* (**NOTE:You need Android 14 or upper, or you may get a black screen**)       
+* (dead) https://github.com/AetherKiri/AetherKiri/releases/tag/0.2.0-beta.1  
+* (dead) https://github.com/AetherKiri/AetherKiri/releases/download/0.2.0-beta.1/AetherKiri-0.2.0-beta.1.apk
+* See also https://github.com/reAAAq/KrKr2-Next  
+* See also https://krkr2next.com  
+* https://github.com/weimingtom/wmt_android_galgame_test_suite/releases/download/v1.0/AetherKiri-0.2.0-beta.1.apk  
+
 ## (TODO x 4) KrKr2-Next fork, engine_api krkr2
 * (TODO) https://github.com/colorcard/AetherKiri
 * (TODO) https://github.com/angleyanalbedo/krkr2
