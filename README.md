@@ -6244,7 +6244,9 @@ https://www.dmm.co.jp/dc/doujin/-/detail/=/cid=d_109948/
 * https://github.com/project-yuki/YUKI   
 
 ## 团子翻译器  
-* https://zhuanlan.zhihu.com/p/143513449  
+* https://zhuanlan.zhihu.com/p/143513449
+* https://translator.dango.cloud
+* https://www.bilibili.com/video/BV1m5p869Ejy/
 
 ## Linux游戏站, some Chinese onscripter and krkrz games  
 * https://www.linuxgame.cn/
