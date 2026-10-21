@@ -2136,11 +2136,12 @@ https://github.com/zeas2/Kirikiroid2/commit/d1c2b1259423542c893e0b65eaeb46c84884
 * https://github.com/enaix/Kirikiroid2-debloated  
 
 ## krkr2-linux, based on zeas2/Kirikiroid2    
-* https://github.com/CuteMurasame/krkr2-linux   
+* https://github.com/CuteMurasame/krkr2-linux
 * **(TODO)** https://github.com/weimingtom/krkr2-linux_fork  
 
 ## (TODO) Kirikinux2, based on zeas2/Kirikiroid2   
 * https://github.com/Comet387/Kirikinux2
+* https://github.com/Comet387/Kirikinux2/tree/f91e4f80e825e955e3a1306bac22a3dcc47fc89e  
 * https://github.com/weimingtom/wmt_vn_study/blob/master/Kirikinux2_cmake_001.txt
 
 ## 2468785842/krkr2, fork of zeas2/Kirikiroid2, using vcpkg/cmake/ninja and cocos2d-x       
