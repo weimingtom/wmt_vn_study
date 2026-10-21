@@ -1,0 +1,246 @@
+xubuntu200464_onsyuri, failed
+
+./scripts/linux/fetch-thirdparty.sh 
+
+sudo apt install libfontconfig-dev
+sudo apt install libgtk-3-dev
+sudo apt install libglew-dev
+./scripts/linux/install-deps-debian.sh 
+
+./scripts/linux/build.sh
+
+CMake Error at third_party/blend2d/CMakeLists.txt:1 (cmake_minimum_required):
+  CMake 3.19 or higher is required.  You are running version 3.16.3
+----
+
+====================
+
+xubuntu2604, virtual box, build success
+
+
+[118/1106] Building CXX object engine/...iles/cocos2d.dir/3d/CCAnimation3D.cpp.o
+FAILED: [code=1] engine/cocos/core/CMakeFiles/cocos2d.dir/3d/CCAnimation3D.cpp.o 
+/usr/bin/c++ -DLINUX -DLWS_WITH_LIBUV -D_GNU_SOURCE -I/usr/include/GLFW -I/usr/local/include/GLFW -I/home/wmt/Kirikinux2/third_party/cocos2d-x/cocos/editor-support -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/glycin-2 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/atk-1.0 -I/usr/include/dbus-1.0 -I/usr/lib/x86_64-linux-gnu/dbus-1.0/include -I/usr/include/fribidi -I/usr/include/pixman-1 -I/usr/include/harfbuzz -I/usr/include/gio-unix-2.0 -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/sysprof-6 -I/home/wmt/Kirikinux2/third_party/cocos2d-x -I/home/wmt/Kirikinux2/third_party/cocos2d-x/cocos -I/home/wmt/Kirikinux2/third_party/cocos2d-x/extensions -I/home/wmt/Kirikinux2/third_party/cocos2d-x/cocos/platform -I/home/wmt/Kirikinux2/third_party/cocos2d-x/external/recast/.. -I/home/wmt/Kirikinux2/third_party/cocos2d-x/external/tinyxml2/. -I/home/wmt/Kirikinux2/third_party/cocos2d-x/external/xxhash/. -I/home/wmt/Kirikinux2/third_party/cocos2d-x/external/xxtea/. -I/home/wmt/Kirikinux2/third_party/cocos2d-x/external/clipper/. -I/home/wmt/Kirikinux2/third_party/cocos2d-x/external/edtaa3func/. -I/home/wmt/Kirikinux2/third_party/cocos2d-x/external/ConvertUTF/. -I/home/wmt/Kirikinux2/third_party/cocos2d-x/external/poly2tri/.. -I/home/wmt/Kirikinux2/third_party/cocos2d-x/external/md5/.. -I/home/wmt/Kirikinux2/third_party/cocos2d-x/external/unzip/. -isystem /home/wmt/Kirikinux2/third_party/cocos2d-x/external/Box2D/include -isystem /home/wmt/Kirikinux2/third_party/cocos2d-x/external/chipmunk/include -isystem /home/wmt/Kirikinux2/third_party/cocos2d-x/external/freetype2/include/linux/freetype2 -isystem /home/wmt/Kirikinux2/third_party/cocos2d-x/external/uv/include -isystem /home/wmt/Kirikinux2/third_party/cocos2d-x/external/webp/include/linux -isystem /home/wmt/Kirikinux2/third_party/cocos2d-x/external/bullet/include -isystem /home/wmt/Kirikinux2/third_party/cocos2d-x/external/bullet/include/bullet -isystem /home/wmt/Kirikinux2/third_party/cocos2d-x/external/openssl/include/linux -isystem /home/wmt/Kirikinux2/third_party/cocos2d-x/external/tiff/include/linux -isystem /home/wmt/Kirikinux2/third_party/cocos2d-x/external/websockets/include/linux -isystem /home/wmt/Kirikinux2/third_party/cocos2d-x/external/linux-specific/fmod/include -isystem /home/wmt/Kirikinux2/third_party/cocos2d-x/external/glfw3/include/linux -include limits -O2 -g -DNDEBUG -std=gnu++11   -pthread -MD -MT engine/cocos/core/CMakeFiles/cocos2d.dir/3d/CCAnimation3D.cpp.o -MF engine/cocos/core/CMakeFiles/cocos2d.dir/3d/CCAnimation3D.cpp.o.d -o engine/cocos/core/CMakeFiles/cocos2d.dir/3d/CCAnimation3D.cpp.o -c /home/wmt/Kirikinux2/third_party/cocos2d-x/cocos/3d/CCAnimation3D.cpp
+In file included from /home/wmt/Kirikinux2/third_party/cocos2d-x/external/recast/../json/document-wrapper.h:13,
+                 from /home/wmt/Kirikinux2/third_party/cocos2d-x/cocos/3d/CCBundle3D.h:32,
+                 from /home/wmt/Kirikinux2/third_party/cocos2d-x/cocos/3d/CCAnimation3D.cpp:27:
+/home/wmt/Kirikinux2/third_party/cocos2d-x/external/recast/../json/document.h: In member function ‘rapidjson::GenericStringRef<CharType>& rapidjson::GenericStringRef<CharType>::operator=(const rapidjson::GenericStringRef<CharType>&)’:
+/home/wmt/Kirikinux2/third_party/cocos2d-x/external/recast/../json/document.h:319:82: error: assignment of read-only member ‘rapidjson::GenericStringRef<CharType>::length’ [-Wtemplate-body]
+  319 |     GenericStringRef& operator=(const GenericStringRef& rhs) { s = rhs.s; length = rhs.length; }
+      |                                                                           ~~~~~~~^~~~~~~~~~~~
+[119/1106] Building CXX object engine/...eFiles/cocos2d.dir/3d/CCAnimate3D.cpp.o
+
+Solve:
+
+gedit /home/wmt/Kirikinux2/third_party/cocos2d-x/external/recast/../json/document.h
+line 319
+
+
+    const SizeType length; //!< length of the string (excluding the trailing NULL terminator)
+->
+-    /*const*/ SizeType length; //!< length of the string (excluding the trailing NULL terminator)
+
+====================
+
+FAILED: [code=1] engine/cocos/core/CMakeFiles/cocos2d.dir/network/CCDownloader.cpp.o 
+/usr/bin/c++ -DLINUX -DLWS_WITH_LIBUV -D_GNU_SOURCE -I/usr/include/GLFW -I/usr/local/include/GLFW -I/home/wmt/Kirikinux2/third_party/cocos2d-x/cocos/editor-support -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/glycin-2 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/atk-1.0 -I/usr/include/dbus-1.0 -I/usr/lib/x86_64-linux-gnu/dbus-1.0/include -I/usr/include/fribidi -I/usr/include/pixman-1 -I/usr/include/harfbuzz -I/usr/include/gio-unix-2.0 -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/sysprof-6 -I/home/wmt/Kirikinux2/third_party/cocos2d-x -I/home/wmt/Kirikinux2/third_party/cocos2d-x/cocos -I/home/wmt/Kirikinux2/third_party/cocos2d-x/extensions -I/home/wmt/Kirikinux2/third_party/cocos2d-x/cocos/platform -I/home/wmt/Kirikinux2/third_party/cocos2d-x/external/recast/.. -I/home/wmt/Kirikinux2/third_party/cocos2d-x/external/tinyxml2/. -I/home/wmt/Kirikinux2/third_party/cocos2d-x/external/xxhash/. -I/home/wmt/Kirikinux2/third_party/cocos2d-x/external/xxtea/. -I/home/wmt/Kirikinux2/third_party/cocos2d-x/external/clipper/. -I/home/wmt/Kirikinux2/third_party/cocos2d-x/external/edtaa3func/. -I/home/wmt/Kirikinux2/third_party/cocos2d-x/external/ConvertUTF/. -I/home/wmt/Kirikinux2/third_party/cocos2d-x/external/poly2tri/.. -I/home/wmt/Kirikinux2/third_party/cocos2d-x/external/md5/.. -I/home/wmt/Kirikinux2/third_party/cocos2d-x/external/unzip/. -isystem /home/wmt/Kirikinux2/third_party/cocos2d-x/external/Box2D/include -isystem /home/wmt/Kirikinux2/third_party/cocos2d-x/external/chipmunk/include -isystem /home/wmt/Kirikinux2/third_party/cocos2d-x/external/freetype2/include/linux/freetype2 -isystem /home/wmt/Kirikinux2/third_party/cocos2d-x/external/uv/include -isystem /home/wmt/Kirikinux2/third_party/cocos2d-x/external/webp/include/linux -isystem /home/wmt/Kirikinux2/third_party/cocos2d-x/external/bullet/include -isystem /home/wmt/Kirikinux2/third_party/cocos2d-x/external/bullet/include/bullet -isystem /home/wmt/Kirikinux2/third_party/cocos2d-x/external/openssl/include/linux -isystem /home/wmt/Kirikinux2/third_party/cocos2d-x/external/tiff/include/linux -isystem /home/wmt/Kirikinux2/third_party/cocos2d-x/external/websockets/include/linux -isystem /home/wmt/Kirikinux2/third_party/cocos2d-x/external/linux-specific/fmod/include -isystem /home/wmt/Kirikinux2/third_party/cocos2d-x/external/glfw3/include/linux -include limits -O2 -g -DNDEBUG -std=gnu++11   -pthread -MD -MT engine/cocos/core/CMakeFiles/cocos2d.dir/network/CCDownloader.cpp.o -MF engine/cocos/core/CMakeFiles/cocos2d.dir/network/CCDownloader.cpp.o.d -o engine/cocos/core/CMakeFiles/cocos2d.dir/network/CCDownloader.cpp.o -c /home/wmt/Kirikinux2/third_party/cocos2d-x/cocos/network/CCDownloader.cpp
+In file included from /home/wmt/Kirikinux2/third_party/cocos2d-x/cocos/network/CCDownloader.cpp:26:
+/home/wmt/Kirikinux2/third_party/cocos2d-x/cocos/network/CCDownloader.h:64:9: error: ‘uint32_t’ does not name a type
+   64 |         uint32_t countOfMaxProcessingTasks;
+      |         ^~~~~~~~
+/home/wmt/Kirikinux2/third_party/cocos2d-x/cocos/network/CCDownloader.h:34:1: note: ‘uint32_t’ is defined in header ‘<cstdint>’; this is probably fixable by adding ‘#include <cstdint>’
+   33 | #include "platform/CCPlatformMacros.h"
+  +++ |+#include <cstdint>
+   34 | 
+/home/wmt/Kirikinux2/third_party/cocos2d-x/cocos/network/CCDownloader.h:65:9: error: ‘uint32_t’ does not name a type
+   65 |         uint32_t timeoutInSeconds;
+      |         ^~~~~~~~
+/home/wmt/Kirikinux2/third_party/cocos2d-x/cocos/network/CCDownloader.h:65:9: note: ‘uint32_t’ is defined in header ‘<cstdint>’; this is probably fixable by adding ‘#include <cstdint>’
+/home/wmt/Kirikinux2/third_party/cocos2d-x/cocos/network/CCDownloader.cpp: In constructor ‘cocos2d::network::Downloader::Downloader()’:
+/home/wmt/Kirikinux2/third_party/cocos2d-x/cocos/network/CCDownloader.cpp:60:72: error: too many initializers for ‘cocos2d::network::DownloaderHints’
+   60 |     Downloader::Downloader() : Downloader(DownloaderHints{6, 45, ".tmp"}) { }
+      |                                                                        ^
+[193/988] Building CXX object engine/c...s2d.dir/network/CCDownloader-curl.cpp.o
+In file included from /home/wmt/Kirikinux2/third_party/cocos2d-x/cocos/network/CCDownloader-curl.cpp:30:
+/home/wmt/Kirikinux2/third_party/cocos2d-x/cocos/network/CCDownloader-curl.cpp: In member function ‘bool cocos2d::network::DownloaderCURL::Impl::_getHeaderInfoProc(CURL*, cocos2d::network::TaskWrapper&)’:
+/home/wmt/Kirikinux2/third_party/cocos2d-x/cocos/network/CCDownloader-curl.cpp:427:48: warning: ‘CURLINFO_CONTENT_LENGTH_DOWNLOAD’ is deprecated: since 7.55.0. Use CURLINFO_CONTENT_LENGTH_DOWNLOAD_T [-Wdeprecated-declarations]
+  427 |                 rc = curl_easy_getinfo(handle, CURLINFO_CONTENT_LENGTH_DOWNLOAD, &contentLen);
+      |                                                ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/usr/include/x86_64-linux-gnu/curl/curl.h:2925:3: note: declared here
+ 2925 |   CURLINFO_CONTENT_LENGTH_DOWNLOAD
+      |   ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ninja: build stopped: subcommand failed.
+
+
+
+solve:
+gedit /home/wmt/Kirikinux2/third_party/cocos2d-x/cocos/network/CCDownloader.h
+line 31
+
+
+#include <functional>
+#include <string>
+#include <memory>
+#include <vector>
+
++
+#include <cstdint>
+
+
+
+==========
+
+
+[590/797] Building CXX object blend2d/...lend2d.dir/src/blend2d/filesystem.cpp.o
+FAILED: [code=1] blend2d/CMakeFiles/blend2d.dir/src/blend2d/filesystem.cpp.o 
+/usr/bin/c++   -include limits -O2 -g -DNDEBUG -std=gnu++11 -fvisibility=hidden -Wall -Wextra -Wconversion -fno-exceptions -fno-rtti -fno-math-errno -fno-trapping-math -fno-finite-math-only -fno-threadsafe-statics -fno-semantic-interposition -DBL_STATIC -DBL_BUILD_OPT_AVX512 -DBL_BUILD_NO_JIT -O2 -fno-enforce-eh-specs -fmerge-all-constants -ftree-vectorize -MD -MT blend2d/CMakeFiles/blend2d.dir/src/blend2d/filesystem.cpp.o -MF blend2d/CMakeFiles/blend2d.dir/src/blend2d/filesystem.cpp.o.d -o blend2d/CMakeFiles/blend2d.dir/src/blend2d/filesystem.cpp.o -c /home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp:558:78: error: expected ‘,’ or ‘...’ before ‘&’ token
+  558 | static BLResult fileInfoFromStat(BLFileInfo& info, struct BL_FILE64_API(stat)& s) noexcept {
+      |                                                                              ^
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp:558:73: error: ‘stat’ has incomplete type
+  558 | static BLResult fileInfoFromStat(BLFileInfo& info, struct BL_FILE64_API(stat)& s) noexcept {
+      |                                                    ~~~~~~~~~~~~~~~~~~~~~^~~~~
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp:558:59: note: forward declaration of ‘struct bl::FileSystem::BL_FILE64_API’
+  558 | static BLResult fileInfoFromStat(BLFileInfo& info, struct BL_FILE64_API(stat)& s) noexcept {
+      |                                                           ^~~~~~~~~~~~~
+In file included from /home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp:19:
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp: In function ‘BLResult bl::FileSystem::fileInfoFromStat(BLFileInfo&, BL_FILE64_API)’:
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp:562:15: error: ‘s’ was not declared in this scope
+  562 |   if (S_ISREG(s.st_mode)) flags |= BL_FILE_INFO_REGULAR;
+      |               ^
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp:563:15: error: ‘s’ was not declared in this scope
+  563 |   if (S_ISDIR(s.st_mode)) flags |= BL_FILE_INFO_DIRECTORY;
+      |               ^
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp:566:15: error: ‘s’ was not declared in this scope
+  566 |   if (S_ISLNK(s.st_mode)) flags |= BL_FILE_INFO_SYMLINK;
+      |               ^
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp:570:15: error: ‘s’ was not declared in this scope
+  570 |   if (S_ISCHR(s.st_mode)) flags |= BL_FILE_INFO_CHAR_DEVICE;
+      |               ^
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp:574:15: error: ‘s’ was not declared in this scope
+  574 |   if (S_ISBLK(s.st_mode)) flags |= BL_FILE_INFO_BLOCK_DEVICE;
+      |               ^
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp:578:16: error: ‘s’ was not declared in this scope
+  578 |   if (S_ISFIFO(s.st_mode)) flags |= BL_FILE_INFO_FIFO;
+      |                ^
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp:582:16: error: ‘s’ was not declared in this scope
+  582 |   if (S_ISSOCK(s.st_mode)) flags |= BL_FILE_INFO_SOCKET;
+      |                ^
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp:586:74: error: ‘s’ was not declared in this scope
+  586 |   flags |= translateRWX<BL_FILE_INFO_OWNER_X, S_IRUSR, S_IWUSR, S_IXUSR>(s.st_mode);
+      |                                                                          ^
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp:558:73: warning: unused parameter ‘stat’ [-Wunused-parameter]
+  558 | static BLResult fileInfoFromStat(BLFileInfo& info, struct BL_FILE64_API(stat)& s) noexcept {
+      |                                                    ~~~~~~~~~~~~~~~~~~~~~^~~~~
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp: In function ‘BLResult blFileOpen(BLFileCore*, const char*, BLFileOpenFlags)’:
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp:644:12: error: ‘BL_FILE64_API’ was not declared in this scope; did you mean ‘bl::FileSystem::BL_FILE64_API’?
+  644 |   int fd = BL_FILE64_API(open)(fileName, of, om);
+      |            ^~~~~~~~~~~~~
+      |            bl::FileSystem::BL_FILE64_API
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp:558:59: note: ‘bl::FileSystem::BL_FILE64_API’ declared here
+  558 | static BLResult fileInfoFromStat(BLFileInfo& info, struct BL_FILE64_API(stat)& s) noexcept {
+      |                                                           ^~~~~~~~~~~~~
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp: In function ‘BLResult blFileSeek(BLFileCore*, int64_t, BLFileSeekType, int64_t*)’:
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp:688:20: error: ‘BL_FILE64_API’ was not declared in this scope; did you mean ‘bl::FileSystem::BL_FILE64_API’?
+  688 |   int64_t result = BL_FILE64_API(lseek)(fd, offset, whence);
+      |                    ^~~~~~~~~~~~~
+      |                    bl::FileSystem::BL_FILE64_API
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp:558:59: note: ‘bl::FileSystem::BL_FILE64_API’ declared here
+  558 | static BLResult fileInfoFromStat(BLFileInfo& info, struct BL_FILE64_API(stat)& s) noexcept {
+      |                                                           ^~~~~~~~~~~~~
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp: In function ‘BLResult blFileTruncate(BLFileCore*, int64_t)’:
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp:780:16: error: ‘BL_FILE64_API’ was not declared in this scope; did you mean ‘bl::FileSystem::BL_FILE64_API’?
+  780 |   int result = BL_FILE64_API(ftruncate)(fd, maxSize);
+      |                ^~~~~~~~~~~~~
+      |                bl::FileSystem::BL_FILE64_API
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp:558:59: note: ‘bl::FileSystem::BL_FILE64_API’ declared here
+  558 | static BLResult fileInfoFromStat(BLFileInfo& info, struct BL_FILE64_API(stat)& s) noexcept {
+      |                                                           ^~~~~~~~~~~~~
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp: In function ‘BLResult blFileGetInfo(BLFileCore*, BLFileInfo*)’:
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp:807:3: error: expected primary-expression before ‘struct’
+  807 |   struct BL_FILE64_API(stat) s;
+      |   ^~~~~~
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp:809:26: error: invalid use of incomplete type ‘struct blFileGetInfo(BLFileCore*, BLFileInfo*)::BL_FILE64_API’
+  809 |   if (BL_FILE64_API(fstat)(fd, &s) != 0) {
+      |                          ^
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp:807:10: note: forward declaration of ‘struct blFileGetInfo(BLFileCore*, BLFileInfo*)::BL_FILE64_API’
+  807 |   struct BL_FILE64_API(stat) s;
+      |          ^~~~~~~~~~~~~
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp:809:33: error: ‘s’ was not declared in this scope
+  809 |   if (BL_FILE64_API(fstat)(fd, &s) != 0) {
+      |                                 ^
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp:814:53: error: ‘s’ was not declared in this scope
+  814 |   return bl::FileSystem::fileInfoFromStat(*infoOut, s);
+      |                                                     ^
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp: In function ‘BLResult blFileGetSize(BLFileCore*, uint64_t*)’:
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp:824:3: error: expected primary-expression before ‘struct’
+  824 |   struct BL_FILE64_API(stat) s;
+      |   ^~~~~~
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp:826:26: error: invalid use of incomplete type ‘struct blFileGetSize(BLFileCore*, uint64_t*)::BL_FILE64_API’
+  826 |   if (BL_FILE64_API(fstat)(fd, &s) != 0) {
+      |                          ^
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp:824:10: note: forward declaration of ‘struct blFileGetSize(BLFileCore*, uint64_t*)::BL_FILE64_API’
+  824 |   struct BL_FILE64_API(stat) s;
+      |          ^~~~~~~~~~~~~
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp:826:33: error: ‘s’ was not declared in this scope
+  826 |   if (BL_FILE64_API(fstat)(fd, &s) != 0) {
+      |                                 ^
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp:831:27: error: ‘s’ was not declared in this scope
+  831 |   *fileSizeOut = uint64_t(s.st_size);
+      |                           ^
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp: In function ‘BLResult blFileSystemGetInfo(const char*, BLFileInfo*)’:
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp:839:3: error: expected primary-expression before ‘struct’
+  839 |   struct BL_FILE64_API(stat) s;
+      |   ^~~~~~
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp:841:25: error: invalid use of incomplete type ‘struct blFileSystemGetInfo(const char*, BLFileInfo*)::BL_FILE64_API’
+  841 |   if (BL_FILE64_API(stat)(fileName, &s) != 0) {
+      |                         ^
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp:839:10: note: forward declaration of ‘struct blFileSystemGetInfo(const char*, BLFileInfo*)::BL_FILE64_API’
+  839 |   struct BL_FILE64_API(stat) s;
+      |          ^~~~~~~~~~~~~
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp:841:38: error: ‘s’ was not declared in this scope
+  841 |   if (BL_FILE64_API(stat)(fileName, &s) != 0) {
+      |                                      ^
+/home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp:846:53: error: ‘s’ was not declared in this scope
+  846 |   return bl::FileSystem::fileInfoFromStat(*infoOut, s);
+      |                                                     ^
+[591/797] Building CXX object blend2d/...es/blend2d.dir/src/blend2d/bitset.cpp.o
+ninja: build stopped: subcommand failed.
+
+
+
+gedit /home/wmt/Kirikinux2/third_party/blend2d/src/blend2d/filesystem.cpp
+
+#ifndef BL_FILE64_API
+#define BL_FILE64_API(x) x
+#endif
+
+
+
+==================
+
+
+[207/208] Linking CXX executable bin/kirikinux
+/usr/bin/x86_64-linux-gnu-ld.bfd: /home/wmt/Kirikinux2/third_party/cocos2d-x/external/linux-specific/fmod/prebuilt/64-bit/libfmod.so: .dynsym local symbol at index 2 (>= sh_info of 2)
+/usr/bin/x86_64-linux-gnu-ld.bfd: /home/wmt/Kirikinux2/third_party/cocos2d-x/external/linux-specific/fmod/prebuilt/64-bit/libfmod.so: .dynsym local symbol at index 3 (>= sh_info of 2)
+/usr/bin/x86_64-linux-gnu-ld.bfd: /home/wmt/Kirikinux2/third_party/cocos2d-x/external/linux-specific/fmod/prebuilt/64-bit/libfmod.so: .dynsym local symbol at index 4 (>= sh_info of 2)
+
+Kirikinux2 run: /home/wmt/Kirikinux2/build-linux/bin/kirikinux2 [game-dir | game.xp3]
+
+
+=============
+./scripts/linux/build.sh
+
+
+$ ls /home/wmt/Kirikinux2/build-linux
+CMakeCache.txt  build.ninja          kr2_check_resources  libkrkr2core.a
+CMakeFiles      cmake_install.cmake  kr2_csd2csb          libkrkr2plugin.a
+bin             engine               lib                  libkrkr2plugin_ext.a
+blend2d         kirikinux-launcher   libkr2_7zip.a
+
+
+cd /home/wmt/Kirikinux2/build-linux
+ninja clean
+ninja -j1 -v > a.txt 2>&1
+
+
