@@ -764,6 +764,18 @@ NetBSD只能用VMWare来联网，用virtualbox好像连不到网（也可能我�
 另外，FreeBSD的包管理器是pkg而不是pkgin（pkg应该是新的），
 而默认的cc是clang而不是gcc，但可以pkg install gcc。
 注意安装FreeBSD最好要完成OS安装后的config配置步骤
+
+附: FreeBSD离线安装x11(xorg)方法:
+在FreeBSD上安装x11的方法。
+（1）首先通过dvd1.iso（不要用disk1版）光盘安装系统（基本上默认即可，过程略）
+（2）弹出光盘后重启
+（3）登入root后，重新放入光驱，
+然后挂载：mkdir /mnt/cdrom; mount -t cd9660 /dev/cd0 /mnt/cdrom，
+然后复制package设置：cp /mnt/cdrom/packages/repos/FreeBSD_install_cdrom.conf /etc/pkg/，
+然后用ee修改这个文件：ee /etc/pkg/FreeBSD_install_cdrom.conf，
+把其中的file:///dist/packages改成file:///mnt/cdrom/packages，保存
+（4）最后用pkg install xorg即可，进入x11用startx命令。
+补充，如果想pkg install gnome似乎不能用这种方法。
 ```
 * openbsd  
 (under root user; pkg_add sometimes slow)  
