@@ -2139,6 +2139,10 @@ https://github.com/zeas2/Kirikiroid2/commit/d1c2b1259423542c893e0b65eaeb46c84884
 * https://github.com/CuteMurasame/krkr2-linux   
 * **(TODO)** https://github.com/weimingtom/krkr2-linux_fork  
 
+## (TODO) Kirikinux2, based on zeas2/Kirikiroid2   
+* https://github.com/Comet387/Kirikinux2
+* https://github.com/weimingtom/wmt_vn_study/blob/master/Kirikinux2_cmake_001.txt
+
 ## 2468785842/krkr2, fork of zeas2/Kirikiroid2, using vcpkg/cmake/ninja and cocos2d-x       
 * (origin) https://github.com/2468785842/krkr2    
 * https://github.com/weimingtom/wmt_vn_study/blob/master/krkr2_vcpkg_build_001.md  
@@ -2272,7 +2276,6 @@ https://github.com/weimingtom/wmt_android_galgame_test_suite/releases/download/v
 * (TODO) https://github.com/jeffcwj/krkr2_angle
 * (TODO) https://github.com/Walkedharmony/AetherKiri/tree/main/bridge/engine_api/src
 * (ios) https://github.com/itsCheney/Mikage-Next
-* (TODO?) https://github.com/Comet387/Kirikinux2
 * (TODO?) https://github.com/FiresonZ/PocketKrKr  
 
 ## AveyondFly/KrKr2-Next, (?) fork of reAAAq/KrKr2-Next, for Linux (only tested under Ubuntu 25.04) and Aurknix cross-compile (not tested)      
