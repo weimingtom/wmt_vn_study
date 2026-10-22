@@ -2283,7 +2283,7 @@ https://github.com/weimingtom/wmt_android_galgame_test_suite/releases/download/v
 * See also https://krkr2next.com  
 * https://github.com/weimingtom/wmt_android_galgame_test_suite/releases/download/v1.0/AetherKiri-0.2.0-beta.1.apk  
 
-## (TODO x 4) KrKr2-Next fork, engine_api krkr2
+## (TODO x 4) KrKr2-Next fork, engine_api krkr2, in year 2026  
 * (TODO) https://github.com/colorcard/AetherKiri
 * (TODO) https://github.com/angleyanalbedo/krkr2
 * (TODO) https://github.com/jeffcwj/krkr2_angle
