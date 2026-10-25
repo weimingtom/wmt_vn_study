@@ -6710,3 +6710,11 @@ BiliBiliEncoder工具说明：
 * https://github.com/2439905184/Galgame-Engine-Collect
 * https://www.psdevwiki.com/ps4/Artemis_Engine
 * https://www.psdevwiki.com/ps4/Visual_Novels  
+
+## (Don't waste time to study this) KrkrDump, based on Detours  
+* (origin) https://github.com/nanami5270/KrkrDump
+* (origin) https://github.com/crskycode/KrkrDump
+* https://github.com/Melanpan/KrkrDump fork from nanami5270/KrkrDump
+
+## (Don't waste time to study this) CNGALTools
+* https://github.com/YeLikesss/CNGALTools
