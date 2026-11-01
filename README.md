@@ -4467,6 +4467,7 @@ ISLAND的CatSystem2，
 具体遍历
 https://github.com/SteamDatabase/FileDetectionRuleSets/tree/main/descriptions
 ```
+* https://steamdb.info/stats/releases/?tech=Engine.RenPy
 
 ## Susie, .spi plugin image converter   
 * (dead) http://dev.haeleth.net/majiro.shtml  
@@ -6732,3 +6733,6 @@ BiliBiliEncoder工具说明：
 * 巴托塞拉
 * https://wiki.batocera.org/systems:windows
 * https://wiki.batocera.org/systems:pc98
+
+## RuneTranslate
+* https://runetranslate.com/zh
