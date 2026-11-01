@@ -6724,3 +6724,5 @@ BiliBiliEncoder工具说明：
 ## Batocera on PC / Steam Deck / 开源掌机
 * https://wiki.batocera.org/choose_a_desktop_computer
 * 巴托塞拉
+* https://wiki.batocera.org/systems:windows
+* https://wiki.batocera.org/systems:pc98
