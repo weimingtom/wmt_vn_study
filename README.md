@@ -6659,7 +6659,13 @@ Starswirl Academy（星璇学院）是《小马宝莉》同人圈制作的‌恋
 
 ## IG_tools, 115
 
-## BiliBili压制工具, BiliBiliEncoder, ffmpeg
+## BiliBili压制工具, BiliBiliEncoder, ffmpeg, 小丸工具箱  
+* （待考，不确定是否是假的）https://maruko.appinn.me
+* （这个微博应该是真的）https://weibo.com/xiaowan3
+* https://github.com/wzxjohn/marukotoolbox
+* 重制版Linux版：https://github.com/arenascats/MarukoToolbox-Rewrite
+* ====
+* 以下是备份文件：
 * 哔哩哔哩压制工具（需要.Net 4.0).7z
 * 小丸工具箱七七版rev117.7z
 ```
