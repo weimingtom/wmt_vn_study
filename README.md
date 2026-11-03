@@ -2292,6 +2292,8 @@ https://github.com/weimingtom/wmt_android_galgame_test_suite/releases/download/v
 * (TODO) https://github.com/Walkedharmony/AetherKiri/tree/main/bridge/engine_api/src
 * (ios) https://github.com/itsCheney/Mikage-Next
 * (TODO?) https://github.com/FiresonZ/PocketKrKr  
+* (TODO) https://github.com/hyl64/gal-kirikiroid2
+* (html5) https://github.com/AdingApkgg/wvn  
 
 ## AveyondFly/KrKr2-Next, (?) fork of reAAAq/KrKr2-Next, for Linux (only tested under Ubuntu 25.04) and Aurknix cross-compile (not tested)      
 * https://github.com/AveyondFly/KrKr2-Next
