@@ -1903,6 +1903,8 @@ wamsoft/krkrz研究。目前可以加载resource://的文件（放在assets目�
 这样就能看到C++调用栈（4）TVPLOG_LEVEL宏可以打开日志输出，默认是不打开
 （5）代码中关于resource://就是对应assets目录
 ```
+* https://github.com/krkren/kagex/releases  
+based on https://github.com/wamsoft/krkrz_dev  
 * https://github.com/weimingtom/krkrz_wamsoft_fork  
 
 ## krkrsdl2  
