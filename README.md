@@ -6740,3 +6740,18 @@ BiliBiliEncoder工具说明：
 
 ## RuneTranslate
 * https://runetranslate.com/zh
+
+## nscripter游戏列表 (???)
+* https://gekikarareview.com/review_adv/adv_toukou001.html
+
+## NScripter－Tips：初級者向けTips
+* http://sorejyadamedarou.sakura.ne.jp/nscripter/tip03.htm
+* http://tieba.baidu.com/p/1231651739
+
+## フリーの制作ツールリンク
+* (old) http://www1.atwiki.jp/orz/pages/16.html  
+* https://w.atwiki.jp/wiki1_orz/pages/16.html
+
+## nscripter工具
+* http://yumeiroandroid.blog.fc2.com/blog-entry-88.html  
+* http://senzogawa.s90.xrea.com/tool.html  
