@@ -6755,3 +6755,6 @@ BiliBiliEncoder工具说明：
 ## nscripter工具
 * http://yumeiroandroid.blog.fc2.com/blog-entry-88.html  
 * http://senzogawa.s90.xrea.com/tool.html  
+
+## 从GalGame脚本提取和导入文本
+* https://github.com/satan53x/SExtractor
