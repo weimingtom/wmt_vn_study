@@ -288,7 +288,8 @@ search baidupan, nscripter_java_20200829_replace_moon.rar
 * https://github.com/weimingtom/tukineko_godot    
 * https://github.com/weimingtom/tukineko_csharp   
 * https://github.com/weimingtom/tukineko_pygame
-* (TODO) https://github.com/weimingtom/tukineko_qt    
+* (TODO) https://github.com/weimingtom/tukineko_qt
+* (TODO) https://github.com/weimingtom/tukineko_lvgl    
 
 ## npynscr, just for english 0.txt, by python2
 * (origin) https://github.com/uvthenfuv/npynscr   
