@@ -122,4 +122,7 @@ Anime Style Girl Haruka [1.1].unitypackage, 1.1, need Unity 2019
 
 ## 泡沫冬景, TODO
 
-
+## nanilovel, 狐想连翩 梦妹以求DEMO, 痴情妹妹纱雪的兄控日记DEMO
+* Elringus.Naninovel.Runtime.dll
+* https://naninovel.com
+* https://github.com/elringus/elringus.com
