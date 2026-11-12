@@ -128,4 +128,5 @@ Anime Style Girl Haruka [1.1].unitypackage, 1.1, need Unity 2019
 * https://github.com/elringus/elringus.com
 * https://steamdb.info/app/3946250/
 * https://store.steampowered.com/app/3946250/痴情妹妹纱雪的兄控日记/
+* https://naninovel.com/made-with/
 
