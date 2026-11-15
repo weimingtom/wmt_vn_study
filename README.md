@@ -6172,7 +6172,20 @@ https://github.com/tomyun/anise
 https://github.com/scummvm/scummvm  
 
 ## PC98
-* pc98.7z, 东方1-5
+* pc98.7z, 东方1-5    
+另外含有以下内容：   
+```
+Anex86 v2.78  汉化版
+ha_Anex86.zip
+np2nt_083.zip
+np2_083.zip
+
+Tou Hou 1 - The Hightly Responsive to Prayers (J).hdi
+Tou Hou 2 - The Story of Huma in Eastern Wonderland (J).hdi
+Tou Hou 3 - The Phantasmagoria of Dim.Dream (J).hdi
+Tou Hou 4 - Lotus Land Story (J).hdi
+Tou Hou 5 - Mystic Square (J).hdi
+```
 * Leaf's PC98 Game Collection.7z
 * 赛璐珞
 ```
