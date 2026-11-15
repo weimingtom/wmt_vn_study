@@ -2702,7 +2702,21 @@ https://kcddp.keyfc.net/bbs/viewthread.php?tid=41&extra=page%3D1
 * (origin, dead) http://www.product.co.jp/reallivemax/
 * search baidupan, RealLiveMax_SDK_20111129_006.zip, acttest.zip, phpcreater.zip  
 * RealLiveMax_SDK_20110107_004.zip
-* RealLiveMax_SDK_20110107_004_backup.7z 
+* RealLiveMax_SDK_20110107_004_backup.7z
+* RLM_20120722, RealLiveMax_SDK_20110107_004_backup.7z
+(dead) http://www.product.co.jp/reallivemax/  
+.lic, use acttest.zip to patch, .lic file see inside      
+(dead) http://rlm.island.ac/index.php/view/1  
+```
+acttest.zip
+checker.zip
+DLL.rar
+DLL.zip
+phpcreater.zip
+RealLiveMaxLogo.zip
+RealLiveMax_SDK_20110107_004_backup.7z
+site.txt
+```
 * rebuilt.RealLiveMax_SDK_20100726_001.zip  
 ```
 用日文xp运行reallivemax示例工程的效果，需要lic文件，不过maxcode前缀的lic文件其实是一个文本，
