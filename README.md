@@ -6759,3 +6759,6 @@ BiliBiliEncoder工具说明：
 
 ## 从GalGame脚本提取和导入文本
 * https://github.com/satan53x/SExtractor
+
+## 轻小说＋游戏文本, 完整版.txt
+
