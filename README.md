@@ -6789,7 +6789,31 @@ BiliBiliEncoder工具说明：
 
 ## 轻小说＋游戏文本, 完整版.txt
 
-## Fonts, 各种引擎字体
+## Fonts, 各种引擎字体 (注:有些字体有版权,不能用于商业)  
+* baidupan, default.ttf, 2.88MB, ONS模拟器及游戏For 35xxP_H_SP: 方正准圆简体
+```
+这个(可能)也可以充当xsystem35的msgothic.ttc来使用
+另外, 这个字体(可能)是国内网盘分享ONS游戏里面最常见的自带字体
+```
 * xsystem35: msgothic.ttc (微软哥特体), msmincho.ttc (微软明朝体)  
 https://github.com/kichikuou/xsystem35-sdl2/blob/master/src/font.c#L113-L118  
-* 
+* Onscripter-EN default.ttf, default font pack: Nimbus Sans, Nimbus Roman, fonts.zip    
+https://web.archive.org/web/20110617000946/http://unclemion.com/onscripter/releases/  
+https://web.archive.org/web/20110617000946/http://unclemion.com/onscripter/pub/ponscr/fonts.zip  
+* My (weimingtom) used and favorite default.ttf for Nscripter and ONScripter: 萝莉体(???), 实际是: 浪漫雅圆  
+https://github.com/weimingtom/onscripter-libretro_fork/blob/master/onscripter-libretro/deps/onscripter-jh/default.ttf
+* noto, NotoSansSChinese-windows.zip, Noto Sans, 思源黑体  
+```
+思源黑体, 由Adobe和Google于2014年联合发布，开源免费、可商用，覆盖中日韩多种语言，有7档字重，是目前最常用的免费黑体之一
+```
+* default.ttf, 7.89MB: MS Gothic, 微软哥特体
+* Cocos2d-X, FreeSerif (FreeSerif_ori.ttf), Droid Sans Fallback (FreeSerif.ttf)     
+https://github.com/weimingtom/kirikiroid2lite/blob/master/project/FreeSerif_ori.ttf  
+https://github.com/weimingtom/kirikiroid2lite/blob/master/project/FreeSerif.ttf  
+```
+GNU FreeFont是由自由软件基金会支持的开源字体项目，旨在提供覆盖通用字符集的高质量外框字体。
+该项目是GNU项目的一部分，于2018年6月12日上传。
+该项目包含FreeSerif（衬线体）、FreeSans（无衬线体）和FreeMono（等宽体）三大字体系列
+
+Droid Sans是一款人道主义者无衬线字体
+```
