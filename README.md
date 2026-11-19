@@ -6789,3 +6789,7 @@ BiliBiliEncoder工具说明：
 
 ## 轻小说＋游戏文本, 完整版.txt
 
+## Fonts, 各种引擎字体
+* xsystem35: msgothic.ttc (微软哥特体), msmincho.ttc (微软明朝体)  
+https://github.com/kichikuou/xsystem35-sdl2/blob/master/src/font.c#L113-L118  
+* 
