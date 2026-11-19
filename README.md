@@ -6817,3 +6817,22 @@ GNU FreeFont是由自由软件基金会支持的开源字体项目，旨在提�
 
 Droid Sans是一款人道主义者无衬线字体
 ```
+* [PSP][PC移植版][月姬][中文版].rar, default.ttf: EPSON 太明朝体 B
+```
+EPSON 太明朝体（特别是‌太明朝体 B‌）是由‌爱普生（EPSON）‌开发的日文衬线体（明体），
+字形稳重清晰，适合印刷、包装、网页和出版等场景；常见版本为‌Version 3.00‌，
+支持日文假名、汉字及拉丁文、希腊文等多种字符。‌‌
+```
+* krkrsdl2 system_polyfill font.ttf: original is 'Ume Gothic O5 (font_old.ttf, original name font.ttf)', but I replace it with 'Droid Sans Fallback (font.ttf)' for Chinese font displaying          
+https://github.com/krkrsdl2/kag3/blob/krkrsdl2/data/system_polyfill/font.ttf   
+https://github.com/weimingtom/krkrsdl2-miyoo-a30/blob/master/system_polyfill/font.ttf    
+```
+‌Ume Gothic O5 是日本 Ume 字体家族中的一款黑体（Gothic）字重，
+属于免费开源字体包 fonts-horai-umefont 的一部分。‌‌
+基本信息
+‌字体名称‌：Ume Gothic O5（日文名：梅ゴシックO5），子家族为 Medium。
+‌书体类型‌：黑体（Heiti/Sans），字重为正常（Normal），字宽为中等。
+‌字符规模‌：共 ‌14995 个字符码位‌，字形数 15563 个。
+‌覆盖文字‌：拉丁文、日文（平假名/片假名）、西里尔文、希腊文、中文（含 CJK 统一表意文字）。
+‌文件格式‌：TTF。‌
+```
