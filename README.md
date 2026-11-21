@@ -544,7 +544,13 @@ from https://www.dropbox.com/s/ag21owy9poyr2oy/onscripter-en-20111009-src.tar.bz
 * (origin) https://web.archive.org/web/20120731194445/http://unclemion.com/onscripter/pub/onscr/onscripter-en-20110628-src.tar.bz2  
 * (old) https://git.sharcnet.ca/nix/nixpkgs/-/blob/sharcnet-unstable/pkgs/games/onscripter-en/default.nix?ref_type=heads  
 
-## onscripter by insani (if you want code after 2007.04.08, see another different project in http://dev.haeleth.net/onscripter.shtml)    
+## onscripter by insani (ONLY updated before 2007.04.08)
+```
+if you want the code after 2007.04.08,
+see another different project in
+http://dev.haeleth.net/onscripter.shtml
+Although it is dead
+```
 * (origin) http://nscripter.insani.org/onscripter.html  
 * (origin) http://nscripter.insani.org/downloads/onscripter-20060724-insani.src.zip  
 * (origin) https://github.com/insani-org/onscripter-insani  
