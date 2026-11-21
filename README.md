@@ -275,6 +275,7 @@ NScripter2似乎不兼容Nscripter，待考
 实现方法不同，而且已经不维护了
 ```
 * (TODO) https://github.com/weimingtom/ccscripter_cpp  
+* (TODO) https://github.com/weimingtom/ccscripter_cpp2  
 
 ## 月猫 (tukineko), for Java PDA (SHARP ZAURUS E21, KYOCERA PocketCosmo), closed source      
 * (origin, dead) http://www.din.or.jp/~boya/tsukihime/tukineko/index.html  
