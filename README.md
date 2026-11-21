@@ -3142,6 +3142,10 @@ rldev.rar, 带中文命令参数解释
 * https://github.com/eglaysher/rldev  
 
 ## haeleth  
+```
+haeleth的代码可能处于失传状态(after 2010), 在archive.org上也是exclude状态
+我认为可以勉强去参考onscripter-en（待考）
+```
 * haeleth.rar  
 * Kurokoge   
 * Majiro stuff  
