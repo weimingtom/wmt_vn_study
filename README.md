@@ -1761,6 +1761,10 @@ Krkr2CompatUtils.scriptBase = base;
 Scripts.execStorage("system/Initialize.tjs"); // system/Initialize.tjs を実行
 ```
 
+## system_polyfill, only for krkrsdl2  
+* https://github.com/krkrsdl2/kag3/blob/krkrsdl2/data/system_polyfill
+* 不知道它和Krkr2Compat是什么关系，可能只能用于krkrsdl2
+
 ## krkrz dev_multi_platform branch (OpenGL version, support drawTexture) , feat. krkrz/KAGSigma, a.k.a. 吉里吉里Z Ver.2
 ```
 krkrz第2版为了兼容android，做了很多不兼容的改动，除了tjs脚本全部使用utf-8以外，
