@@ -309,6 +309,14 @@ sudo apt install python-pip
 Python 2.7.6 (default, Jun 22 2015, 18:00:18) 
 pygame (1.9.1release)
 ```
+* from my weibo
+```
+一个古老的nscripter解释器，npynscr，用Python2和pygame实现，我试过是可以运行的。
+只支持英文版的月姬，且需要图片和0.txt是解开的（非注释语句中带有sjis的日文版不行，
+虽然英文版的0.txt的注释包含了sjis），我测试过可以在ubuntu 14下运行，
+有比较多的功能未实现（例如右键菜单的菜单项点击），
+但主菜单甚至图鉴都是实现了的，虽然可能有问题
+```
 
 ## (TODO) fnscripter, by AS3 (ActionScript 3) and Flash    
 * https://github.com/weimingtom/fnscripter
