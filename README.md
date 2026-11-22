@@ -6090,6 +6090,11 @@ MMDX(MikuMikuDance for XNA-SlimDX) 項目中文首頁 - OSDN
 * EBWin3.04_汉化+教程+外字包补丁.rar
 * Need to copy GAIJI/*.* like koudanjc.map (what's this dictionary, I forget it) to C:\Documents and Settings\Administrator\Application Data\EBWin\GAIJI  
 
+## EPWING词典合集，好像是60部
+* 不要安装"小工具/"下的exe，有病毒
+* （待上传） 日语词典.7z
+* 可以安装：EBWin3.04_汉化+教程+外字包补丁.rar
+
 ## JWPce - Japanese Text Editor and Dictionary
 * (origin ?) https://www.tanos.co.uk/jlpt/extras/jwpce
 * (origin, dead) https://www.physics.ucla.edu/~grosenth/jwpce.html
