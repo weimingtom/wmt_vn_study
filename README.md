@@ -6643,6 +6643,8 @@ The complete Galgame work "Eden*" has been ported, with approximately 220,000 wo
 * see upper, 恋文网络版旧版本以及原始文件_代码废弃.rar
 * oppai1.swf, 未来女友flash, ミライカノジョ
 * 美女更衣.swf, search baidupan _flash  
+《给美女脱衣》幸运大转盘  
+https://flash.homes/flash/999Y-83D9-ZFHB  
 * Flash 保存计划    
 https://flash.homes    
 https://github.com/rwv/flash-archive-project   
