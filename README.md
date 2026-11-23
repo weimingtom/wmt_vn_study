@@ -6875,3 +6875,5 @@ cpp-empty-test.rar
 cocos2d-x-2.2.6.zip    
 screenshot.rar  
 adv_cocos2dx.rar  
+
+## 东京图书馆，漫猫comicat  
