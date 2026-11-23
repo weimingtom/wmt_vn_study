@@ -6100,7 +6100,7 @@ MMDX(MikuMikuDance for XNA-SlimDX) 項目中文首頁 - OSDN
 
 ## EPWING词典合集，好像是60部
 * 不要安装"小工具/"下的exe，有病毒
-* （待上传） 日语词典.7z
+* 日语词典.7z
 * 可以安装：EBWin3.04_汉化+教程+外字包补丁.rar
 
 ## JWPce - Japanese Text Editor and Dictionary
@@ -6815,7 +6815,7 @@ BiliBiliEncoder工具说明：
 ## 从GalGame脚本提取和导入文本
 * https://github.com/satan53x/SExtractor
 
-## 轻小说＋游戏文本, 完整版.txt
+## 轻小说＋游戏文本.rar, 完整版.txt
 
 ## Fonts, 各种引擎字体 (注:有些字体有版权,不能用于商业)  
 * baidupan, default.ttf, 2.88MB, ONS模拟器及游戏For 35xxP_H_SP: 方正准圆简体
@@ -6864,3 +6864,14 @@ https://github.com/weimingtom/krkrsdl2-miyoo-a30/blob/master/system_polyfill/fon
 ‌覆盖文字‌：拉丁文、日文（平假名/片假名）、西里尔文、希腊文、中文（含 CJK 统一表意文字）。
 ‌文件格式‌：TTF。‌
 ```
+
+## Cocos2d-x, adv游戏引擎移植  
+* https://github.com/120910383/mota  
+mota.rar  
+mota_cpp-empty-test.rar  
+* Karma Beta 0.0725, from https://gitee.com/SunnyRx/ADV-PROGRAM    
+https://github.com/weimingtom/adv_cocos2dx  
+cpp-empty-test.rar    
+cocos2d-x-2.2.6.zip    
+screenshot.rar  
+adv_cocos2dx.rar  
