@@ -6645,6 +6645,8 @@ The complete Galgame work "Eden*" has been ported, with approximately 220,000 wo
 * 美女更衣.swf, search baidupan _flash  
 《给美女脱衣》幸运大转盘  
 https://flash.homes/flash/999Y-83D9-ZFHB  
+美眉更衣逗你玩  
+https://flash.homes/flash/YP0V-WGB6-6R2S  
 * Flash 保存计划    
 https://flash.homes    
 https://github.com/rwv/flash-archive-project   
@@ -6879,7 +6881,7 @@ cocos2d-x-2.2.6.zip
 screenshot.rar  
 adv_cocos2dx.rar  
 
-## swfdec.7z
+## swfdec.7z, swfdec.rar  
 * 各种swf反编译工具
 * swfdec
 * Sothink SWF Decompiler
