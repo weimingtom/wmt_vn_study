@@ -6102,6 +6102,7 @@ MMDX(MikuMikuDance for XNA-SlimDX) 項目中文首頁 - OSDN
 * 不要安装"小工具/"下的exe，有病毒
 * 日语词典.7z
 * 可以安装：EBWin3.04_汉化+教程+外字包补丁.rar
+* 好像就是这个：[110204]EBWIN+电子词典1.7G（分开可选择下）  
 
 ## JWPce - Japanese Text Editor and Dictionary
 * (origin ?) https://www.tanos.co.uk/jlpt/extras/jwpce
