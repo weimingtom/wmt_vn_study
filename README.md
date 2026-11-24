@@ -2560,7 +2560,17 @@ https://github.com/weimingtom/wmt_android_galgame_test_suite/blob/master/README.
 
 ## (TODO) krkrz_rs
 * https://github.com/asukaminato0721/krkrz_rs
-* krkrz-windows-x86_64_test_v1.7z  
+* krkrz-windows-x86_64_test_v1.7z
+* ========
+* https://github.com/asukaminato0721/krkrz_rs/tree/b54d924acba00f0d784e25af26034a2aee963109
+* xubuntu 20.04
+* tar xf rust-1.100.0-x86_64-unknown-linux-gnu.tar.xz
+* cd rust-1.100.0-x86_64-unknown-linux-gnu/
+* sudo ./install.sh
+* sudo apt install libxkbcommon-x11-dev
+* cargo build
+* ./target/debug/krkrz_engine
+* =======
 
 ## kirikiri3-legacy  
 * https://github.com/w-dee/kirikiri3-legacy  
