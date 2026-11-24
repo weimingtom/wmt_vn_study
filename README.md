@@ -2558,6 +2558,10 @@ https://github.com/weimingtom/wmt_android_galgame_test_suite/blob/master/README.
 ## (TODO) krkr-rs
 * https://github.com/wqLouis/krkr-rs
 
+## (TODO) krkrz_rs
+* https://github.com/asukaminato0721/krkrz_rs
+* krkrz-windows-x86_64_test_v1.7z  
+
 ## kirikiri3-legacy  
 * https://github.com/w-dee/kirikiri3-legacy  
 
