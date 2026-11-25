@@ -2545,7 +2545,15 @@ https://github.com/weimingtom/wmt_android_galgame_test_suite/blob/master/README.
 * (run failed but show window)  
 * =======
 * https://github.com/liulifox233/Kirakira/tree/a9e1e5fbed97704e8300a8fc25012fcaa120c2c1
-* (before adding ffmpeg and krkr-video), not tested
+* before adding ffmpeg and krkr-video
+* xubuntu 20.04
+* tar xf rust-1.100.0-x86_64-unknown-linux-gnu.tar.xz
+* cd rust-1.100.0-x86_64-unknown-linux-gnu/
+* sudo ./install.sh
+* sudo apt install libxkbcommon-x11-dev
+* cargo build
+* ./target/debug/krkr_desktop ./data.xp3
+* (run failed, show dialog: renderer initialization failed: no compatibal GPU adapter found.)  
 * =======
 * https://github.com/liulifox233/Kirakira/tree/c451918023477620ff9055a2eb8a6714b947d9c1
 * ubuntu 25.04 vmware, need good network
