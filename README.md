@@ -2533,7 +2533,8 @@ https://github.com/weimingtom/wmt_android_galgame_test_suite/blob/master/README.
 ## Kirakira, by Rust 
 * https://github.com/liulifox233/Kirakira
 * =======
-* https://github.com/liulifox233/Kirakira/tree/66e554319f742f63c70bf54e60d26557726a34fc  
+* https://github.com/liulifox233/Kirakira/tree/66e554319f742f63c70bf54e60d26557726a34fc
+* same as https://github.com/liulifox233/Kirakira/tree/b8521cea8b63e0b917bc0b9921ac2392e6079a9e  
 * Xubuntu 26.04 in VirtualBox 7.2.8
 * sudo apt install cargo
 * sudo apt install pkg-config
