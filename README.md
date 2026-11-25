@@ -2544,6 +2544,9 @@ https://github.com/weimingtom/wmt_android_galgame_test_suite/blob/master/README.
 * ./target/release/krkr-desktop /home/wmt/kirikiroid2lite/_testdata
 * (run failed but show window)  
 * =======
+* https://github.com/liulifox233/Kirakira/tree/a9e1e5fbed97704e8300a8fc25012fcaa120c2c1
+* (before adding ffmpeg and krkr-video), not tested
+* =======
 * https://github.com/liulifox233/Kirakira/tree/c451918023477620ff9055a2eb8a6714b947d9c1
 * ubuntu 25.04 vmware, need good network
 * tar xf rust-1.98.1-x86_64-unknown-linux-gnu.tar.xz
