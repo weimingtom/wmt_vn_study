@@ -6736,6 +6736,7 @@ http://www.flash8.net/
 * https://github.com/regomne/chinesize/tree/master/CatSystem2/exkifint
 * https://github.com/trigger-segfault/TriggersTools.CatSystem2
 * https://github-wiki-see.page/m/trigger-segfault/TriggersTools.CatSystem2/wiki/KIF-Archive
+* https://github.com/trigger-segfault/TriggersTools.CatSystem2/wiki/KIF-Archive
 * https://github.com/trigger-segfault/catsystem-py
 * https://github.com/akiWagashi/CatSystem2Tool
 * https://github.com/trigger-segfault/GrisaiaExtractor
