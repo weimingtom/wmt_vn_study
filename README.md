@@ -6727,8 +6727,7 @@ http://www.flash8.net/
 * https://github.com/kokseen1/FelineSystem2
 * For steam version game ? not sure
 * https://github.com/search?q=end_of_kaisou&type=code
-* search end_of_kaisou
-* 回想(Kaisou)
+* search end_of_kaisou, 回想(Kaisou)
 * https://github.com/morkt/GARbro
 * https://github.com/crskycode/GARbro
 * https://git.lifegpc.com/lifegpc/GARbro
@@ -6741,6 +6740,9 @@ http://www.flash8.net/
 * https://github.com/akiWagashi/CatSystem2Tool
 * https://github.com/trigger-segfault/GrisaiaExtractor
 * https://github.com/marcussacana/CatSceneEditor
+* FelineSystem2-main_v2_run_success.7z
+* kamikaze_tools.zip, Kamikaze Explorer / CatSystem2 Translation Tools
+* (TODO, work by DeepSeek V4.1 Flash) catsystem2_dsh_v2_20261126.7z
 
 ## CNGALTools  
 * https://github.com/YeLikesss/CNGALTools/blob/main/001.NVL/NVLKrkr2/Manual.md  
