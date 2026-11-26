@@ -6744,7 +6744,15 @@ http://www.flash8.net/
 * kamikaze_tools.zip, Kamikaze Explorer / CatSystem2 Translation Tools
 * (TODO, work by DeepSeek V4.1 Flash) catsystem2_dsh_v2_20261126.7z
 * void SceneManager::handleCommand(const std::string &cmdString)
+* rdraw
 * https://github.com/kokseen1/FelineSystem2/blob/main/src/scene.cpp#L453
+* https://github.com/kokseen1/FelineSystem2/blob/main/README.md#script
+* https://github.com/Alphaly2K/KatzeSystem2
+* https://github.com/Gamer1ce/amakano2plus-ios-port
+* https://github.com/OWCramer/shiori
+* https://github.com/xmoezzz/CrySirror
+* https://github.com/CosmicRunner123/Nyanroid/blob/main/docs/catsystem2.md
+* https://github.com/Sirush/Jiten/blob/master/Jiten.Cli/Extractors/Cs2Extractor.cs
 
 ## CNGALTools  
 * https://github.com/YeLikesss/CNGALTools/blob/main/001.NVL/NVLKrkr2/Manual.md  
