@@ -6743,6 +6743,8 @@ http://www.flash8.net/
 * FelineSystem2-main_v2_run_success.7z
 * kamikaze_tools.zip, Kamikaze Explorer / CatSystem2 Translation Tools
 * (TODO, work by DeepSeek V4.1 Flash) catsystem2_dsh_v2_20261126.7z
+* void SceneManager::handleCommand(const std::string &cmdString)
+* https://github.com/kokseen1/FelineSystem2/blob/main/src/scene.cpp#L453
 
 ## CNGALTools  
 * https://github.com/YeLikesss/CNGALTools/blob/main/001.NVL/NVLKrkr2/Manual.md  
