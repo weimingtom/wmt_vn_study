@@ -6726,6 +6726,21 @@ http://www.flash8.net/
 ## (Very difficult to study, temporarily give up) FelineSystem2
 * https://github.com/kokseen1/FelineSystem2
 * For steam version game ? not sure
+* https://github.com/search?q=end_of_kaisou&type=code
+* search end_of_kaisou
+* 回想(Kaisou)
+* https://github.com/morkt/GARbro
+* https://github.com/crskycode/GARbro
+* https://git.lifegpc.com/lifegpc/GARbro
+* https://github.com/vn-tools/arc_unpacker
+* http://asmodean.reverse.net/pages/exkifint.html
+* https://github.com/regomne/chinesize/tree/master/CatSystem2/exkifint
+* https://github.com/trigger-segfault/TriggersTools.CatSystem2
+* https://github-wiki-see.page/m/trigger-segfault/TriggersTools.CatSystem2/wiki/KIF-Archive
+* https://github.com/trigger-segfault/catsystem-py
+* https://github.com/akiWagashi/CatSystem2Tool
+* https://github.com/trigger-segfault/GrisaiaExtractor
+* https://github.com/marcussacana/CatSceneEditor
 
 ## CNGALTools  
 * https://github.com/YeLikesss/CNGALTools/blob/main/001.NVL/NVLKrkr2/Manual.md  
