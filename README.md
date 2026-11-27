@@ -6754,6 +6754,7 @@ http://www.flash8.net/
 * https://github.com/xmoezzz/CrySirror
 * https://github.com/CosmicRunner123/Nyanroid/blob/main/docs/catsystem2.md
 * https://github.com/Sirush/Jiten/blob/master/Jiten.Cli/Extractors/Cs2Extractor.cs
+* https://github.com/weimingtom/FelineSystem2_fork
 
 ## CNGALTools  
 * https://github.com/YeLikesss/CNGALTools/blob/main/001.NVL/NVLKrkr2/Manual.md  
